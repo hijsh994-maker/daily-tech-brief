@@ -65,7 +65,9 @@ def peek_stats(day):
         if os.path.exists(pp):
             seen = json.load(open(pp, encoding="utf-8")).get("peeked", [])
         return len(gos), len(have), len([i for i in have if i in seen])
-    except Exception:
+    except (Exception, SystemExit):
+        # bodypeek.load() 는 캐시가 없으면 SystemExit 을 던진다(2026-10-15 클라우드 리허설에서 확인).
+        # 본문 캐시가 없어도 stats 한 줄은 나와야 한다 -> '고 본문확인 ?' 로 표시.
         return None
 
 
