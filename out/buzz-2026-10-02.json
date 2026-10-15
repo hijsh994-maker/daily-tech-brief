@@ -1,0 +1,460 @@
+{
+ "date": "2026-10-02",
+ "terms": [
+  {
+   "term": "Spending Surge",
+   "norm": "spendingsurge",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "CarbonCredits.com",
+    "NDTV Profit"
+   ],
+   "days": 4,
+   "first": "2026-10-02",
+   "reaction": 4,
+   "community": 0,
+   "titles": [
+    "NDTV Profit(09-24) | AI Drone Maker Tekever Hits $6.4 Billion Valuation Amid Europe's Military Spendi",
+    "NDTV Profit(09-25) | AI Drone Maker Tekever Hits $6.4 Billion Valuation Amid Europe's Military Spendi",
+    "NDTV Profit(09-28) | AI Drone Maker Tekever Hits $6.4 Billion Valuation Amid Europe's Military Spendi",
+    "CarbonCredits.com | NVIDIA’s AI Spending Surge to $279B as Infrastructure Commitments Hit Record Lev"
+   ],
+   "score": 18
+  },
+  {
+   "term": "Professional Service Robots Surge",
+   "norm": "professionalservicerobotssurge",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "Japan Wire by Kyodo News",
+    "Media OutReach Newswire",
+    "Notimérica"
+   ],
+   "days": 2,
+   "first": "2026-10-01",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "Notimérica(10-01) | Global Sales of Professional Service Robots Surge 24%",
+    "Media OutReach Newswire(10-01) | Global Sales of Professional Service Robots Surge 24% #IFR #InternationalFederat",
+    "Japan Wire by Kyodo News | Global Sales of Professional Service Robots Surge 24%"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Dots",
+   "norm": "dots",
+   "n_outlets": 88,
+   "n_today": 12,
+   "outlets": [
+    "ADWEEK",
+    "AI Insider",
+    "Adgully.com",
+    "Al Jazeera",
+    "Axios",
+    "BBC",
+    "BankInfoSecurity",
+    "Barron's"
+   ],
+   "days": 3,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Investing.com 한국어(09-30) | OpenAI, GPT-6 Astra 기반 AI 에이전트 ’Dots’ 출시",
+    "edaily.co.kr(09-30) | 오픈AI, 시키지 않아도 계속 일하는 AI 에이전트 ‘닷(dots)’ 공개",
+    "토큰포스트(09-30) | 오픈AI, Dots·GPT-6.1 Sol 공개…월 500달러 요금제",
+    "Martin Cid Magazine | 오픈AI ‘Dots’, 자는 동안에도 일하는 상시 AI 에이전트…월 100달러부터",
+    "재경일보 | 오픈AI, 스스로 업무 이어가는 AI 에이전트 ‘Dots’ 발표 : 기업·산업",
+    "AI Insider | xAI’s Dot.com Redirect to Grok Sparks Speculation of a Jab at OpenAI’s Dots"
+   ],
+   "score": 14
+  },
+  {
+   "term": "RMAC",
+   "norm": "rmac",
+   "n_outlets": 7,
+   "n_today": 2,
+   "outlets": [
+    "PRESS9",
+    "moneystorm.kr",
+    "뉴스핌",
+    "더코리아",
+    "더퍼블릭",
+    "유카포스트",
+    "조선일보"
+   ],
+   "days": 5,
+   "first": "2026-09-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "PRESS9(09-23) | 현대차그룹, 휴머노이드 로봇 사업 가치 부각…RMAC 가동 주목-다올투자증권",
+    "유카포스트(09-24) | 현대차 아틀라스 휴머노이드 로봇, 2028년 공장 투입…RMAC 훈련센터 가동",
+    "더퍼블릭(09-24) | 현대차 보스턴다이나믹스, 로봇 학교 ‘RMAC’ 개소…작업 학습 본격화",
+    "뉴스핌 | [모닝 리포트] \"현대오토에버, 아틀라스 RMAC 투입으로 피지컬 AI 수혜\"",
+    "조선일보 | Atlas Robot Performs Car Factory Tasks at RMAC"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Argon",
+   "norm": "argon",
+   "n_outlets": 56,
+   "n_today": 35,
+   "outlets": [
+    "24/7 Wall St.",
+    "9to5Google",
+    "Anadolu Ajansı",
+    "Android Authority",
+    "Ars Technica",
+    "BBN Times",
+    "Benzinga",
+    "Business Insider"
+   ],
+   "days": 2,
+   "first": "2026-10-01",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Unite.AI(10-01) | Google, 코딩 및 사이버 방어를 위한 Gemini 4 Argon 프론티어 모델 발표",
+    "토큰포스트(10-01) | 구글, Gemini 4 Argon 공개…내부 실무 평가는 엇갈려",
+    "토큰포스트(10-01) | 구글, Gemini 4 Argon 공개…사이버 방어자에 선제 제공",
+    "blog.google | 제미나이 4 아르곤(Argon): 프론티어 인텔리전스의 새로운 시대",
+    "파이낸스투데이 | 구글, ‘Gemini 4 Argon’ 공개…복잡한 코딩·사이버 방어·심층 추론에 초점",
+    "R&D World | Google’s overdue Gemini 4 Argon reaches the frontier with mixed results for scie"
+   ],
+   "score": 13
+  },
+  {
+   "term": "닷츠",
+   "norm": "닷츠",
+   "n_outlets": 42,
+   "n_today": 2,
+   "outlets": [
+    "AI타임스",
+    "ER 이코노믹리뷰",
+    "JTBC",
+    "KBS 뉴스",
+    "MTN 머니투데이방송",
+    "M이코노미뉴스",
+    "TradingView",
+    "cstimes.com"
+   ],
+   "days": 3,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(09-30) | 오픈AI, 가성비 모델 'GPT-6.1 솔'·AI 에이전트 '닷츠' 공개",
+    "연합뉴스(09-30) | 오픈AI, AI에이전트 '닷츠' 공개…월 500달러 요금제도 신설(종합)",
+    "오피니언뉴스(09-30) | 오픈AI, AI 에이전트 '닷츠' 공개",
+    "와우테일 | 오픈AI, 상시 에이전트 ‘닷츠’ 출시…1.4조달러 밸류 투자유치설",
+    "JTBC | 내가 시키기 전에 움직인다…오픈AI ‘닷츠’ 공개 [소셜픽]"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Ardah",
+   "norm": "ardah",
+   "n_outlets": 7,
+   "n_today": 4,
+   "outlets": [
+    "Everything Experiential",
+    "Gulf News",
+    "Hindustan Times",
+    "India Today",
+    "LatestLY",
+    "Menafn",
+    "curlytales.com"
+   ],
+   "days": 2,
+   "first": "2026-10-02",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "curlytales.com(10-01) | Chinese Humanoid Robots Perform Saudi Ardah Sword Dance At Riyadh Embassy Recept",
+    "LatestLY(10-01) | Chinese Humanoid Robots Perform Traditional Saudi Ardah Dance in Riyadh (Videos)",
+    "Menafn(10-01) | AI Meets Tradition: Two Chinese Humanoids Perform Saudi Ardah Dance In Front Of ",
+    "Gulf News | Robots in thobes? Chinese humanoids perform Saudi Ardah dance",
+    "Hindustan Times | ‘Robots doing Ardah’: Chinese humanoid robots perform Saudi sword dance in Riyad",
+    "Everything Experiential | Chinese Humanoid Robots Perform Saudi Ardah At Riyadh Embassy Reception"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Meta Surges",
+   "norm": "metasurges",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "TradingKey",
+    "深潮TechFlow"
+   ],
+   "days": 2,
+   "first": "2026-09-23",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "深潮TechFlow(09-23) | Bitget UEX Daily｜Nasdaq Hits New All-Time High; Meta Surges 11.34%; Bitcoin Brea",
+    "TradingKey | World's Largest Companies by Market Cap (September 2026): Nvidia Leads at $5.56 "
+   ],
+   "score": 12
+  },
+  {
+   "term": "Enigma",
+   "norm": "enigma",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 2,
+   "first": "2026-09-23",
+   "reaction": 1,
+   "community": 2,
+   "titles": [
+    "HN(09-23) | OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "HN | Show HN: A working 3D model of an Enigma machine"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Clef",
+   "norm": "clef",
+   "n_outlets": 5,
+   "n_today": 5,
+   "outlets": [
+    "Cloudflare Blog",
+    "Crypto Briefing",
+    "HN",
+    "The Register",
+    "startupfortune.com"
+   ],
+   "days": 1,
+   "first": "2026-10-02",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "startupfortune.com | Cloudflare Open Sources Clef to Challenge OpenAI and Amazon on AI Agent Decision",
+    "The Register | Cloudflare tries to outplay Jev with open-weight Clef models",
+    "Cloudflare Blog | Introducing Clef: our open-source decision models, and new RL fine-tuning platfo",
+    "Crypto Briefing | Cloudflare releases Clef and Clef-flash decision models on Workers AI",
+    "HN | Clef: Open-weight decision models, and new RL fine-tuning platform"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Validated",
+   "norm": "validated",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "GitHub",
+    "beSUCCESS",
+    "uniindia.com"
+   ],
+   "days": 2,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GitHub(09-23) | mizorewww/laya-coreml — Local Laya typed decisions on Apple Core ML and Neural E",
+    "beSUCCESS | 스틸컷, AWS 파트너 네트워크 ‘Validated’ 달성…AI 탐지 기술력 입증",
+    "uniindia.com | Infinite Uptime Moves Manufacturing AI From Alerts to Validated Outcomes in Coll"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Revolutionize Chip Design",
+   "norm": "revolutionizechipdesign",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "Electronics Media",
+    "HN",
+    "PR Newswire"
+   ],
+   "days": 2,
+   "first": "2026-10-01",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "PR Newswire(10-01) | OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutioniz",
+    "Electronics Media | OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutioniz",
+    "HN | GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
+   ],
+   "score": 10
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "AIDC 인프라센터",
+   "norm": "aidc인프라센터",
+   "n_outlets": 18,
+   "n_today": 1,
+   "outlets": [
+    "asiae.co.kr",
+    "edaily.co.kr",
+    "fnnews.com",
+    "intn.co.kr",
+    "joongang.co.kr",
+    "news1.kr",
+    "뉴스1",
+    "뉴스핌"
+   ],
+   "days": 5,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "joongang.co.kr(09-23) | 법무법인 세종, AI·데이터센터 통합자문 ‘AIDC 인프라센터’ 출범",
+    "intn.co.kr(09-23) | 법무법인(유) 세종, ‘AIDC 인프라센터’ 출범…AI·반도체·데이터센터 3대 메가프로젝트 통합 대응",
+    "뉴스핌(09-23) | [로펌이슈] 세종, 'AIDC 인프라센터' 출범…AI·반도체·데이터센터 통합 자문",
+    "법무법인 세종 | 법무법인(유) 세종 ‘AIDC 인프라센터’ 출범, AI·반도체·데이터센터 3대 메가프로젝트 통합 대응"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Upwind",
+   "norm": "upwind",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "Beinsure",
+    "Globes - Israel Business News",
+    "HackerNoon",
+    "Investing.com",
+    "Security Boulevard",
+    "StreetInsider",
+    "The Next Web",
+    "Ynetnews"
+   ],
+   "days": 5,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Ynetnews(09-24) | Upwind acquires Israeli AI security startup Aegis, launches new cyber research l",
+    "Globes - Israel Business News(09-24) | Upwind acquires Israeli AI security startup Aegis",
+    "calcalistech.com(09-24) | Cyber unicorn Upwind acquires nine-month-old Aegis for tens of millions",
+    "quasa.io | Upwind, 9개월 된 Aegis 인수 발표·AI 보안 연구소 출범"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Aegis",
+   "norm": "aegis",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "Beinsure",
+    "Globes - Israel Business News",
+    "HackerNoon",
+    "Investing.com",
+    "Security Boulevard",
+    "StreetInsider",
+    "The Next Web",
+    "Ynetnews"
+   ],
+   "days": 4,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Ynetnews(09-24) | Upwind acquires Israeli AI security startup Aegis, launches new cyber research l",
+    "Globes - Israel Business News(09-24) | Upwind acquires Israeli AI security startup Aegis",
+    "calcalistech.com(09-24) | Cyber unicorn Upwind acquires nine-month-old Aegis for tens of millions",
+    "quasa.io | Upwind, 9개월 된 Aegis 인수 발표·AI 보안 연구소 출범"
+   ],
+   "score": 10
+  },
+  {
+   "term": "HCLSoftware",
+   "norm": "hclsoftware",
+   "n_outlets": 13,
+   "n_today": 2,
+   "outlets": [
+    "AiThority",
+    "CXOToday.com",
+    "Engineering.com",
+    "PR Newswire",
+    "Rediff MoneyWiz",
+    "SeeNews",
+    "Unite.AI",
+    "analyticsindiamag.com"
+   ],
+   "days": 4,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "PR Newswire(09-29) | HCLSoftware to Acquire Robotiq.ai, Strengthening Enterprise Agentic Automation",
+    "Unite.AI(09-29) | HCLSoftware Plans Robotiq.ai Acquisition to Add RPA to HCL UnO Agentic",
+    "citybiz(09-29) | HCLSoftware to Acquire Robotiq.ai to Expand Enterprise Agentic Automation",
+    "businessnewsthisweek.com | HCLSoftware and Catalonia Trade Delegation Deepen Ties on Sovereign AI and Digit",
+    "connectingregion.com | Croatian Tech Company Robotiq.ai Set to Be Acquired by HCLSoftware for €9 Millio"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Godmother",
+   "norm": "godmother",
+   "n_outlets": 12,
+   "n_today": 2,
+   "outlets": [
+    "Barchart.com",
+    "Euronews.com",
+    "Forbes Australia",
+    "Fortune",
+    "Inshorts",
+    "TechnoSports Media Group",
+    "The Indian Express",
+    "VnExpress International"
+   ],
+   "days": 4,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Fortune(09-29) | AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion",
+    "Forbes Australia(09-29) | ‘Godmother of AI’ joining AMD in $8.2 billion deal for World Labs",
+    "fortune.com(09-30) | AMD snags AI’s ‘godmother’",
+    "The Indian Express | Why AMD is buying World Labs, the startup founded by AI ‘Godmother’ Fei-Fei Li",
+    "VnExpress International | 'Godmother of AI' Fei-Fei Li’s fortune set to hit $1.6B after $8.2B AMD deal"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI DevDay",
+   "norm": "openaidevday",
+   "n_outlets": 12,
+   "n_today": 3,
+   "outlets": [
+    "CNET",
+    "Memeburn",
+    "Tech Times",
+    "The Tech Buzz",
+    "The Verge",
+    "TradingKey",
+    "Wccftech",
+    "Yahoo Finance"
+   ],
+   "days": 4,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(09-29) | OpenAI DevDay 2026 — The Agent Platform Race Arrives at OpenAI’s Doorstep",
+    "TradingKey(09-29) | OpenAI DevDay Approaches: Will Cybersecurity, Enterprise Agents, and Creator Too",
+    "rswebsols.com(09-29) | OpenAI DevDay Preview: Cybersecurity, Enterprise Agents, Creator Tools",
+    "The Verge | OpenAI DevDay 2026: The biggest news and announcements",
+    "Memeburn | OpenAI DevDay 2026 Recap: 20+ Launches, One Big Idea and a Quiet Price Reset",
+    "timesofindia.indiatimes.com | OpenAI DevDay 2026: What actually changes for normal ChatGPT users"
+   ],
+   "score": 10
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-31 09:44:01 KST === 
+Message TS: 1788137041.564589
+_(이어서 4/4)_
+
+*AI기술현황*
+신규 10건
+<https://www.etnews.com/20260828000017|디지캡, 콘텐츠 제작용 생성형 AI 플랫폼 'DreamAX' 출시>
+ㄴ전자신문 2026.08.31 관련뉴스 1건
+<https://www.segye.com/newsView/20260830509420|AI 반도체 호황에...삼전닉스, 상반기 법인세 11조 넘어>
+ㄴ세계일보 2026.08.31 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026083109052920629|바이낸스, AI 에이전트·금융 통합한 플랫폼 공개>
+ㄴ아시아경제 2026.08.31
+<https://biz.chosun.com/stock/stock_general/2026/08/31/GU3TCMRWMZSWMODCGE3TIYRVMY/|"반도체 이후 AI 패권 전쟁 수혜주, 에너지株·비트코인 사라">
+ㄴ조선비즈 2026.08.31
+<https://www.etnews.com/20260828000088|[김태형의 혁신의기술] 58 AI 에이전트 시대, 우리는 누구에게 질문할 것인가 상>
+ㄴ전자신문 2026.08.30
+<https://www.etnews.com/20260828000181|[ET시론]나를 대신하는 AI는 누구 편인가:  AI 에이전트 충실의무>
+ㄴ전자신문 2026.08.30
+<https://www.etnews.com/20260828000031|[특별기고] AI 데이터센터를 제2의 반도체 신화로>
+ㄴ전자신문 2026.08.30
+<https://www.etnews.com/20260828000234|'고물가' 직격탄, 가계 정보통신 지출 감소...생성형AI 소비는 역대 최대>
+ㄴ전자신문 2026.08.30
+<https://www.etnews.com/20260830000046|하정우 “에너지, AI.반도체.모빌리티, 우주산업 연결해 전남광주를 글로벌 AI 핵심 공급망 축으로”>
+ㄴ전자신문 2026.08.30
+<https://biz.heraldcorp.com/article/10855763|‘반도체 전쟁터’에 삼성전기 첫 출격...AI 시대 게임체인저 ‘유리기판’ 청사진 선보인다 [비즈360]>
+ㄴ헤럴드경제 2026.08.30
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-31 09:43:44 KST === 
+Message TS: 1788137024.551039
+_(이어서 3/4)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://biz.chosun.com/real_estate/real_estate_general/2026/08/31/WJGI2ZIVC5G5NAGOVVUZWIS2D4/|대우건설, AI 로봇으로 입주민 카페 운영하고 커뮤니티에 향기 서비스도 제공>
+ㄴ조선비즈 2026.08.31 관련뉴스 1건
+<https://www.etnews.com/20260830000139|[포토] 우아한 몸짓의 발레리나와 휴머노이드 로봇>
+ㄴ전자신문 2026.08.30 관련뉴스 6건
+<https://www.news1.kr/world/usa-canada/6273939|현대차 美공장 로봇 1400대 '인간 2명당 1대'...2028년 휴머노이드 투입>
+ㄴ뉴스1 2026.08.30
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082816064356957|유로보틱스-로보티즈, ‘이족 보행 휴머노이드 로봇 기술 고도화’ 위한 업무협약 체결>
+ㄴ아시아경제 2026.08.28
+<https://www.etnews.com/20260827000364|8.64초...우사인 볼트보다 빨랐던 中 로봇, 또 기록 경신>
+ㄴ전자신문 2026.08.31
+<https://www.asiae.co.kr/news/view.htm?idxno=2026083109073172248|위기일까 기회일까...AI 맞닥뜨린 게임산업>
+ㄴ아시아경제 2026.08.31 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10856850|로봇 바리스타에 맞춤 향기까지...대우건설, 커뮤니티 ‘오감 혁신’>
+ㄴ헤럴드경제 2026.08.31
+<https://www.sedaily.com/article/20085066|푸르지오 아파트에 엑스와이지 카페로봇 깔린다 [로보 인사이트]>
+ㄴ서울경제 2026.08.31
+<https://biz.chosun.com/stock/stock_general/2026/08/31/JFY46PUXIJC2JHPKS6TC6DGAOM/|한화투자證 “LG씨엔에스, AI DC 성장에 GPU 덩달아 수혜... 목표가 10만원으로 상향”>
+ㄴ조선비즈 2026.08.31
+<https://www.news1.kr/industry/sb-founded/6272644|"정확히 잡는 손 센서.관절 승부수"...韓 로보틱스, 부품 표준 선점 관건>
+ㄴ뉴스1 2026.08.31
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-31 09:43:26 KST === 
+Message TS: 1788137006.287219
+_(이어서 2/4)_
+
+*데이터센터시장*
+신규 10건
+<https://www.sedaily.com/article/20084905|원전·AI 데이터센터 수주 기대에 ‘불기둥’...들썩이는 건설주 [줍줍 리포트]>
+ㄴ서울경제 2026.08.31
+<https://www.fnnews.com/news/202608301834385612|[강남視角] 데이터센터가 美 중간선거 좌우할까>
+ㄴ파이낸셜뉴스 2026.08.30
+<https://www.etnews.com/20260828000031|[특별기고] AI 데이터센터를 제2의 반도체 신화로>
+ㄴ전자신문 2026.08.30
+<https://www.sedaily.com/article/20084984|거래대금 8배 뛴 토스證...데이터센터 확충한다>
+ㄴ서울경제 2026.08.30
+<https://www.hani.co.kr/arti/society/environment/1275302.html|반도체·데이터센터 관계자 “정부·기업 투자가 지방 선택 관건”>
+ㄴ한겨레 2026.08.30
+<https://www.sedaily.com/article/20084914|미국서 퍼지는 ‘데이터센터 반대 여론’...배후가 중국?>
+ㄴ서울경제 2026.08.30 관련뉴스 2건
+<https://www.fnnews.com/news/202608300814330408|"데이터센터 반대는 中 공작?"...美서 불붙은 '배후론'에 학계.공화당도 반박>
+ㄴ파이낸셜뉴스 2026.08.30
+<https://biz.heraldcorp.com/article/10855648|“전력·공기의 혁신” 국내 첫 온사이트 AI 데이터센터 건립 나선 친환경 에너지 기업 [그 회사 어때?-SGC에너지]>
+ㄴ헤럴드경제 2026.08.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082809233397700|우주에 데이터센터 짓는다고 3500억 받은 스타트업 [주末머니]>
+ㄴ아시아경제 2026.08.29
+<https://www.news1.kr/industry/distribution/6273173|신세계, AI·데이터센터 전담 법인 2곳 신설>
+ㄴ뉴스1 2026.08.28 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-31 09:43:10 KST === 
+Message TS: 1788136990.429169
+_[텔레그램 로그 2026-08-31] 에이닷비즈뉴스레터_
+
+[09:30]
+*8월 31일의 뉴스레터가 도착했습니다.*
+
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.etnews.com/20260831000040|충남도, 전국 첫 'AI 기본사회' 만든다...도민 기본권 보장 모델 구축>
+ㄴ전자신문 2026.08.31
+<https://www.news1.kr/it-science/cc-newmedia/6272917|KT, 서울대·KAIST와 AI 기술 공동개발...모델·서비스에 적용>
+ㄴ뉴스1 2026.08.30 관련뉴스 3건
+<https://www.sportschosun.com/life/2026-08-29/202608290100173610011203|"망막 사진으로 치매 선별.예측하는 AI 모델 개발">
+ㄴ스포츠조선 2026.08.29
+<https://www.seoul.co.kr/news/economy/2026/08/28/20260828500209|갤럭시코퍼레이션, K-POP과 Physical AI 결합 모델에 글로벌 미디어 잇따라 주목>
+ㄴ서울신문 2026.08.29
+<https://www.etnews.com/20260828000253|아이지에이웍스, 3400만명 행동 학습한 AI 모델 공개...사전 데이터 예측 시장 공략>
+ㄴ전자신문 2026.08.28 관련뉴스 1건
+<https://www.hani.co.kr/arti/economy/it/1275401.html|AI에 스트레스 주면 일 더 잘할까?>
+ㄴ한겨레 2026.08.31
+<https://www.etnews.com/20260828000256|산단공, 중소.중견 제조기업 'AI 두뇌' 심는다...230억 투입해 범용 모델 구축>
+ㄴ전자신문 2026.08.28
+<https://biz.chosun.com/it-science/ict/2026/08/31/X5OKLZUPNFHTJN47AF6WR7ELDE/|메가존, 한미사이언스와 제약.헬스케어 맞춤형 AI 개발 협력>
+ㄴ조선비즈 2026.08.31
+<https://www.fnnews.com/news/202608310851224082|NC AI, 사우디 LEAP 참가...피지컬AI 핵심기술 선봬>
+ㄴ파이낸셜뉴스 2026.08.31 관련뉴스 2건
+<https://www.etnews.com/20260828000017|디지캡, 콘텐츠 제작용 생성형 AI 플랫폼 'DreamAX' 출시>
+ㄴ전자신문 2026.08.31 관련뉴스 1건
+
+*AI에이전트*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026083109052920629|바이낸스, AI 에이전트·금융 통합한 플랫폼 공개>
+ㄴ아시아경제 2026.08.31
+<https://www.etnews.com/20260828000088|[김태형의 혁신의기술] 58 AI 에이전트 시대, 우리는 누구에게 질문할 것인가 상>
+ㄴ전자신문 2026.08.30
+<https://www.etnews.com/20260828000181|[ET시론]나를 대신하는 AI는 누구 편인가:  AI 에이전트 충실의무>
+ㄴ전자신문 2026.08.30
+<https://www.etnews.com/20260828000213|“AI 에이전트 시대, '토큰 거버넌스' 필요”...SK, '토큰 이코노미' 사내서 낸다>
+ㄴ전자신문 2026.08.29
+<https://www.seoul.co.kr/news/society/education-news/2026/08/28/20260828500093|교사 교육과정 편성 업무도 AI가 돕는다...평가원 ‘AI 에이전트’ 개발>
+ㄴ서울신문 2026.08.28
+<https://www.sedaily.com/article/20085089|KT, 우리은행 ‘AI 챗봇.상담봇’ 재구축 착수...금융업무 지원>
+ㄴ서울경제 2026.08.31 관련뉴스 2건
+<https://www.news1.kr/it-science/cc-newmedia/6272346|카카오 '모두의 AI' 사업자 선정...국민 메신저서 AI 에이전트까지>
+ㄴ뉴스1 2026.08.28 관련뉴스 12건
+<https://www.etoday.co.kr/news/view/2619594|앤스로픽 상장 가시화...국내 자산운용사, ETF 편입 채비>
+ㄴ이투데이 2026.08.31
+<https://www.asiae.co.kr/news/view.htm?idxno=2026083108265444846|인포시즈, 한국전력과 국가 전력망 AI 고도화 사업 수행>
+ㄴ아시아경제 2026.08.31
+<https://www.news1.kr/industry/general-industry/6272907|공룡 빅테크에 맞선 '제논'..."韓 '액셔너블 AI' 승부수" [K-챌린저]>
+ㄴ뉴스1 2026.08.31
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

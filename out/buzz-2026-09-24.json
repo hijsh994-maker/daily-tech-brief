@@ -1,0 +1,471 @@
+{
+ "date": "2026-09-24",
+ "terms": [
+  {
+   "term": "제브",
+   "norm": "제브",
+   "n_outlets": 7,
+   "n_today": 2,
+   "outlets": [
+    "AI타임스",
+    "IT조선",
+    "startuprecipe.co.kr",
+    "tokenpost.kr",
+    "아시아경제",
+    "지디넷코리아",
+    "한국강사신문"
+   ],
+   "days": 5,
+   "first": "2026-09-18",
+   "reaction": 6,
+   "community": 0,
+   "titles": [
+    "AI타임스(09-18) | \"환각·타입 오류 없다\"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여",
+    "AI타임스(09-21) | “문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
+    "tokenpost.kr(09-21) | 제브 공개 일주일 만에 오픈소스 구현 잇따라",
+    "한국강사신문 | [이용호의 손에 잡히는 인공지능] 제브(JEV), 공장에 필요한 AI는 작은 판단부터 시작된다",
+    "IT조선 | “긴 답변 대신 필요한 판단만”… 개발자들 열광한 ‘제브’ 뭐길래",
+    "IT조선 | “긴 답변 대신 필요한 판단만”… 개발자들 열광한 ‘제브’ 뭐길래"
+   ],
+   "score": 22
+  },
+  {
+   "term": "뮤즈 돌풍",
+   "norm": "뮤즈돌풍",
+   "n_outlets": 6,
+   "n_today": 2,
+   "outlets": [
+    "edaily.co.kr",
+    "yna.co.kr",
+    "국민기자뉴스",
+    "뉴스핌",
+    "서울파이낸스",
+    "코인리더스"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 7,
+   "community": 0,
+   "titles": [
+    "yna.co.kr(09-22) | 메타 AI에이전트 뮤즈 돌풍에 AMD 시총 1조달러 돌파",
+    "edaily.co.kr(09-22) | [MUST KNOW 5]AMD 1조달러·메타 뮤즈 돌풍...투자자가 알아야 할 5가지 뉴스",
+    "뉴스핌(09-23) | [뮤즈 돌풍] AI 에이전트가 대신 갈아탄다…금융·보험·통신 '와르르'",
+    "뉴스핌 | [뮤즈 돌풍] ①최고 성능 아니어도 흥행...AI 경쟁 기준이 바뀐다",
+    "서울파이낸스 | 챗봇 다음은 'AI 비서'···'뮤즈 돌풍'에 CPU가 다시 뜬다"
+   ],
+   "score": 21
+  },
+  {
+   "term": "ZCode",
+   "norm": "zcode",
+   "n_outlets": 18,
+   "n_today": 3,
+   "outlets": [
+    "Cryptopolitan",
+    "GitHub",
+    "Longbridge",
+    "MIXED Reality News",
+    "Pandaily",
+    "Pasquale Pillitteri",
+    "Silicon UK",
+    "Startup Fortune"
+   ],
+   "days": 4,
+   "first": "2026-09-21",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The News International(09-21) | ZCode tried uploading your files 564 times, researcher finds",
+    "finance.biggo.com(09-21) | China's Zhipu AI Faces Formal Legal Demand Over ZCode Data Upload Scandal",
+    "finance.biggo.com(09-21) | Zhipu's ZCode Accused of Silently Packaging and Uploading Complete Code History;",
+    "Pasquale Pillitteri | Z.ai's ZCode uploaded developers' repositories to Alibaba Cloud, a developer dis",
+    "Startup Fortune | A Developer Caught Z.ai's ZCode Tool Quietly Uploading Codebases to Alibaba",
+    "Pandaily | Zhipu Open-Sources ZCode After Repo-Upload Fix; CAICT and NSFOCUS Audits Cite Re"
+   ],
+   "score": 15
+  },
+  {
+   "term": "AI 감속",
+   "norm": "ai감속",
+   "n_outlets": 27,
+   "n_today": 3,
+   "outlets": [
+    "OBC 뉴스",
+    "g-enews.com",
+    "hankyung.com",
+    "kbsm.net",
+    "mstoday.co.kr",
+    "yna.co.kr",
+    "경북신문",
+    "글로벌이코노믹"
+   ],
+   "days": 8,
+   "first": "2026-09-15",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "yna.co.kr(09-15) | 'AI 감속'에 복잡해진 한국 셈법…기회냐 새 장벽이냐",
+    "g-enews.com(09-15) | AI 감속론에 아시아 기술주 급락…소프트뱅크 13%↓",
+    "g-enews.com(09-15) | 아모데이 AI 감속론에 중국 반발… 기술 독점위한 '냉전 전략' 비판",
+    "포춘코리아 | “AI 감속” 외치더니 또 가속…오픈AI·앤트로픽 신모델 맞불",
+    "동아일보 | ‘AI 감속’ 말뿐…앤스로픽·오픈AI ‘값싼 신모델’ 앞다퉈 내놔",
+    "디지털투데이 | AI 감속론에 숨은 금융 리스크?…아서 헤이즈 \"비트코인엔 호재\""
+   ],
+   "score": 14
+  },
+  {
+   "term": "RMAC",
+   "norm": "rmac",
+   "n_outlets": 11,
+   "n_today": 2,
+   "outlets": [
+    "Chosunbiz",
+    "PRESS9",
+    "Queen 이코노미퀸",
+    "thetracker.co.kr",
+    "뉴스퀘스트",
+    "더구루",
+    "더퍼블릭",
+    "생생비즈플러스"
+   ],
+   "days": 3,
+   "first": "2026-09-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "더구루(09-22) | 현대차 보스턴다이내믹스, '아틀라스 실전 훈련장' RMAC 공식 출범",
+    "Chosunbiz(09-22) | 보스턴다이내믹스, 로봇학교 ‘RMAC’ 개소… 내년 10배 확장",
+    "이투데이(09-22) | 현대차그룹, 로봇 학교 ‘RMAC’ 본격 가동…내년 규모 10배로 확장",
+    "유카포스트 | 현대차 아틀라스 휴머노이드 로봇, 2028년 공장 투입…RMAC 훈련센터 가동",
+    "더퍼블릭 | 현대차 보스턴다이나믹스, 로봇 학교 ‘RMAC’ 개소…작업 학습 본격화"
+   ],
+   "score": 13
+  },
+  {
+   "term": "V900",
+   "norm": "v900",
+   "n_outlets": 16,
+   "n_today": 4,
+   "outlets": [
+    "24/7 Wall St.",
+    "AI포스트",
+    "Crypto Briefing",
+    "DailyCoin",
+    "Investing.com 한국어",
+    "Mathrubhumi English",
+    "Tech Times",
+    "The Eastern Herald"
+   ],
+   "days": 2,
+   "first": "2026-09-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "디지털투데이(09-23) | 알리바바, 자체 AI 칩 '전우 V900' 공개…2032년까지 데이터센터 20GW 확충",
+    "포커스온경제(09-23) | 알리바바, 신형 AI칩 ‘젠우 V900’ 공개-엔비디아에 정면 도전",
+    "뉴시스(09-23) | [올댓차이나] 알리바바, 차세대 AI칩 ‘진우 V900’ 내년 1분기 투입…AI 인프라 확충",
+    "tikr.com | Alibaba Stock Jumps After Unveiling New Zhenwu V900 AI Chip and Cloud Expansion",
+    "techrepublic.com | Alibaba Unveils Zhenwu V900 — and Plans Qwen Models With Up to 10 Trillion Param",
+    "Tech Times | Alibaba Cloud’s V900 AI Chip Links 500,000 Accelerators: Europe Regions Next"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Crispr",
+   "norm": "crispr",
+   "n_outlets": 10,
+   "n_today": 10,
+   "outlets": [
+    "Anthropic",
+    "HN",
+    "Seeking Alpha",
+    "The Next Web",
+    "The Verge",
+    "TradingView",
+    "Unite.AI",
+    "citybiz"
+   ],
+   "days": 1,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI | Anthropic, Claude가 CRISPR와 유사한 새로운 효소 시스템을 발견했다고 발표",
+    "The Verge | Anthropic’s biolab made a discovery it’s comparing to Crispr",
+    "Anthropic | Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "The Next Web | Claude found a CRISPR-like enzyme system, and its job is still unknown",
+    "Unite.AI | Anthropic Says Claude Discovered a New Enzyme System Resembling CRISPR",
+    "Межа. Новини України. | Anthropic Says Claude Found a CRISPR-Like Enzyme System"
+   ],
+   "score": 12
+  },
+  {
+   "term": "60 Minutes",
+   "norm": "60minutes",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "CBS News",
+    "Comic Sands",
+    "WCIV"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "WCIV(09-15) | 60 Minutes debut warns of 'narrow window' to make AI 'safe for humanity'",
+    "CBS News(09-21) | 60 Minutes Transcript: The data center uproar",
+    "CBS News(09-21) | Data center opposition a rare issue uniting Americans across the political divid",
+    "Comic Sands | Lifelong Texas Republican Goes Viral With Criticism Of Proposed AI Data Center O"
+   ],
+   "score": 10
+  },
+  {
+   "term": "전우 V900",
+   "norm": "전우v900",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "AI포스트",
+    "tokenpost.kr",
+    "디지털투데이"
+   ],
+   "days": 2,
+   "first": "2026-09-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "디지털투데이(09-23) | 알리바바, 자체 AI 칩 '전우 V900' 공개…2032년까지 데이터센터 20GW 확충",
+    "AI포스트(09-23) | 알리바바, 10조 매개변수 AI 모델·차세대 칩 '전우 V900' 공개…\"AI 수요 폭발적\"",
+    "tokenpost.kr(09-23) | 알리바바, 5조~10조 AI 모델 계획·전우 V900 공개",
+    "디지털투데이 | 알리바바, 자체 AI 칩 '전우 V900' 공개…2032년까지 데이터센터 20GW 확충"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Bitget UEX",
+   "norm": "bitgetuex",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "ChainCatcher",
+    "深潮TechFlow"
+   ],
+   "days": 3,
+   "first": "2026-09-18",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "深潮TechFlow(09-18) | Bitget UEX 데일리 리포트｜Fed 25bp 금리 인상；미증시 3연속 하락；제너렉, 아마존 발주 수주 장후 33.05% 급등",
+    "ChainCatcher(09-18) | Bitget UEX Daily Report",
+    "深潮TechFlow(09-23) | Bitget UEX 일간 리포트｜나스닥 지수 사상 최고치 기록; 메타 급등 11.34%; 비트코인 8만 6천달러 돌파",
+    "深潮TechFlow | Bitget UEX 데일리 리포트｜나스닥 다시 최고가 기록；애플 장중 시가총액 5조 달러 돌파；샌디스크 6.81% 급등"
+   ],
+   "score": 9
+  },
+  {
+   "term": "KOSE",
+   "norm": "kose",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "simplywall.st"
+   ],
+   "days": 2,
+   "first": "2026-09-18",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "simplywall.st(09-18) | 왜 삼성전자(KOSE:A005930) 주가는 AI 칩과 노광 투자 확대에 주목할까?",
+    "simplywall.st | 42% 저평가 가능성, SK하이닉스(KOSE:A000660) 벤처스 출범 이후 시선 쏠린 이유"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Ass Bench",
+   "norm": "assbench",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | LLM Ass Bench"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Toyota",
+   "norm": "toyota",
+   "n_outlets": 21,
+   "n_today": 3,
+   "outlets": [
+    "AI News",
+    "AIM Media House",
+    "Ars Technica",
+    "Autoblog",
+    "Automotive News",
+    "Automotive Testing Technology International",
+    "Automotive World",
+    "CNBC"
+   ],
+   "days": 5,
+   "first": "2026-09-18",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Nikkei Asia(09-18) | Toyota to deploy 400,000 humanoid robots to work alongside factory staff",
+    "finance.biggo.com(09-18) | Manufacturing AI startup CADDi raises ¥17.7 billion, valuation reaches ¥182 bill",
+    "AIM Media House(09-21) | Toyota Plans 400,000 Humanoid Robots for Factory Automation",
+    "Yahoo Tech | Toyota Orders Workers to Train Humanoid Robots but Promises That Humans Won’t Be",
+    "MarketScale | Toyota estimates up to 1 trillion yen a year for factory automation from 2028",
+    "디지털투데이 | Toyota to invest $6.42 billion a year in robots from 2028 as staff train humanoi"
+   ],
+   "score": 10
+  },
+  {
+   "term": "웰피",
+   "norm": "웰피",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "Chosunbiz",
+    "edaily.co.kr",
+    "ksdaily.co.kr",
+    "todaymild.com",
+    "wsobi.com",
+    "뉴스핌",
+    "뉴시스",
+    "데이터뉴스"
+   ],
+   "days": 5,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "삼성물산 뉴스룸(09-15) | ‘공간이 건강을 관리하는 시대’ 연다, 삼성물산, AI 웰니스 솔루션 ‘웰피’ 출시",
+    "매일경제 마켓(09-15) | 삼성물산, 입주민 건강 챙긴다…AI 웰니스 솔루션 '웰피' 출시",
+    "Chosunbiz(09-15) | 삼성물산, 웰니스 솔루션 ‘웰피’ 출시… 혈압·스트레스도 AI로 관리 - 조선비즈",
+    "wsobi.com | 삼성물산, 래미안 단지에 AI 웰니스 솔루션 '웰피'·자율주행 주차로봇 '파키' 도입"
+   ],
+   "score": 10
+  },
+  {
+   "term": "서울선언",
+   "norm": "서울선언",
+   "n_outlets": 16,
+   "n_today": 1,
+   "outlets": [
+    "Naver Blog",
+    "OBC 뉴스",
+    "edaily.co.kr",
+    "경기일보",
+    "대한민국 정책브리핑",
+    "더브리프뉴스",
+    "데일리안",
+    "데일리팝"
+   ],
+   "days": 4,
+   "first": "2026-09-16",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "서울뉴스통신(09-16) | 한·중앙아 협력 정상급으로 격상…핵심광물부터 AI까지 ‘서울선언’",
+    "OBC 뉴스(09-16) | 한·중앙아 첫 정상회의…서울선언 채택",
+    "더브리프뉴스(09-16) | 첫 한·중앙아시아 정상회의 서울 개최…‘서울선언’으로 협력 비전 제시",
+    "Naver Blog | [제1차 한·중앙아시아 정상회의] '서울선언' 채택··· \"新실크로드로 30년 함께 준비\" : 네이버 블로그"
+   ],
+   "score": 10
+  },
+  {
+   "term": "GDDR7",
+   "norm": "gddr7",
+   "n_outlets": 13,
+   "n_today": 3,
+   "outlets": [
+    "Club386",
+    "GameGPU",
+    "NoobFeed",
+    "Phoronix",
+    "TipRanks",
+    "TweakTown",
+    "Wccftech",
+    "tech-insider.org"
+   ],
+   "days": 5,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "tokenpost.kr(09-15) | 엔비디아 RTX PRO 5500 공개…84GB GDDR7 탑재",
+    "TweakTown(09-15) | NVIDIA debuts RTX PRO 5500 Blackwell workstation GPU with 84GB of GDDR7 memory",
+    "NoobFeed(09-17) | NVIDIA RTX 6090 Could Feature 32GB GDDR7 and 2x Path Tracing",
+    "케이벤치 | 마이크론, RTX 50용 2GB GDDR7 생산 중단…삼성·SK하이닉스 의존 커지나",
+    "GameGPU | 마이크론은 지포스 RTX 50 시리즈 그래픽 카드용 2GB GDDR7 칩 생산을 중단했습니다.",
+    "tech-insider.org | AMD’s Sept 21 Patch Confirms GDDR7 for RDNA 5 GPUs [2026]"
+   ],
+   "score": 10
+  },
+  {
+   "term": "King Charles",
+   "norm": "kingcharles",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "Bloomberg.com",
+    "CNBC",
+    "Decrypt",
+    "Fortune",
+    "New York Post",
+    "Reuters",
+    "Techerati",
+    "The Eastern Herald"
+   ],
+   "days": 4,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Reuters(09-15) | King Charles to host AI executives as threat fears mount",
+    "Techerati(09-18) | King Charles brings AI leaders together as safety warnings intensify",
+    "CNBC(09-18) | King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+    "The Malaysian Reserve | King Charles calls on Nvidia, OpenAI chiefs to control AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Financial Advisors",
+   "norm": "financialadvisors",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "Crypto Briefing",
+    "KuCoin",
+    "Money Marketing",
+    "Moneycontrol.com",
+    "Stocktwits",
+    "Tech Times",
+    "The Tribune",
+    "TipRanks"
+   ],
+   "days": 5,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Unite.AI(09-15) | Anthropic Launches Claude for Financial Advisors With Partner Connectors",
+    "Wealth Management(09-15) | Anthropic Launches Claude for Financial Advisors Tool",
+    "Stocktwits(09-15) | Anthropic Targets Financial Advisors With New Claude Tool, Includes BlackRock, C",
+    "Money Marketing | Ben Goss: Where on the Mills spectrum is Claude for Financial Advisors?"
+   ],
+   "score": 10
+  }
+ ]
+}

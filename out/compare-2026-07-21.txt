@@ -1,0 +1,42 @@
+실제 브리프 12건 vs 파이프라인 1232클러스터
+======================================================================
+없음                    한국 AI의 쾌거…모티프3, 中 딥시크V4·키미K.26 어깨 나란히
+        최근접: 자체 설계 LLM ‘모티프3’, AAII 44점… 딥시크 V4 프로(max)와 동률 (0.19)
+없음                    중국 zAI, Nvidia 칩 없이 1GW급 AI 데이터센터 가동 개시
+        최근접: "엔비디아 없이도 AI를 키웠다?"…중국이 꺼낸 '1GW 승부수'의 진실 (0.17)
+없음                    Microsoft expands Azure AI and HPC infrastruct
+        최근접: AMD, 마이크로소프트와 클라우드 및 AI 인프라 파트너십 확대 (0.11)
+미달 [ 0점 / 1011위] TSMC, AI 호황에 美 투자 확대…애리조나에 생산공장·패키징 시설 증설
+        매칭: TSMC, AI 호황에 美 투자 확대…애리조나에 생산공장·패키징 시설 증설 (유사도 1.00)
+        근거: 
+없음                    허트 8·IREN, 수십억 달러 규모 신규 계약에 AI 컴퓨트 주식 반등
+        최근접: 스페이스X-펜타곤 '수십억 달러' AI 계약 추진? 국방부 'AI 인프라' 장악하나 (0.15)
+미달 [ 2점 / 376위] 네이버클라우드-HD현대, 조선업 특화 AX 구축 맞손
+        매칭: HD현대·네이버클라우드, ‘피지컬 AI 조선소’ 구축 맞손 (유사도 0.50)
+        근거: 경쟁사+2
+없음                    Blackstone Invests in South Korean Robotics Su
+        최근접: Glow emerges from stealth at $1.2B valuation to  (0.05)
+없음                    Microsoft tests Kimi K3 for Copilot in bid to 
+        최근접: 알리바바, 2.4조 파라미터 ‘Qwen 3.8’ 공개…Kimi K3에 맞불 (0.11)
+없음                    Bristol Myers Becomes First Drugmaker to Buy N
+        최근접: Naver Executives to Visit Brookfield Headquarter (0.05)
+없음                    U.S. Considers Independent Watchdog to Evaluat
+        최근접: Naver Executives to Visit Brookfield Headquarter (0.06)
+없음                    '모두의 AI' 사업 본궤도···AI 업계 컨소시엄 윤곽 나오나
+        최근접: '모두의 AI' 윤곽… 부분 유료화도 허용 - 머니투데이 (0.22)
+없음                    국방 LLM 개발…LIG D&A·한화시스템 컨소시엄 맞붙는다
+        최근접: LIG D&A, AI 기반 지능형 의사결정 지원체계 개발 (0.22)
+
+----------------------------------------------------------------------
+수집 재현율   2/12 (17%)
+임계 통과율   0/12 (0%)  (min-score=6)
+실린 기사 점수: 최저 0 / 중앙 2 / 최고 2
+   임계  3점이면 0/12 통과 (0%)
+   임계  4점이면 0/12 통과 (0%)
+   임계  5점이면 0/12 통과 (0%)
+   임계  6점이면 0/12 통과 (0%)
+   임계  7점이면 0/12 통과 (0%)
+   임계  8점이면 0/12 통과 (0%)
+   임계  9점이면 0/12 통과 (0%)
+   임계 10점이면 0/12 통과 (0%)
+   임계 11점이면 0/12 통과 (0%)

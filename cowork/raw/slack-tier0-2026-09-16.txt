@@ -1,0 +1,166 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-16 09:51:50 KST === 
+Message TS: 1789519910.576379
+_[텔레그램 로그 2026-09-16] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 12개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 오픈AI, IPO 앞두고 1.2조달러 몸값으로 추가 자금조달 검토 [마켓핫] (이투데이)
+o 링크: <https://www.etoday.co.kr/news/view/2626038|etoday.co.kr/news/view/2626038>
+2. "AI 속도 조절은 잘못된 전략"…트럼프 주장에 힘 실은 젠슨 황 (서울경제)
+o 링크: <https://www.sedaily.com/article/20091289|sedaily.com/article/20091289>
+3. Cognition and AWS Sign Multi-Year Strategic Collaboration Agreement (AWS 공식 보도자료)
+o 링크: <https://press.aboutamazon.com/aws/2026/9/cognition-and-aws-sign-multi-year-collaboration-agreement|press.aboutamazon.com/aws/2026/9/cognition-and-aws-sign-multi-year-collaboration-agreement>
+4. Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out (Meta 뉴스룸)
+o 링크: <https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai|about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai>
+5. Meta (META) Stock Climbs on Custom AI Chip Deployment Strategy (Blockonomi)
+o 링크: <https://blockonomi.com/meta-meta-stock-climbs-on-custom-ai-chip-deployment-strategy/|blockonomi.com/meta-meta-stock-climbs-on-custom-ai-chip-deployment-strategy>
+6. Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking (Google 공식 블로그)
+o 링크: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/|blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking>
+7. Crusoe signs multiyear cloud deal with Perplexity for AI models (Crypto Briefing)
+o 링크: <https://cryptobriefing.com/crusoe-perplexity-multiyear-cloud-deal/|cryptobriefing.com/crusoe-perplexity-multiyear-cloud-deal>
+8. Japan: SB Energy to sell up to $500 mln in shares to investors as part of US IPO (UA.NEWS)
+o 링크: <https://ua.news/en/money/iaponiia-sb-energy-prodast-investoram-aktsiyi-na-sumu-do-500-mln-u-mezhakh-ipo-u-ssha|ua.news/en/money/iaponiia-sb-energy-prodast-investoram-aktsiyi-na-sumu-do-500-mln-u-mezhakh-ipo-u-ssha>
+■ 링크 미확보 (4건 — 당일 보도 검색 색인 미반영 또는 원문 접근 불가)
+· 오픈AI, 풍부한 전력 및 토지와 AI 육성 정책을 갖춘 캐나다를 데이터센터 투자 후보지로 공식 검토
+· 오픈AI, AI 바이오 융합 지원을 위한 3개 법안 신규 지지
+· 다리오 아모데이, 현재 AI가 창출할 수 있는 경제적 가치 중 실제 실현 비중은 5~10% 수준에 불과하다고 평가
+· 오라클, 텍사스에서 1.7GW+ 풍력 프로젝트 투자. 신규 발전량을 ERCOT에 추가해 데이터센터 전력 소비 매칭 구조
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-16 09:43:34 KST === 
+Message TS: 1789519414.043619
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.etnews.com/20260915000315|생성형 AI 시대, 왜 AI 방화벽이 필요한가...AI보안 제언 1편>
+ㄴ전자신문 2026.09.16
+<https://www.etnews.com/20260916000018|[기고]고객은 AI 반도체를 사지 않는다>
+ㄴ전자신문 2026.09.16
+<https://www.sedaily.com/article/20091456|AI.반도체 계약학과에 수험생 몰렸다...UNIST.DGIST 지원자 역대 최다>
+ㄴ서울경제 2026.09.16
+<https://www.etoday.co.kr/news/view/2626009|지엘리서치 "웰크론한텍, PF 털고 반도체ㆍAI 전력 수처리로 재도약">
+ㄴ이투데이 2026.09.16 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2625830|전쟁→수급붕괴→AI 브레이크...세 번째 반도체 조정, 향후 전망은[박스피 갇힌 증시]>
+ㄴ이투데이 2026.09.16 관련뉴스 1건
+<https://www.sedaily.com/article/20091292|베스핀글로벌.업스테이지, 국산 LLM으로 공교육 AI 고도화>
+ㄴ서울경제 2026.09.16
+<https://www.khan.co.kr/article/202609151936001|생성형AI 주로 쓰는 수도권은 일자리 증가, 피지컬AI 사용 비수도권 제조업은 “고용충격 가능성”>
+ㄴ경향신문 2026.09.15 관련뉴스 1건
+<https://www.etnews.com/20260915000326|[IT리더스포럼]유회준 카이스트 교수, “NPU 다음은 PIM.뉴로모픽...AI반도체 진화”>
+ㄴ전자신문 2026.09.15
+<https://biz.chosun.com/it-science/ict/2026/09/15/XAINYSCRBZBCJK2TTYIPLH5ZUE/|“AI 에이전트 거래, 문자로 확인하고 승인”... SKT, 글로벌 표준화 제안>
+ㄴ조선비즈 2026.09.15
+<https://biz.heraldcorp.com/article/10873662|한화운용, HBM·AI 소부장 ETF 2종 출격...반도체 투자라인 넓힌다>
+ㄴ헤럴드경제 2026.09.15
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-16 09:43:16 KST === 
+Message TS: 1789519396.658749
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091609215020931|SK이노베이션, AI 데이터센터 겨냥 ‘통합 에너지 솔루션’ 선봬>
+ㄴ아시아경제 2026.09.16 관련뉴스 4건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091609034923033|GS, 2.4GW AI 데이터센터에 스타트업 기술 접목>
+ㄴ아시아경제 2026.09.16
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091516335321907|AI 데이터센터 건설 중단? 사실은 '전기 찾아 이사 중'[클릭e산업]>
+ㄴ아시아경제 2026.09.16
+<https://www.segye.com/newsView/20260915518315|포항시, AI 데이터센터 대비 전력.용수 등 기반시설 확충에 속도>
+ㄴ세계일보 2026.09.16 관련뉴스 1건
+<https://www.etnews.com/20260915000312|[단독]건양대병원, 자체 AI 데이터센터 구축...최대 200억원 투입>
+ㄴ전자신문 2026.09.15 관련뉴스 1건
+<https://www.etnews.com/20260915000431|에퀴닉스, 에이전틱 AI 대응 네트워크 자동화...국내 데이터센터도 확충>
+ㄴ전자신문 2026.09.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091509071784056|데이터센터 짓다 AI 배웠다...건설사들 "옛날로 안 돌아가">
+ㄴ아시아경제 2026.09.15
+<https://www.news1.kr/local/ulsan/6291024|UNIST, 데이터센터 폐열 재활용 통합 에너지 시스템 개발>
+ㄴ뉴스1 2026.09.15
+<https://www.sedaily.com/article/20091076|“데이터센터 폐열로 탄소 잡고 발전까지” UNIST, 비용 48%·탄소 72% 감축>
+ㄴ서울경제 2026.09.15
+<https://www.etnews.com/20260915000391|HS효성인포, '데이터센터 현대화 컨퍼런스 2026' 개최>
+ㄴ전자신문 2026.09.15
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.news1.kr/bio/healthcare/6291468|"돌봄로봇 연구개발 성과 한자리...차세대 서비스 방향도 모색">
+ㄴ뉴스1 2026.09.16
+<https://www.etnews.com/20260915000344|[테크 차이나] “로봇도 필요한 기능만 골라 쓴다”...란충구신, 0.98만 위안 모듈형 휴머노이드 출시>
+ㄴ전자신문 2026.09.16
+<https://www.etnews.com/20260915000111|경기도, 'G-리더스 10' 선정...AI.로봇 스타트업 10월 집결>
+ㄴ전자신문 2026.09.15 관련뉴스 1건
+<https://www.sedaily.com/article/20091336|10분에 휴머노이드 한 대씩...중국 유비테크 제조 공장 가동>
+ㄴ서울경제 2026.09.16
+<https://www.sedaily.com/article/20091427|“낯선 길도 막힘없이”...UNIST, 초고속 공간인식 AI ‘유니심 슬램’ 선봬>
+ㄴ서울경제 2026.09.16
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091608155303609|테슬라 100GW 프로젝트로 K 페이스트가 뜬다>
+ㄴ아시아경제 2026.09.16
+<https://biz.heraldcorp.com/article/10874843|통합돌봄에 ‘스마트 위생돌봄’ 더한다... ‘금천 한결케어’ 시범운영 본격화>
+ㄴ헤럴드경제 2026.09.16
+<https://www.news1.kr/finance/general-stock/6291529|'힘 빠진 증시' 먼저 튀어 오른 '로봇'...코스닥 시총 톱10에 2곳 자리>
+ㄴ뉴스1 2026.09.16
+<https://www.seoul.co.kr/news/publicnews/seoul_local/place_seoul/2026/09/16/20260916021004|퇴원 후 중랑구민 회복 지원... 의료.돌봄 공백 메우는 ‘중간집’ [현장 행정]>
+ㄴ서울신문 2026.09.16 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10874686|“기사도 운전대도 없다”...日도 내년 ‘무인택시’ 시대, 도쿄에 100대 달린다>
+ㄴ헤럴드경제 2026.09.15 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-16 09:42:49 KST === 
+Message TS: 1789519369.492289
+_[텔레그램 로그 2026-09-16] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 16일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.news1.kr/it-science/internet-platform/6291635|SKT "AIDC·모델만으론 안돼...'모두의 AI'로 수요도 키운다">
+ㄴ뉴스1 2026.09.16
+<https://www.sedaily.com/article/20091292|베스핀글로벌.업스테이지, 국산 LLM으로 공교육 AI 고도화>
+ㄴ서울경제 2026.09.16
+<https://www.sedaily.com/article/20091287|美中 ‘AI 군비경쟁’에 낀 유럽...“우리도 자체 모델 가져야”>
+ㄴ서울경제 2026.09.15
+<https://www.etnews.com/20260915000097|라이너, AI 질문 토큰 비용 50% 절감 '모델 API' 출시>
+ㄴ전자신문 2026.09.15
+<https://www.seoul.co.kr/news/society/2026/09/15/20260915500251|포항시, AI 선도도시 중장기 전략 마련...“시민 체감형 모델 발굴”>
+ㄴ서울신문 2026.09.15
+<https://www.etoday.co.kr/news/view/2626038|오픈AI, IPO 앞두고 1.2조달러 몸값으로 추가 자금조달 검토 [마켓핫]>
+ㄴ이투데이 2026.09.16
+<https://biz.chosun.com/it-science/ict/2026/09/16/BIUOWF7AA5HLVNZXSGBTSRSOPA/|세일즈포스, 엔비디아 네모트론 기반 CRM 특화 AI ‘코아’ 공개>
+ㄴ조선비즈 2026.09.16 관련뉴스 1건
+<https://www.etnews.com/20260916000048|비브레스트, AI 수면 데이터 신뢰도 기술 특허 3건 출원...글로벌 IP 확대>
+ㄴ전자신문 2026.09.16
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091609083482144|'모두의 AI' SKT "한국화된 콘텐츠와 공공정보 연결로 챗GPT와 차별화">
+ㄴ아시아경제 2026.09.16
+<https://www.news1.kr/world/usa-canada/6291815|'AI 안전' 충돌...아모데이 "표준 만들자" 젠슨황 "일률규제 안돼">
+ㄴ뉴스1 2026.09.16
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091608290068569|"AI는 지능, Web3는 신뢰"...에이전틱 AI 통제 해법 꺼낸 라온시큐어>
+ㄴ아시아경제 2026.09.16
+<https://www.etnews.com/20260915000431|에퀴닉스, 에이전틱 AI 대응 네트워크 자동화...국내 데이터센터도 확충>
+ㄴ전자신문 2026.09.15
+<https://www.fnnews.com/news/202609151408069844|'에이전틱 AI' 관련 美 기업 투자...NH아문디운용, ETF 신규 상장>
+ㄴ파이낸셜뉴스 2026.09.15 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/09/15/XAINYSCRBZBCJK2TTYIPLH5ZUE/|“AI 에이전트 거래, 문자로 확인하고 승인”... SKT, 글로벌 표준화 제안>
+ㄴ조선비즈 2026.09.15
+<https://www.sedaily.com/article/20091145|카카오, 원화코인으로 에이전틱AI 결제>
+ㄴ서울경제 2026.09.15
+<https://www.news1.kr/it-science/internet-platform/6290657|AI가 사고 AI가 결제한다...카카오페이, '에이전틱 결제' 기술 실증>
+ㄴ뉴스1 2026.09.15
+<https://biz.heraldcorp.com/article/10874547|‘말 한마디’로 세금부터 병원까지...SKT, 모두의 AI ‘승부수’ 띄웠다>
+ㄴ헤럴드경제 2026.09.16
+<https://www.sedaily.com/article/20091292|베스핀글로벌.업스테이지, 국산 LLM으로 공교육 AI 고도화>
+ㄴ서울경제 2026.09.16 관련뉴스 2건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091609083482144|'모두의 AI' SKT "한국화된 콘텐츠와 공공정보 연결로 챗GPT와 차별화">
+ㄴ아시아경제 2026.09.16
+<https://biz.chosun.com/it-science/ict/2026/09/16/D4QFI44IUFB4HIUAGPENFHM3SA/|올트먼 “허깅페이스 해킹, 오픈AI 최악의 사고... AI 업계 안전 경각심 높아져">
+ㄴ조선비즈 2026.09.16
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

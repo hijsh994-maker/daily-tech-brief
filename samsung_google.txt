@@ -1,0 +1,114 @@
+삼성 섹션 16건 | 구글뉴스 발견 -> 링크해결
+발행일 제한: 2026-07-21 ~ 2026-07-22
+  auto 12 / review 4 / drop 0 | 링크확보 15/16 (94%)
+
+ 1. [auto  ] 구글, Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 공개
+      질의: 구글 Gemini 3 6
+      발견: 구글이 ‘제미나이 3.6 플래시(Flash)’, ‘3.5 플래시-라이트(Flash-Lite)’, 그리고   (blog.google, 2026-07-22)
+      변별토큰 4개 ['Cyber', 'Flash', 'Flash-Lite', '구글'] | 주체 True | 날짜탈락 9
+      링크: https://blog.google/intl/ko-kr/company-news/technology/gemini-3-6-flash-3-5-
+            [webkr] 구글이 ‘제미나이 3.6 플래시(Flash)’, ‘3.5 플래시-라이트(Flash-Lite)’, 그리고 ‘3.5 플래시 사이버(Flas....
+
+ 2. [auto  ] 오픈AI, 보안 테스트 중 AI 모델이 샌드박스를 우회해 허깅 페이스 환경에서 자동화된 공격을 수행했다고 공
+      질의: 오픈AI 테스트
+      발견: 오픈AI “AI 모델, 보안 테스트 환경 벗어나 허깅페이스 해킹”  (tokenpost.kr, 2026-07-21)
+      변별토큰 2개 ['테스트', '환경'] | 주체 True | 날짜탈락 2
+      링크: https://www.tokenpost.kr/news/breaking/379966
+            [naver] tokenpost.kr
+
+ 3. [review] 오픈AI, Nubank의 창업자 겸 CEO 데이비드 벨리즈와 BNY Mellon CEO 로빈 빈스를 사외이사
+      질의: 오픈AI Nubank CEO BNY
+      발견: 오픈AI, IPO 앞두고 BNY멜론·누뱅크 CEO 이사회 영입  (IT조선, 2026-07-21)
+      변별토큰 1개 ['BNY'] | 주체 True | 날짜탈락 0
+      링크: https://it.chosun.com/news/articleView.html?idxno=2023092166219
+            [naver] IT조선
+
+ 4. [review] 오픈AI, 중소기업 대상 챗GPT 서비스 출시. 챗GPT Work와 최신 GPT-5.6 모델 포함
+      질의: 오픈AI GPT GPT Work
+      발견: 오픈AI, 국내 첫 챗GPT 광고 캠페인…한국 정서 담았다  (헤럴드경제, 2026-07-22)
+      변별토큰 1개 ['GPT'] | 주체 True | 날짜탈락 0
+      링크: https://biz.heraldcorp.com/article/10815884?ref=naver
+            [naver] 헤럴드경제
+
+ 5. [auto  ] 샘 올트먼, 미국 정부 관계자들에게 차세대 프런티어 모델 개발 현황과 향후 출시 계획 직접 브리핑 예정
+      질의: 샘 올트먼
+      발견: 올트먼, 美 당국자에 차세대 AI 브리핑…중국 추격·안전 규제 논의│Global Money Club  (중앙일보, 2026-07-21)
+      변별토큰 3개 ['브리핑', '올트먼', '차세대'] | 주체 True | 날짜탈락 2
+      링크: 해결실패
+
+ 6. [review] 앤스로픽, 상반기 로비 지출액 350만 달러 이상으로 '25년 연간 310만 달러 상회.
+      질의: 앤트로픽 350만
+      발견: "상무부 제재 한 번에 달라졌다"…앤트로픽, 워싱턴 로비 비용 26% 급증  (블록미디어, 2026-07-22)
+      변별토큰 1개 ['로비'] | 주체 True | 날짜탈락 2
+      링크: https://www.blockmedia.co.kr/archives/1119377
+            [webkr] "상무부 제재 한 번에 달라졌다"…앤트로픽, 워싱턴 로비 비용 26% 급증
+
+ 7. [auto  ] 스페이스X, MS 365 추가 기능인 Grok for Outlook 출시. 유료 구독자 대상으로 롤아웃
+      질의: 스페이스X 365 Grok for
+      발견: [美특징주]스페이스X, MS 아웃룩에 '그록' 추가…시간외↑  (edaily.co.kr, 2026-07-21)
+      변별토큰 2개 ['스페이스', '추가'] | 주체 True | 날짜탈락 0
+      링크: https://www.edaily.co.kr/News/Read?newsId=02381286645517144
+            [webkr] [美특징주]스페이스X, MS 아웃룩에 '그록' 추가…시간외↑
+
+ 8. [auto  ] 메타, Threads에 부모 감독 기능 추가. 청소년의 사용시간 확인, 일일 이용 제한, 취침 모드 및 개인
+      질의: 메타 Threads 부모 감독
+      발견: 스레드에도 부모 감독 기능 추가…메타, 청소년 보호 확대  (디지털포커스, 2026-07-22)
+      변별토큰 5개 ['감독', '메타', '부모', '청소년', '추가'] | 주체 True | 날짜탈락 0
+      링크: https://www.digitalfocus.news/news/articleView.html?idxno=22516
+            [webkr] 스레드에도 부모 감독 기능 추가…메타, 청소년 보호 확대
+
+ 9. [auto  ] 문샷 AI, 현재 315억 달러 규모 펀딩 라운드 마무리 이후 최대 500억 달러 밸류로 프리 IPO 라운드
+      질의: 문샷 315억
+      발견: 문샷 AI, 500억 달러 가치로 자금 조달 추진 (블룸버그)  (Investing.com 한국어, 2026-07-21)
+      변별토큰 2개 ['500', '문샷'] | 주체 True | 날짜탈락 0
+      링크: https://kr.investing.com/news/stock-market-news/article-1197491
+            [webkr] OpenAI, 1500억 달러 평가를 목표로 65억 달러 자금 조달 추진 - 블룸버그 By
+
+10. [auto  ] 베센트 재무장관, 트럼프 행정부가 오픈소스 AI는 지지하지만, IP 침해 시 제제 가능성 시사
+      질의: 베센트 재무장관 트럼프 행정부 오픈소스
+      발견: 美 재무장관 "中 AI 모델, 기술 도용 확인되면 제재…IP 침해 조사 착수"  (디지털투데이, 2026-07-22)
+      변별토큰 2개 ['재무장관', '침해'] | 주체 True | 날짜탈락 1
+      링크: https://www.digitaltoday.co.kr/news/articleView.html?idxno=685886
+            [naver] 디지털투데이
+
+11. [auto  ] 미-중, 9월 AI 관련 정부 간 회담 개최를 추진. 군사 활용, 핵심 인프라 대상 사이버 공격, 노동시장 
+      질의: 미-중 9월 회담 개최
+      발견: 미·중 AI 회담 9월 추진…칩 규제도 논의될까  (디지털포커스, 2026-07-21)
+      변별토큰 2개 ['규제', '회담'] | 주체 True | 날짜탈락 0
+      링크: https://www.digitalfocus.news/news/articleView.html?idxno=22488
+            [webkr] 미·중 AI 회담 9월 추진…칩 규제도 논의될까
+
+12. [auto  ] 코어위브, AI 네이티브 클라우드 구축을 지속하고 있으며, AI 클라우드 매출이 성장할 수록 감가상각비 부담
+      질의: 코어위브 네이티브
+      발견: AI 인프라 기대주 코어위브, 성장과 단기 부채 부담 교차 : 글로벌  (재경일보, 2026-07-22)
+      변별토큰 2개 ['부담', '코어위브'] | 주체 True | 날짜탈락 0
+      링크: https://news.jkn.co.kr/post/945965
+            [webkr] AI 인프라 기대주 코어위브, 성장과 단기 부채 부담 교차 : 글로벌
+
+13. [review] 데이터브릭스, AI 모델 호스팅 수요가 가용 컴퓨팅 캐파를 넘어서면서 여러 지역에서 GPU가 부족한 상황이라
+      질의: 데이터브릭스
+      발견: 데이터브릭스, 기업가치 1880억 달러로 투자 유치 추진...“AI 전략 강화 집중 투자  (전자신문, 2026-07-21)
+      변별토큰 1개 ['데이터브릭스'] | 주체 True | 날짜탈락 4
+      링크: https://www.etnews.com/20260720000187
+            [naver] 전자신문
+
+14. [auto  ] 마이크로소프트-미스트랄 AI, 전략적 파트너십 확대. 유럽 AI 인프라 확대를 위해 수십억 달러 규모 계약 
+      질의: 마이크로소프트-미스트랄 AI 전략적 유럽 확대
+      발견: “유럽 주권형 AI 시대 연다”...마이크로소프트·미스트랄, 수십억 달러 규모 전략적 동맹 확대  (인공지능신문, 2026-07-22)
+      변별토큰 5개 ['마이크로소프트', '미스트랄', '수십억', '유럽', '전략적'] | 주체 True | 날짜탈락 0
+      링크: https://www.aitimes.kr/news/articleView.html?idxno=41089
+            [naver] 인공지능신문
+
+15. [auto  ] 팔로알토 네트웍스, Embrace 인수를 통해 실사용자 모니터링(RUM) 역량 확보
+      질의: 팔로알토 Embrace
+      발견: 팔로 알토 네트웍스, Embrace 인수해 옵저버빌리티 강화  (Investing.com 한국어, 2026-07-21)
+      변별토큰 2개 ['Embrace', '네트웍스'] | 주체 True | 날짜탈락 0
+      링크: https://kr.investing.com/news/company-news/article-93CH-2023528
+            [webkr] 팔로 알토 네트웍스, Embrace 인수해 옵저버빌리티 강화 By Investing.com
+
+16. [auto  ] 인텔-포티넷, 차세대 SP6 보안 프로세서 개발을 위한 파트너십 확대 발표
+      질의: 인텔-포티넷 SP6 차세대 프로세서
+      발견: 포티넷-인텔, 차세대 보안 프로세서 SP6 공동 개발 협력 발표  (헬로티, 2026-07-22)
+      변별토큰 6개 ['SP6', '개발', '인텔', '차세대', '포티넷', '프로세서'] | 주체 True | 날짜탈락 0
+      링크: https://www.hellot.net/news/article.html?no=113913
+            [naver] 헬로티

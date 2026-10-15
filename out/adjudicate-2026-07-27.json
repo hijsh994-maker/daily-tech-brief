@@ -1,0 +1,488 @@
+[
+ {
+  "truth_title": "Kimi K3's open weights arrive July 27. The catch is 1.4TB",
+  "truth_url": "https://www.techi.com/kimi-k3-open-weights-inference-economics/",
+  "candidates": [
+   {
+    "rank": 14,
+    "score": 14,
+    "title": "Kimi K3 Fallout: White House Accuses Moonshot AI of Evading Nvidia Chip Export Controls",
+    "outlet": "Times Tabloid",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 40,
+    "score": 10,
+    "title": "[AI는 지금] 中 AI 또 판 흔든다…문샷AI, '키미 K3' 가중치 공개로 美 압박",
+    "outlet": "지디넷코리아",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 58,
+    "score": 9,
+    "title": "딥시크보다 더 한 ‘키미 K3’ 쇼크…글로벌 AI모델 장악력 높인다",
+    "outlet": "서울경제",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 289,
+    "score": 4,
+    "title": "\"클로드 훔쳐 키미 만들었다\"…美, 中 AI '증류 공격'에 제재 경고",
+    "outlet": "자본시장뉴스",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 387,
+    "score": 3,
+    "title": "중국 ‘키미 K3’에 대응하는 韓 ‘독파모’ 4대 비대칭 전략 [양강전 속 韓의 AI 승부수]",
+    "outlet": "이투데이",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 585,
+    "score": 2,
+    "title": "타임 표지 장식한 로봇 CEO…필즈상·문샷AI 이어 中 존재감",
+    "outlet": "네이트",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 570,
+    "score": 2,
+    "title": "빅테크 제안 거절하고 귀국한 '천재 양'…양즈린 문샷 AI 창립자는",
+    "outlet": "AI타임스",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 1120,
+    "score": 0,
+    "title": "키미 K3가 던진 질문은 “누가 1등인가”가 아니다 [윤석빈의 Thinking]",
+    "outlet": "IT조선",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 950,
+    "score": 0,
+    "title": "“중국 ‘키미 K3’ 등판에 미 빅테크 상업 로직 흔들… 단기 악재이나 AI 투자는 지속될 것” [유은길의 뉴스쪼개기]",
+    "outlet": "citytimes.co.kr",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 20,
+    "score": 12,
+    "title": "Steve Dempsey: It’s the economy stupid – Why cheap open-source AI is threatening ‘frontier’ model’s bread and butter",
+    "outlet": "Irish Independent",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 49,
+    "score": 9,
+    "title": "South Carolina's Lexington County remains open to data centers as nearby counties clamp down",
+    "outlet": "The Cool Down",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 141,
+    "score": 6,
+    "title": "27일 상장하는 '중국판 SK하이닉스' CXMT, 얼마나 오를까",
+    "outlet": "한국경제",
+    "signal": 1,
+    "entity_overlap": 0
+   }
+  ]
+ },
+ {
+  "truth_title": "구글, 전력 효율 10배 '프로즌 v2' 개발 시동",
+  "truth_url": "https://www.bloter.net/news/articleView.html?idxno=669009",
+  "candidates": [
+   {
+    "rank": 376,
+    "score": 3,
+    "title": "뉴욕증시 반도체 와르르 급락 \"구글 터보퀀트 충격 마이크론 10% 폭락\"",
+    "outlet": "초이스스탁US",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 48,
+    "score": 9,
+    "title": "이재용·최태원, '伊 구글 캠프' 동반 참석…글로벌 AI 협력 강화",
+    "outlet": "머니투데이",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 84,
+    "score": 7,
+    "title": "[\"AI가 일자리를 바꾼다\"… Monday.com 이어 오라클·MS·구글까지, 2026년 기술기업 대규모 구조조정 분석] 최근 분석에 따르면, 올해 초부터 현재까지 미국 기술 기업들이 발표한 일자리 감축 규모는 약 14만 명에 달한다.",
+    "outlet": "AI넷",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 128,
+    "score": 6,
+    "title": "“EU가 구글에 1조4000억 원 벌금”…트럼프, “고율 관세로 되갚겠다” 무역전쟁 재점화",
+    "outlet": "파이낸스투데이",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 124,
+    "score": 6,
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "outlet": "TechCrunch",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 215,
+    "score": 5,
+    "title": "‘AI 전쟁’ 승부수 던진 구글… 2050억 달러 투자로 판 키운다",
+    "outlet": "스카이데일리",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 212,
+    "score": 5,
+    "title": "구글, ‘가성비 AI’ 3종 공개... 약속한 제미나이 3.5 프로는 어디에?",
+    "outlet": "금강일보",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 193,
+    "score": 5,
+    "title": "현대차그룹, 엔비디아·웨이모·구글과 AI 연합전선…로봇·자율주행 사업 가속",
+    "outlet": "인더뉴스",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 187,
+    "score": 5,
+    "title": "구글, 코드 보안 버그 추적자를 위한 AI 모델인 Gemini 3.5 Flash Cyber 출시",
+    "outlet": "VOI.ID",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 178,
+    "score": 5,
+    "title": "구글은 22년 동안 돈을 32%로 굴려왔습니다, 2,050억 달러를 낭비라고 부르기 전에",
+    "outlet": "네이버 프리미엄콘텐츠",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 176,
+    "score": 5,
+    "title": "[AI 뉴스] 보고서가 발표자료로 바뀐다…구글 슬라이드에 ‘전체 PPT 생성’ 도입",
+    "outlet": "아웃소싱타임스",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 175,
+    "score": 5,
+    "title": "Verizon secures $1B Google data center deal, signals more AI contracts - CHOSUNBIZ",
+    "outlet": "Chosunbiz",
+    "signal": 1,
+    "entity_overlap": 1
+   }
+  ]
+ },
+ {
+  "truth_title": "What OpenAI CEO Sam Altman will tell the White House this week",
+  "truth_url": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit",
+  "candidates": [
+   {
+    "rank": 140,
+    "score": 6,
+    "title": "\"AI 반도체 동맹 수준 강화\"..이재용 삼성전자 회장, 샘 올트먼 오픈AI CEO와 회동",
+    "outlet": "한국정경신문",
+    "signal": 3,
+    "entity_overlap": 2
+   },
+   {
+    "rank": 54,
+    "score": 9,
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "outlet": "TechCrunch",
+    "signal": 3,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 34,
+    "score": 11,
+    "title": "이재용, 오픈AI 본사서 샘 올트먼 만났다…AI·반도체 협력 주목",
+    "outlet": "한국경제",
+    "signal": 2,
+    "entity_overlap": 2
+   },
+   {
+    "rank": 47,
+    "score": 9,
+    "title": "이재용, AI 서밋 이어 오픈AI 본사행…올트먼과 반도체·AX 협력 논의 By 알파경제 alphabiz",
+    "outlet": "Investing.com 한국어",
+    "signal": 2,
+    "entity_overlap": 2
+   },
+   {
+    "rank": 66,
+    "score": 8,
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "outlet": "TechCrunch",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 180,
+    "score": 5,
+    "title": "Congress Introduces AI ‘Kill Switch’ Bill After OpenAI’s GPT-5.6 Goes Rogue",
+    "outlet": "Times Tabloid",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 310,
+    "score": 4,
+    "title": "허깅페이스 CEO, 오픈AI에 직격…\"해킹 기록 전부 공개하라\"",
+    "outlet": "디지털투데이",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 296,
+    "score": 4,
+    "title": "OpenAI Planning Humanlike AI Speaker Device for 2027 Launch",
+    "outlet": "iNews Zoombangla",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 459,
+    "score": 3,
+    "title": "오픈AI CEO, 챗GPT 새 에이전트 기능 시연",
+    "outlet": "tokenpost.kr",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 379,
+    "score": 3,
+    "title": "OpenAI blames hacking event on its AI models going rogue",
+    "outlet": "AOL.ca",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 495,
+    "score": 2,
+    "title": "OpenAI Bid to Get ChatGPT into Smart Glasses and Wearable Devices",
+    "outlet": "VOI.ID",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 493,
+    "score": 2,
+    "title": "OpenAI's Autonomous Hack on Hugging Face Changes the Game in AI Cybersecurity",
+    "outlet": "WEEX",
+    "signal": 2,
+    "entity_overlap": 1
+   }
+  ]
+ },
+ {
+  "truth_title": "Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic",
+  "truth_url": "https://www.forbes.com/sites/sandycarter/2026/07/25/huangs-open-weights-letter-doubled-to-50-without-amazon-and-anthropic/",
+  "candidates": [
+   {
+    "rank": 343,
+    "score": 3,
+    "title": "앤트로픽 기술진, 엔비디아·마이크로소프트 오픈소스 행보 풍자",
+    "outlet": "tokenpost.kr",
+    "signal": 2,
+    "entity_overlap": 2
+   },
+   {
+    "rank": 14,
+    "score": 14,
+    "title": "Kimi K3 Fallout: White House Accuses Moonshot AI of Evading Nvidia Chip Export Controls",
+    "outlet": "Times Tabloid",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 110,
+    "score": 7,
+    "title": "엔비디아 '오픈웨이트 지지 서한' 참여 기업 50곳으로 확대",
+    "outlet": "글로벌이코노믹",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 92,
+    "score": 7,
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "outlet": "TechCrunch",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 206,
+    "score": 5,
+    "title": "Anthropic's $1.5B Ode venture bets on AI implementation",
+    "outlet": "MarketScale",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 168,
+    "score": 5,
+    "title": "Nvidia Reveals a Big Stake in This AI Cloud Company, Sending Its Stock Soaring",
+    "outlet": "AOL.com",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 162,
+    "score": 5,
+    "title": "Anthropic Launches Claude Opus 5, Tops AI Benchmark Index at Half the Cost of Fable 5",
+    "outlet": "MLQ.ai",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 226,
+    "score": 4,
+    "title": "NAVER Partners with Brookfield and NVIDIA to Expand Korea's National AI Factory Infrastructure Buildout",
+    "outlet": "Macau Business",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 223,
+    "score": 4,
+    "title": "A Modder’s RTX 4080 Was Enough To Play AAA Games, But Not For Running LLMs, So He Integrated NVIDIA’s Tesla V100 At A Throwaway Price To Run 27B AI Models",
+    "outlet": "Wccftech",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 358,
+    "score": 3,
+    "title": "KAIST, Nvidia to Build 'Physical AI Brain' That Predicts Human Movement",
+    "outlet": "Seoul Economic Daily",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 328,
+    "score": 3,
+    "title": "hanThe Korea Advanced Institute of Science and Technology (KAIST) and Nvidia will join hands to deve..",
+    "outlet": "매일경제",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 724,
+    "score": 2,
+    "title": "Anthropic's Product Head on AI's Future",
+    "outlet": "StartupHub.ai",
+    "signal": 2,
+    "entity_overlap": 1
+   }
+  ]
+ },
+ {
+  "truth_title": "Palantir's Karp bashes token-based AI model as 'completely wrong'",
+  "truth_url": "https://eciks.org/15756-alex-karp-ai-industry-criticism",
+  "candidates": [
+   {
+    "rank": 913,
+    "score": 0,
+    "title": "ONDS Stock Slips After-Hours: Retail Shrugs Off Palantir AI Boost As 1.2B Share Plan Sparks Dilution Fears",
+    "outlet": "Stocktwits",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 20,
+    "score": 12,
+    "title": "Steve Dempsey: It’s the economy stupid – Why cheap open-source AI is threatening ‘frontier’ model’s bread and butter",
+    "outlet": "Irish Independent",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 83,
+    "score": 7,
+    "title": "149 Pages Mapping the Long-Horizon Agent Frontier: Multi-University Survey Proposes Harness Engineering and Model Optimization as Two Main Evolution Lines for Next-Generation AI Agents",
+    "outlet": "Pandaily",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 360,
+    "score": 3,
+    "title": "Geopolitical Shifts in AI Model Access Highlight Emerging Infrastructure Investment Themes",
+    "outlet": "TipRanks",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 557,
+    "score": 2,
+    "title": "Opinion | An AI kill switch solves for the wrong problem",
+    "outlet": "The Washington Post",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 804,
+    "score": 1,
+    "title": "Kilo Code Highlights Multi-Model AI Strategy Aligned With Cost-Efficient Routing",
+    "outlet": "TipRanks",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 1159,
+    "score": 0,
+    "title": "As US-Chinese AI model gap narrows, what next for Washington?",
+    "outlet": "The Star",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 1053,
+    "score": 0,
+    "title": "AI Distillation Is a Standard Tool. Washington Is Deciding When It Becomes Model Theft",
+    "outlet": "MLQ.ai",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 967,
+    "score": 0,
+    "title": "AI model that caused panic across tech world goes offline for new users",
+    "outlet": "AOL.com",
+    "signal": 1,
+    "entity_overlap": 0
+   }
+  ]
+ }
+]

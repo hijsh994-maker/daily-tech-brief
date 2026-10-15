@@ -1,0 +1,14 @@
+# [2026-09-17 주의] 이 파일은 newsclips-slack 기능 시험 중 덮어써졌습니다.
+# 그날 실제 주입된 26건은 out/tier0-2026-09-17.json 에 그대로 있습니다(newsclips 26).
+1. “AI 시대 성공스토리 함께 쓰자” SKT, 스타트업 500곳 키운다 (매일경제)
+o 링크: https://v.daum.net/v/20260916172702027
+<https://www.google.com/url?q=https://v.daum.net/v/20260916172702027&source=gmail&ust=1789696012108000&sa=E>
+
+6. 네트워크 운용에 AI 적용 SKT 고장·복구시간 줄어 (조선일보)
+o 링크:
+https://www.chosun.com/economy/tech_it/2026/09/17/OLPKAUGR3ZHTXFJMLSCI5F46JY/
+<https://www.google.com/url?q=https://www.chosun.com/economy/tech_it/2026/09/17/OLPKAUGR3ZHTXFJMLSCI5F46JY/&source=gmail&ust=1789696012108000&sa=E>
+
+16. LG U+ '차량용 AI 에이전트' 연내 출시 (전자신문)
+o 링크: https://v.daum.net/v/20260916160219454
+<https://www.google.com/url?q=https://v.daum.net/v/20260916160219454&source=gmail&ust=1789696012108000&sa=E>

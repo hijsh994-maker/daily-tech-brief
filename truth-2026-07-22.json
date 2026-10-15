@@ -1,0 +1,83 @@
+{
+ "date": "2026-07-22",
+ "items": [
+  {
+   "title": "Google releases three new Gemini models — but no 3.5 Pro",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs",
+   "outlet": "moomoo",
+   "url": "https://www.moomoo.com/news/post/73320122/reducing-ai-costs-is-an-inevitable-trend-meta-aims-to?level=2&data_ticket=1784682187516943",
+   "category": "AI Model"
+  },
+  {
+   "title": "[주목 e-AI] LG ‘엑사원(EXAONE)→AX→윤리’ 3축 AI시대 재편…“산업용 전문가 AI, 글로벌 표준으로”",
+   "outlet": "이코노미톡뉴스",
+   "url": "http://www.economytalk.kr/news/articleView.html?idxno=422912",
+   "category": "독파모(소버린AI)"
+  },
+  {
+   "title": "[단독] 업스테이지 “핵심 AI 개발자 영입, 1인당 100억 쓴다”",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026072176151",
+   "category": "독파모(소버린AI)"
+  },
+  {
+   "title": "공연 추천도 택배 조회도…카카오 찾는 AI 비서들",
+   "outlet": "서울경제",
+   "url": "https://m.sedaily.com/article/20070146",
+   "category": "AI Agentㅤ"
+  },
+  {
+   "title": "Microsoft and Mistral expand strategic partnership to give enterprises frontier AI they can control",
+   "outlet": "Microsoft newsroom",
+   "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "AMD just landed its biggest AI deal yet",
+   "outlet": "TheStreet",
+   "url": "https://www.thestreet.com/technology/amd-microsoft-deal-defies-price-myths",
+   "category": "AI DC"
+  },
+  {
+   "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+   "category": "Physical AI"
+  },
+  {
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "outlet": "OpenAI newsroom",
+   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+   "category": "AI 보안"
+  },
+  {
+   "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+   "outlet": "The Hacker News",
+   "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+   "category": "AI 보안"
+  },
+  {
+   "title": "CuspAI raises $450 million Series B for AI materials discovery",
+   "outlet": "Quartz",
+   "url": "https://qz.com/cuspai-raises-450-million-series-b-ai-materials-foundry-072026",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "“미중, 9월 중 ‘AI 회담’ 추진…최신 모델 기본 조건 합의” - 로이터",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/07/21/2026072120464723206",
+   "category": "기타ㅤ"
+  },
+  {
+   "title": "OpenAI CEO Sam Altman to brief Trump administration on AI safety",
+   "outlet": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/altman-trump-administration-ai-safety-briefing/",
+   "category": "기타ㅤ"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "date": "2026-07-13",
+ "items": [
+  {
+   "title": "오픈AI \"GPT-5.6 솔 울트라, 50년 수학 난제 1시간 만에 증명\"",
+   "outlet": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20260712163409",
+   "category": "AI Model"
+  },
+  {
+   "title": "\"사용자 없을 때도 일한다\" 오픈AI '챗GPT 워크'…GPT-5.6 탑재",
+   "outlet": "뉴시스",
+   "url": "https://v.daum.net/v/20260710091642350",
+   "category": "AI Agent"
+  },
+  {
+   "title": "개인 비서 진화한 갤럭시… '에이전틱 AI 최적화'로 돌파구",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20260708520101",
+   "category": "AI Agent"
+  },
+  {
+   "title": "오픈AI, 가족 전담 제품 관리자 채용…챗GPT 무대 개인서 가정으로",
+   "outlet": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683523",
+   "category": "AI Agent"
+  },
+  {
+   "title": "서울시, 전국 공공기관 최초 실시간 도시데이터 MCP 도입",
+   "outlet": "에너지뉴스",
+   "url": "https://www.2news.co.kr/news/articleView.html?idxno=15317",
+   "category": "AI Agent"
+  },
+  {
+   "title": "\"메타, 삼성과 장기계약…자체 칩 9월 양산, TSMC 생산\"",
+   "outlet": "SBS Biz",
+   "url": "https://v.daum.net/v/20260710080905285",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "'아랍어 AI' 내놓은 코히어, 사우디서 50MW 연산 확보…중동 공략 속도",
+   "outlet": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20260710164936",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "KT클라우드, '금융 특화' 여의도 DC 증설…초저지연 거래 구현",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://v.daum.net/v/20260710101530105",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "북미 이어 한국도 FSD 라이트…'중국산'은 제외",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026071307544861336",
+   "category": "Physical AI"
+  },
+  {
+   "title": "구글·메타가 스마트 글래스 시장에 계속 도전하는 이유는 로봇?... 테슬라조차 없는 1인칭 영상 노린다",
+   "outlet": "조선일보",
+   "url": "https://v.daum.net/v/20260712140437370",
+   "category": "Physical AI"
+  },
+  {
+   "title": "휴머노이드 로봇이 메스 잡았다?…세계 최초 원격 생체수술 성공",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260709000301",
+   "category": "Physical AI"
+  },
+  {
+   "title": "메타, 첫 유료 AI 모델 출시…저커버그 \"가격 매력적일 것\"",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260710000005",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "앤스로픽, 장외 몸값 '1.2조달러' 돌파…오픈AI 제쳐",
+   "outlet": "아시아경제",
+   "url": "https://v.daum.net/v/20260712104638432",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "휴머노이드 개발 홀리데이로보틱스, 1550억원 투자 유치",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20066826",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "'AI동맹' 2년만에… 애플 \"오픈AI가 영업비밀 침해\" 법정싸움",
+   "outlet": "동아일보",
+   "url": "https://v.daum.net/v/20260713043331080",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "\"오픈AI·구글, 블랙리스트 中 기업에 AI 모델 판매 중\"",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20066413",
+   "category": "AI 보안"
+  },
+  {
+   "title": "트럼프 행정부, 중국산 오픈소스 AI 규제 '행정명령' 검토",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212674",
+   "category": "AI 보안"
+  },
+  {
+   "title": "최태원 \"반도체 넘어 AI 서비스 기업 되겠다\"",
+   "outlet": "한국경제",
+   "url": "https://v.daum.net/v/20260712175352949",
+   "category": "인물"
+  },
+  {
+   "title": "Musk tells Tesla staff to switch to Grok — a model he admits is worse",
+   "outlet": "Electrek",
+   "url": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
+   "category": "인물"
+  }
+ ]
+}

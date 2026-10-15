@@ -1,0 +1,18 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-08-25 09:00:03 KST === 
+Message TS: 1787616003.250659
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TZnZyMktUak5GT0hiT3hWTEFFQ0dBRkJRbks3QzZQWm1uTGpNY1RsUms3RVI5dDhzeEVIeDRsX3FReVFzUXQtNElSTEVuQQ?oc=5|AI 에이전트 시대…반도체도 다시 설계한다[핫칩스2026] - 매일경제> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE41ZndMZXF5UWt4VEd1WHNjYUhGTmt5Wk1nUmV6RDNrSzd4WEh3S29GTTlkdUlLb0VxRi04bExIdU15UjgyY1hvTW5EcHNuMjh1VFFrSXY3OHotQQ?oc=5|"AI 해커 vs AI 보안 시대 온다…기업도 스스로 더 자주 공격해야" - 한국경제> 
+- <https://news.google.com/rss/articles/CBMib0FVX3lxTE9haEE1bWd0V3RKcHVJOG43NkJsUnRMQ0JmckY1YmNoR3lCYUIyZzN6cG96RWc1b2k5SlJtSHlHQ0ZEQm1sMWctdEpiUEFYOXZzTkVEWkRBc3BXNC1kOVlncDc2ZzVyWnI1eWRhd2dxRQ?oc=5|[과학]현실이 된 'AI 무단 해킹'...'윤리 원칙' 새로 태어났다 - YTN> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tRk9NNndjN0V6M3ZXTjBhd1JRcENZS2V5SUdvczZBYzhOQnQxRkRZTjlvZkt1T1BvQ2ptWVViVWNLMVdMc1puWTY4QnVEZw?oc=5|[AI Trend Map] 인플루언서 마케팅 AI 솔루션 ‘피처링’ AI가 SNS에서 가짜 영향력을 걸러낸다 - 매일경제> 
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHNHSFMzeXVtVlVLZkJDczFKMUg0NWdzUTA2MkRoSVdVbWxBblltMWZhT0RtSkxnVXIzRUdVaVVTM3l1MkFMeEZxTlFYYWFwZ2RldlBCU3VHWjNndE5tUmQzbW5LcHZzWUt4X0UtU0NlOGsxQnV5bk12d0ZXV0M1clMxWQ?oc=5|AI 타고 날아오른 AR(증강현실) 글라스, VR 시장도 추월한다 - 조선일보> 
+- <https://news.google.com/rss/articles/CBMidkFVX3lxTE1GeVdPQTdjcEVJNjRVbWFpZmx0OTlsSU1lZzRFWGRzS0JkQ3RKM3BqRC1XT3ZfczJRd2dwaTBBY050S3AzRzNTYXhiTXprS2FMVmllSWJtTjF3aWYwVHZqRkRyd1h6eDJZMXNtQXdYNURBMUN3cHfSAWZBVV95cUxOdmItRndFMS1iMDM5cWs3TzY4THJWZndVSE5OWk84Mm8yTFlZbTZuRkVPVXYyaVVxWXZVSmRRNG0tVVRHMzQ2T04xbzR0T1V2TGw2bDRLcUMzbS1vWG51dnJGTHktamc?oc=5|“AI도 ‘기억 조작’ 당한다…에이전트 노리는 신종 해킹 ‘메모리 포이즈닝’ - 동아일보> 
+- <https://news.nate.com/view/20260824n31714|SKT의 미래 AI 전략…최고 모델보다 빠른 피드백과 개선이 승부처> 
+- <https://news.nate.com/view/20260825n01084|제미나이 개발자가 구글 나와 창업한 이유…"AI 변곡점? '이 기술'"> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TT1lGaEdVOG01YmhtaTRibmpRNnRJY0JYdW16TWtfZGVfRjMtYTFrT2JWWkpCSm5UbGZQaXhvX25FRVdXd3JHR2xzb2hZdw?oc=5|정부, 'AI 윤리원칙' 제정…인간중심성·안전성·신뢰성 등 7대 원칙 제시 - 전자신문> 
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHFFUVUyUmVuREtYR1c3RHF3cF9LVFhqT2Y2ZTcwQ1VRbWtSUjAybGw3NVM0RExmNHc2UnNHdUNiOTRmZVN1bTNqTjlCaXYyZzhjNlhCNmZ5ZVhRSVlya0M5VTNEbHBtczVORzlIUXJTSFY0WFB4aFFwUjVWQi1HYTRMWQ?oc=5|AI ‘제3의 부모’ 됐다...美 부모들, AI에 육아 맡겨 - 조선일보> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SLUoxV1EtSFd0aVNmeU1OakdBNFF3czNUdHdkbkttZURiZ0E3el82NktmZ0p1UDFBRi1pWDdjcEFLOURVb2VXdHZTdnZjaGlFZzQ3VDc5R0REZw?oc=5|혼자 실험하고 새 이론 발견…상상 속 'AI 과학자' 현실로 - 한국경제> 
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTcyV3JxUTV4TlJNdjBfLVVrejIwQ015T0gzQkozY2hJYk9IN0hfZ1Bha3BzOGpDYnNjTzJiRndLVTlUWXBlMjRZLWZ1Q1c1eDNCWVZKMjh4Yml5OTNxNmhOZDNpd2doTzE3cUNuek9mMmhZd0U1bVREZEJjVVRERXZqdw?oc=5|최고 성능도 비싸면 안 써… 가성비 AI 찾는 기업들 - 조선일보> 
+- <https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1Z3OUkzRGlBdy1zQ1JYOHV5WEl6OUQySGxvRGthZjJxSlBnV3N3aWd1cWlqRjdTYmhIWUFJS1hGSzY3eUZNN3lWYi1LSWMtaC1wb0FXckZvSndLcEU3X3JjTUlhcjVDMVowMDNaZzhvY21YNHhtTF9CeEdpZElmMWdQWGx1NFphUjRGbE1NTEoxaWVGZy1TbC1oZVE0UTNYdzFlN2pTbGVHSXhFQmpzbEFfMA?oc=5|AI 에이전트가 API 경제의 가장 큰 신규 고객이 되다 - PYMNTS.com> 
+- <https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWUVZbVFUQzI3bm5QamdhV255RVNYUlVQbU9QcEdmNnZ5b2R2Tk9seEpNNGZMM3lHZFhKd1pNRHlwZGlPb2U3RlZ2bWxrcnRwUXozR0ZmZFBRMDNZR3BYVmNrb0J2ZUVIMUY4ZnBFOHVLM0JlS3c?oc=5|수년 만에 첫 구글 홈 스피커, 제미니 탑재, 가격 99달러, 곧 출시 - Mashable>

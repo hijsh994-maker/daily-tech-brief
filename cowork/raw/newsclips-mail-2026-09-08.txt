@@ -1,0 +1,82 @@
+2026년 9월 8일 조간 뉴스 클리핑 분석 결과입니다.
+
+1. ‘모두의 AI’ 1700억 GPU 지원금, 서비스 성과 맞춰 3社에 차등배분 (파이낸셜뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907182610425&source=gmail&ust1788911190960000&sa=E
+
+2. 통신망 넘어 AI로… SKT, 다음 성장 엔진은 AI 데이터센터 (아주경제)
+o 링크: https://www.google.com/url?q=https://www.ajunews.com&source=gmail&ust1788911190960000&sa=E
+
+3. 韓 '6G 생태계 중심' 비전 밝힌다 (전자신문)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907151637250&source=gmail&ust1788911190960000&sa=E
+
+4. '재난현장 소방통신 우선 전송' 정부 적극행정 최우수과제 (전자신문)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/3DytFYcnI2&source=gmail&ust1788911190960000&sa=E
+
+5. 정부, AI두뇌 모시기 사활… 국내 귀환땐 年15억 지원 (머니투데이)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/9QMY9Ulwtt&source=gmail&ust1788911190960000&sa=E
+
+6. 국민참여예산 22배 증액…전국민 AI 활용 지원에 80% 투입 (전자신문)
+o 링크: https://www.google.com/url?q=https://www.etnews.com/20260907000289&source=gmail&ust1788911190960000&sa=E
+
+7. “범죄 AI 에이전트 막아라”…정부, 과학치안 중장기 전략 세운다 (서울경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907174928920&source=gmail&ust1788911190960000&sa=E
+
+8. 방미통위, 유출된 CI 무효화·교체 절차 만든다… “결과 곧 도출” (아주경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907185515329&source=gmail&ust1788911190960000&sa=E
+
+9. 티빙, 개인정보 유출 보상접수 시작 30일까지... 휴면-탈퇴 회원도 대상 (동아일보)
+o 링크: https://www.google.com/url?q=https://www.donga.com/news/amp/all/20260907/134622304/2&source=gmail&ust1788911190960000&sa=E
+
+10. ‘접는 아이폰’ 韓 출시 미뤄져… 삼성, 폴더블 주도권 굳힌다 (전자신문)
+o 링크: https://www.google.com/url?q=https://www.etnews.com/20260907000344&source=gmail&ust1788911190960000&sa=E
+
+11. 애플 첫 폴더블 출시 전부터 삐걱…화웨이·샤오미는 신형 꺼냈다 (서울경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/GQjtZiB3Td&source=gmail&ust1788911190960000&sa=E
+
+12. 칩플레이션에… PC-스마트폰 ‘구매 대신 구독' 확산 (동아일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260908003208636&source=gmail&ust1788911190960000&sa=E
+
+13. 스마트폰 가격 급등… 화면도 직접 교체해 쓴다 (조선일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260908003437663&source=gmail&ust1788911190960000&sa=E
+
+14. “30만편 콘텐츠 +255개 실시간 채널”… SKB, 올인원 구독 'Btv+max' 선봬 (아주경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260701144102023&source=gmail&ust1788911190960000&sa=E
+
+15. 인간 앞서는 '특이점' 왔나… 오픈AI도 젠슨 황도 “AGI 시대 열렸다” (조선일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260908004836835&source=gmail&ust1788911190960000&sa=E
+
+16. “인간 업무 스스로 처리하는 AGI 시대”… 다시 뛴 AI 인프라株 (한국경제)
+o 링크: https://www.google.com/url?q=https://www.hankyung.com/article/2026090795221&source=gmail&ust1788911190960000&sa=E
+
+17. 오픈AI 수석과학자 “인간 초월 AI 개발 늦춰야” (동아일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260908043410965&source=gmail&ust1788911190960000&sa=E
+
+18. 상장 앞둔 앤트로픽, 10년치 컴퓨팅 물량 확보…오픈AI와 인프라 경쟁 (서울경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907184039961&source=gmail&ust1788911190960000&sa=E
+
+19. 빅테크는 지금 'AI 제국' 건설 중 (조선일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260908003550669&source=gmail&ust1788911190960000&sa=E
+
+20. [단독] 데이터센터마저 서울공화국…신청 160곳중 96곳 수도권 몰렸다 (매일경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907173906423&source=gmail&ust1788911190960000&sa=E
+
+21. ‘AI 독립' 외치는 리벨리온에 … 엔비디아는 M&A 손 내밀었다 (한국경제)
+o 링크: https://www.google.com/url?q=https://www.hankyung.com/article/2026090778721&source=gmail&ust1788911190960000&sa=E
+
+22. 이젠 로봇 훈련소… 中 통신사, 피지컬 AI '두뇌 시장' 정조준 (디지털타임스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907165909415&source=gmail&ust1788911190960000&sa=E
+
+23. 네이버 협업툴 '라인웍스' 대만 실리콘밸리에 공급 (서울경제)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907093038395&source=gmail&ust1788911190960000&sa=E
+
+24. 네이버는 6년 전 선보인 유료 멤버십 카카오, 이제서야 출시 나선 속내는 (조선일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907135712875&source=gmail&ust1788911190960000&sa=E
+
+25. 美발전소-원전에 1423억달러 투자, 원전 8기중 2기 '한국형'으로 (동아일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260908043352953&source=gmail&ust1788911190960000&sa=E
+
+26. 반도체 대미투자 'FDI 방식' 별도 논의될 듯 (한국일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907162641890&source=gmail&ust1788911190960000&sa=E
+
+27. '메모리 시장 선도' 삼전닉스 임원들 과학기술 훈장 (한국일보)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260907164927965&source=gmail&ust1788911190960000&sa=E

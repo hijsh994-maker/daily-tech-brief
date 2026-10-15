@@ -1,0 +1,169 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-15 09:51:04 KST === 
+Message TS: 1789433464.739479
+_[텔레그램 로그 2026-09-15] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 11개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 젠슨 황 "AI 멸종론 무책임"…트럼프도 "산업 멈추지 않겠다" (한국경제)
+o 링크: <https://www.hankyung.com/article/202609154696i|hankyung.com/article/202609154696i>
+2. 트럼프, AI 동맹 젠슨 황과 통화 "로봇이 세상 지배 못해"…'속도조절론' 맹비난 (국민일보)
+o 링크: <https://www.kmib.co.kr/article/view.asp?arcid=9000012060|kmib.co.kr/article/view.asp?arcid=9000012060>
+3. 앤트로픽, 2026년 IPO 가능성 유지…AI 안전성 논쟁 (TokenPost)
+o 링크: <https://www.tokenpost.kr/news/ai/407733|tokenpost.kr/news/ai/407733>
+4. 앤트로픽, 자산관리 자문가용 클로드 제품 출시 (TokenPost)
+o 링크: <https://www.tokenpost.kr/news/ai/407806|tokenpost.kr/news/ai/407806>
+5. 오픈AI, 스마트폰 카메라 스타트업 '글래스 이미징' 4043억원에 기습 인수 (파이낸셜뉴스)
+o 링크: <https://www.fnnews.com/news/202609150712385412|fnnews.com/news/202609150712385412>
+6. BRIEF-OpenAI's Top Lobbyist Chris Lehane On Capitol Hill To Meet With Lawmakers (Politico / Reuters 신디케이션)
+o 링크: <https://thedailyguardian.com/world/brief-openais-top-lobbyist-chris-lehane-on-capitol-hill-to-meet-with-lawmakers-politico-757013/|thedailyguardian.com/world/brief-openais-top-lobbyist-chris-lehane-on-capitol-hill-to-meet-with-lawmakers-politico-757013>
+7. Trump privately met with OpenAI's Sam Altman at GOP convention (MS NOW)
+o 링크: <https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations|ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations>
+8. AI 속도전에 브레이크…MS도 "인간 통제 벗어나선 안돼" (파이낸셜뉴스)
+o 링크: <https://www.fnnews.com/news/202609142223380398|fnnews.com/news/202609142223380398>
+9. 오라클(ORCL.N), AI 데이터센터 투자 부담에 감원 확대…구조조정 비용 7억달러 추가 (알파경제)
+o 링크: <https://www.alphabiz.co.kr/news/articleView.html?idxno=185015|alphabiz.co.kr/news/articleView.html?idxno=185015>
+10. We're exploring a potential data center in Lea County, New Mexico. (Google 공식 블로그 The Keyword)
+o 링크: <https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/|blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico>
+11. 애플, 차세대 인텔리전스 결합한 iOS 27 공개... 한국어 10월 지원 (디지털데일리)
+o 링크: <https://www.ddaily.co.kr/page/view/2026091507451038527|ddaily.co.kr/page/view/2026091507451038527>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-15 09:44:53 KST === 
+Message TS: 1789433093.125749
+_(이어서 3/3)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20260914000301|제로모션, 휴머노이드 로봇 학습 데이터 통합 플랫폼 'XERO Humanoid' 출시>
+ㄴ전자신문 2026.09.14
+<https://www.etnews.com/20260914000402|10분에 로봇 1대씩...'로봇이 로봇 만드는 공장' 가동>
+ㄴ전자신문 2026.09.15
+<https://www.seoul.co.kr/news/publicnews/policy_admin/public_org/2026/09/15/20260915500016|경과원, 경기 스타트업 서밋 대표 스타트업 ‘G-Leaders 10’ 선정>
+ㄴ서울신문 2026.09.15
+<https://www.segye.com/newsView/20260914514734|AI.로봇.미래車 혁신기술 대구 총집결>
+ㄴ세계일보 2026.09.15
+<https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/15/20260915017004|대구에서 AI는... 기술 아닌 ‘일상’>
+ㄴ서울신문 2026.09.15 관련뉴스 1건
+<https://signal.sedaily.com/article/20090803|‘7전 8기’ 빅웨이브로보틱스, 공모가 상단 확정 [시그널]>
+ㄴ서울경제 2026.09.15 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091507210298843|화성시 “말로 설명하면 앱이 뚝딱”...17일 전국 첫 ‘AI 화성 챌린지’>
+ㄴ아시아경제 2026.09.15
+<https://www.sedaily.com/article/20090583|로봇에도 챗GPT 모먼트 오나...아스트라 주목한 로봇 권위자[김창영의 실리콘밸리 룩]>
+ㄴ서울경제 2026.09.15
+<https://www.fnnews.com/news/202609150838493757|"AI.미래산업 확대 모색"... 충남도, 中 '첨단굴기' 현장 살핀다>
+ㄴ파이낸셜뉴스 2026.09.15 관련뉴스 1건
+<https://www.news1.kr/industry/general-industry/6290468|"추석에 받고 싶은 가전 1위는 안마의자"...로봇청소기·음식물처리기 선호>
+ㄴ뉴스1 2026.09.15
+
+
+
+*AI기술현황*
+신규 10건
+<https://www.etnews.com/20260915000030|카카오페이, AI 구매 넘어 판매까지...에이전트 AI 결제 생태계 구축>
+ㄴ전자신문 2026.09.15
+<https://www.etnews.com/20260915000020|[NABS 2026 기획] AI 에이전트가 넓힌 앱.API 공격면...아카마이, 프롬프트.모델 응답까지 보호>
+ㄴ전자신문 2026.09.15
+<https://www.sedaily.com/article/20090922|한화운용, HBM.AI 반도체 소부장 ETF 2종 상장>
+ㄴ서울경제 2026.09.15 관련뉴스 1건
+<https://www.news1.kr/industry/sb-founded/6290182|"셀러 백오피스 반복업무 AI가 해결"...e커머스, 에이전트 도입 속도전>
+ㄴ뉴스1 2026.09.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091508535242949|'PLUS 코리아HBM반도체'·'PLUS AI반도체소부장액티브' 신규 상장>
+ㄴ아시아경제 2026.09.15
+<https://www.etnews.com/20260915000009|베스핀글로벌, 업스테이지와 손잡고 국산 LLM 기반 공교육 AI 고도화>
+ㄴ전자신문 2026.09.15
+<https://www.kukinews.com/article/view/kuk202609150012|美 반도체 6% 급락...‘AI 속도조절론’이 상승세 꺾나>
+ㄴ쿠키뉴스 2026.09.15 관련뉴스 2건
+<https://biz.heraldcorp.com/article/10873387|AI 속도 조절론에 반도체株 ‘와르르’...美 3대 지수 동반 하락 [투자360]>
+ㄴ헤럴드경제 2026.09.15
+<https://www.sedaily.com/article/20090885|AI 속도조절론에 반도체지수 5.9% ↓...사우디 송유관 폐쇄에 국제유가 상승 [데일리국제금융]>
+ㄴ서울경제 2026.09.15
+<https://www.news1.kr/world/international-economy/6290380|AI '속도조절론'에 미국 반도체주 초토화...SK하닉 나스닥 상장주 7.6%↓>
+ㄴ뉴스1 2026.09.15
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-15 09:44:24 KST === 
+Message TS: 1789433064.468709
+_(이어서 2/3)_
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20260915000030|카카오페이, AI 구매 넘어 판매까지...에이전트 AI 결제 생태계 구축>
+ㄴ전자신문 2026.09.15
+<https://www.etnews.com/20260915000020|[NABS 2026 기획] AI 에이전트가 넓힌 앱.API 공격면...아카마이, 프롬프트.모델 응답까지 보호>
+ㄴ전자신문 2026.09.15
+<https://www.etoday.co.kr/news/view/2625515|NH아문디운용, 에이전틱 AIㆍ인프라 기업 담은 ETF 출시>
+ㄴ이투데이 2026.09.15 관련뉴스 2건
+<https://www.news1.kr/industry/sb-founded/6290182|"셀러 백오피스 반복업무 AI가 해결"...e커머스, 에이전트 도입 속도전>
+ㄴ뉴스1 2026.09.15
+<https://www.news1.kr/local/moi/6289133|카카오페이 대표가 말하는 '금융 AI에이전트'...서울핀테크위크 개최>
+ㄴ뉴스1 2026.09.14
+<https://www.fnnews.com/news/202609141039012309|"개발자 없이 재무팀이 AI 만든다"...삼일PwC, AI 에이전트 실전교육>
+ㄴ파이낸셜뉴스 2026.09.14 관련뉴스 3건
+<https://www.news1.kr/world/northeast-asia/6289323|"中 AI 토큰 소비 4년 뒤 350배"...대형모델서 'AI 에이전트'로>
+ㄴ뉴스1 2026.09.14
+<https://www.etnews.com/20260914000253|AI 에이전트로 '팀' 구성...한컴, 세계 최초 AI 워크포스 플랫폼 '노마디안' 출시>
+ㄴ전자신문 2026.09.14 관련뉴스 4건
+<https://www.news1.kr/it-science/cc-newmedia/6290561|SKT, AI 주문·결제 'RCS로 최종 승인'...글로벌 표준 제안>
+ㄴ뉴스1 2026.09.15
+<https://www.news1.kr/it-science/cc-newmedia/6290573|KT, IBC 2026서 AI 미디어 기술 공개...글로벌 사업자와 협력 논의>
+ㄴ뉴스1 2026.09.15
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091509014474947|UNIST, '전기 먹는 하마' AI 데이터센터 비용 48%·탄소 72% 감축 길 열었다>
+ㄴ아시아경제 2026.09.15
+<https://biz.chosun.com/international/international_general/2026/09/15/BY4Q3NAIAJE47JXMTOEJR2TOSI/|“美 체감 경제가 중간선거 승부처... 표심 변수는 AI.데이터센터”>
+ㄴ조선비즈 2026.09.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091416294247787|[클릭 e종목]GS건설, AI데이터센터 사업 본격화...목표주가 상향>
+ㄴ아시아경제 2026.09.15 관련뉴스 2건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091417361638810|[클릭 e종목] "삼성중공업, FLNG·바다 위 데이터센터 잇단 수주 기대">
+ㄴ아시아경제 2026.09.15
+<https://www.segye.com/newsView/20260914520472|트럼프 “AI.데이터센터에 대한 역겨운 음모...中만 기뻐할 것”>
+ㄴ세계일보 2026.09.14 관련뉴스 4건
+<https://www.seoul.co.kr/news/politics/diplomacy/2026/09/15/20260915006004|한·우즈베크, 핵심 광물·데이터센터 등 6대 사업 발굴 손잡았다>
+ㄴ서울신문 2026.09.14
+<https://www.fnnews.com/news/202609141840210167|데이터센터.AI 힘주는 건설업계, 하반기 젊은피 대거 수혈>
+ㄴ파이낸셜뉴스 2026.09.14 관련뉴스 2건
+<https://www.kukinews.com/article/view/kuk202609140227|동해시 AI 데이터센터 연계 정책ㆍ사업 효율성 극대화 전념>
+ㄴ쿠키뉴스 2026.09.14 관련뉴스 1건
+<https://www.fnnews.com/news/202609141516164642|데이터센터, 폐열 재활용하니 총비용 절반 '뚝'>
+ㄴ파이낸셜뉴스 2026.09.14 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2625398|GS, 동해 AI데이터센터 15조 조달계획 공개...PF·자기자본 투입>
+ㄴ이투데이 2026.09.14
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-15 09:43:57 KST === 
+Message TS: 1789433037.123439
+_[텔레그램 로그 2026-09-15] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 15일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091417071233992|구글, AI 개발 빨간불...고성능 모델 출시 지연에 커지는 의구심>
+ㄴ아시아경제 2026.09.15
+<https://www.etnews.com/20260915000020|[NABS 2026 기획] AI 에이전트가 넓힌 앱.API 공격면...아카마이, 프롬프트.모델 응답까지 보호>
+ㄴ전자신문 2026.09.15
+<https://www.etnews.com/20260915000009|베스핀글로벌, 업스테이지와 손잡고 국산 LLM 기반 공교육 AI 고도화>
+ㄴ전자신문 2026.09.15
+<https://www.sedaily.com/article/20090821|“중국 앞서야” 트럼프 AI 속도조절론 일축...텐센트 새 모델 전세계 이용률 1위로>
+ㄴ서울경제 2026.09.15
+<https://www.news1.kr/local/sejong-chungbuk/6289834|교육행정에 AI 더한다...충북교육청 '맞춤형 모델' 개발 착수>
+ㄴ뉴스1 2026.09.14 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/2026/09/14/20260914500183|네이버 웨일.호랑에듀, 공교육 AI.디지털 교육 협력... 현장 적용 모델 발굴>
+ㄴ서울신문 2026.09.14 관련뉴스 1건
+<https://www.etnews.com/20260914000187|위즈코어, KRAIN 2026서 피지컬 AI 기반제조 자율 운영 모델 소개>
+ㄴ전자신문 2026.09.14
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091411191677593|항우연에 'AI 두뇌' 만든다...3000억 파라미터 모델도 내부서 가동>
+ㄴ아시아경제 2026.09.14
+<https://www.news1.kr/world/northeast-asia/6289492|美 AI 속도조절론 속 中즈푸AI, 50억弗 조달..."차세대모델 개발">
+ㄴ뉴스1 2026.09.14
+<https://www.news1.kr/world/northeast-asia/6289323|"中 AI 토큰 소비 4년 뒤 350배"...대형모델서 'AI 에이전트'로>
+ㄴ뉴스1 2026.09.14
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

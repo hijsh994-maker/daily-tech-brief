@@ -1,0 +1,89 @@
+{
+ "date": "2026-06-30",
+ "items": [
+  {
+   "title": "DeepSeek V4 set to launch in mid-July with peak hour pricing that doubles current rates",
+   "outlet": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/deepseek-v4-launch-peak-hour-pricing/",
+   "category": "AI Model"
+  },
+  {
+   "title": "국산 AI 'K엑사원' 포털 줌에 들어간다",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026062948541",
+   "category": "AI Model"
+  },
+  {
+   "title": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text—Without Surgery",
+   "outlet": "Decrypt",
+   "url": "https://decrypt.co/372338/meta-brain2qwerty-ai-brain-activity-text",
+   "category": "AI Model"
+  },
+  {
+   "title": "Gemini's personalized AI image generation is now free for U.S. users",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+   "category": "AI Model"
+  },
+  {
+   "title": "원전·화력발전까지 총동원…'AI 인프라 전력' 국가가 책임진다",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026062949511",
+   "category": "AI DC"
+  },
+  {
+   "title": "[테크 차이나] 애플, 중국 CXMT 메모리 도입 검토…글로벌 DRAM 시장 판도 흔드나",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260629000214",
+   "category": "AI DC"
+  },
+  {
+   "title": "삼성·하닉·마이크론, 美서 메모리 담합 혐의로 피소",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20061486",
+   "category": "AI DC"
+  },
+  {
+   "title": "Claude in Microsoft Foundry is now generally available",
+   "outlet": "Anthropic blog",
+   "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "한국형 인큐텔 설립 추진… AI·사이버보안 국가전략산업 육성",
+   "outlet": "조선비즈",
+   "url": "https://n.news.naver.com/article/366/0001175343",
+   "category": "AI 보안"
+  },
+  {
+   "title": "Agentjacking: coding agents with fake Sentry errors",
+   "outlet": "Tenet Security blog",
+   "url": "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+   "category": "AI 보안"
+  },
+  {
+   "title": "Sen. Mark Warner Plans Bill to Regulate AI Agents",
+   "outlet": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sen-mark-warner-plans-bill-to-regulate-ai-agents/",
+   "category": "AI 보안"
+  },
+  {
+   "title": "정부, 반도체·피지컬AI·AI 데이터센터에 1350조원 투자",
+   "outlet": "이데일리",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=04716646645486640&mediaCodeNo=257&OutLnkChk=Y",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "Amazon shifts Anthropic AI billing to token model, disputes report of higher costs",
+   "outlet": "Investing.com[[Investing.com]]",
+   "url": "https://in.investing.com/news/stock-market-news/amazon-shifts-anthropic-ai-billing-to-token-model-disputes-report-of-higher-costs-5475326",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

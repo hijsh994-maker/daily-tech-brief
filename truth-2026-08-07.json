@@ -1,0 +1,107 @@
+{
+ "date": "2026-08-07",
+ "items": [
+  {
+   "title": "알파폴드3 활용한 AI모델 개발 '신약 물질 정확도 높인다'",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608061022342590",
+   "category": "AI Model"
+  },
+  {
+   "title": "카카오 \"AI 인프라 대신 에이전틱 AI로 승부\"",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260806174202428",
+   "category": "AI Agent"
+  },
+  {
+   "title": "네이버, 20년 부동산 데이터 AI로 묶는다…'에이전트'로 진화",
+   "outlet": "뉴스1",
+   "url": "https://v.daum.net/v/20260807060256490",
+   "category": "AI Agent"
+  },
+  {
+   "title": "中 통신사, 'AI 토큰'으로 분기 2兆 벌었다…한국도 사업화 시동",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260806163209553",
+   "category": "AI Agent"
+  },
+  {
+   "title": "오픈AI, 챗GPT 무료 무제한 채팅 제공",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608070727033525",
+   "category": "AI Agent"
+  },
+  {
+   "title": "'AI 가격 파괴' 딥시크도 결국 올린다…IPO 앞두고 전략 수정",
+   "outlet": "동아일보",
+   "url": "https://v.daum.net/v/20260806152155872",
+   "category": "AI Agent"
+  },
+  {
+   "title": "LGU+, AIDC에 2조 투자…\"외부 조달 없이 단계적 확장\"",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260806000339",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "[컨콜] 최수연 네이버 대표 \"AI 팩토리, 내년 상반기 55㎿…매출 나올것\"",
+   "outlet": "머니투데이",
+   "url": "https://v.daum.net/v/20260807093209014",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "글로벌 AI 데이터센터 건설 붐… 드론·디지털 트윈 기반 '콘테크' 도입 가속",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608061019188285",
+   "category": "Physical AI"
+  },
+  {
+   "title": "AI 투자 경쟁, 조달 금리 싸움으로",
+   "outlet": "조선일보",
+   "url": "https://v.daum.net/v/20260807004215806",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "'현금흐름 적자' 알파벳, 36조원 회사채 발행…주문 164조원 몰려",
+   "outlet": "SBS Biz",
+   "url": "https://v.daum.net/v/20260807053302072",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "오픈AI 첫 AI 기기 윤곽…'도넛 모양'에 가격은 300~400달러",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260807000003",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "메타 AI도 멋대로 해킹…'자율 AI' 위험 현실 됐다",
+   "outlet": "서울신문",
+   "url": "https://v.daum.net/v/20260807050622794",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "월가 헤지펀드도 노렸다…美 'AI 보이스피싱 주의보'",
+   "outlet": "한국경제",
+   "url": "https://v.daum.net/v/20260806180651403",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "카카오, 정부 주관 'AI에이전트 마켓플레이스 개발 지원' 사업자 선정",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608061328100590",
+   "category": "국책과제"
+  },
+  {
+   "title": "국산 AI 반도체로 피지컬 AI 실증…올해 600억 투입",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260806000410",
+   "category": "국책과제"
+  },
+  {
+   "title": "경북도, 한국형 AI 기반 가상공장 플랫폼 개발 착수…내년 에코프로비엠 제조현장에 실증",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260807000009",
+   "category": "국책과제"
+  }
+ ]
+}

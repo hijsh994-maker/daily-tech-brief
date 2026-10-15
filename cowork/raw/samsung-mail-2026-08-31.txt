@@ -1,0 +1,25 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/8/31)
+
+1. '모델보다 유통망'…오픈AI-커서 '결별 수순'이 드러낸 AI 플랫폼 주도권 (테크42 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260831085154209
+
+2. OpenAI resets Codex and ChatGPT Work usage limits after fixing multiple overconsumption bugs (daily.dev)
+o 링크: https://daily.dev/posts/openai-resets-codex-and-chatgpt-work-usage-limits-after-fixing-multiple-overconsumption-bugs-ftkpeycch
+
+3. 실리콘밸리 투자거물, 1.5조원 AI하드웨어 펀드 '기계시대' 조성 (SBS Biz / Daum뉴스)
+o 링크: https://v.daum.net/v/8yQI4o5TZX?f=p
+
+4. Anthropic is cutting Claude Code's current weekly limits by 17% (BleepingComputer)
+o 링크: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/
+
+5. “스위프트 노래 훔쳤다”…또 소송당한 앤트로픽 (중앙일보 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260831003108615
+
+6. Less pervert-y? Meta AI glasses will now stop recording if you cover the warning light (Tom's Guide)
+o 링크: https://www.tomsguide.com/ai/less-pervert-y-meta-ai-glasses-will-now-stop-recording-if-you-cover-the-warning-light
+
+7. Silicon Valley's Other China Problem: It's Training Their AI (Forbes)
+o 링크: https://www.forbes.com/sites/annatong/2026/08/05/silicon-valleys-other-china-problem-its-training-their-ai/
+
+8. AI TRENDS | Notion plans about 30% workforce expansion this year (Binance Square)
+o 링크: https://www.binance.com/ar/square/post/08-28-2026-ai-trends-notion-plans-about-30-workforce-expansion-this-year-360604622810969

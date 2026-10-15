@@ -1,0 +1,855 @@
+{
+ "date": "2026-09-09",
+ "generated_at": "2026-09-09T14:33:33",
+ "counts": {
+  "slack": 10,
+  "samsung": 18,
+  "adot": 0,
+  "newsclips": 25
+ },
+ "warnings": [
+  "[포맷변경] 'samsung' 헤더는 있으나 0건 파싱됨. 로그 포맷이 바뀌었을 수 있음 - 파서 점검 필요",
+  "[포맷변경] 'adot' 헤더는 있으나 0건 파싱됨. 로그 포맷이 바뀌었을 수 있음 - 파서 점검 필요"
+ ],
+ "items": [
+  {
+   "src": "slack",
+   "title": "거대한에이아이실험실, 베트남 'InnoEx 2026' 참가…AI 콘텐츠 제작 플랫폼 소개",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260909000012",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82RFJsOGlqdFRUZjZiX1dmX3pEbF9mRDZqYWtXMEZNcWxhcGNWSDVnMTVveThNT1pHZ3ppTG15MTQ5SlNOMzJIZkdzeGU?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "세계 1위 로펌 키맨의 AI 실험…국내 로펌들도 공존 방식 고민",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.investchosun.com/site/data/html_dir/2026/09/08/2026090880193.html",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORl96dDBFTWhmeGdoaTAxSzF3TTlvZkVEQVNtYnIwLXl1OU9PNVlvM3BKU3hGNDJBV05uc0RMd21qaURiU1BKaUxGbTRlMkRYdTNhWV9qZ2E0WEVhelNqM0MwLTZhOEQ1Z2ZSZ1pQajBNdVBXX19HLXh0T3dQVG5GNGhsMA?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "정재헌 SKT 대표 \"승부처는 AIDC…AI 네이티브 기업으로 도약\"",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://view.asiae.co.kr/article/2026090715192614124",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://news.nate.com/view/20260908n07498",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "구글·블랙스톤 6.7조 AI 프로젝트 ‘삐걱’…데이터센터 장비난·규제에 발목",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": null,
+   "url_via": null,
+   "confidence": "unresolved",
+   "portal_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbEU5eWszWjVraGtTdFJ5d25kR0UyLWpsYWFNRjNzVjJkOVI4VjB5OG1QbXR1eWJ4R0hfYzZqS3p2b0Y5bkJXOEFKOG1JRWcyUEJsNEYtN1BSa1E?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "“상무는 챗GPT, 전무는 클로드 쓰자네요”…AI모델 홍수 속 기업들 결정장애",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.mk.co.kr/article/12146777",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jV3g3N0dhUG1aQWVIYmNra3I1TTlEQVFORnVzbmRsQlF6R0RWWThFekZ1ZGdoWXMycC1CT0NMUmVZRnpXbWhfZHlJTU80QQ?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "'국제AI·메타버스영상제' 마침표…32억원 규모 수출상담",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.newsis.com/view/NISX20260908_0003780064",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://news.nate.com/view/20260908n08761",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "퀄컴-아마존 '맞손'...80조원 차세대 AI칩 동맹",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.sbs.co.kr/article_hub/20000333495?division=NAVER",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QSUVEWTRPNmppV3BKWFpjdDNGcUw1d01nMDdLU21vMTRaUVkyLVI3d1VKTU9PUnFRSWFHMlpiUlFJcm5VOExYZFlrZmZ6bFFsOTQ1ZjJiT0nSAVhBVV95cUxNUElFRFk0TzZqaVdwSlhaY3QzRnFMNXdNZzA3S1NtbzE0WlFZMi1SN3dVSk1PT1JxUUlhRzJaYlJRSXJuVThMWGRZa2ZmemxRbDk0NWYyYk9J?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "메타, 소비자용 '쉬운' AI 에이전트 '뮤즈' 공개…대부분 기능 '무료'",
+   "outlet": "Nate News",
+   "pub_date": "2026-09-08",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.fnnews.com/news/202609090419066714",
+   "url_via": "webkr",
+   "confidence": "review",
+   "portal_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3FnZkpVdk5HZkFnakV0N3dBWmZ6SFFjTE1DLWlsUGQ0N1Y3SlhiTGFzVkFQQnY2cHkxSzd2YlpwOERKLVZOOGtkdThRTzloZzBBUWlpWmUyS2UzU3J3QjhPUkFhR1pROW9ybW1JNWpMSmZWdjRwV0cyY3Atcnh1c3E1Q28zVnRGLTlmS1ZGQkRPY0xYVjU40gGcAUFVX3lxTE05R3lsWEZfZjV6WkRZNndRZU8wZWhUZDViT0tYYU1VWlpSTUpFNkpra2EzS0JCcl9ySzRCWTR4enJoVDdoTXFfcElqQ0hJZ0JVeXRWSU11ZWlnOElBbW9XYjFLVEtybktUMWlhU01DOC1VcVFGaktNeTl1eFNGYmowYjZZTzY5SnkzcllGdUl5N1NfWlprVmh2TFVoeQ?oc=5",
+   "translated_title": "메타, 개인 AI 에이전트로 진출…프라이버시와 안전 문제에 직면",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "OpenClaw 2.0 출시",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": null,
+   "url_via": null,
+   "confidence": "unresolved",
+   "portal_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qU1NxR01NZm4xVmNjZVB6T1NnZVlIYUk0YVhJYjIzOS1GM0czMmNObmRPZkdybHR0YXlJb0dON1VtNGY2NFo4WVF4R19xVXRKQy11MWFJYkVhS2VTZml2QVdXX2RWdzdOMFE?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "애플, OpenAI 비밀 소송에서 ‘충격적인 증거’ 공개",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": null,
+   "url_via": null,
+   "confidence": "unresolved",
+   "portal_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVJ1eVp6dVdQZE1TaG9uczl2TzdNRllEWGkzNV9IVUtPYnVtclpSMFRBeU9kcXRaeU9QMlVJUmRVUkl0VFUxdXlFemc1NU5OMnRlQzdzaVVHSHlNMVQzQ3FycEZJQ05jRjU4MlFUU1liOGNRWDBUVXBWQWs2SXg0SGtHWlhFdzNQUEk4cEJ1SQ?oc=5",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "newsclips",
+   "title": "*SKT 'T로밍 데이터 추가' 연말까지 연장*",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260908000185",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*“AI는 석유 이을 차세대 전략자산... SKT 통신망처럼 전국 인프라 구축”*",
+   "outlet": "아시아경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/8Z3Lz8tWcn",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*SKT, 호라이즌-하이퍼와 삼각편대… AIDC 승부수*",
+   "outlet": "아시아경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908100653314",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*'한국판 미토스' 개발社 설립에 미래기금 4.7조*",
+   "outlet": "매일경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908180626647",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*“나눠먹기식 지원땐 최상위 AI모델 못 만들어”*",
+   "outlet": "매일경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908180614632",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*자본력으로 쏟아부은 혜택…가입자 절반 이통3사에 몰렸다*",
+   "outlet": "머니투데이",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909040201974",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*특화 요금땐 보조금 정책지원 고민할 때*",
+   "outlet": "머니투데이",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909042149106",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*정작 LTE 도매대가 인하는?… 알맹이 빠진 2.0*",
+   "outlet": "머니투데이",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909041637095",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*KT 네트워크 '4각 편대'로… 4개 계열사 전문성 강조*",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908150109488",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*KT·KAIST·다임리서치 '무인 공장' 사업화 협력*",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908111437215",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*LG U+ 월 5500원 '홈캠 라이트'…해킹 보험도*",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260908000022",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*유출된 '온라인 주민번호' 2차 피해 우려…유효기간제 서둘러야*",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908160253778",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*국가AI전략위 2기 'AI 핵심 공급망 국가' 시동*",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908180509587",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*프롬프트 입력창에 기업명 버젓이… 국가대표 AI 사업 '부실 심사' 논란*",
+   "outlet": "이데일리",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908082838723",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*방송·OTT 경쟁하는 사이… 시청시간 삼킨 유튜브·틱톡*",
+   "outlet": "디지털타임스",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908162609906",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*접는 아이폰 공개 이틀 전... 中, 신형 폰으로 선공*",
+   "outlet": "조선일보",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909003510670",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*삼성전자, 미스트랄과 ‘반도체 특화 AI' 공동 개발하기로*",
+   "outlet": "조선일보",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909010318942",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*삼성전자 \"차세대 ASML 노광장비로 D램 만든다\"*",
+   "outlet": "한국경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.hankyung.com/article/2026090820061",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*진료 데이터·검색 앞세운 네이버, ‘의료AI 사업' 본격 시동*",
+   "outlet": "한국경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.hankyung.com/article/2026090819651",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*AI데이터센터 용수 예산 호남권에 우선 배정한다*",
+   "outlet": "세계일보",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909060415816",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*“한국, 유럽과 AI 연대 땐 美中 종속에서 벗어날 것\"*",
+   "outlet": "조선일보",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909010320943",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*“韓日 송전망부터 연결 필요”*",
+   "outlet": "조선일보",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909003409667",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*“한일 뭉치면 세계 4위 경제권... 에너지 공동구매·비축 서둘러야”*",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908120437100",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*라포랩스, 홈쇼핑 전문가 박승표 前 KT알파 대표 영입*",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908112243776",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "newsclips",
+   "title": "*SK브로드밴드, DC 빠진 자리 ‘AI·콘텐츠'로 메꾼다*",
+   "outlet": "아시아투데이",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260908010003062",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "newsclips"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "오픈AI, 7대 수학 난제 '나비에-스토크스 방정식' 풀었다",
+   "outlet": "파이낸셜뉴스",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909083906914",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Introducing ChatGPT Images 2.5",
+   "outlet": "OpenAI",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": null,
+   "url_via": null,
+   "confidence": "unresolved",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "OpenAI just anchored an Australian company's Malaysian data centres",
+   "outlet": "The Next Web",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://thenextweb.com/news/firmus-openai-anchor-customer-malaysia-900mw-asx-ipo",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "이메일 쓰고 쇼핑 결제까지…메타, AI에이전트 '뮤즈' 출시",
+   "outlet": "연합뉴스",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909075452688",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Scoop: Anthropic breaks from major tech group over chips",
+   "outlet": "Axios",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.axios.com/2026/09/08/anthropic-breaks-tech-group-chips",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "\"앤트로픽·오픈AI IPO 이후 투자적격 등급 확보 추진\"",
+   "outlet": "연합뉴스",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908154842011",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "구글·블랙스톤 6.7조 AI 프로젝트 '삐걱'…데이터센터 장비난·규제에 발목",
+   "outlet": "중앙일보",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.joongang.co.kr/gmc/article/25460285",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "알파게놈 아틀라스: 인간 게놈에서 가능한 모든 DNA 염기 변화를 예측하는 지도",
+   "outlet": "Google 공식 블로그",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://blog.google/intl/ko-kr/company-news/technology/alphagenome-atlas-kr/",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "액센츄어(ACN.N)·구글 클라우드, '제미나이 엔터프라이즈' 사업그룹 출범…기업 AI 도입 지원",
+   "outlet": "알파경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=182862",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "맞춤형 실리콘부터 1.6T 광 연결까지... 퀄컴-아마존, AI 인프라 동맹",
+   "outlet": "디지털데일리",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260909090448947",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "네비우스그룹, 팔란티어와 AI 인프라 공급 파트너십 체결… 주권형 AI 스택 제공",
+   "outlet": "매일경제",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.mk.co.kr/news/stock/12147653",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Oracle (ORCL.N) has issued a request for proposals for a 2-gigawatt renewable energy project in New Mexico",
+   "outlet": "Futubull",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://news.futunn.com/en/flash/20723540/oracle-orcln-has-issued-a-request-for-proposals-for-a",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "ERCOT 배치제로, IREN 2GW 스위트워터 허브 기저부하 조건부 포함",
+   "outlet": "증권플러스 뉴스룸",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://newsroom.stockplus.com/breaking-news/34242",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Do it all with Devin: Announcing our Series E",
+   "outlet": "Cognition",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://cognition.com/blog/series-e",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "일레븐랩스, 최고수익책임자 오픈AI서 영입…글로벌 사업 가속",
+   "outlet": "지디넷코리아",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://v.daum.net/v/20260908104553575",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "런웨이 AI, 비디오 도구 수요 급증에 2억 달러 매출 달성 - 블룸버그",
+   "outlet": "Investing.com 한국어",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2086982",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "[참고] DeepSeek, 멀티모달 지원 'V4.1 Flash' 테스트 시작",
+   "outlet": "promppy",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.promppy.com/item/1519801",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "China-Based Artificial Intelligence Companies Conducting Industrial-Scale Knowledge Distillation of U.S. AI Models",
+   "outlet": "CISA",
+   "pub_date": "2026-09-09",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  }
+ ]
+}

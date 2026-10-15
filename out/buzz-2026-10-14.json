@@ -1,0 +1,426 @@
+{
+ "date": "2026-10-14",
+ "terms": [
+  {
+   "term": "EmbeddingGemma",
+   "norm": "embeddinggemma",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "HuggingFace",
+    "Investing.com 한국어",
+    "MarkTechPost",
+    "The Next Web",
+    "Unite.AI",
+    "https://www.ababnews.com/"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 1,
+   "community": 3,
+   "titles": [
+    "Unite.AI(10-07) | DeepMind, EmbeddingGemma 2 출시, 다섯 가지 모달리티를 하나의 공간에 매핑",
+    "Investing.com 한국어(10-07) | 구글, 온디바이스 멀티모달 검색용 EmbeddingGemma 2 출시",
+    "The Next Web(10-07) | Google launches EmbeddingGemma 2, an open multimodal embedding model for devices",
+    "HN | We turned EmbeddingGemma 2 into a speech-to-text model"
+   ],
+   "score": 21
+  },
+  {
+   "term": "Reflection",
+   "norm": "reflection",
+   "n_outlets": 104,
+   "n_today": 3,
+   "outlets": [
+    "AI Business",
+    "AI Insider",
+    "AI Magazine",
+    "ASHARQ AL-AWSAT English",
+    "Analytics Insight",
+    "Axios",
+    "Beinsure",
+    "Belaaz"
+   ],
+   "days": 6,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "techflowpost.com(10-06) | TechFlow 인텔리전스: OKX, NYSE 모회사와 제휴해 토큰화 주식 거래 출시… NVIDIA 지원 Reflection이 오픈소스 모델로 ",
+    "Kingy AI(10-06) | Reflection AI Factory: Sovereign Clouds & Compute",
+    "OrcaRouter | Muse Wonder vs Reflection Beam: 하나는 요금표이고, 다른 하나는 약속입니다",
+    "OrcaRouter | Muse Wonder vs Reflection Beam: Kartu Tarif vs Janji",
+    "Yahoo Finance | Nvidia (NVDA) Is In Advanced Talks To Acquire Reflection AI"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Maia",
+   "norm": "maia",
+   "n_outlets": 31,
+   "n_today": 15,
+   "outlets": [
+    "Axios",
+    "Barron's",
+    "Cloud Computing News",
+    "Data Center Knowledge",
+    "DataCenterDynamics",
+    "Fierce Network",
+    "Foreign Policy Journal",
+    "Free Press Journal"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Korea IT Times(10-13) | [투데이 시그널] 마이크로소프트, 자체 AI 칩 Maia 300 공개…엔비디아 의존도 낮춘다",
+    "Unite.AI(10-13) | 마이크로소프트, Maia 300 AI 칩 발표…Azure 멀티 기가와트 규모로 확장",
+    "TradingView(10-13) | Microsoft Stocks Rise as Million-Chip Maia Plan Targets Inference Costs",
+    "TIKR.com | Microsoft Reveals Next-Gen Maia 300 Custom AI Chip For Widespread Deployment",
+    "Data Center Knowledge | Microsoft Pushes Custom AI Chips with Azure Maia 300",
+    "TechTarget | Microsoft bets on Azure Maia chips to stretch AI data center power"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Gigawatts",
+   "norm": "gigawatts",
+   "n_outlets": 4,
+   "n_today": 2,
+   "outlets": [
+    "Bloomberg.com",
+    "Gadget Review",
+    "NextBigFuture.com",
+    "TIKR.com"
+   ],
+   "days": 3,
+   "first": "2026-10-08",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Gadget Review(10-08) | 60.4 Gigawatts and Counting: How AI Data Center Energy Demand Is Driving a U.S. ",
+    "Bloomberg.com(10-13) | Microsoft Prepares to Put Gigawatts of Its Chips in Data Centers",
+    "TIKR.com | Enerflex Soars 13% on Gigawatt Data Center Power Award, Backlog Now “Over 1.75 G",
+    "NextBigFuture.com | Meta Building AI Data Centers in Tents and Amazon Building Gigawatts of Power fo"
+   ],
+   "score": 11
+  },
+  {
+   "term": "해킹 대중화",
+   "norm": "해킹대중화",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "뉴스1"
+   ],
+   "days": 2,
+   "first": "2026-10-08",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "뉴스1(10-08) | [흔들린 보안시계]AI가 낮춘 문턱…'해킹 대중화' 시대",
+    "뉴스1 | 日 덮친 AI발 '해킹 대중화' 공포…기업·관공서 피해 급증",
+    "뉴스1 | 日 덮친 AI발 '해킹 대중화' 공포…기업·관공서 피해 급증"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Ipsos",
+   "norm": "ipsos",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Axios",
+    "The Lufkin Daily News"
+   ],
+   "days": 2,
+   "first": "2026-10-08",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "The Lufkin Daily News(10-08) | Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos ",
+    "Axios | Axios-Ipsos poll: \"Medicare for All\" support surges"
+   ],
+   "score": 8
+  },
+  {
+   "term": "포스트 HBM",
+   "norm": "포스트hbm",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "서울신문",
+    "직썰"
+   ],
+   "days": 2,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "서울신문(10-12) | ‘포스트 HBM’ 부상한 로봇용 D램…삼전닉스·마이크론, 휴머노이드 메모리 주목",
+    "직썰 | 세미콘 웨스트, ‘포스트 HBM’ 격전지로…K소부장, 영토 확장 나선다"
+   ],
+   "score": 8
+  },
+  {
+   "term": "엑스박스 랩스",
+   "norm": "엑스박스랩스",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "디지털투데이",
+    "인벤"
+   ],
+   "days": 1,
+   "first": "2026-10-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "디지털투데이 | MS, AI 게임 실험 조직 '엑스박스 랩스' 신설",
+    "인벤 | MS, AI 게임 디컴파일 열풍 공식 수용...'엑스박스 랩스' 출범",
+    "디지털투데이 | MS, AI 게임 실험 조직 '엑스박스 랩스' 신설"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Fourier",
+   "norm": "fourier",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | A look at the math that OpenAI claims computes faster Fourier transforms"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Idle Apple Silicon Devices",
+   "norm": "idleapplesilicondevices",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices"
+   ],
+   "score": 7
+  },
+  {
+   "term": "예/아니오",
+   "norm": "예/아니오",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "애플경제"
+   ],
+   "days": 1,
+   "first": "2026-10-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "애플경제 | ‘예/아니오’ 단답형 ‘의사결정’ 모델 ‘열풍’"
+   ],
+   "score": 6
+  },
+  {
+   "term": "Amazfit",
+   "norm": "amazfit",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "note"
+   ],
+   "days": 1,
+   "first": "2026-10-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "note | [아마존 프라임 감사제] Amazfit 최대 약 49% 할인! 화제의 Balance 3 첫 세일 및 하코네 역전 드라마 채용 모델 철저 공략 가"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "말모이체",
+   "norm": "말모이체",
+   "n_outlets": 16,
+   "n_today": 1,
+   "outlets": [
+    "Daum",
+    "JTBC",
+    "나눔경제뉴스",
+    "뉴스락",
+    "리드경제",
+    "메트로신문",
+    "서울경제TV",
+    "시사캐스트"
+   ],
+   "days": 4,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "이투데이(10-07) | SKT, 자체 AI 모델로 100년 전 우리말 되살렸다…'말모이체' 제작",
+    "리드경제(10-07) | SKT, 100년 전 ‘말모이’ AI로 되살렸다…‘말모이체’로 재탄생",
+    "아이티비즈(10-07) | SKT, AI가 100년 전 우리말 잇는다…글꼴 '말모이체' 재탄생",
+    "팍스경제TV | [리포트] SK텔레콤, 100년 전 ‘말모이’ AI로 잇는다…새 글꼴 ‘말모이체’ 만들어"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Atlassian",
+   "norm": "atlassian",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "AFR",
+    "Atlassian",
+    "BigGo Finance",
+    "Breakingthenews.net",
+    "Business Wire",
+    "Crypto Briefing",
+    "ET Enterprise AI",
+    "FourWeekMBA"
+   ],
+   "days": 5,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(10-07) | Atlassian and OpenAI expand partnership to bring frontier models into Jira and C",
+    "VentureBeat(10-07) | Atlassian deepens its OpenAI partnership with a spend commitment — but its platf",
+    "Breakingthenews.net(10-07) | OpenAI, Atlassian expand AI partnership",
+    "finance.biggo.com | Atlassian CEO: Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust"
+   ],
+   "score": 10
+  },
+  {
+   "term": "취임 6년",
+   "norm": "취임6년",
+   "n_outlets": 20,
+   "n_today": 4,
+   "outlets": [
+    "Investing.com 한국어",
+    "PRESS9",
+    "www.dt.co.kr",
+    "공공뉴스",
+    "녹색경제신문",
+    "뉴스핌",
+    "뉴시스",
+    "디지털데일리"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-12) | 정의선 취임 6년, 영업익 폭스바겐 추월...다음 승부수는 ’피지컬 AI’ By EBN",
+    "서울경제TV(10-12) | 정의선 취임 6년…글로벌 3위 넘어 'AI 사업 수익화' 과제로",
+    "아이뉴스24(10-12) | 취임 6년 정의선⋯'피지컬 AI' 수익성 입증 과제",
+    "공공뉴스 | [정의선 취임 6년] 글로벌 톱3 찍은 현대차그룹, 피지컬 AI로 변속",
+    "오피니언뉴스 | '취임 6년' 정의선 회장 \"인도에 21조원 투자\"...현대차, '글로벌 사우스' 시장 선점 박차",
+    "미주중앙일보 | 취임 6년 정의선, 모디 만나 20조원 투자 약속…현대차, 인도에 승부수"
+   ],
+   "score": 9
+  },
+  {
+   "term": "홈뷰",
+   "norm": "홈뷰",
+   "n_outlets": 15,
+   "n_today": 10,
+   "outlets": [
+    "AI 매터스",
+    "IT조선",
+    "SBS Biz",
+    "www.dt.co.kr",
+    "글로벌이코노믹",
+    "디자인 나침반",
+    "디지털투데이",
+    "블로터"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털투데이(10-12) | 애플 '홈뷰' 베일 벗는다…시리 AI 품고 11월 출시, LG와 협업",
+    "지디넷코리아(10-12) | 애플 스마트홈 신제품은 ‘홈뷰’…11월 중순 출시 유력",
+    "이데일리(10-12) | 애플 ‘홈뷰’ 13일 공개…스마트홈 허브 공략[모닝폰]",
+    "포커스온경제 | 애플, 스마트홈 시장 공략 강화 나서-AI 홈 허브 '홈뷰' 공개",
+    "글로벌이코노믹 | 애플, 299달러 ‘홈뷰’ 공개…AI 시리 내세워 스마트홈 시장 공략",
+    "디지털투데이 | 애플, '홈뷰'로 이번엔 스마트홈 시장 재편할까?"
+   ],
+   "score": 9
+  },
+  {
+   "term": "SSAFY",
+   "norm": "ssafy",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "CBC뉴스",
+    "samsung.com",
+    "경제타임스",
+    "글로벌이코노믹",
+    "뉴스토마토",
+    "뉴스핌",
+    "매일일보",
+    "미디어파인"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "samsung.com(10-12) | “나의 가능성에 AI를 더하다” 청년 SW∙AI 인재 키우는 SSAFY 17기 모집",
+    "뉴스토마토(10-13) | 삼성전자, SSAFY 17기 교육생 모집…교육 70% AI에 집중",
+    "세계일보(10-13) | 삼성전자 ‘SSAFY’ 역대 최대 교육생 모집",
+    "경제타임스 | \"月100만원 주며 AI 교육\"…삼성 SSAFY, 17기 모집"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Hadrian",
+   "norm": "hadrian",
+   "n_outlets": 10,
+   "n_today": 2,
+   "outlets": [
+    "AI Insider",
+    "AI Magazine",
+    "EU-Startups",
+    "FinTech Global",
+    "Financial IT",
+    "Konsulteer",
+    "SiliconANGLE",
+    "Techzine Global"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SiliconANGLE(10-07) | Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit",
+    "Konsulteer(10-07) | Hadrian Raises $40M for AI Offensive Security",
+    "Techzine Global(10-07) | Dutch security startup Hadrian raises 36 million euros",
+    "AI Magazine | What is Hadrian? How an Offensive Cyber Startup Raised $40m",
+    "Financial IT | Hadrian Raises $40M to Tackle the AI Hacking Cybersecurity Crisis"
+   ],
+   "score": 9
+  }
+ ]
+}

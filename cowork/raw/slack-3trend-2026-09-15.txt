@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-15 09:00:00 KST === 
+Message TS: 1789430400.247599
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbUxtM3B2YUs5U2VWczBTSEhtcy14SG51NE5fSlJRRmNnZjhYU1hTbXhCWXZJNVJQdGxXdl9pVzBhN0MzcHBKb1hFbWZvcmVQdjRGZUdMTlVBUQ?oc=5|젠슨 황 “AI 멸종론 무책임”…트럼프도 “산업 멈추지 않겠다” - 한국경제> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KQThfQ0RqOWtGU3ljOHl0MlcwbUtOeFE3N1VGNVkwY0JFYXhUc01WcUdTVWw2QjkxMW1ybVpIZGRlX0liSTM3YU9oNzhXOEZBMzdma2N3?oc=5|“역대급 성능” 믿었는데…아스트라도 휘말린 ‘AI 성적표의 배신’ - 중앙일보> 
+- <https://news.nate.com/view/20260914n25984|AI 스타트업 31곳, 美 실리콘밸리서 구글·엔비디아와 협력 논의> 
+- <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UZXY3RjQtaU5lM3lhOE9kYTlQS1hkbDZhcTMwcjBYMW1HUFlHdHFYUkNSdGpFQ1I3MlpKNVJMdFZ4S01xTVZWcjVqSnJzbzBMTmd4STRQa1pidGpHc211dA?oc=5|크롬 벗어난 제미나이…구글 공세에 네이버 긴장 - 뉴스토마토> 
+- <https://news.google.com/rss/articles/CBMibkFVX3lxTE5GZWVtaVNWbVBGTTdybjBVYTA2LW9EenVUZzJhcUNibTExQjFpX1BiZDNUMm9kZDVFLVVhQUtHdUp3cldiYVVDdV9HZ2RCUjlMOFpoMmJvZC1GOGkzNUMybFBkNjVnd2xkYV82XzNn0gFuQVVfeXFMTkZlZW1pU1ZtUEZNN3JuMFVhMDYtb0R6dVRnMmFxQ2JtMTFCMWlfUGJkM1Qyb2RkNUUtVWFBS0d1SndyV2JhVUN1X0dnZEJSOUw4WmgyYm9kLUY4aTM1QzJsUGQ2NWd3bGRhXzZfM2c?oc=5|美 실리콘밸리서 韓 AI 스타트업 기술 선보여 - 뉴스1> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QTVhYNWpnTno5OGhDM3F4blVDa0NyS2swcDJvYTNSRTV6WnlLYkFtcU5IWkZGNGVsaGlzWl81OUp6OVdaZ1R2ZlI0Undadw?oc=5|SK텔레콤, AI 개발자 지원 플랫폼 '에이닷 콘솔' 띄운다 - 전자신문> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wOTRTend4M1NRMXd1YkVuNDNieWpfZzA1M0RyM19paWJyUld6bkg2UTNFeEJhbWZNYlF1S2JEbHRsUGhpRVNLX2VJbmlFMGJFRERPNTlOalBNSjg?oc=5|“챗GPT 우대 말라” 애플 저격한 머스크…돌연 소송 취하 - 중앙일보> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE80T3pWODQ2bl9NcjlYYVBRRXJESEdRbWIyNXhQakRGOXREd1dmbzgxaHRKRERVR1JHTkFyRkdZUDk3T2NPcnRTc3lFZk81cXB3SVFVVFVB?oc=5|퍼플렉시티, GPT-6 아스트라에 프로덕션 시스템 맡겼다…"확인 빈도 크게 줄어" - 지디넷코리아> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBZlFjTzB2NnJMVEw3dUNHX1FSclNNSk1ncGhEM1Q3MVFJWk1YeXNlcVBSUmhKUTV3bHJCV2RrMzlyVmhrTkZBSTNKRGwxUDdMSk5JRzJpNVd4c2PSAWBBVV95cUxQN24tZ25VNkx0dE1yNVZsdjROTzlORzVxSXQ4TmVlRGlidzFWX0lEOWcxSHZlZEZXaFNheUVxQXRWZUFQMFktNi1fbFE1U2N1N2tUYXNjSnQtUmpRb2duSjg?oc=5|앞에선 AI속도조절 한목소리…뒤에선 'IPO·주도권' 복잡한 셈법 - 연합뉴스> 
+- <https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDlhV0R5X2VLZ2h6akVKWHBIckRzVVJMMVdnbHBvZjRNY3dOTDNLQlRlQlVBTXh6NmhNaEFVdnhxTnBtN1BMWGxVLUJTRF9iYVNiR2hMcy1GUGRWZHRHc1hUOUdYVjRjUVJIbHZhQjZ1V09uUGt2M1lSeVFMX2E5U21Ld0N4UG5TN21oT0l3SWMzZURkR2Z4V1pTemg2WWtPbTN5ZkduM0JGOXowV0xMVml0eTI3VjQ?oc=5|AI 거버넌스가 런타임으로 이동하고 있으며, 규제 산업이 먼저 도달하고 있다 - VentureBeat> 
+- <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSC1HOXpaRUhXR3lZTlN5M3d5dGFyOEp6SWl4Vm50Ym1RUVN2ZWtLRkZfY2NDYkhscmNuZm9FeFlFNHYzRUNscGV3V0QwMmJScklkRXhNYnlFUlJ4M0JBaGM1eU1hYjVIMGRneTNJMzdpUjlENmtPYUdfaXNPZFZpOFNqS3hFOUZNU1lHRm5uOU5OT1dTd2FkNEswWUsyeHl3WUtIVUt0TXlBbWpTUHBNdkFlVTV6NlBweUNZZmZqQWlaNE9UdUFkLWExU0U2UlJGUTQtT1BEeWF1aTF4?oc=5|패션 앱 데이드림, 애플 인텔리전스를 활용해 카메라 롤의 의상을 쇼핑하는 데 도움을 준다 - TechCrunch>

@@ -1,0 +1,107 @@
+{
+ "date": "2026-09-15",
+ "items": [
+  {
+   "title": "'AI 속도 조절론'에도…한국은 '속도전', 독파모 3인방 '소버린 AI' 기술 확보 총력",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10873630",
+   "category": "AI Model"
+  },
+  {
+   "title": "모두의 AI, 10월 베타 거쳐 12월 정식 출시…카톡, 전화로 쓰는 국산 AI 나온다",
+   "outlet": "디어리포인트",
+   "url": "https://www.diarypoint.com/news/articleView.html?idxno=5435",
+   "category": "AI Agent"
+  },
+  {
+   "title": "카카오페이, AI 구매 넘어 판매까지…에이전트 AI 결제 생태계 구축",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260915000030",
+   "category": "AI Agent"
+  },
+  {
+   "title": "애플, 차세대 인텔리전스 결합한 iOS 27 공개…한국어 10월 지원",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026091507451038527",
+   "category": "AI Agent"
+  },
+  {
+   "title": "AI데이터센터 특별법 시행령 윤곽…'골디락스 존' 찾기 본격화",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026091409450992778",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "\"AIDC '알박기' 막아야\"…전력계통평가 신청 93%가 데이터센터",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260911000258",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "KT클라우드, 2031년까지 20여곳에 1GW 이상 AI 데이터센터 공급",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/tech/2026/09/15/2026091509371830116",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "GS, 동해 AI데이터센터 15조 조달계획 공개…PF·자기자본 투입",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2625398",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "오픈AI, 휴머노이드 로봇 직접 만든다…올트먼 \"누구나 개인용 로봇 가져야\"",
+   "outlet": "비즈월드",
+   "url": "http://www.bizwnews.com/news/articleView.html?idxno=146107",
+   "category": "Physical AI"
+  },
+  {
+   "title": "유니트리, 휴머노이드 '범용 두뇌' 공개…60억 파라미터 모델 오픈소스화",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=48474",
+   "category": "Physical AI"
+  },
+  {
+   "title": "제로모션, 휴머노이드 로봇 학습 데이터 통합 플랫폼 'XERO Humanoid' 출시",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260914000301",
+   "category": "Physical AI"
+  },
+  {
+   "title": "\"예산만 정하면 광고는 알아서\"…네카오, AI로 800만 소상공인 노린다",
+   "outlet": "머니투데이",
+   "url": "https://v.daum.net/v/20260915040210997",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "\"국내 최초 앤트로픽 품어\"…삼성SDS, 원스톱AI 도입 체계 강화",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/tech/2026/09/15/2026091416051980136",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "KISIA \"보안 특화 AI, 네이버클라우드와 협력\"",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260914134739882",
+   "category": "AI 보안&정책"
+  },
+  {
+   "title": "트럼프, AI 동맹 젠슨 황과 통화 \"로봇이 세상 지배 못해\"…'속도조절론' 맹비난",
+   "outlet": "국민일보",
+   "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012060",
+   "category": "AI 보안&정책"
+  },
+  {
+   "title": "MS \"인간이 AI보다 중요\"…'AI통제' 행동강령 내놨다",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10873335",
+   "category": "AI 보안&정책"
+  },
+  {
+   "title": "오픈AI, 스마트폰 카메라 스타트업 '글래스 이미징' 4043억원에 기습 인수",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202609150712385412",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

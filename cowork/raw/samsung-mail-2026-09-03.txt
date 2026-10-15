@@ -1,0 +1,37 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/9/3)
+
+1. 메타, 코딩 개선된 뮤즈 스파크 1.3 공개 (Investing.com 한국어)
+o 링크: https://kr.investing.com/news/stock-market-news/article-93CH-2082562
+
+2. 구글, 보안 특화 신규 AI모델 선보여…취약점 탐지와 자동 패치 강점 (디지털데일리)
+o 링크: https://www.ddaily.co.kr/page/view/2026090305214687362
+
+3. 미국 정부, 뉴욕타임스·오픈AI 소송서 오픈AI 손 들어줘 (디지털데일리 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260903053720503
+
+4. 美 상무 "앤트로픽, 올바른 편으로 돌아왔다"…수개월 갈등 후 화해 (뉴스1 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260903031841367
+
+5. Anthropic upgrades Claude's computer use to run in the background on Mac (9to5Mac)
+o 링크: https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/
+
+6. HPE and Oracle Deepen Networking Collaboration to Accelerate Gigawatt-Scale AI Infrastructure (Business Wire)
+o 링크: https://www.businesswire.com/news/home/20260902894449/en/HPE-and-Oracle-Deepen-Networking-Collaboration-to-Accelerate-Gigawatt-Scale-AI-Infrastructure
+
+7. CrowdStrike and OpenAI Expand Partnership to Secure the Agentic Era (CrowdStrike)
+o 링크: https://www.crowdstrike.com/en-us/press-releases/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/
+
+8. CrowdStrike Brings the Falcon Platform to the Anthropic Claude Marketplace (CrowdStrike)
+o 링크: https://www.crowdstrike.com/en-us/press-releases/crowdstrike-brings-falcon-platform-to-anthropic-claude-marketplace/
+
+9. 엔비디아, 오픈소스 AI 플랫폼 허깅페이스 19조원에 인수 (한국경제)
+o 링크: https://www.hankyung.com/article/202609020518i
+
+10. AI teammates that finish the work | Grok Bot (SpaceXAI)
+o 링크: https://x.ai/bot
+
+11. API Overview - Protocol Compatibility (Kimi / Moonshot AI)
+o 링크: https://platform.kimi.ai/docs/api/overview
+
+12. 월드랩스, 사진 몇 장으로 3D 공간 만드는 AI '아틀라스' 공개 (지디넷코리아)
+o 링크: https://zdnet.co.kr/view/?no=20260902153722

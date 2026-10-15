@@ -1,0 +1,436 @@
+{
+ "date": "2026-10-13",
+ "terms": [
+  {
+   "term": "Reflection",
+   "norm": "reflection",
+   "n_outlets": 101,
+   "n_today": 22,
+   "outlets": [
+    "AI Business",
+    "AI Insider",
+    "AI Magazine",
+    "ASHARQ AL-AWSAT English",
+    "Analytics Insight",
+    "Axios",
+    "Beinsure",
+    "Belaaz"
+   ],
+   "days": 5,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "techflowpost.com(10-06) | TechFlow 인텔리전스: OKX, NYSE 모회사와 제휴해 토큰화 주식 거래 출시… NVIDIA 지원 Reflection이 오픈소스 모델로 ",
+    "Kingy AI(10-06) | Reflection AI Factory: Sovereign Clouds & Compute",
+    "TIKR.com | Nvidia Negotiates Investment or Acquisition of Open Source Startup Reflection AI",
+    "AI Insider | Week Ahead in AI: Report of Decart Acquisition by Amazon, Nvidia Investment in R",
+    "Mobile World Live | Nvidia weighs Reflection AI acquisition"
+   ],
+   "score": 15
+  },
+  {
+   "term": "ARTEX",
+   "norm": "artex",
+   "n_outlets": 31,
+   "n_today": 1,
+   "outlets": [
+    "BBS불교방송",
+    "BleepingComputer",
+    "Chosunbiz",
+    "Crypto Briefing",
+    "Cyber Kendra",
+    "Daum",
+    "GitHub",
+    "OBS경인TV"
+   ],
+   "days": 5,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "edaily.co.kr(10-06) | 금융권 해킹 추정 서버서 발견된 AI 도구 ‘ARTEX’는 무엇인가",
+    "데일리시큐(10-06) | [이슈 분석] 금융권 공격서 포착된 ‘ARTEX AI’… 분석 결과 14개 국가·지역서 ARTEX 관련 고유 IP 359개 발견돼",
+    "BBS불교방송(10-07) | 한국 금융사 해킹에 중국 AI 에이전트 'ARTEX' 악용 정황",
+    "TechGig | ARTEX AI, Claude agents used in South Korean bank cyberattacks"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Wikimedia",
+   "norm": "wikimedia",
+   "n_outlets": 19,
+   "n_today": 1,
+   "outlets": [
+    "BleepingComputer",
+    "Bloomberg.com",
+    "CPO Magazine",
+    "Dark Reading",
+    "Engadget",
+    "ExtremeTech",
+    "Gizmodo",
+    "HN"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Wikimedia Foundation(10-06) | OpenAI “rogue” agent activities found on Wikimedia projects",
+    "Engadget(10-06) | Wikimedia Links OpenAI Agents To An Outage And Unauthorized Activity",
+    "The Record from Recorded Future News(10-06) | Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes too",
+    "CPO Magazine | Wikimedia: Rogue AI Agents Traced Back to OpenAI Made Unauthorized Edits, Attemp"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Haiku",
+   "norm": "haiku",
+   "n_outlets": 37,
+   "n_today": 1,
+   "outlets": [
+    "Benzinga",
+    "BigGo Finance",
+    "Brand Icon Image",
+    "Breakingthenews.net",
+    "CNBC",
+    "CoinGape",
+    "Firstpost",
+    "Forkast News"
+   ],
+   "days": 3,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Investing.com 한국어(10-08) | Anthropic, 저비용 고속 Haiku 5.5 출시로 AI 모델 라인업 확장",
+    "Unite.AI(10-08) | Anthropic, Claude Haiku 5.5 출시, 소형 모델 API 가격 인하",
+    "TechTarget(10-08) | Anthropic opens cyber program applications, releases cheaper Haiku",
+    "MIXED Reality News | A 2,000 by 1,500 photo costs 2.5 times the visual tokens on Claude Haiku 5.5 as "
+   ],
+   "score": 14
+  },
+  {
+   "term": "Claude Haiku",
+   "norm": "claudehaiku",
+   "n_outlets": 24,
+   "n_today": 1,
+   "outlets": [
+    "Benzinga",
+    "Brand Icon Image",
+    "Breakingthenews.net",
+    "CoinGape",
+    "Firstpost",
+    "GIGAZINE",
+    "HN",
+    "ISSUE ON (이슈온)"
+   ],
+   "days": 3,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-08) | Anthropic, Claude Haiku 5.5 출시, 소형 모델 API 가격 인하",
+    "Kingy AI(10-08) | Claude Haiku 5.5: Benchmarks, Specs, Pricing and How It Compares with GPT-6 Sol ",
+    "Benzinga(10-08) | Anthropic Takes Aim At AI Costs With Claude Haiku 5.5",
+    "MIXED Reality News | A 2,000 by 1,500 photo costs 2.5 times the visual tokens on Claude Haiku 5.5 as "
+   ],
+   "score": 14
+  },
+  {
+   "term": "각 세종",
+   "norm": "각세종",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "CBC뉴스",
+    "nbn 시사경제",
+    "대전인터넷신문"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "대전인터넷신문(10-07) | 세종시, 또 1조8천억 AI데이터센터…‘각 세종’ 고용이 남긴 숙제",
+    "CBC뉴스(10-12) | NAVER 주가 18만원대 하락…축구장 41개 규모 ‘각 세종’, AI·로봇 인프라 주목",
+    "nbn 시사경제 | 네이버 '각 세종' 필두로 21조 투자…충청, 데이터센터 블랙홀 되나"
+   ],
+   "score": 10
+  },
+  {
+   "term": "자금난·독립성",
+   "norm": "자금난독립성",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스"
+   ],
+   "days": 1,
+   "first": "2026-10-13",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "AI타임스 | 미국 정부 AI 규제 공백 속 제3자 평가 기관 급부상...'자금난·독립성' 과제도 부각",
+    "AI타임스 | 미국 정부 AI 규제 공백 속 제3자 평가 기관 급부상...'자금난·독립성' 과제도 부각"
+   ],
+   "score": 10
+  },
+  {
+   "term": "지슨",
+   "norm": "지슨",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "뉴시스",
+    "테크월드",
+    "포인트데일리"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴시스(10-12) | 지슨, AI 해킹 시대 보안 수혜주 부각…무선백도어 탐지",
+    "테크월드 | 잇따른 금융사고에 '지슨' AI 보안 수혜주로 부상…'무선백도어' 탐지 기술 주목",
+    "포인트데일리 | 지슨, AI 해킹 시대 무선보안 수혜주 부상…5대 은행 공급·상반기 매출 7배"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Unprecedented Test",
+   "norm": "unprecedentedtest",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "Yahoo Finance"
+   ],
+   "days": 2,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Yahoo Finance(10-12) | Anthropic IPO Could Be 2026’s ‘Most Ridiculous’ Offering as Analyst Values AI Fi",
+    "HN | Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'"
+   ],
+   "score": 9
+  },
+  {
+   "term": "무선백도어",
+   "norm": "무선백도어",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "뉴시스",
+    "테크월드"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴시스(10-12) | 지슨, AI 해킹 시대 보안 수혜주 부각…무선백도어 탐지",
+    "테크월드 | 잇따른 금융사고에 '지슨' AI 보안 수혜주로 부상…'무선백도어' 탐지 기술 주목"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Morning Brief",
+   "norm": "morningbrief",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "www.christophe-barraud.com",
+    "深潮TechFlow"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "深潮TechFlow(10-12) | Crypto Morning Brief: Manus Raises Over $500 Million in New Funding Round, Coint",
+    "www.christophe-barraud.com | Morning Brief: Trump Says Putin to Supply U.S. With Diesel; RBI Intervenes to Su"
+   ],
+   "score": 8
+  },
+  {
+   "term": "DailyRecipe",
+   "norm": "dailyrecipe",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "스타트업레시피"
+   ],
+   "days": 2,
+   "first": "2026-10-07",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "스타트업레시피(10-07) | [DailyRecipe] 드론‧폐기물 처리…국가 AI 대상이 주목한 10개 기업",
+    "스타트업레시피 | [DailyRecipe] 오늘부터 이틀간…국산 피지컬 AI 한자리에 모인다"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Atlassian",
+   "norm": "atlassian",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "AFR",
+    "Atlassian",
+    "BigGo Finance",
+    "Breakingthenews.net",
+    "Business Wire",
+    "Crypto Briefing",
+    "ET Enterprise AI",
+    "FourWeekMBA"
+   ],
+   "days": 4,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(10-07) | Atlassian and OpenAI expand partnership to bring frontier models into Jira and C",
+    "VentureBeat(10-07) | Atlassian deepens its OpenAI partnership with a spend commitment — but its platf",
+    "Breakingthenews.net(10-07) | OpenAI, Atlassian expand AI partnership",
+    "BigGo Finance | Atlassian's Mike Cannon-Brookes: \"Headless Is Brainless\" in the Agent Era, and M"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Fast Company",
+   "norm": "fastcompany",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "Business Wire",
+    "IT Brief Asia",
+    "Lelezard",
+    "NewswireToday",
+    "PR Newswire",
+    "iTWire",
+    "크래프톤"
+   ],
+   "days": 4,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Lelezard(10-07) | Archetype AI Builds Momentum in Physical AI with Fast Company Recognition and Ma",
+    "PR Newswire(10-07) | SAS named to Fast Company's 2026 Next Big Things in Tech list",
+    "Business Wire(10-07) | Credo AI’s GAIA Named to Fast Company’s 2026 Next Big Things in Tech List",
+    "NewswireToday | SAS Named to Fast Company's 2026 Next Big Things in Tech list - Software - SAS I"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Teens",
+   "norm": "teens",
+   "n_outlets": 21,
+   "n_today": 3,
+   "outlets": [
+    "ABC News - Breaking News, Latest News and Videos",
+    "AI Insider",
+    "Axios",
+    "Digital Trends",
+    "FindArticles",
+    "FourWeekMBA",
+    "Fox Business",
+    "Futurism"
+   ],
+   "days": 3,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Unbox PH(10-08) | Congress approve Social Media Ban for Teens bill on Second Reading",
+    "Reuters(10-08) | OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks g",
+    "OpenAI(10-08) | Helping teens learn, plan, and shape the future of AI",
+    "Startup Fortune | Common Sense Media rates OpenAI's ChatGPT for Teens an unacceptable risk",
+    "The New York Times | Why My Conversations With ‘ChatGPT for Teens’ Made Me Very Worried",
+    "Transparency Coalition | Report finds ChatGPT for Teens fails to deliver on safety promises"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Windows PCs",
+   "norm": "windowspcs",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "Investor Relations | Dell Technologies",
+    "NVIDIA Blog",
+    "NeoTeo",
+    "PYMNTS.com",
+    "Tech Wire Asia",
+    "Techish Kenya",
+    "The Tech Buzz",
+    "Unite.AI"
+   ],
+   "days": 3,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "NVIDIA Blog(10-08) | NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI",
+    "PYMNTS.com(10-08) | Microsoft Turns Windows PCs Into Command Centers for AI Agents",
+    "Techish Kenya(10-08) | Microsoft wants Windows PCs to build apps with local AI",
+    "Tech Wire Asia | Microsoft and Nvidia bring AI models and agents to Windows PCs"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Sovereign Triple-L",
+   "norm": "sovereigntriplel",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "Adomonline.com",
+    "Independent Newspaper Nigeria",
+    "Nigeria Communications Week",
+    "Tech Build Africa",
+    "Techeconomy"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Adomonline.com(10-06) | AIT President calls for ‘Sovereign Triple-L’ mindset to thrive in AI age",
+    "Tech Build Africa(10-07) | AIT President Champions ‘Sovereign Triple-L’ For Lifelong Learning In AI Era",
+    "Techeconomy(10-07) | AIT President Urges “Sovereign Triple-L” Mindset as AI Redefines Work and Learni",
+    "Independent Newspaper Nigeria | AIT President Advocates “Sovereign Triple-L” Mindset As AI Reshapes Future Of Wo"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Sovereign Triple",
+   "norm": "sovereigntriple",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "Adomonline.com",
+    "Independent Newspaper Nigeria",
+    "Nigeria Communications Week",
+    "Tech Build Africa",
+    "Techeconomy"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Adomonline.com(10-06) | AIT President calls for ‘Sovereign Triple-L’ mindset to thrive in AI age",
+    "Tech Build Africa(10-07) | AIT President Champions ‘Sovereign Triple-L’ For Lifelong Learning In AI Era",
+    "Techeconomy(10-07) | AIT President Urges “Sovereign Triple-L” Mindset as AI Redefines Work and Learni",
+    "Independent Newspaper Nigeria | AIT President Advocates “Sovereign Triple-L” Mindset As AI Reshapes Future Of Wo"
+   ],
+   "score": 8
+  }
+ ]
+}

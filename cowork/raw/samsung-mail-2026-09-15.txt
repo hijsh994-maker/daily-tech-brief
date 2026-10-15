@@ -1,0 +1,27 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 11개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 젠슨 황 "AI 멸종론 무책임"…트럼프도 "산업 멈추지 않겠다" (한국경제)
+o 링크: [hankyung.com/article/202609154696i](https://www.hankyung.com/article/202609154696i)
+2. 트럼프, AI 동맹 젠슨 황과 통화 "로봇이 세상 지배 못해"…'속도조절론' 맹비난 (국민일보)
+o 링크: [kmib.co.kr/article/view.asp?arcid=9000012060](https://www.kmib.co.kr/article/view.asp?arcid=9000012060)
+3. 앤트로픽, 2026년 IPO 가능성 유지…AI 안전성 논쟁 (TokenPost)
+o 링크: [tokenpost.kr/news/ai/407733](https://www.tokenpost.kr/news/ai/407733)
+4. 앤트로픽, 자산관리 자문가용 클로드 제품 출시 (TokenPost)
+o 링크: [tokenpost.kr/news/ai/407806](https://www.tokenpost.kr/news/ai/407806)
+5. 오픈AI, 스마트폰 카메라 스타트업 '글래스 이미징' 4043억원에 기습 인수 (파이낸셜뉴스)
+o 링크: [fnnews.com/news/202609150712385412](https://www.fnnews.com/news/202609150712385412)
+6. BRIEF-OpenAI's Top Lobbyist Chris Lehane On Capitol Hill To Meet With Lawmakers (Politico / Reuters 신디케이션)
+o 링크: [thedailyguardian.com/world/brief-openais-top-lobbyist-chris-lehane-on-capitol-hill-to-meet-with-lawmakers-politico-757013](https://thedailyguardian.com/world/brief-openais-top-lobbyist-chris-lehane-on-capitol-hill-to-meet-with-lawmakers-politico-757013/)
+7. Trump privately met with OpenAI's Sam Altman at GOP convention (MS NOW)
+o 링크: [ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations](https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations)
+8. AI 속도전에 브레이크…MS도 "인간 통제 벗어나선 안돼" (파이낸셜뉴스)
+o 링크: [fnnews.com/news/202609142223380398](https://www.fnnews.com/news/202609142223380398)
+9. 오라클(ORCL.N), AI 데이터센터 투자 부담에 감원 확대…구조조정 비용 7억달러 추가 (알파경제)
+o 링크: [alphabiz.co.kr/news/articleView.html?idxno=185015](https://www.alphabiz.co.kr/news/articleView.html?idxno=185015)
+10. We're exploring a potential data center in Lea County, New Mexico. (Google 공식 블로그 The Keyword)
+o 링크: [blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/)
+11. 애플, 차세대 인텔리전스 결합한 iOS 27 공개... 한국어 10월 지원 (디지털데일리)
+o 링크: [ddaily.co.kr/page/view/2026091507451038527](https://www.ddaily.co.kr/page/view/2026091507451038527)
+
+## 텔레그램 - 에이닷비즈뉴스레터

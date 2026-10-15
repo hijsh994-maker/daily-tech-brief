@@ -1,0 +1,20 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-17 09:00:09 KST === 
+Message TS: 1789603209.111179
+- <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMXBuVkZyLUhYeUxaeE5xV3Q1RlN0aTZkVVBkaXQtaEZNeG9qR1pJOGxvd0JsWFpzNGY5Mkd6TmpIWGJILURTbVVtX0RzZTV4TnVVX0pqbGktOHpoNkZSS0ZUMU9LZ9IBZkFVX3lxTE4wMXBuVkZyLUhYeUxaeE5xV3Q1RlN0aTZkVVBkaXQtaEZNeG9qR1pJOGxvd0JsWFpzNGY5Mkd6TmpIWGJILURTbVVtX0RzZTV4TnVVX0pqbGktOHpoNkZSS0ZUMU9LZw?oc=5|DX 넘어 AX로… AI 통해 국민 안전의 패러다임 바꿔 - 동아일보> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdUEtQUVpVU4tbUxkNkNhQ1Etcy03TnVoZHNpd0d5WkdPNzhBenI1U05TT2ZpNWxDMVMxX0o3bThoRV9EUlVJWjNCbjVGX3E0V215RnRjSG9kbGc?oc=5|유엔 총장 “안전장치 없는 AI 경쟁, 거대한 재앙 초래할 수도” - KBS 뉴스> 
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMlhXUkoxS0g0YzZNRXo4SWZWY3lPWFV5dGhVSF82MVN5ZTdxamZvRlV1ZVdod2RkdmpnYUxVOE0wQ0lwU1RzeHdEaURCcHNoWDhNMjRmX2VucV90SmQ4ckdJMnpUVWV6dzU4YlVzNFVjczdH0gF0QVVfeXFMTmsyWFdSSjFLSDRjNk1FejhJZlZjeU9YVXl0aFVIXzYxU3llN3FqZm9GVXVlV2h3ZGR2amdhTFU4TTBDSXBTVHN4d0RpREJwc2hYOE0yNGZfZW5xX3RKZDhyR0kyelRVZXp3NThiVXM0VWNzN0c?oc=5|[에이전틱 AI 맵 2026] 오브젠, 고객 데이터에서 캠페인 실행까지 연결…기업용 에이전틱 AI 확대 - IT조선> 
+- <https://news.nate.com/view/20260916n08445|대기업 'AI 데이터센터 서버 핵심' 고밀도 소재 개발…"구글과 동시...> 
+- <https://news.nate.com/view/20260917n04502|제미나이에서 CRM 쓰고 구매까지…세일즈포스·구글, AI 통합 확대> 
+- <https://news.nate.com/view/20260917n05903|구글·엔비디아, 전력 공급 맞춰 작동하는 AIDC 만든다[글로벌AI브리핑]> 
+- <https://news.nate.com/view/20260916n26046|세일즈포스, AWS·구글 클라우드와 AI 동맹 확장…데이터 장벽 허문다> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SHJCODNoYXp0NFJ4dVEwcGtWdjNhUEcxRXBGSjRfdzhIT2xWTUhaNlNaRUxrM3NJX2NWUi1RTzdxaW5LNUhHTk1LZE1Vdw?oc=5|미국이 AI 속도 늦추면 중국은 기다려준답니까?…빅테크 CEO들 설전 - 매일경제> 
+- <https://news.nate.com/view/20260916n31967|스튜디오메타케이-더블제로, 'AI 영상 제작 플랫폼' 개발 협력> 
+- <https://news.nate.com/view/20260916n30344|[데일리픽] 클래리티법 부결에 시장 출렁…메타, AI 개발 속도 조정...> 
+- <https://news.nate.com/view/20260916n22467|메타, 자체 개발 저비용 AI 칩 내년 순차 도입> 
+- <https://news.nate.com/view/20260917n00682|특징주] "애플, AI 시대 겨냥한 기업용 서버 개발…엔비디아와도...> 
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDlqaXdKWXVDWktHSzdqdVBNZ2I3WUN6aXBXZHNPV3J3WkMzVFVDaDZSTHdIdlJONzBlRmVLeTNyZkJKb1U1SjNsOHdUQnRRWGtnNHd4TUk1QmtlSkVtLU5FcWRpbW9zeXJtY2hkQlZYNGhrdG44RkoxREZ2NVFnV255WQ?oc=5|AI에 ‘네가 틀렸어’ 25번 우기자, 97%가 “당신 말이 맞아요” - 조선일보> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YdFJYVTN0RlhLeHJUNWRyRzJucktKeGRXd1hBUE1ZM3VPVHNJVnJHYldnbWw3aUktYzM3S2RzNmYyTDFGRVJDWVl1T0RtNUNOMDNXa05RaHFLYkE?oc=5|[크랩] ‘아스트라’가 대체 뭔데 그렇게 싸워요?…대혼돈의 AI 업계 근황 - KBS 뉴스> 
+- <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbm1iamlFNE1JMVJMQS14TTdGSGRLcFN3U3dhcXQzdkVYOVFGZkRta0VZTjVfVDVjdzdaWmdUbjE1QlloVjhuYVh1QjFidkFTcVlodFlJejhHTHQ3VVhXZE5WNERuaGxkN2RnTWdRcnNNekxzM3R4eDRjblpDMHFWXzlIb1VXM2RCZU5kcUMtNmJvLUdqdDJNTE5ORGNfTFhqUnNFeC1kRWNBRDZFUHZ6eWxxUDlQdnBwcVFz?oc=5|Anthropic과 OpenAI는 안전 평가자를 포함시키고자 합니다. 그들은 정말로 독립적일까요? - TechCrunch> 
+- <https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDdEelJmTnZ0WFVxYVhTR1l6R2JMMlJUbWNjTDJ0UnR4alhYc0Z1NzV5VlM3MFJnZExaakdkMXZacjBlNUdWemNITjdmZTczbURfT2hrRmItUVBPY2ZhZU9UT2NtU3p1NE9zXzhzN25jd1o5eFdKcUh0SVN4MThsaVVILXZ2RUNGME9IZ2JtRUNtSUdURVhELTdEcklIOW9FU2hub3hn?oc=5|애플 참조 이미지 설명>

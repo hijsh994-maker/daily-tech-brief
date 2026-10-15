@@ -1,0 +1,13 @@
+# 2026-07-30 실제 Daily Tech Brief 수록 기사 (사람이 만든 최종본)
+OpenAI, 학술 연구자 10만 명에 GPT-5.6 Sol Pro 무료 제공
+SK텔레콤, 독파모 2차 모델 'A.X K2' 공개…산업 현장·국민 일상 AI 확산 나선다
+Mark Zuckerberg predicts billions of people will have personal AI agents in 5 years
+AIDC 얼라이언스 출범…정재헌 SKT 대표, 민간 공동의장 선임
+Disney is ditching Microsoft's GitHub Copilot but keeping Anthropic Claude Enterprise and Cursor
+Banks Bet on Open AI After OpenAI's Own Hack
+OpenAI's Sam Altman meets senators, Jensen Huang too, as Trump weighs "AI controls"
+Over 1,100 AI workers sign letter asking US to support tools that pace the frontier of automated AI development
+트럼프 대통령, GPT-5.6 해킹 사건에 "AI 규제 검토…기업 성과는 안 막을 것"
+China's Moonshot AI hits $35B valuation after $3.5B raise on Kimi K3 momentum
+Meta Q2 2026 실적: 매출 28%↑에도 AI 투자로 잉여현금흐름 91% 급감
+CoreWeave sweetens $2.6B loan terms tied to Anthropic compute expansion

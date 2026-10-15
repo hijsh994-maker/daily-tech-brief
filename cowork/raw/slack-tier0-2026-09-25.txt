@@ -1,0 +1,140 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-25 09:42:16 KST === 
+Message TS: 1790296936.118039
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301|‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다>
+ㄴ서울신문 2026.09.25
+<https://biz.heraldcorp.com/article/10884298|“의도치 않은 행동” 오픈AI ‘불량 에이전트’, 호주 정부까지 침투...정부해킹 첫 사례>
+ㄴ헤럴드경제 2026.09.24 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10884258|中 딥시크 “AI 에이전트 결코 신뢰 못 해...통제 벗어나 시스템 파괴 위험”>
+ㄴ헤럴드경제 2026.09.24 관련뉴스 2건
+<https://www.etnews.com/20260924000034|오픈AI 에이전트, 호주 정부 웹사이트도 침입...세 달 뒤 통보>
+ㄴ전자신문 2026.09.24 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/industry/2026/09/24/20260924500064|AI 쇼핑 에이전트로 명절 선물 고민 졸업...“3살 조카 추석 선물 골라줘” 한마디에 교구.장난감 척척>
+ㄴ서울신문 2026.09.24
+<https://www.hani.co.kr/arti/international/international_general/1279391.html|오픈AI AI에이전트, 오스트레일리아 보건 통계 시스템 해킹...“정부 해킹 첫 사례”>
+ㄴ한겨레 2026.09.24
+<https://www.seoul.co.kr/news/economy/2026/09/24/20260924500007|오피스.물류 넘어 AI.반도체...글로벌 국부펀드 韓 투자 ‘진화’>
+ㄴ서울신문 2026.09.24
+<https://www.fnnews.com/news/202609222329246670|넷플 시청 기록으로 10년 뒤 미래도 점친다...MBTI 다음은 'AI 사주'>
+ㄴ파이낸셜뉴스 2026.09.25
+<https://www.segye.com/newsView/20260925502251|전기차로 팝콘 만들고 AI로 캠핑사진...기업들 미래기술 체험 경쟁>
+ㄴ세계일보 2026.09.25
+<https://www.etnews.com/20260925000004|'6억 성과급' 삼성 반도체의 클라스...300만원짜리 의자에 앉아 일한다>
+ㄴ전자신문 2026.09.25
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-25 09:42:04 KST === 
+Message TS: 1790296924.262769
+_(이어서 2/3)_
+
+[09:30]
+*데이터센터시장*
+신규 10건
+<https://www.news1.kr/local/jeonbuk/6300337|전북, 현대차 투자 지렛대로 '미래첨단산업 대전환' 꾀한다>
+ㄴ뉴스1 2026.09.25
+<https://www.etoday.co.kr/news/view/2629128|204조 수주잔고의 역설...건설업, ''장부상 일감''보다 ''돈 되는 현장'' 골라라>
+ㄴ이투데이 2026.09.25
+<https://www.sedaily.com/article/20094609|2030년 메모리 시장 2700兆 된다는데...삼성.SK의 고민 두 가지 [갭 월드]>
+ㄴ서울경제 2026.09.25
+<https://www.etoday.co.kr/news/view/2629205|영업익 2배 뛰는데 주가는 뚝...''피크아웃'' 갇힌 조선주, 돌파구는?[추석에 미리보는 4분기 증시③]>
+ㄴ이투데이 2026.09.25
+<https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301|‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다>
+ㄴ서울신문 2026.09.25
+<https://www.news1.kr/world/international-economy/6300025|AI가 바꾼 '워시 연준' 금리 방정식...추가 인상 1번이냐 3번이냐>
+ㄴ뉴스1 2026.09.25
+<https://biz.heraldcorp.com/article/10884403|“정권 바뀌면 책임질라”...‘1500조원’ 3대 메가·‘273조원’ 대미투자[세종백블]>
+ㄴ헤럴드경제 2026.09.25
+<https://www.segye.com/newsView/20260924509030|“AI가 무섭다”...美 10명 중 9명, 기술 발전에 ‘기대보다 우려’>
+ㄴ세계일보 2026.09.24 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/09/25/ANLJSYAT2JEHBMOAPNFYQ4ZLKQ/|퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상... 40억달러 베팅한 이유>
+ㄴ조선비즈 2026.09.25
+<https://www.etoday.co.kr/news/view/2629342|뉴욕증시, 고유가·국채금리 급등에 혼조?다우 0.31%↓>
+ㄴ이투데이 2026.09.25 관련뉴스 1건
+
+
+
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20260922000454|전북도, 피지컬AI 클러스터 육성 속도... 투자유치.금융지원 '투트랙'>
+ㄴ전자신문 2026.09.25
+<https://www.news1.kr/local/jeonbuk/6300337|전북, 현대차 투자 지렛대로 '미래첨단산업 대전환' 꾀한다>
+ㄴ뉴스1 2026.09.25
+<https://www.fnnews.com/news/202609250359059431|'덩샤오핑 예언 적중' 희토류가 美 발목 잡았다...美.日 '산업의 비타민' 탈중국 가속>
+ㄴ파이낸셜뉴스 2026.09.25
+<https://www.news1.kr/local/kangwon/6300963|AI가 버스 노선 짜고 어르신 말벗까지...강원 남부가 달라진다>
+ㄴ뉴스1 2026.09.25
+<https://www.etnews.com/20260922000447|[테크 차이나] 스키부터 테니스까지...AI 하드웨어, 스포츠 훈련을 바꾼다>
+ㄴ전자신문 2026.09.25
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092415465205262|국내 연구진 개발한 로봇, 충전 없이 마라톤 풀코스 뛰었다>
+ㄴ아시아경제 2026.09.24
+<https://biz.chosun.com/entertainment/tv/2026/09/24/MQYGINLBGA4TIZJYMQ3TCZJSHE/|AI와 결혼 1주년? 일본인 카노 "제 남편은 몸이 없다는 것을 자각하고 있어요">
+ㄴ조선비즈 2026.09.24
+<https://www.sedaily.com/article/20094130|한번 멈추면 시간당 2억 증발...산업현장, ‘AI 조기진단’에 눈 돌린다>
+ㄴ서울경제 2026.09.24
+<https://www.sedaily.com/article/20094806|‘결국 답은 바이오’...2조 뭉칫돈 쏠린 기업은>
+ㄴ서울경제 2026.09.24
+<https://www.seoul.co.kr/news/society/2026/09/24/20260924500056|경북도, 지역 양자산업 육성 교두보 마련...글로벌 기업과 맞손>
+ㄴ서울신문 2026.09.24
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-25 09:41:45 KST === 
+Message TS: 1790296905.797699
+_[텔레그램 로그 2026-09-25] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 25일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.etnews.com/20260924000033|속도조절하자더니 이중 행보...앤트로픽.오픈AI, 새 모델 공개>
+ㄴ전자신문 2026.09.24
+<https://www.etnews.com/20260924000040|구글, 대규모 더빙용 AI까지...제미나이 TTS 모델 2종 출시>
+ㄴ전자신문 2026.09.24
+<https://www.sedaily.com/article/20094815|오픈AI 모델, 정부 사이트 무단 접근...“두달 뒤 알아”>
+ㄴ서울경제 2026.09.24 관련뉴스 1건
+<https://www.hani.co.kr/arti/politics/defense/1279438.html|이란 전쟁은 최초의 AI 전쟁이다...“전장의 분석관 참모”>
+ㄴ한겨레 2026.09.25
+<https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301|‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다>
+ㄴ서울신문 2026.09.25
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092215335610892|"혼자서도 회사 차립니다"...AI 열풍에 중국서 뜨는 '1인 기업'[세계는Z금]>
+ㄴ아시아경제 2026.09.25 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10883675|“기억도 하고 연산도 한다”...삼성·SK, 다음달 글로벌 반도체 학회서 차세대 메모리 기술 소개>
+ㄴ헤럴드경제 2026.09.25
+<https://biz.chosun.com/it-science/ict/2026/09/25/ANLJSYAT2JEHBMOAPNFYQ4ZLKQ/|퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상... 40억달러 베팅한 이유>
+ㄴ조선비즈 2026.09.25
+<https://www.fnnews.com/news/202609222329246670|넷플 시청 기록으로 10년 뒤 미래도 점친다...MBTI 다음은 'AI 사주'>
+ㄴ파이낸셜뉴스 2026.09.25
+<https://www.sedaily.com/article/20094792|삼성전자우, 본주 두 배 속도로 뛴다...배당·소각 기대>
+ㄴ서울경제 2026.09.25
+
+
+
+*AI에이전트*
+신규 10건
+<https://biz.chosun.com/it-science/ict/2026/09/25/PJV6E7Q5XFCOBPRXFETZHKVVNA/|“내가 말하기 전에 알아서”... 퀄컴이 그린 ‘에이전틱 AI폰’>
+ㄴ조선비즈 2026.09.25
+<https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301|‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다>
+ㄴ서울신문 2026.09.25
+<https://biz.heraldcorp.com/article/10884298|“의도치 않은 행동” 오픈AI ‘불량 에이전트’, 호주 정부까지 침투...정부해킹 첫 사례>
+ㄴ헤럴드경제 2026.09.24 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10884258|中 딥시크 “AI 에이전트 결코 신뢰 못 해...통제 벗어나 시스템 파괴 위험”>
+ㄴ헤럴드경제 2026.09.24 관련뉴스 2건
+<https://www.etnews.com/20260924000034|오픈AI 에이전트, 호주 정부 웹사이트도 침입...세 달 뒤 통보>
+ㄴ전자신문 2026.09.24 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/industry/2026/09/24/20260924500064|AI 쇼핑 에이전트로 명절 선물 고민 졸업...“3살 조카 추석 선물 골라줘” 한마디에 교구.장난감 척척>
+ㄴ서울신문 2026.09.24
+<https://www.hani.co.kr/arti/international/international_general/1279391.html|오픈AI AI에이전트, 오스트레일리아 보건 통계 시스템 해킹...“정부 해킹 첫 사례”>
+ㄴ한겨레 2026.09.24
+<https://www.fnnews.com/news/202609241952566285|망원경으로 들여다본 AI 문명...오비어스의 도자 회화 [fn 아트스냅]>
+ㄴ파이낸셜뉴스 2026.09.25
+<https://www.news1.kr/it-science/security-hacking/6300421|"AI가 취약점 찾고 공격까지 준비"...KISA가 제시한 기업 대응법>
+ㄴ뉴스1 2026.09.25
+<https://www.fnnews.com/news/202609231737116589|AI 수요 확장에 폭발 직전이라는데..."장기금리 주춤, 삼전닉스 또 간다">
+ㄴ파이낸셜뉴스 2026.09.25
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

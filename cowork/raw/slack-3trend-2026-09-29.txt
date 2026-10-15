@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-09-29 09:00:17 KST === 
+Message TS: 1790640017.100339
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-09-29 · 10건)
+*1. [:robot_face: AI Agent] <https://www.aitimes.kr/news/articleView.html?idxno=42093|클로드 ‘Computer Use’는 어떻게 사람처럼 컴퓨터를 조작하는가...김용덕 변리사, 앤트로픽의 AI 에이전트 특허 분석>* (인공지능신문)
+*2. [:robot_face: AI Agent] <https://www.aitimes.com/news/articleView.html?idxno=215713|포지큐브, 하나은행에 AI 에이전트 서비스 구축..."금융 AX 가속">* (AI타임스)
+*3. [:robot_face: AI Agent] <https://www.aitimes.com/news/articleView.html?idxno=215621|[AI리더의 서가] 한 땀 한 땀 나의 첫 AI 에이전트>* (AI타임스)
+*4. [:rocket: BigTech Release] <https://www.aitimes.com/news/articleView.html?idxno=215705|SKT·삼성전자·하나금융, 금융권 첫 '5G 스마트오피스' 구축>* (AI타임스)
+*5. [:rocket: BigTech Release] <https://news.hada.io/topic?id=34457|AI 연구소를 조사할 때다>* (GeekNews (긱뉴스 테크 큐레이션))
+*6. [:rocket: BigTech Release] <https://news.hada.io/topic?id=34429|AI 기업들, 자사 모델이 인류에 가장 위협적임을 입증하려 경쟁>* (GeekNews (긱뉴스 테크 큐레이션))
+*7. [:robot_face: AI Agent] <https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent|OpenAI의 AI 에이전트를 따라잡아야 합니다>* (The Verge)
+*8. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/|이제 Amazon Bedrock에서 Grok 4.7을 사용할 수 있습니다.>* (AWS Machine Learning Blog)
+*9. [:rocket: BigTech Release] <https://openai.com/index/lenfest-ai-collaborative-expansion|Lenfest Institute는 OpenAI 지원을 확대하여 랜드마크 프로그램을 성장시킵니다.>* (OpenAI News &amp; Research)
+*10. [:zap: Optimization] <https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/|SageMaker AI에서 vLLM-Omni로 실시간 음성 애플리케이션 구축 – 1부>* (AWS Machine Learning Blog)

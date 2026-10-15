@@ -1,0 +1,83 @@
+{
+ "date": "2026-08-13",
+ "items": [
+  {
+   "title": "SpaceXAI, Grok 4.6 출시…GPT-5.6 Sol과 동률 세계 3위",
+   "outlet": "VentureBeat",
+   "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+   "category": "AI Model"
+  },
+  {
+   "title": "딥시크, 플래그십 'V4 Pro' 프리뷰 종료…정식판 0813 출시",
+   "outlet": "Unite.AI",
+   "url": "https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview/",
+   "category": "AI Model"
+  },
+  {
+   "title": "브린, Gemini 경쟁력 회복 위해 딥마인드 개입 확대",
+   "outlet": "Reuters 단독",
+   "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-inside-google-executive-moves-173536292.html",
+   "category": "AI Model"
+  },
+  {
+   "title": "스페이스XAI, AI 에이전트 '그록봇' 공개",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10838714",
+   "category": "AI Agent"
+  },
+  {
+   "title": "네이버클라우드, 부처 맞춤형 AI 에이전트 'EASY' 공개",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260812000258",
+   "category": "AI Agent"
+  },
+  {
+   "title": "\"언더독의 반란\"…AAII '독파모' 점수 모티프·업스테이지 1·2위",
+   "outlet": "ZDNet Korea",
+   "url": "https://n.news.naver.com/article/421/0009111584?sid=105",
+   "category": "독파모"
+  },
+  {
+   "title": "AI 코딩 스타트업 Cognition, 400억 달러 밸류 신규 투자 논의",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "OpenAI 투자 Thrive Holdings, 120억 달러 밸류로 20억 달러 조달",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "전 Qwen 리더 린쥔양, 에이전트 스타트업 'Pragmatik Labs' 창업",
+   "outlet": "The Next Web",
+   "url": "https://thenextweb.com/news/pragmatik-labs-junyang-lin-qwen-shanghai-agents",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "SKT, 2분기 AIDC 매출 1,362억원…전년比 92.5% 급증",
+   "outlet": "뉴스웨이",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026081216033844850",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "OpenRouter, 에이전트 토큰 사용량 6개월간 14배 급증",
+   "outlet": "CoinDesk",
+   "url": "https://coindesk.cc/openrouter-reports-7-3t-agentic-token-usage-by-aug-10-up-14x-since-february-99543.html",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "삼성SDS, 국가 AI 연구용 GPU에 최신 B300 클러스터 최초 투입",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2613075",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "과기정통부, 독파모 '공동활용 데이터 지원사업(2차)' 공고",
+   "outlet": "과기정통부 공고 제2026-0877호, 2026.8.12",
+   "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=311&mPid=121&pageIndex=&bbsSeqNo=100&nttSeqNo=3186858&searchOpt=ALL&searchTxt=",
+   "category": "정책·공고"
+  }
+ ]
+}

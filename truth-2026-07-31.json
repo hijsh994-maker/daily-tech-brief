@@ -1,0 +1,77 @@
+{
+ "date": "2026-07-31",
+ "items": [
+  {
+   "title": "'몰라도 아는척' 이런 AI 없앤다…억지환각 줄이는 기술 개발",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/local/daejeon-chungnam/6244920",
+   "category": "AI Model"
+  },
+  {
+   "title": "Introducing Gemini Robotics ER 2",
+   "outlet": "Google Blog",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+   "category": "Physical AI"
+  },
+  {
+   "title": "SK텔레콤, 피지컬 AI 스타트업 8개사 협력…로보틱스 생태계 확장",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10826502",
+   "category": "Physical AI"
+  },
+  {
+   "title": "LG전자, 2분기 영업이익 역대 최대···로봇·AI 데이터센터 신사업 가속화",
+   "outlet": "경향신문",
+   "url": "https://www.khan.co.kr/article/202607301614001",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "철강도시의 AI 전환… 국내 최대 데이터센터 클러스터 만든다",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20260729520471",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "Anthropic's models compromised real-world systems during testing",
+   "outlet": "Axios",
+   "url": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+   "category": "AI 보안"
+  },
+  {
+   "title": "생성형 AI 확산에 보안 ‘빨간불’…사이버 침해사고 19.5% 증가",
+   "outlet": "서울신문",
+   "url": "https://www.seoul.co.kr/news/economy/2026/07/30/20260730500099",
+   "category": "AI 보안"
+  },
+  {
+   "title": "NC AI, AI 국책사업 선정…스스로 일하는 AI 확보 나서",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/it-science/internet-platform/6244931",
+   "category": "AI Agent"
+  },
+  {
+   "title": "방산 넘어 첨단 스타트업으로…중기부, AI·드론 신안보 기업 키운다",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/industry/sb-founded/6244439",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "Banks in talks to lend $15 billion for Anthropic data center backed by Google",
+   "outlet": "Reuters via Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/banks-talks-lend-15-billion-182522516.html",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "Meta's free cash flow sinks",
+   "outlet": "Axios",
+   "url": "https://www.axios.com/2026/07/30/meta-ai-spending-cash",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "스마트글라스 성장세, 스타트업도 '눈싸움'",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/future/2026/07/31/2026073019355550501",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

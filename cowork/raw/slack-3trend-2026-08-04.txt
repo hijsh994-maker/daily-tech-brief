@@ -1,0 +1,19 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News (U04M2AC692P) at 2026-08-04 09:00:04 KST ===
+Message TS: 1785801604.620049
+- <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KVmxXZGh3eF9BRWxodmgxTXREeXN6bm9HamlaQjJvam5ualcwQTZKYzNIa3NrWUxnMlBMQUFwQjNmb3AtSV92Z3k5dEY2MGc?oc=5|"엉뚱한 판단 막는다"⋯AI '환각' 줄일 기술 개발>
+- <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KeXMtQUdKekROUnctcUN2Z2lyV3NyTlFURnRyZnhuU0taa2c5aG01eDNyUTVNVkk0bVZPVHJDb2FGcGpRaVY1S2V1dXdtQ2RHTFE?oc=5|패브릭에이아이, 코핀과 MicroLED 광통신 백서 발표...AI 데이터센터 전력효율 20배 개선>
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDBFY2FVZVlFZ3Ria1ZqMGVaWXJqWV92cWp0eHQ4Rkg0dnpEZzlEZkRMUURvdGVEd0hDcDNmX3FWSWFvRXpSajJzQ3lRajFfbml2NW9maW9raHVzTWlpN25keEJiZ2tHM1lYaHg5cm5ZeFU5dWNhVnFJOHptRnlDenFLQQ?oc=5|희귀서적 디지털화한 후 원본 없애는 AI기업들>
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE9QWmxReVpncVhQdldJLUF3b2IyWjFkSWtWMTQ4RFJoUk0xVlhsb2pEWk42RFJoQ0RoZE90UWtib0FfUXZLN0x6a0dEcUpqR0Z2MTQ2bGNpNU1BZERkNkFmMl81bG9Zd3lZZnFxeEhfRlpqN1pC0gF0QVVfeXFMT1BabFF5WmdxWFB2V0ktQXdvYjJaMWRJa1YxNDhEUmhSTTFWWGxvakRaTjZEUmhDRGhkT3RRa2JvQV9Rdks3THprR0RxSmpHRnYxNDZsY2k1TUFkRGQ2QWYyXzVsb1l3eVlmcXF4SF9GWmo3WkI?oc=5|'가성비의 종언' K3와 V4, 중국 AI의 투트랙>
+- <https://news.nate.com/view/20260803n08185|구글 클라우드, 오라클과 AI 협력 확대…기업용 앱에 제미나이 탑재>
+- <https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMVRBS29ud3gtYlJCTzltSUNqQUVFRWJnbkxHWEdZS29CZncwUnFZZEZEZGk3Wi1fcWE4dHB5LTRmSjFIYlVwNTFLbjh2Zy1DdVd3bzZvbk9tOU8xSUFjOU9qQVQ1cjB5Y3B3T1NjYlNYMzdkSXfSAWZBVV95cUxNVG1rQV92UGZ4TWJDc18xYnVxblN4ZWVwWmVTUG1zTkMySld4X0RXQUZ6QTBEaTc2V2lDUGNIVnlaR0RFZVdYdmxkSWk0OTZHbFV5b25zelBfaXVBVlRadFhvNllJd3c?oc=5|"책임자 바꿔주세요"…29세 김지현 딥러닝 대표, 편견 딛고 구글과 AI 경쟁>
+- <https://news.nate.com/view/20260803n02927|메타·아마존·알파벳, AI 투자에 현금 말랐다>
+- <https://news.nate.com/view/20260803n22057|"애플도 쓴다"…초대형 AI 내놓은 알리바바 "중국 1위 자신">
+- <https://news.nate.com/view/20260803n09470|AI발 메모리 대란, 애플 효자 '맥북 에어'도 덮쳐…최소 3주 후...>
+- <https://news.nate.com/view/20260803n07650|AI가 맥북 에어까지 삼켰다…애플, 공급난 비상>
+- <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SNEZWUWlkTEFQTF9rTkwxbVZsR2tscmJnMHU5ZW9ONV8tQVN3SUV2MFp0eFlfNExFV1pjcnAyQUFoM2VBb1BpS004OVItdUlEazRkT1RXX05ISXdrRUJxMNIBYEFVX3lxTE9SNEZWUWlkTEFQTF9rTkwxbVZsR2tscmJnMHU5ZW9ONV8tQVN3SUV2MFp0eFlfNExFV1pjcnAyQUFoM2VBb1BpS004OVItdUlEazRkT1RXX05ISXdrRUJxMA?oc=5|[AI픽] 독자 AI 2차전 초읽기…국가대표 AI 이달 윤곽>
+- <https://news.google.com/rss/articles/CBMiugFBVV95cUxNeElRRk9QY09IQTJvbG1sU0VLSlM2TmY4VWV5bVlsdS1vTDRqVDRFb18zVTRlSU5IT0NxV3EzVkVLdlAxaDVNcE1OaVFqNXZzd3J2M3g0UVBtZU1lcVdHNzBnd1RJTW44X1Rva0h4S2lObl9pbEQ4dmY1Y2VBTGRvanlkbnJ0TUx3SDAzLTljSmNRclRIdzZsVUNLUHJjbDZyZVVneUNzREtaUnBKdmtrNkdKUDExcENoSFE?oc=5|자율 AI 해킹에 대한 법적 책임은 누구에게? 복잡하다>
+- <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXpmbklXM0xPVEFQVGJfODZuUHRqbF9IQTF1SXNlb0FvdnNVQjVPVTM4Y3FrM1J6SXhidUxMdkdpNEZ2RWg3dU1sTUdSSFJhbzJSVm9lRGpZazlCZG9Qby03YXZVTGkwenZIck9NZVJZZi1RYmlPeEQySXYwVXh0M0VEZGJrRHpfSDR2MVR4ckhtQTlQQTlwXzZHTEpmUGhUZzNzZ044RDlUX2JsOFhLV2phc21QQ2twdU5pZ0hheHNvUXc?oc=5|허깅페이스 CEO 클렘 델랑그>
+- <https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5|의회에서 AI 지출을 지배하는 챗GPT, 법안 규제 검토 중>
+- <https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWRjWjVxS0JicVE2RGxKQ3hrT0I1cXY2dXhJS052RnhFWE9hX092VndIYUkySzZPakRtczBBMDVfcF9qRGZlSkRNRl90aEQyaWZjZkJYUTh5NkQySlN4aFlaeWU5UzYzRVF4a2l3YUNseWNEdG40RC1XWmNjM19pUm9fY1lYalRrVmd1bjF1MHk?oc=5|제미나이 스파크, 이제 크롬 웹 브라우징 기능 추가>

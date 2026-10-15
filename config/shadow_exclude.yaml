@@ -1,0 +1,16 @@
+# [2026-10-08] 소스 정리 섀도 실험 (2026-10-08 ~ 2026-10-22, 2주)
+# 사용자 지시: "1~2주간 RSS와 쿼리 9개를 뺀 상태로 판정 후보를 따로 만들어 실제 발송본과 비교해보자"
+# 근거: 9/17~10/8 발송 13회 분석 — RSS 단독 발송 0건, 아래 쿼리 '고' 0건.
+# 실제 파이프라인에는 영향 없음. run.sh shadow 가 섀도 후보만 따로 만든다.
+end_date: "2026-10-22"
+exclude_sources: [rss]
+exclude_queries:
+  - TSMC
+  - 로보택시
+  - open weight model
+  - robotics commercial deployment
+  - Nvidia GPU supply
+  - SK브로드밴드
+  - Zhipu AI
+  - 퍼플렉시티
+  - 바이오빅데이터

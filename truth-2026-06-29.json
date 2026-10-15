@@ -1,0 +1,83 @@
+{
+ "date": "2026-06-29",
+ "items": [
+  {
+   "title": "OpenAI, Anthropic Limit New AI Model Releases To Trump-Approved Users Amid Cybersecurity Review",
+   "outlet": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/amp/tech/openai-anthropic-limit-new-ai-model-releases-to-trump-approved-users-amid-cybersecurity-review",
+   "category": "AI Model"
+  },
+  {
+   "title": "Grok 4.5, based on 1.5T V9 foundation model, in private beta at SpaceX & Tesla",
+   "outlet": "X @elonmusk[[https://t.me/elonmusk]]",
+   "url": "https://x.com/elonmusk/status/2071184354756477041",
+   "category": "AI Model"
+  },
+  {
+   "title": "Introducing computer use in Gemini 3.5 Flash",
+   "outlet": "Google blog",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "구글, 컴퓨팅 용량 부족에 메타 제미나이 사용 제한",
+   "outlet": "아주경제",
+   "url": "https://v.daum.net/v/20260629090009290",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "LGU+, 지엔씨에너지와 맞손...AIDC 전력 공급 안정성 높인다",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20061079",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "\"한번 뚫리면 수천만명\"…AI가 키운 개인정보 유출 규모",
+   "outlet": "디지털타임스",
+   "url": "https://v.daum.net/v/20260628152118714",
+   "category": "AI 보안"
+  },
+  {
+   "title": "[단독] 기업용 보안시장 개척…LGU+ '세이프AI' 뜬다",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20061056",
+   "category": "AI 보안"
+  },
+  {
+   "title": "호남에 반도체 팹·충청에 패키징 … 영남엔 피지컬AI·데이터센터",
+   "outlet": "매일경제",
+   "url": "https://www.mk.co.kr/news/business/12085118",
+   "category": "국가정책"
+  },
+  {
+   "title": "[뉴스줌인] 마켓플레이스로 글로벌 AI 에이전트 시장 선도",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260628000060",
+   "category": "국가정책"
+  },
+  {
+   "title": "How to keep AI spend flat while token usage grows exponentially",
+   "outlet": "X @brian_armstrong[[https://t.me/brian_armstrong]]",
+   "url": "https://x.com/brian_armstrong/status/2070670644577280109",
+   "category": "인물"
+  },
+  {
+   "title": "삼성‧SK, 각각 1000조원 호남 반도체·AI 투자계획 발표",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2597967",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "\"오픈AI, IPO 내년 연기로 무게\"⋯앤스로픽과 선상장 경쟁 접나",
+   "outlet": "이투데이",
+   "url": "https://v.daum.net/v/20260626085403181",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "SKT, SK하이닉스 美 'AI 컴퍼니'에 7384억원 투자",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260625000429",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

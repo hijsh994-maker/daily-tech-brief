@@ -1,0 +1,14 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News (U04M2AC692P) at 2026-08-11 09:00:00 KST ===
+Message TS: 1786406400.247419
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNSG0wVWw2RmhEd1hEem5IYW9RbGQ5czNvSjctbUhPVUdfS1JhOGJUSGN1Q2FfVV8zbERwTHVSU2UzTjhtbHptYUxaRmdUV0xHbHE3WUEzV3hudw?oc=5|삼성SDS, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시>
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xQzdFbzJ1aTI3MUNqYjNGX09NZmZNNmRhb055bElqeGdGVlFLQTB2R0xZcVg1V1FZNFhmMzVBblp6d2x6YzdOZlZrLVQxMUVWQ04tTk1B?oc=5|앤트로픽, 기관투자자 손잡고 美 AI 데이터센터 확장>
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxQRW9wTDRIYkUtMVNpQzJhQ3VsMVNvb1k5eWdKd3FpWDFjenpXajJRNGoyNGVOVU1tQU9ONXVUdm05elJCOXRjUWFzdFdQODNfcE04S0FYZFVTN2dJRWtMNlYtcDBtLW9qc095d24xSFFpWXBWejV2aEhTWGtZejBTLUJDNA?oc=5|AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장>
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE9tbVE5QnBCNENXZnVOcWhfdFY0Tlk5eHBUS2JGS1FmdEwxMC1DcTZRTVpCRFkwZE9RekJZdi16enNrMDQtMG1tZlE2WkJSY08tWWFkMnFfMlo3SVA2TjlFdkJrUG9vV3gzSlNObm1qM0hWaTdN0gF0QVVfeXFMT21tUTlCcEI0Q1dmdU5xaF90VjROWTl4cFRLYkZLUWZ0TDEwLUNxNlFNWkJEWTBkT1F6Qll2LXp6c2swNC0wbW1mUTZaQlJjTy1ZYWQycV8yWjdJUDZOOUV2QmtQb29XeDNKU05ubWozSFZpN00?oc=5|기업 채용부터 면접까지 AI가 맡는다 [AI가 바꾼 채용시장①]>
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTE53Qmx5eW9XbjczMnZpeFlqS2tjSlo0RTBGNTJXRFZydFFqU0tmWmVaZVAzN2kxWjFBY2dFTU5EZ2c1U2lfckhZempVZW8wMjlNOWFKM1FrQVk5LW9qQU5iaUhOOHdoelNjd1R3N01abUPSAXRBVV95cUxNb0NDczdsVkQwY193V29FT1ZSMWRMdHNWcjZKSWZOZURJM2xRRkE4aEdFRzdxOGMwNVhIbEJnd2JwRkdnbThCWXFEcXlJQTNBMFdrM1JUS0JKSUo5aXNIY0JKMVY1d3RMNGV6U1B3UXRoWHFqTg?oc=5|‘흔들리는 구글’ 위기인가, 새판짜기인가 [이승현의 AI 네이티브]>
+- <https://news.nate.com/view/20260810n20514|전설의 일잘러들은 왜 구글을 떠날까…위기에 흔들리는 'AI 왕국'>
+- <https://news.nate.com/view/20260810n27613|"AI 상업화 못하면 IBM 전례 따를 수도"…구글, CEO 직속...>
+- <https://news.nate.com/view/20260811n03668|저커버그 "AI 독점은 위험"…메타, 개방형 AI로 다시 승부>
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZXhWVXJCUTdqenIyS3gtd0JMYTQ3QlZ0Y2F5b0VadmIzLXZCZlFielc1MG9xd3BaOWQ4TnI1eHR1NkNZN1pGNXc4c3RiNkRhYXdaeW1B?oc=5|"BTS 앞세우면 좀 다를까"…구글, 제미나이 '스타 파워' 앞세운 까닭>
+- <https://news.google.com/rss/articles/CBMixwFBVV95cUxPbE9qMEdkQUczLXF4X3o0ZUViX2VsZkZ1VlRIRnAweWNWdmE1S05ra01UYWhNa2x1amxHVldLc04wZGlxWGtLMThWOXRtTWtIdmRBOG0zX1pPQ0NveG1VSnkzc21EWmEzS2QxZnVEeU1GMzAxWmFFSEVaWUxRbkpvMXRlZHlYREdiWlNJWFRnNFphU29sdVZTR3ppU081VnFUdEpxZ290bFk5c2M0QzkwazNyLWNvZmNpc2JCdnBRTEU3NkljY0Fr?oc=5|AI 에이전트가 경비 보고서를 자동화하고 여행자의 시간을 절약하는 방법>

@@ -1,0 +1,174 @@
+[
+ {
+  "truth_title": "팀 마켓플레이스의 MCP 및 조직 그룹",
+  "truth_url": "https://cursor.com/ko/changelog",
+  "candidates": [
+   {
+    "rank": 1,
+    "score": 27,
+    "title": null,
+    "outlet": null,
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 2,
+    "score": 23,
+    "title": "[딥시크 이은 ‘키미 쇼크’에 힘 받은 中, AI 모델·반도체 수출 통제 강화 검토]",
+    "outlet": "헤럴드경제",
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 3,
+    "score": 22,
+    "title": "Humanoid raises $152 million at $1.35 billion valuation, Europe's first pure-play humanoid unicorn",
+    "outlet": "Roboticsandautomationnews",
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 4,
+    "score": 19,
+    "title": "[오픈AI, 美 조지아에 44조원 AI 데이터센터 짓는다]",
+    "outlet": "전자신문",
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 5,
+    "score": 19,
+    "title": "“단순 투자 넘어선 협력”…삼성전자, 프랑스 AI기업 미스트랄에 1.7조 투자 논의",
+    "outlet": "매일경제",
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 6,
+    "score": 18,
+    "title": "“반도체 고급인재 선점” 삼성전자·SK하이닉스, 박사급 인력 영입전 돌입",
+    "outlet": "헤럴드경제",
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 7,
+    "score": 18,
+    "title": "[속보] 이 대통령, 美 샌프란서 오픈AI·엔비디아·앤트로픽 CEO와 연쇄 회동",
+    "outlet": "이투데이",
+    "signal": 0,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 8,
+    "score": 17,
+    "title": "이재용·최태원·이해진, 미국서 젠슨 황 만난다…AI리더 총집결",
+    "outlet": "파이낸셜뉴스",
+    "signal": 0,
+    "entity_overlap": 0
+   }
+  ]
+ },
+ {
+  "truth_title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+  "truth_url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+  "candidates": [
+   {
+    "rank": 48,
+    "score": 12,
+    "title": "AMD, 엔트로픽에 최대 7조원대 투자…AI칩 공급 동맹 구축",
+    "outlet": "헤럴드경제",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 134,
+    "score": 7,
+    "title": "Trump tech official accuses China’s Moonshot AI of ‘large-scale’ plot to steal from Anthropic",
+    "outlet": "New York Post",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 210,
+    "score": 6,
+    "title": "뱅크오브아메리카, 2030년 서버 CPU 시장 1,700억 달러 전망…엔비디아, AMD에 도전장",
+    "outlet": "Investing.com 한국어",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 188,
+    "score": 6,
+    "title": "[AAI 2026] \"클라우드 토큰 폭탄 대안은 로컬 AI…AMD, 192GB 메모리 '고르곤 할로' 공개",
+    "outlet": "네이트",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 427,
+    "score": 4,
+    "title": "AMD, MS와 손잡고 AI랙 시장 도전…엔비디아 독점구도 흔든다",
+    "outlet": "재외동포신문",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 625,
+    "score": 3,
+    "title": "AMD, MS 애저에 AI랙 공급…엔비디아 추격 가속",
+    "outlet": "글로벌이코노믹",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 569,
+    "score": 3,
+    "title": "CPU까지 넘보는 엔비디아 … 인텔·AMD 양강 체제 깰까",
+    "outlet": "매일경제",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 508,
+    "score": 3,
+    "title": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...엔비디아·AMD·TSMC 동반 하락",
+    "outlet": "뉴스핌",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 497,
+    "score": 3,
+    "title": "\"현존 세계 최고\"…리사 수가 들고나온 엔비디아 대항마는? [AMD 어드밴싱 AI]",
+    "outlet": "한국경제",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 486,
+    "score": 3,
+    "title": "Why the US crackdown on Anthropic's AI models is under scrutiny",
+    "outlet": "Storyboard18",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 921,
+    "score": 2,
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "outlet": "TechCrunch",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 897,
+    "score": 2,
+    "title": "마이크로소프트, 차세대 AMD 인스팅트·에픽 프로세서 도입",
+    "outlet": "위클리포스트",
+    "signal": 2,
+    "entity_overlap": 1
+   }
+  ]
+ }
+]

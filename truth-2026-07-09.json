@@ -1,0 +1,119 @@
+{
+ "date": "2026-07-09",
+ "items": [
+  {
+   "title": "스페이스XAI, 코딩·에이전틱 작업 특화 '그록 4.5' 출시",
+   "outlet": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20260709000056",
+   "category": "AI Model"
+  },
+  {
+   "title": "Introducing GPT Live",
+   "outlet": "OpenAI blog",
+   "url": "https://openai.com/index/introducing-gpt-live/",
+   "category": "AI Model"
+  },
+  {
+   "title": "China's MiniMax plans to launch giant 2.7 trillion parameter model",
+   "outlet": "The Standard HK",
+   "url": "https://www.thestandard.com.hk/finance/article/336728",
+   "category": "AI Model"
+  },
+  {
+   "title": "Gemini 3.5 Pro targets July 17, DeepSeek's July 24 deadline hits developers now",
+   "outlet": "Tech Times",
+   "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+   "category": "AI Model"
+  },
+  {
+   "title": "Amazon is reportedly working on a more powerful agentic Alexa assistant",
+   "outlet": "Engadget",
+   "url": "https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "메타, 캐나다에 14조원 투입 AI 데이터센터 건설…1GW급 시설 조성",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10802951",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "(단독)KKR, SK AI데이터센터 인수금융 검토…1조원대 증자 윤곽",
+   "outlet": "뉴스토마토",
+   "url": "https://www.newstomato.com/ReadNews.aspx?no=1306654&inflow=N",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "국토부, AI 데이터센터 건설산업 육성 시동…민관 포럼 발족",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260708000490",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "KT '믿:음', 잇단 AI 신뢰성 인증 획득…동일 계열 모델로는 국내 최초",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2601521",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "Mistral launches first robotics model in physical AI push",
+   "outlet": "Mistral AI blog",
+   "url": "https://mistral.ai/news/robostral-navigate/",
+   "category": "Physical AI"
+  },
+  {
+   "title": "제조 현장 RX 앞당긴다…SK AX, '제조 RX 풀스택 서비스' 본격화",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10803065",
+   "category": "Physical AI"
+  },
+  {
+   "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+   "category": "AI 보안"
+  },
+  {
+   "title": "빅테크 AI, 안전성 약속 일제히 후퇴…앤트로픽 최상위·딥시크 낙제점",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260708000110",
+   "category": "AI 보안"
+  },
+  {
+   "title": "\"中, 알리바바·딥시크에 엔비디아 H200 구매 허용 추진\"",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10802941",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "\"美, 최신 GPT도 빗장 푼다\"",
+   "outlet": "매일경제",
+   "url": "https://www.mk.co.kr/news/it/12093701",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "아마존, 또 회사채 38조원어치 발행...글로벌 AI '빚투' 500조원 돌파",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20064998",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "Blue Origin reportedly raising $10B at $130B valuation",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "[AI 토큰 경제]① \"토큰이 돈 되네\"…경제 패러다임 바뀐다",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/it-science/general-it/6219360",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "2026년 첨단기술을 활용한 사회문제해결 실증확산 지원(개발 및 실증지원) 신규과제 재공모",
+   "outlet": "IRIS",
+   "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+   "category": "국책과제"
+  }
+ ]
+}

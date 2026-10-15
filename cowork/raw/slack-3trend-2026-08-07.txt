@@ -1,0 +1,16 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News (U04M2AC692P) at 2026-08-07 09:00:00 KST ===
+Message TS: 1786060800.257889
+- <https://news.nate.com/view/20260806n29051|SKT·LGU+, 2분기 통신 본업 회복에 AI DC로 날았다>
+- <https://news.nate.com/view/20260806n18304|SKT, 독자 AI 모델 추론 효율 높인다…'소버린 AI' 역량 강화>
+- <https://news.nate.com/view/20260806n06272|엔비디아, SKT·네이버와 AI 보안 가이드라인 의견 수렴 착수>
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rRnBQQkk1MjBLSXFuMXlkUnlzMmJ0MmFlcHV2bTlwUVloR3hBN1c0XzNfUzhjRFpXRWVjLTNVZDVkc2U0TEcyb3RKODZhaHBGQjM1dlNNVzFaUQ?oc=5|구글·알리바바·MIT AI 석학 제주로… SIGKDD 한국 첫 개최>
+- <https://news.nate.com/view/20260806n27530|인재 잃는 구글…'구글 AI 전설' 제프 딘까지 떠났다>
+- <https://news.nate.com/view/20260806n23417|구글 AI 심장부 흔들…수석과학자·알파고 주역 동시 이탈>
+- <https://news.nate.com/view/20260806n25934|애플, iOS 27 잠금 화면 확 바꾼다…AI 배경화면부터 시계·위젯까지>
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE9kcDVPZDMtaURObTJTRU5KNGljR0czdDhFRUM1YVQ1R0pLSVdMTm04QmlFaWR5U1hYeFRKSEE3ekVjZFQzYWg1cGY2MUVvVlQtaUF3YXdlWjRlOFVjVXBzRV9FdnQxcE5DOXVRaV9mUW42T3Ey0gF0QVVfeXFMT2RwNU9kMy1pRE5tMlNFTko0aWNHRzN0OEVFQzVhVDVHSktJV0xObThCaUVpZHlTWFh4VEpIQTd6RWNkVDNhaDVwZjYxRW9WVC1pQXdhd2VaNGU4VWNVcHNFX0V2dDFwTkM5dVFpX2ZRbjZPcTI?oc=5|'무단 행동' AI 에이전트… 권한 커지는데 검증 체계는 뒤처져>
+- <https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1l6aFNsVEZsZlhEeTFLSF9SNkt6YVhoRW5fTkNybWRWOWR0c1ZPbGhRT25hMmVDRjBZYzNraVZCeEItWV83NE9ra1oxbFB0dTJ0TmFDS0ZvdlhiczZHQktUTjkybTNEU0FqSVdZaE53NS10QkNwMVo3SHdzWEFIblA4elrSAYoBQVVfeXFMTkx6VWpCNjhHdHc1VjlHMW44Q1FTeVF1ZDJ2WDNXbW9JVzRRWVFHQnVTU3MxZ19HNklldXBiQmkwU3JfdUdEMWN0TTlnSmRVMk02NnV6R2lHM25ZdndZRGJ3WURqYm1CcnhHbWFaaXRJbDU4aFFpYXotWTBJcVBXLTBoRXhQb2QxSVJR?oc=5|'AI 킬 스위치' 법안, 올해 통과 필요성 제기>
+- <https://news.google.com/rss/articles/CBMirwFBVV95cUxOREdCeGdJYm9PdGZyM0VoQjM3RGFZM2hha1JOV2VWeXpHSF9BV2dhc0NKR3EtM3ZlWlIxblhYYlc4LWpwYm93ZnVybEN0LXkzUmVvVk5TUFhDSXNaQ1VVM2Ixd3JCVmpldEViZFVpZ185bGE1RjhPX29TVmMzMWZwWEVLSXpHSHRZam9zd1ZXaWVsRmZ3c2JIN08tbHVQZnBhQTN5b2pqQkV2NnhhMUpr?oc=5|리눅스, AI 에이전트의 선택 운영체제로 급증>
+- <https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzNVMXZROTVDcTFTS3lLWHFpQi1keDdsQnVoRm40NzcyQUNiYWlmYUVsaTN5WDRldFhTRl83RGpuWjh5TVlvVk5KLUY4aV82eHJHUlNGa3VXOWRGSkktRDM4YUFZWnVDU3FzcUR0X2lqc1lSd0ZhRW5BY1AyUnF6SVhOaEd2LTJSLUJkT0w0cmFXQTlNcEE?oc=5|ChatGPT, 무료 사용자에게 무제한 텍스트 채팅 제공>
+- <https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWNCTVRlcElINlZvQnRKaW1sX1MyY3FITTk3d0UyN3dSb1NScnM3ay01WWxnZm85b0sxNF80LTktVjhFbk1qRUJhejVrS2V1UmxqRVhBVXpsX3NFWlUtcnBETEtYNk1SQzZrLUwyRW92ZUEwYmNnS200YnZiejVQTUJhS2dET180NmlKb2d2QURLZkpkbmJFZ0RySkFORGFJcGdTRmtuUQ?oc=5|OpenAI의 새로운 AI 스마트 스피커, 가격은 300~400달러로 예상>

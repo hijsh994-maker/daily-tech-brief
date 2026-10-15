@@ -1,0 +1,16 @@
+{
+ "date": "2026-09-07",
+ "mapping": {
+  "https://www.inews24.com/view/2002147": "https://n.news.naver.com/mnews/article/031/0001055733",
+  "https://www.edaily.co.kr/News/Read?newsId=03693286645575856": "https://n.news.naver.com/mnews/article/018/0006361550",
+  "https://www.etnews.com/20260904000277": "https://n.news.naver.com/mnews/article/030/0003463659",
+  "https://www.hankyung.com/article/2026090668741": "https://n.news.naver.com/mnews/article/015/0005329242",
+  "https://www.etnews.com/20260906000076": "https://n.news.naver.com/mnews/article/030/0003463946",
+  "https://www.etnews.com/20260904000282": "https://n.news.naver.com/mnews/article/030/0003463739",
+  "https://www.asiae.co.kr/news/view.htm?idxno=2026090604013466427": "https://n.news.naver.com/mnews/article/277/0005812377",
+  "https://biz.heraldcorp.com/article/10864299": "https://n.news.naver.com/mnews/article/016/0002693501",
+  "https://view.asiae.co.kr/article/2026090708185010488": "https://n.news.naver.com/mnews/article/277/0005812538",
+  "https://www.sedaily.com/article/20087727": "https://n.news.naver.com/mnews/article/011/0004659088",
+  "https://www.yna.co.kr/view/AKR20260904080500009": "https://n.news.naver.com/mnews/article/001/0016290077"
+ }
+}

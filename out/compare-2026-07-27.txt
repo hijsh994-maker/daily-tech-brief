@@ -1,0 +1,51 @@
+실제 브리프 15건 vs 파이프라인 1696클러스터 (정답지 링크 15건, 후보 링크 764개)
+======================================================================
+없음                    Kimi K3's open weights arrive July 27. The cat
+PASS [ 9점 /  58위] <주후보> 미국이 분노한 '키미 K3' 쇼크…중국과 전방위 AI 격돌
+        매칭: 딥시크보다 더 한 ‘키미 K3’ 쇼크…글로벌 AI모델 장악력 높인다 (어휘, 포함도 0.50, 엔티티 0)
+        근거: medium+2(규제) 프런티어+2(딥시크) 보도수+1(4) 교차소스+2(gnews+rss) 복수쿼리+2(3)
+미달 [ 4점 / 226위] <미노출> NAVER, NVIDIA and Brookfield to Expand Korea's
+        매칭: NAVER Partners with Brookfield and NVIDIA to (엔티티, 포함도 1.00, 엔티티 2)
+        근거: medium+2((?i)\bunveil(?:s|ed|ing)?\b) 보도수+1(3) 복수쿼리+1
+PASS [12점 /  23위] <주후보> LG전자, 국내 최초 엔비디아 AI 데이터센터 액체냉각 인증
+        매칭: LG전자, 국내 최초 엔비디아 액체냉각 인증…AI 데이터센터 공략 속도 (링크확정, 포함도 1.00, 엔티티 0)
+        근거: medium+2(국내 최초) 수치규모+2(전력규모) 프런티어+2(엔비디아) 보도수+2(10) 교차소스+2(gnews+rss) 복수쿼리+2(4)
+없음                    구글, 전력 효율 10배 '프로즌 v2' 개발 시동
+미달 [ 2점 / 687위] <미노출> 현대차, '도시 지능화' 담은 피지컬 AI 비전 공개…엔비디아·구글 등과 결속 강화
+        매칭: 코리아+엔비디아 동맹의 속사정… 구글은 왜 없었을까? (엔티티, 포함도 0.33, 엔티티 2)
+        근거: 프런티어+2(구글)
+PASS [ 9점 /  54위] <주후보> Hugging Face CEO calls for 'radical transparen
+        매칭: Hugging Face CEO calls for ‘radical transpar (링크확정, 포함도 1.00, 엔티티 0)
+        근거: 규모어휘+2((?i)\bunprecedented\b) 프런티어+2(OpenAI) 보도수+3(18) 교차소스+2(gnews+rss)
+없음                    What OpenAI CEO Sam Altman will tell the White
+미달 [ 2점 / 575위] <구제> What is the AI Kill Switch Act proposed in the
+        매칭: How AI is expanding what people do at work (어휘, 포함도 0.60, 엔티티 0)
+        근거: medium+2((?i)\bexpand(?:s|ed|ing)?\b)
+없음                    Nvidia Open Weights Letter Doubled To 50 Witho
+PASS [10점 /  39위] <주후보> SKT, 스타트업 3곳에 독자 AI 모델 지원
+        매칭: SKT, 스타트업 3곳에 독자 AI 모델 'A.X K1' API 지원 (어휘, 포함도 1.00, 엔티티 0)
+        근거: 보도수+3(30) 교차소스+2(gnews+rss) 복수쿼리+2(7) 자사관련+3(SK텔레콤)
+없음                    Nvidia in talks with OpenAI to guarantee $250 
+PASS [ 8점 /  71위] <미노출> Samsung Electronics, SK Group seal $950B deals
+        매칭: Questions Linger Over Math Behind Samsung, S (어휘, 포함도 0.71, 엔티티 0)
+        근거: high+3((?i)\bseals?\s+.{0,12}deals?\b) 수치규모+5($100B+)
+없음                    Palantir's Karp bashes token-based AI model as
+미달 [ 0점 / 1470위] <미노출> "키미 쇼크? 삼전닉스 더 띄울 것" AI기업 임원이 주목한 7곳
+        매칭: “키미 쇼크? 삼전닉스 더 띄울 것” AI기업 임원이 주목한 7곳 (어휘, 포함도 1.00, 엔티티 0)
+        근거: 
+
+----------------------------------------------------------------------
+수집 재현율   9/15 (60%)
+임계 통과율   5/15 (33%)  (min-score=6)
+링크 확정     2/15 (13%)  (나머지 13건은 어휘·엔티티 추정)
+LLM 가시성    5/15 (33%)  (주후보+자사+구제 = 프롬프트에 실제로 실린 것)
+실린 기사 점수: 최저 0 / 중앙 8 / 최고 12
+   임계  3점이면 6/15 통과 (40%)
+   임계  4점이면 6/15 통과 (40%)
+   임계  5점이면 5/15 통과 (33%)
+   임계  6점이면 5/15 통과 (33%)
+   임계  7점이면 5/15 통과 (33%)
+   임계  8점이면 5/15 통과 (33%)
+   임계  9점이면 4/15 통과 (27%)
+   임계 10점이면 2/15 통과 (13%)
+   임계 11점이면 1/15 통과 (7%)

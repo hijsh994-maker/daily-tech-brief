@@ -1,0 +1,43 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/9/4)
+
+1. 오픈AI, 위험등급 AI '아스트라' 공개…"AGI시대 온 것 환영" (연합뉴스 / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260904080038463&source=gmail&ust=1788567780697000&sa=E
+
+2. OpenAI walks away from $1B Cursor deal after SpaceX buys the coding startup (AI Chat Daily)
+o 링크: https://www.google.com/url?q=https://www.aichatdaily.com/ai-business/openai-walks-away-1b-cursor-deal-after-spacex&source=gmail&ust=1788567780697000&sa=E
+
+3. Daybreak for Frontline Defenders: $1B to protect essential services (OpenAI 공식 뉴스룸)
+o 링크: https://www.google.com/url?q=https://openai.com/index/daybreak-for-frontline-defenders/&source=gmail&ust=1788567780697000&sa=E
+
+4. 엔비디아, 허깅페이스 17.5조원에 인수…개방형 AI허브 계열화 (연합뉴스 / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260904052649102&source=gmail&ust=1788567780697000&sa=E
+
+5. Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI (PR Newswire)
+o 링크: https://www.google.com/url?q=https://www.prnewswire.com/news-releases/nscale-and-figure-sign-strategic-partnership-to-power-the-next-generation-of-physical-ai-302868918.html&source=gmail&ust=1788567780697000&sa=E
+
+6. Report: Anthropic Nears $15 Billion Pre-IPO Credit Facility (Bloomberg / Futubull)
+o 링크: https://www.google.com/url?q=https://news.futunn.com/en/flash/20713416/report-anthropic-nears-15-billion-pre-ipo-credit-facility&source=gmail&ust=1788567780697000&sa=E
+
+7. Pentagon says Anthropic supply chain risk ban is still in effect (Quartz)
+o 링크: https://www.google.com/url?q=https://qz.com/pentagon-anthropic-supply-chain-risk-designation-090326&source=gmail&ust=1788567780697000&sa=E
+
+8. SpaceXAI, 기업용 그록 봇 출시…2주 무료 체험 제공 (Investing.com 한국어)
+o 링크: https://www.google.com/url?q=https://kr.investing.com/news/stock-market-news/article-93CH-2084138&source=gmail&ust=1788567780697000&sa=E
+
+9. Zuckerberg Told Trump a National AI Regulator Is a Flawed Idea (Business Insider)
+o 링크: https://www.google.com/url?q=https://www.businessinsider.com/zuckerberg-told-trump-a-national-ai-regulator-is-a-flawed-idea-2026-9&source=gmail&ust=1788567780697000&sa=E
+
+10. Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini (Google Cloud 공식 블로그)
+o 링크: https://www.google.com/url?q=https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini&source=gmail&ust=1788567780697000&sa=E
+
+11. Thinking Machines Lab, 400억 달러 가치로 10억 달러 조달 추진 (Investing.com 한국어)
+o 링크: https://www.google.com/url?q=https://kr.investing.com/news/stock-market-news/article-2083941&source=gmail&ust=1788567780697000&sa=E
+
+12. 크루소, 제인 스트리트와 130억 달러 규모 클라우드 계약 (Investing.com 한국어)
+o 링크: https://www.google.com/url?q=https://kr.investing.com/news/stock-market-news/article-93CH-2083965&source=gmail&ust=1788567780697000&sa=E
+
+13. Cipher Digital Begins Development of Lateral Pipelines to Facilitate Data Center Expansion via Bring-Your-Own-Generation (GlobeNewswire)
+o 링크: https://www.google.com/url?q=https://www.globenewswire.com/news-release/2026/09/03/3355894/0/en/cipher-digital-begins-development-of-lateral-pipelines-to-facilitate-data-center-expansion-via-bring-your-own-generation.html&source=gmail&ust=1788567780697000&sa=E
+
+14. 대어 또 온다...中 문샷AI 홍콩 상장신청서 비공개 제출 (SBS Biz / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260904042100055&source=gmail&ust=1788567780697000&sa=E

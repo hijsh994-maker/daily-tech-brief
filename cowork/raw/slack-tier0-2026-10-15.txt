@@ -1,0 +1,205 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-15 10:20:36 KST === 
+Message TS: 1792027236.873919
+_2026-10-15 AI 관련 사업 공고 점검 결과_
+확인 범위: 10/14(수)~10/15(목) 게시분
+
+_1. 기업마당(bizinfo)_: 해당 없음
+10/14 등록분 중 AI 관련 공고는 4건이었고 모두 제외했습니다.
+• 구미 '온디바이스 AI 자율제조 기술지도', 경남 '제조AI 데이터 활용지원', 충주 '제조 AI 현장 적용': 모두 중소·중견기업 대상
+• '지역거점 AX(NRF·KEIT분)': 10/14에 이미 안내
+10/15 등록분은 없었습니다.
+_2. 과학기술정보통신부(msit) 사업공고_: 해당 없음
+10/15 '공급망안정화 선도사업자 제2차 선정계획'은 공고문(hwpx)을 확인했으나 AI와 무관해 제외했습니다. 10/14 게시분 2건은 선정결과 공고입니다.
+
+_3. IITP IRIS 공고 목록_: 해당 없음 (기간 내 신규 공고 없음)
+
+_4. IRIS 사업공고 (접수예정 탭)_: 1건
+<https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do|2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고(공정·응용 솔루션 AX R&D, 응용 제품 AX R&D)_KHIDI>
+• 공고기관: 과기정통부·보건복지부(다부처) / 정보통신산업진흥원, 한국보건산업진흥원(KHIDI) (보건복지부 공고 제2026-779호)
+• 공고일: 2026-10-14 / 전산접수: 2026-10-30 ~ _2026-11-13 17:00_
+• 핵심내용: 바이오·헬스케어 분야 AI·AX 지정공모 5개 과제입니다.
+◦ 의료기기 AI 기반 생산 시스템
+◦ AI 기반 미도래 감염병 인식물질 발굴·CDMO 솔루션
+◦ AI 기반 파킨슨병 조기진단·예측 플랫폼
+◦ 초연결 수술 어시스턴트 로봇 플랫폼
+◦ RAG·LLM 기반 소아 임상의사결정지원(CDSS) 플랫폼
+연구기간은 협약일~2030.12(3+2년)이고, 예산은 '26년 약 60.8억원, 총 약 781.7억원(국비+지방비)입니다.
+• 대기업 참여: _조건부 가능_
+◦ 주관: 공고문에 "(주관) 대구광역시 소재 기업·기관·대학·연구소 등 ※ 역외 소재 기관이 주관연구개발기관으로 참여하는 경우, 협약체결 전까지 본사 또는 연구소의 대구 이전 완료 필요"라고 되어 있어, SKT가 주관을 맡으려면 대구 이전이 필요합니다.
+◦ 공동: "공동연구개발기관은 지역 제한 없이 타 지역 소재 기업…참여 가능"이라고 되어 있어 SKT는 공동기관으로 참여할 수 있습니다.
+◦ 매칭: "공기업·대기업은 50% 이상 매칭"으로 대기업 참여가 명시되어 있습니다.
+◦ 기타: 대구 소재 AI·SW 정보통신기업 1개 이상이 공동기관으로 반드시 참여해야 합니다.
+• 비고: 10/14에 안내한 NRF·KEIT분(과기정통부 제2026-1002호, 로봇·의료 10개 과제)과 사업명은 같습니다. 다만 공고번호·전문기관·세부과제가 모두 달라 별도 공고로 안내합니다.
+※ 제외: IRIS 접수예정 탭의 10/15 '2026년도 AI 기반 주파수 간섭분석 및 전파예측기술 개발사업'(IITP)은 통신·전파 기술이 핵심인 과제여서 기준에 따라 제외했습니다.
+
+_전체 요약: 오늘 발견된 대기업 참여 가능 AI 공고 총 1건_ (대구 주관 요건이 붙은 조건부 1건)
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-15 10:18:25 KST === 
+Message TS: 1792027105.275619
+_[텔레그램 로그 2026-10-15] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 9개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. [서학개미 안테나] 앤트로픽, 3분기 매출 168억달러…IPO 앞두고 수익성 입증 (EBN)
+o 링크: <https://www.ebn.co.kr/news/articleView.html?idxno=1727896|ebn.co.kr/news/articleView.html?idxno=1727896>
+2. Preparing for the 2026 US midterms (Anthropic 공식 발표)
+o 링크: <https://www.anthropic.com/news/2026-us-midterms|anthropic.com/news/2026-us-midterms>
+3. Anthropic Licenses Opaque Systems' Confidential AI Technology (토큰포스트)
+o 링크: <https://www.tokenpost.com/news/technology/32044|tokenpost.com/news/technology/32044>
+4. OpenAI hands its data centre and compute operation to a former xAI executive (The Next Web)
+o 링크: <https://thenextweb.com/news/openai-ruddarraju-compute-infrastructure|thenextweb.com/news/openai-ruddarraju-compute-infrastructure>
+5. 오픈AI, 애플에 맞소송 검토…"미공개 기기 기밀 100여건 유출" (핀포인트뉴스)
+o 링크: <https://www.pinpointnews.co.kr/news/articleView.html?idxno=495374|pinpointnews.co.kr/news/articleView.html?idxno=495374>
+6. "챗GPT는 청소년 유해물"…美 8개 주, 오픈AI 제소 (ZDNet Korea)
+o 링크: <https://zdnet.co.kr/view/?no=20261015080659|zdnet.co.kr/view?no=20261015080659>
+7. OpenAI reports eightfold rise in EU small-business agent users (Crypto Briefing)
+o 링크: <https://cryptobriefing.com/openai-eu-small-business-ai-agents-growth/|cryptobriefing.com/openai-eu-small-business-ai-agents-growth>
+8. xAI Introduces Grok Voice 3.0 Speech-to-Speech Model for Voice Agents (Unite.AI)
+o 링크: <https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/|unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents>
+9. 코어위브 채권 '부실' 수준 하락…CEO "시장이 비이성적으로 움직여" (ZDNet Korea)
+o 링크: <https://zdnet.co.kr/view/?no=20261015090506|zdnet.co.kr/view?no=20261015090506>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-15 10:16:58 KST === 
+Message TS: 1792027018.516129
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101509144032044|BS한양, 설계·시공 기준 바로 찾는 AI 에이전트 '비온' 현장 투입>
+ㄴ아시아경제 2026.10.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101509042755266|뱅크샐러드, AI 에이전트 판단·실행 제어기술 특허출원>
+ㄴ아시아경제 2026.10.15 관련뉴스 2건
+<https://www.etoday.co.kr/news/view/2635969|뉴욕증시, 인플레 불안에 하락?AI·반도체주 약세 [글로벌마켓 모닝 브리핑]>
+ㄴ이투데이 2026.10.15 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2635959|AI 인프라·반도체주 우수수?코어위브 15%↓·마이크론 4%↓ [뉴욕증시 무버]>
+ㄴ이투데이 2026.10.15 관련뉴스 1건
+<https://www.seoul.co.kr/news/plan/forum/forum-future/2026/10/15/20261015013002|반도체·AI·에너지 잇는 ''트라이앵글 산업벨트'' 구상 [2026 서울미래컨퍼런스]>
+ㄴ서울신문 2026.10.15 관련뉴스 2건
+<https://www.seoul.co.kr/news/economy/industry/2026/10/14/20261014500274|중국, AI반도체 자립 가속...쫓기는 K반도체>
+ㄴ서울신문 2026.10.14
+<https://www.fnnews.com/news/202610141643008699|'CES 2027' AI반도체.버티컬 AI 집중 조명 ... 로봇도 확대>
+ㄴ파이낸셜뉴스 2026.10.14 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2635859|''엔비디아 패권 넘으려면''...퓨리오사AI·리벨리온·딥엑스가 보는 K-AI 반도체 전략 [미리 보는 테크퀘스트]>
+ㄴ이투데이 2026.10.14
+<https://www.etnews.com/20261014000403|포티투마루, DMI서 AI 에이전트·초개인화 전략 공개>
+ㄴ전자신문 2026.10.14 관련뉴스 2건
+<https://www.segye.com/newsView/20261014519332|AI 반도체 기술 한자리에 [한강로 사진관]>
+ㄴ세계일보 2026.10.14 관련뉴스 6건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-15 10:16:48 KST === 
+Message TS: 1792027008.038819
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.fnnews.com/news/202610150822100767|블랙록 핑크 CEO, 데이터센터 건설유예 美 경기 침체 유발 경고>
+ㄴ파이낸셜뉴스 2026.10.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101509243797685|HD건설기계, 데이터센터 겨냥 3MW급 발전기 엔진 개발 속도>
+ㄴ아시아경제 2026.10.15 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101509201177812|파두, AI 데이터센터향 '파일 시맨틱 SSD' 공개...스토리지 혁신>
+ㄴ아시아경제 2026.10.15
+<https://www.fnnews.com/news/202610150827554901|"GS건설, AI 데이터센터 수주 기대"...목표가 30% 상향>
+ㄴ파이낸셜뉴스 2026.10.15
+<https://www.fnnews.com/news/202610150753574881|KT, 데이터센터 계약이 주가 반등 촉매...목표가 7만3000원 유지>
+ㄴ파이낸셜뉴스 2026.10.15
+<https://www.sedaily.com/article/20101676|롯데이노베이트, 베트남 사업 확장...“데이터센터 시장 공략”>
+ㄴ서울경제 2026.10.15
+<https://www.sedaily.com/article/20101697|엔비디아 ‘베라 루빈 랙’ 설계 개방...AI칩 넘어 데이터센터 표준 노린다>
+ㄴ서울경제 2026.10.14
+<https://www.sedaily.com/article/20101647|“AI홈·데이터센터 동시 확장”...LG의 빅 피처>
+ㄴ서울경제 2026.10.14
+<https://www.seoul.co.kr/news/economy/industry/2026/10/14/20261014500231|LG전자.GS건설, 美 GRC와 AI 데이터센터 액침냉각 표준설계 공동개발>
+ㄴ서울신문 2026.10.14 관련뉴스 13건
+<https://www.fnnews.com/news/202610141659450588|롯데이노베이트, 데이터센터 사업 해외 확장...베트남 CMC와 협력>
+ㄴ파이낸셜뉴스 2026.10.14
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20261014000227|[포토] 휴머노이드 로봇의 댄스 공연>
+ㄴ전자신문 2026.10.14 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101407511933641|“립밤 집는 휴머노이드부터 지뢰탐지 로봇까지...움직이는 두뇌가 눈앞에”>
+ㄴ아시아경제 2026.10.14
+<https://www.sedaily.com/article/20101359|유진로봇, 자율이동로봇 넘어 휴머노이드 사업 확대[로보 인사이트]>
+ㄴ서울경제 2026.10.14 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/2026/10/14/20261014500032|포스코이앤씨 건설현장에 산업용 로봇청소기 도입...반복 청소작업 로봇이 분담>
+ㄴ서울신문 2026.10.14
+<https://www.news1.kr/industry/general-industry/6320026|[단독] LG전자, 두 발로 걷는 휴머노이드 '클로이드' 내년 초 출시>
+ㄴ뉴스1 2026.10.15
+<https://www.etnews.com/20261014000432|장병 대신 위험 임무...美 육군 '로봇 병사' 시험>
+ㄴ전자신문 2026.10.15
+<https://biz.heraldcorp.com/article/10903074|롯데글로벌로지스, 공유창고 플랫폼 ‘다락’과 방문 픽업 서비스 협력>
+ㄴ헤럴드경제 2026.10.15
+<https://biz.chosun.com/industry/business-venture/2026/10/15/S22R23SE7ZAEBF24L3FY2VQW3Q/|[스타트UP] 같은 중고 전기차, 배터리값은 왜 차이 날까...안 뜯고 진단하는 퀀텀하이텍>
+ㄴ조선비즈 2026.10.15
+<https://www.etoday.co.kr/news/view/2635942|피지컬 AI 미래기술 총집결...전북도, 역대 최대 과학축전 연다>
+ㄴ이투데이 2026.10.15 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10902945|2026 미래혁신기술박람회, 오는 21~24일 대구 엑스코서 개최>
+ㄴ헤럴드경제 2026.10.15
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-15 10:16:31 KST === 
+Message TS: 1792026991.908379
+_[텔레그램 로그 2026-10-15] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 15일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.fnnews.com/news/202610141011011363|미중 AI 경쟁 속 '공개 모델' 택한 엔비디아 협력사 LTX..."한국과 협력 기회">
+ㄴ파이낸셜뉴스 2026.10.14 관련뉴스 1건
+<https://www.news1.kr/industry/general-industry/6320005|AI가전·HVAC로 '에너지 자립형 집'...LG전자, K-GX 주거모델 제시>
+ㄴ뉴스1 2026.10.14 관련뉴스 1건
+<https://www.news1.kr/local/daejeon-chungnam/6319461|ETRI, 자연어 명령으로 광액세스망 운용 가능한 LLM 기술 개발>
+ㄴ뉴스1 2026.10.14 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/10/14/2PF6ZWMBLJBJZBJ4LIPZMYKGKI/|구글, 최상위 AI 모델 ‘제미나이 4 아르곤’ 출시...“코딩.금융.법률 등 업무 특화">
+ㄴ조선비즈 2026.10.14 관련뉴스 1건
+<https://www.fnnews.com/news/202610141023270643|AI 수업·수행평가 공정성 다잡는다... 비상교육, 현장형 영어 수업 모델 확산>
+ㄴ파이낸셜뉴스 2026.10.14 관련뉴스 1건
+<https://www.segye.com/newsView/20261009506892|라마 설계자들 파리에 모였다...AI 인프라 구축 나선 유럽 [이귀전의 왜-인재전쟁 ]>
+ㄴ세계일보 2026.10.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101508571844373|마인드로직, 개인용 AI 플랫폼 '베이즈' 출시>
+ㄴ아시아경제 2026.10.15
+<https://www.sedaily.com/article/20101780|상장 앞둔 앤트로픽, 3분기 매출 23조원...전분기보다 46% ↑>
+ㄴ서울경제 2026.10.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101508365976704|'일상 스트레스' 스마트폰 사용 습관으로도 파악>
+ㄴ아시아경제 2026.10.15
+<https://biz.heraldcorp.com/article/10903093|이왕준 IHF 차기 회장 “韓 의료 ‘2차 대전환’ 시기...AI 통해 생산성 혁신해야”>
+ㄴ헤럴드경제 2026.10.15
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101509144032044|BS한양, 설계·시공 기준 바로 찾는 AI 에이전트 '비온' 현장 투입>
+ㄴ아시아경제 2026.10.15
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101509042755266|뱅크샐러드, AI 에이전트 판단·실행 제어기술 특허출원>
+ㄴ아시아경제 2026.10.15 관련뉴스 2건
+<https://www.etnews.com/20261014000403|포티투마루, DMI서 AI 에이전트·초개인화 전략 공개>
+ㄴ전자신문 2026.10.14 관련뉴스 2건
+<https://www.etnews.com/20261014000115|공공 에이전틱 AI 도입 문 넓어진다...주요 AI 플랫폼 등록 이어져>
+ㄴ전자신문 2026.10.14
+<https://www.etnews.com/20261014000122|[나노팹 스마트서비스사업] "목표만 주면 공정조건 스스로 탐색"...반도체 AI 에이전트 개발 본격화>
+ㄴ전자신문 2026.10.14
+<https://www.fnnews.com/news/202610141513148078|지멘스, AI 에이전트로 제조 혁신...산업 현장 적용 확대>
+ㄴ파이낸셜뉴스 2026.10.14 관련뉴스 1건
+<https://www.etnews.com/20261014000280|CES 2027, ''보여주기''서 ''일하기''로...에이전틱 AI·로봇 손 실전 검증 무대>
+ㄴ전자신문 2026.10.14
+<https://www.etnews.com/20261014000471|피지컬 AI 상용화 속도..."에이전트 시대, 추론 인프라가 경쟁력">
+ㄴ전자신문 2026.10.14
+<https://www.news1.kr/bio/pharmaceutical-bio/6320683|하이닥, 영어·일본어·인도네시아어 글로벌 사이트 오픈>
+ㄴ뉴스1 2026.10.15
+<https://www.news1.kr/industry/distribution/6320629|G마켓, 66만 셀러 지원 강화...AI 판매관리·신규 딜 도입>
+ㄴ뉴스1 2026.10.15
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-15 08:57:23 KST === 
+Message TS: 1792022243.005639
+
+Files: [2026년 10월 15일] 조간 뉴스 클리핑 (ID: F0C9A6GH9B8, text/html, 41.8 KB)

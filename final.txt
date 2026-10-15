@@ -1,0 +1,54 @@
+링크 확보 13건 (경로별):
+
+  webkr        8건
+  naver        5건
+
+전체 목록:
+ 1 [auto  ] 구글, Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cybe
+     발견: 구글이 ‘제미나이 3.6 플래시(Flash)’, ‘3.5 플래시-라이트(Flash-Lite)’, 그리 (blog.google)
+     링크: https://blog.google/intl/ko-kr/company-news/technology/gemini-3-6-flash-3-5-
+ 2 [auto  ] 오픈AI, 보안 테스트 중 AI 모델이 샌드박스를 우회해 허깅 페이스 환경에서 자동화된 공격을
+     발견: 오픈AI의 모델이 '반란'을 일으켜 전례 없는 사이버 공격을 촉발했습니다. (Vietnam.vn)
+     링크: --- 실패 ---
+ 3 [review] 오픈AI, Nubank의 창업자 겸 CEO 데이비드 벨리즈와 BNY Mellon CEO 로빈 
+     발견: 오픈AI, IPO 앞두고 BNY멜론·누뱅크 CEO 이사회 영입 (IT조선)
+     링크: https://it.chosun.com/news/articleView.html?idxno=2023092166219
+ 4 [review] 오픈AI, 중소기업 대상 챗GPT 서비스 출시. 챗GPT Work와 최신 GPT-5.6 모델 
+     발견: 오픈AI, 미국 소상공인 3300만 곳 겨냥한 “챗GPT 소상공인 프로그램” 출시 (위키트리)
+     링크: https://www.wikitree.co.kr/articles/1147659
+ 5 [auto  ] 샘 올트먼, 미국 정부 관계자들에게 차세대 프런티어 모델 개발 현황과 향후 출시 계획 직접 브
+     발견: 올트먼, 美 당국자에 차세대 AI 브리핑…중국 추격·안전 규제 논의│Global Money Club (중앙일보)
+     링크: --- 실패 ---
+ 6 [review] 앤스로픽, 상반기 로비 지출액 350만 달러 이상으로 '25년 연간 310만 달러 상회.
+     발견: "상무부 제재 한 번에 달라졌다"…앤트로픽, 워싱턴 로비 비용 26% 급증 (블록미디어)
+     링크: https://www.blockmedia.co.kr/archives/1119377
+ 7 [auto  ] 스페이스X, MS 365 추가 기능인 Grok for Outlook 출시. 유료 구독자 대상으
+     발견: [美특징주]스페이스X, MS 아웃룩에 '그록' 추가…시간외↑ (edaily.co.kr)
+     링크: https://www.edaily.co.kr/News/Read?newsId=02381286645517144
+ 8 [auto  ] 메타, Threads에 부모 감독 기능 추가. 청소년의 사용시간 확인, 일일 이용 제한, 취침
+     발견: 스레드에도 부모 감독 기능 추가…메타, 청소년 보호 확대 (디지털포커스)
+     링크: https://www.digitalfocus.news/news/articleView.html?idxno=22516
+ 9 [auto  ] 문샷 AI, 현재 315억 달러 규모 펀딩 라운드 마무리 이후 최대 500억 달러 밸류로 프리
+     발견: 문샷 AI, 500억 달러 가치로 자금 조달 추진 (블룸버그) (Investing.com 한국어)
+     링크: https://kr.investing.com/news/stock-market-news/article-1197491
+10 [auto  ] 베센트 재무장관, 트럼프 행정부가 오픈소스 AI는 지지하지만, IP 침해 시 제제 가능성 시사
+     발견: 美 재무장관 "中 AI 모델, 기술 도용 확인되면 제재…IP 침해 조사 착수" (디지털투데이)
+     링크: https://www.digitaltoday.co.kr/news/articleView.html?idxno=685886
+11 [drop  ] 미-중, 9월 AI 관련 정부 간 회담 개최를 추진. 군사 활용, 핵심 인프라 대상 사이버 공
+     발견: 미·중, 9월 'AI 고위급 회담' 추진 (v.daum.net)
+     링크: --- 실패 ---
+12 [auto  ] 코어위브, AI 네이티브 클라우드 구축을 지속하고 있으며, AI 클라우드 매출이 성장할 수록 
+     발견: AI 인프라 기대주 코어위브, 성장과 단기 부채 부담 교차 : 글로벌 (재경일보)
+     링크: https://news.jkn.co.kr/post/945965
+13 [review] 데이터브릭스, AI 모델 호스팅 수요가 가용 컴퓨팅 캐파를 넘어서면서 여러 지역에서 GPU가 
+     발견: 데이터브릭스 CEO “GPU 부족이 AI 기업들 자금 조달 부추겨” (Benzinga)
+     링크: https://kr.benzinga.com/news/usa/othermarkets/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB
+14 [auto  ] 마이크로소프트-미스트랄 AI, 전략적 파트너십 확대. 유럽 AI 인프라 확대를 위해 수십억 달
+     발견: “유럽 주권형 AI 시대 연다”...마이크로소프트·미스트랄, 수십억 달러 규모 전략적 동맹 확대 (인공지능신문)
+     링크: https://www.aitimes.kr/news/articleView.html?idxno=41089
+15 [auto  ] 팔로알토 네트웍스, Embrace 인수를 통해 실사용자 모니터링(RUM) 역량 확보
+     발견: 팔로 알토 네트웍스, Embrace 인수해 옵저버빌리티 강화 (Investing.com 한국어)
+     링크: https://kr.investing.com/news/company-news/article-93CH-2023528
+16 [auto  ] 인텔-포티넷, 차세대 SP6 보안 프로세서 개발을 위한 파트너십 확대 발표
+     발견: 포티넷-인텔, 차세대 보안 프로세서 SP6 공동 개발 협력 발표 (헬로티)
+     링크: https://www.hellot.net/news/article.html?no=113913

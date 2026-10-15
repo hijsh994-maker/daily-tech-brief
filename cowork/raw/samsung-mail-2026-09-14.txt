@@ -1,0 +1,43 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/9/14)
+
+1. “AI 개발 늦추자”…연구진 경고에 올트먼·머스크도 동조 (이데일리 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260913185949561
+
+2. Anthropic has chosen the Nasdaq for its IPO listing (Business Insider)
+o 링크: https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9
+
+3. 엔비디아, 앤스로픽 IPO에 최대 13조4000억원 투자 검토 (조선일보)
+o 링크: https://www.chosun.com/economy/tech_it/2026/09/13/ZS4YKLTHFFEWJHMXN4JA22MAXU/
+
+4. Goldman, BofA Vie to Manage Anthropic Staffers' IPO Millions (AdvisorHub)
+o 링크: https://www.advisorhub.com/goldman-bofa-vie-to-manage-anthropic-staffers-ipo-millions/
+
+5. 앤트로픽·오픈AI·구글, AI 표준기관 설립 논의 (토큰포스트)
+o 링크: https://www.tokenpost.kr/news/ai/407294
+
+6. “IPO도 미루고, AI 개발도 천천히”…속도전에 브레이크 건 올트먼·머스크 (조선일보)
+o 링크: https://www.chosun.com/economy/int_economy/2026/09/13/FNMQLES4XZGQVECHJES57EKVZU/
+
+7. 오픈AI AI 에이전트, 허깅페이스 해킹 두 달 전 '루비젬스'도 공격 (뉴스1)
+o 링크: https://www.news1.kr/amp/world/usa-canada/6288312
+
+8. Nadella Announces Public Consultation on Microsoft's MAI Model Rules (Unite.AI)
+o 링크: https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/
+
+9. 오라클 5000만주 판다던 엘리슨…하루 만에 계획 취소 (한국경제 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260913092951257
+
+10. 2만1000명 줄인 오라클, AI 투자에 현금흐름 적자 (토큰포스트)
+o 링크: https://www.tokenpost.kr/news/ai/406755
+
+11. 제프 딘의 과학AI 스타트업, 67조 몸값 도전…한달새 5배 뛰었다 (이데일리 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260913160239717
+
+12. 지푸, 50억달러 조달 착수…AI 연구·컴퓨팅 확대 (토큰포스트)
+o 링크: https://www.tokenpost.kr/news/breaking/407175
+
+13. DeepSeek Tests AI Voice Conversation Feature With Four Audio Tones (Gate.io News)
+o 링크: https://www.gate.com/en-us/news/detail/deepseek-tests-ai-voice-conversation-feature-with-four-audio-tones-17869501
+
+14. Fidji Simo Joins Nscale Board of Directors (Nscale 공식 발표)
+o 링크: https://www.nscale.com/press-releases/fidji-simo-joins-nscale-board-of-directors

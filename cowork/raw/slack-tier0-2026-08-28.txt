@@ -1,0 +1,149 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-28 15:31:56 KST === 
+Message TS: 1787898716.284999
+_(이어서 5/5)_
+
+[09:30]
+*AI기술현황*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082809104030159|50시간 걸리던 업무 3시간컷...롯데칠성음료, AI 에이전트 현장 적용>
+ㄴ아시아경제 2026.08.28 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2619136|[증시키워드] 엔비디아 훈풍에 반도체 재시동...삼성SDI·LS ELECTRIC도 AI 전력 수혜 부각>
+ㄴ이투데이 2026.08.28
+<https://www.etoday.co.kr/news/view/2618927|[2027 수시] 숭실대, 수시 1740명 선발...반도체·AI 특화 ''지능전자공학부'' 신설>
+ㄴ이투데이 2026.08.28 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/08/27/QTX77ABSRREJNEYLJO352P3AQY/|오픈AI 에이전트 1200개가 ‘집단 행동’...허깅페이스 해킹 전모 드러나>
+ㄴ조선비즈 2026.08.27 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10854415|램리서치, 美 오리건 신규 연구소 착공...AI 반도체 연구개발 혁신 가속화>
+ㄴ헤럴드경제 2026.08.27 관련뉴스 1건
+<https://www.sedaily.com/article/20084153|SK에코플랜트, SK에코엔지니어링 흡수합병...AI·반도체 인프라 경쟁력 강화>
+ㄴ서울경제 2026.08.27 관련뉴스 2건
+<https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827500099|“데이터 전략 없이 AI 전략 없다” 스노우플레이크, 기업용 AI 에이전트 승부>
+ㄴ서울신문 2026.08.27
+<https://www.etoday.co.kr/news/view/2618985|김학균 "엔비디아 보면 AI 끝난 것 아냐...반도체 조정 과했다" [와이즈포럼]>
+ㄴ이투데이 2026.08.27
+<https://www.fnnews.com/news/202608271822448771|54만㎡ 옥수수밭이 AI심장으로... SK하닉, 美에 ‘반도체 기지’ 세운다 [SK하이닉스 美 인디애나 공장 건설]>
+ㄴ파이낸셜뉴스 2026.08.28 관련뉴스 3건
+<https://www.etnews.com/20260827000156|벡터, AI 에이전트.MCP 적용한 'CANoe' 출시...개발.테스트 자동화>
+ㄴ전자신문 2026.08.27
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-28 15:31:36 KST === 
+Message TS: 1787898696.578659
+_(이어서 4/5)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20260828000004|“청년 인재와 로봇 현장의 만남”...KIRO.KIRIA, 휴머노이드 오픈랩 투어 성료>
+ㄴ전자신문 2026.08.28
+<https://www.etnews.com/20260827000275|ams 오스람, 휴머노이드 로봇 시각.촉각.소통 능력 지원>
+ㄴ전자신문 2026.08.27
+<https://biz.heraldcorp.com/article/10854151|휴머노이드 2.3조·피지컬AI 2.8조 투입...2030년 10대 업종 특화로봇>
+ㄴ헤럴드경제 2026.08.27 관련뉴스 3건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082709491873543|"이걸 누가 사냐고?"...편의점서 3100만원짜리 휴머노이드 로봇 등장한 이유>
+ㄴ아시아경제 2026.08.27
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082809010669337|LSK아이로봇, AI 버추얼 IP 사업화 시동..."트렌드 조사 응답 81%가 산업 혁신 기대">
+ㄴ아시아경제 2026.08.28
+<https://www.fnnews.com/news/202608271626009555|현대차 "가이던스 상향" 자신감에도 주가 하락...증권가도 목표가 '하향'>
+ㄴ파이낸셜뉴스 2026.08.28 관련뉴스 1건
+<https://www.sedaily.com/article/20084240|유니트리 폭락에도 中IPO 열풍...인피포스.유디어AI, 홍콩 상장 추진>
+ㄴ서울경제 2026.08.28
+<https://www.seoul.co.kr/news/international/china/2026/08/28/20260828012006|베이징 달군 AI로봇 킥복싱>
+ㄴ서울신문 2026.08.27
+<https://www.khan.co.kr/article/202608272103015|‘로봇 생태계 조성’ 팔 걷은 정부...2030년까지 2조3000억원 푼다>
+ㄴ경향신문 2026.08.27
+<https://www.khan.co.kr/article/202608272103025|국민성장펀드, 로봇 기업에 3500억 지분투자>
+ㄴ경향신문 2026.08.27 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-28 15:31:18 KST === 
+Message TS: 1787898678.952009
+_(이어서 3/5)_
+
+[09:30]
+*데이터센터시장*
+신규 10건
+<https://biz.chosun.com/stock/stock_general/2026/08/28/V5AT3O3ZZBEWNAJTQCW4RF6TDM/|AI데이터센터 전문 자회사 세우는 SK텔레콤...삼성證 “중장기 가치 상승”>
+ㄴ조선비즈 2026.08.28
+<https://www.etoday.co.kr/news/view/2619125|KB證 "삼성전자, 중국 AI 데이터센터 최대 수혜주">
+ㄴ이투데이 2026.08.28 관련뉴스 3건
+<https://www.fnnews.com/news/202608270902538779|"한화에진, 고수익 선박 엔진에 데이터센터 발전 날개...실적 '퀀텀점프'"유안타證>
+ㄴ파이낸셜뉴스 2026.08.28
+<https://www.news1.kr/finance/market-exr/6272182|NH證 "삼성重, 조선업 중장기 성장 의문...부유식 데이터센터로 반전 기대">
+ㄴ뉴스1 2026.08.28
+<https://biz.chosun.com/stock/stock_general/2026/08/28/HG2DEGF3W5FXXPYT2TSEDIA3S4/|NH證 “삼성중공업, 부유식 데이터센터가 주가 반전 동력될 것”>
+ㄴ조선비즈 2026.08.28 관련뉴스 1건
+<https://www.asiae.co.kr/article/science/2026082719061078866|SKT, AI 데이터센터 신설법인 ''호라이즌'' 설립...브로드밴드 인적분할>
+ㄴ아시아경제 2026.08.27 관련뉴스 7건
+<https://www.seoul.co.kr/news/plan/datacenter/2026/08/28/20260828008001|투명하게 정보 공개, 폐교 지방대 활용... "데이터센터와 공존을" [데이터센터의 명암]>
+ㄴ서울신문 2026.08.27
+<https://www.etoday.co.kr/news/view/2619071|과천주암 데이터센터 이격거리 조례안 부결...원주민들 "환영">
+ㄴ이투데이 2026.08.27
+<https://biz.chosun.com/it-science/ict/2026/08/27/VN3C42QIMNAYPER2VIIVWOZ3NY/|[단독] SK텔레콤.SK브로드밴드, AI 데이터센터 사업 분사... ‘15GW 청사진’ 실행 속도>
+ㄴ조선비즈 2026.08.27
+<https://www.etnews.com/20260827000250|AI 데이터센터 전력 0.001초마다 '출렁'...정부, 전용 그리드코드 만든다>
+ㄴ전자신문 2026.08.27 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-28 15:31:00 KST === 
+Message TS: 1787898660.709519
+_(이어서 2/5)_
+
+[09:30]
+*AI에이전트*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082809104030159|50시간 걸리던 업무 3시간컷...롯데칠성음료, AI 에이전트 현장 적용>
+ㄴ아시아경제 2026.08.28 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/08/27/QTX77ABSRREJNEYLJO352P3AQY/|오픈AI 에이전트 1200개가 ‘집단 행동’...허깅페이스 해킹 전모 드러나>
+ㄴ조선비즈 2026.08.27 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827500099|“데이터 전략 없이 AI 전략 없다” 스노우플레이크, 기업용 AI 에이전트 승부>
+ㄴ서울신문 2026.08.27
+<https://www.etnews.com/20260827000156|벡터, AI 에이전트.MCP 적용한 'CANoe' 출시...개발.테스트 자동화>
+ㄴ전자신문 2026.08.27
+<https://www.sedaily.com/article/20083877|에이전트·로봇 개발에 무료 활용...정부, AI 데이터 3544만 건 개방>
+ㄴ서울경제 2026.08.27
+<https://www.etnews.com/20260828000039|모두의 AI, SK텔레콤.KT.카카오 선정...2대 1 경쟁 뚫어>
+ㄴ전자신문 2026.08.28
+<https://www.seoul.co.kr/news/economy/2026/08/28/20260828500025|오케스트로, AI로 전사 업무 혁신 가속... 장애 원인 분석 88%.결산 처리 시간 70% 단축>
+ㄴ서울신문 2026.08.28
+<https://biz.heraldcorp.com/article/10854989|기술력과 결제 네트워크 만났다...두나무-비자, 스테이블코인 협력>
+ㄴ헤럴드경제 2026.08.28 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10854967|“구글 AI보다 25배 빠르다”...KAIST, 소버린 바이오 AI ‘K-Fold’ 공개>
+ㄴ헤럴드경제 2026.08.28 관련뉴스 1건
+<https://www.etnews.com/20260828000015|글로벌 기업 120곳 공개서한...“AI발 사이버 공격 목전...공동 대응해야”>
+ㄴ전자신문 2026.08.28
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-28 15:30:44 KST === 
+Message TS: 1787898644.723529
+_[텔레그램 로그 2026-08-28] 에이닷비즈뉴스레터_
+
+[09:30]
+*8월 28일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://biz.chosun.com/it-science/ict/2026/08/27/7B6PGJEI7FC6FJF43YFAUNHKT4/|독파모 경쟁한 SKT.업스테이지, ‘보안 AI 파운데이션 모델’ 함께 만든다>
+ㄴ조선비즈 2026.08.27 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/08/27/PJBTHSG4FVB5VNKNHP2MFEOLPI/|엔비디아, ''AI 모델 허브'' 허깅페이스 18조원에 인수>
+ㄴ조선비즈 2026.08.27 관련뉴스 3건
+<https://www.sportsworldi.com/newsView/20260827511572|두원공과대학교, ‘AX 교원 역량강화 연수’ 개최... AI교육 혁신모델 강화>
+ㄴ스포츠월드 2026.08.27
+<https://www.asiae.co.kr/news/view.htm?idxno=2026082808191518958|안저사진으로 치매 발생 위험 예측하는 AI 개발>
+ㄴ아시아경제 2026.08.28 관련뉴스 2건
+<https://www.segye.com/newsView/20260827516367|정부, 휴머노이드 분야 2030년까지 2.3조 투입>
+ㄴ세계일보 2026.08.28
+<https://www.etnews.com/20260828000035|전남정보문화산업진흥원, AI-MEC 기술 고도화...가상융합 콘텐츠 상용화 본격 지원>
+ㄴ전자신문 2026.08.28
+<https://www.fnnews.com/news/202608280844578469|한화에어로, 유.무인기 통합 '원스카이' 엔진 제시...독자 개발 속도>
+ㄴ파이낸셜뉴스 2026.08.28 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10854967|“구글 AI보다 25배 빠르다”...KAIST, 소버린 바이오 AI ‘K-Fold’ 공개>
+ㄴ헤럴드경제 2026.08.28 관련뉴스 1건
+<https://www.etnews.com/20260828000015|글로벌 기업 120곳 공개서한...“AI발 사이버 공격 목전...공동 대응해야”>
+ㄴ전자신문 2026.08.28
+<https://www.fnnews.com/news/202608280742593936|"AI 해킹 확산, 대응시간 없다"...116개 빅테크, 글로벌 공동대응 촉구[글로벌AI브리핑]>
+ㄴ파이낸셜뉴스 2026.08.28
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

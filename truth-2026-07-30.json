@@ -1,0 +1,77 @@
+{
+ "date": "2026-07-30",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "OpenAI, 학술 연구자 10만 명에 GPT-5.6 Sol Pro 무료 제공",
+   "outlet": "OpenAI",
+   "url": "https://openai.com/index/chatgpt-for-academic-researchers/"
+  },
+  {
+   "category": "AI Model",
+   "title": "SK텔레콤, 독파모 2차 모델 'A.X K2' 공개…산업 현장·국민 일상 AI 확산 나선다",
+   "outlet": "SK텔레콤 뉴스룸",
+   "url": "https://news.sktelecom.com/228501"
+  },
+  {
+   "category": "AI Agent",
+   "title": "Mark Zuckerberg predicts billions of people will have personal AI agents in 5 years",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+  },
+  {
+   "category": "AI DC&Infra",
+   "title": "AIDC 얼라이언스 출범…정재헌 SKT 대표, 민간 공동의장 선임",
+   "outlet": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20260729155322"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Disney is ditching Microsoft's GitHub Copilot — but keeping Anthropic Claude Enterprise and Cursor",
+   "outlet": "Windows News",
+   "url": "https://windowsnews.ai/article/why-disney-is-ditching-github-copilot-and-what-it-means-for-windows-developers.440861"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Banks Bet on Open AI After OpenAI's Own Hack",
+   "outlet": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "OpenAI's Sam Altman meets senators, Jensen Huang too, as Trump weighs \"AI controls\"",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'",
+   "outlet": "Yahoo Finance",
+   "url": "https://www.yahoo.com/news/politics/articles/over-1-100-ai-workers-212659630.html"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "트럼프 대통령, GPT-5.6 해킹 사건에 \"AI 규제 검토…기업 성과는 안 막을 것\"",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260730000008"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "China's Moonshot AI hits $35B valuation after $3.5B raise on Kimi K3 momentum",
+   "outlet": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Meta Q2 2026 실적: 매출 28%↑에도 AI 투자로 잉여현금흐름 91% 급감",
+   "outlet": "Investing.com",
+   "url": "https://www.investing.com/news/company-news/meta-q2-2026-slides-revenue-surges-28-as-ai-spending-pressures-profits-93CH-4821966"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "CoreWeave sweetens $2.6B loan terms tied to Anthropic compute expansion",
+   "outlet": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-29/coreweave-boosts-yield-on-2-6-billion-loan-tied-to-anthropic"
+  }
+ ]
+}

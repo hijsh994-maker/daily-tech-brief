@@ -1,0 +1,315 @@
+[
+ {
+  "headline": "[“구글 AI보다 25배 빠르다”...KAIST, 소버린 바이오 AI ‘K-Fold’ 공개]",
+  "url": "https://biz.heraldcorp.com/article/10854967",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 80%",
+  "status": 200,
+  "ratio": 0.8,
+  "page_title": "“구글 AI보다 25배 빠르다”…KAIST, 소버린 바이오 AI ‘K-Fold’ 공개",
+  "unreached": false
+ },
+ {
+  "headline": "오픈AI \"AGI 임계점에 도달…올해 말 내부 구축 완료할 것\"",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214477",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "오픈AI &quot;AGI 임계점에 도달…올해 말 내부 구축 완료할 것&quot; < 산업일반 < AI산업 < 기사본문 - AI타임스",
+  "unreached": false
+ },
+ {
+  "headline": "[모두의 AI, SK텔레콤.KT.카카오 선정...2대 1 경쟁 뚫어]",
+  "url": "https://www.etnews.com/20260828000039",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 89%",
+  "status": 200,
+  "ratio": 0.8888888888888888,
+  "page_title": "모두의 AI, SK텔레콤·카카오·KT 선정…2대 1 경쟁 돌파 - 전자신문",
+  "unreached": false
+ },
+ {
+  "headline": "[속보]과기정통부, 독파모 논란에 평가 전체 공개…모티프 전문가·사용자 최하위 - 머니투데이",
+  "url": "https://www.mt.co.kr/tech/2026/08/27/2026082719531413911",
+  "verdict": "OK",
+  "reason": "제목 일치 92%",
+  "status": 200,
+  "ratio": 0.9166666666666666,
+  "page_title": "[속보]과기정통부, 독파모 논란에 평가 전체 공개…모티프 전문가·사용자 최하위 - 머니투데이",
+  "unreached": false
+ },
+ {
+  "headline": "[독파모 경쟁한 SKT.업스테이지, ‘보안 AI 파운데이션 모델’ 함께 만든다]",
+  "url": "https://biz.chosun.com/it-science/ict/2026/08/27/7B6PGJEI7FC6FJF43YFAUNHKT4/",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "독파모 경쟁한 SKT·업스테이지, ‘보안 AI 파운데이션 모델’ 함께 만든다",
+  "unreached": false
+ },
+ {
+  "headline": "[단독] LG는 왜 주니어 AI 연구자 이직 막나…‘독파모’ 인재전쟁 법정으로",
+  "url": "https://www.edaily.co.kr/news/read?newsid=01735126645551912&mediaCodeNo=257&kakao_from=mainnews",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "[단독] LG는 왜 주니어 AI 연구자 이직 막나…‘독파모’ 인재전쟁 법정으로(종합)",
+  "unreached": false
+ },
+ {
+  "headline": "[에이전트·로봇 개발에 무료 활용...정부, AI 데이터 3544만 건 개방]",
+  "url": "https://www.sedaily.com/article/20083877",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "에이전트·로봇 개발에 무료 활용…정부, AI 데이터 3544만 건 개방",
+  "unreached": false
+ },
+ {
+  "headline": "앤트로픽, 피지컬 AI로 확장...하드웨어판 MCP 'MHS' 공개",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696212",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "앤트로픽, 피지컬 AI로 확장...하드웨어판 MCP 'MHS' 공개 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "[50시간 걸리던 업무 3시간컷...롯데칠성음료, AI 에이전트 현장 적용]",
+  "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026082809104030159",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "50시간 걸리던 업무 3시간컷…롯데칠성음료, AI 에이전트 현장 적용",
+  "unreached": false
+ },
+ {
+  "headline": "흩어진 공장 데이터 ‘AI 지식’으로…산단공, 230억 들여 국산 온톨로지로 ‘AI 두뇌’ 제작",
+  "url": "https://biz.heraldcorp.com/article/10855327",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "흩어진 공장 데이터 ‘AI 지식’으로…산단공, 230억 들여 국산 온톨로지로 ‘AI 두뇌’ 제작",
+  "unreached": false
+ },
+ {
+  "headline": "[54만㎡ 옥수수밭이 AI심장으로... SK하닉, 美에 ‘반도체 기지’ 세운다 [SK하이닉스 美 인디애나 공장 건설]]",
+  "url": "https://www.fnnews.com/news/202608271822448771",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "54만㎡ 옥수수밭이 AI심장으로… SK하닉, 美에 ‘반도체 기지’ 세운다 [SK하이닉스 美 인디애나 공장 건설]",
+  "unreached": false
+ },
+ {
+  "headline": "알리바바, 브라질에 남미 첫 데이터센터… 글로벌 AI 인프라 확장",
+  "url": "https://www.chosun.com/economy/tech_it/2026/08/28/MEZDQM3FGA2GGMLFGBQWMZJVHA/",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "알리바바, 브라질에 남미 첫 데이터센터… 글로벌 AI 인프라 확장",
+  "unreached": false
+ },
+ {
+  "headline": "[과천주암 데이터센터 이격거리 조례안 부결...원주민들 \"환영\"]",
+  "url": "https://www.etoday.co.kr/news/view/2619071",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "과천주암 데이터센터 이격거리 조례안 부결…원주민들 “환영”",
+  "unreached": false
+ },
+ {
+  "headline": "[AI 데이터센터 전력 0.001초마다 '출렁'...정부, 전용 그리드코드 만든다]",
+  "url": "https://www.etnews.com/20260827000250",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다 - 전자신문",
+  "unreached": false
+ },
+ {
+  "headline": "[휴머노이드 2.3조·피지컬AI 2.8조 투입...2030년 10대 업종 특화로봇]",
+  "url": "https://biz.heraldcorp.com/article/10854151",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "휴머노이드 2.3조·피지컬AI 2.8조 투입…2030년 10대 업종 특화로봇",
+  "unreached": false
+ },
+ {
+  "headline": "[베이징 달군 AI로봇 킥복싱]",
+  "url": "https://www.seoul.co.kr/news/international/china/2026/08/28/20260828012006",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "베이징 달군 AI로봇 킥복싱",
+  "unreached": false
+ },
+ {
+  "headline": "LG이노텍, 美 아마존 자율주행 기업 '죽스'에 로보택시용 카메라 모듈 공급",
+  "url": "https://www.etnews.com/20260827000051",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "LG이노텍, 美 아마존 자율주행 기업 '죽스'에 로보택시용 카메라 모듈 공급 - 전자신문",
+  "unreached": false
+ },
+ {
+  "headline": "소프트뱅크, 오픈AI 투자 받은 로봇 기업1X테크놀로지스 인수 추진",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696217",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "소프트뱅크, 오픈AI 투자 받은 로봇 기업1X테크놀로지스 인수 추진 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "네이버, 세계 최고 AI 학회 ‘ECCV 2026’ 논문 23편 채택…‘서울월드모델’ 공개",
+  "url": "https://www.kizmom.com/news/articleView.html?idxno=112384",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "네이버, 세계 최고 AI 학회 ‘ECCV 2026’ 논문 23편 채택…‘서울월드모델’ 공개 < 경제 < 기사본문 - 키즈맘",
+  "unreached": false
+ },
+ {
+  "headline": "[글로벌 기업 120곳 공개서한...“AI발 사이버 공격 목전...공동 대응해야”]",
+  "url": "https://www.etnews.com/20260828000015",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 90%",
+  "status": 200,
+  "ratio": 0.9,
+  "page_title": "글로벌 기업 100여곳 공개서한…“AI발 사이버 공격 목전…공동 대응해야”",
+  "unreached": false
+ },
+ {
+  "headline": "[오픈AI 에이전트 1200개가 ‘집단 행동’...허깅페이스 해킹 전모 드러나]",
+  "url": "https://biz.chosun.com/it-science/ict/2026/08/27/QTX77ABSRREJNEYLJO352P3AQY/",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "오픈AI 에이전트 1200개가 ‘집단 행동’…허깅페이스 해킹 전모 드러나",
+  "unreached": false
+ },
+ {
+  "headline": "美 법원, 국방부의 앤트로픽 '블랙리스트' 지정에 '위법' 판결…트럼프 행정부에 제동",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=03312806645551912&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+  "verdict": "의심",
+  "reason": "제목 일부만 일치 30%",
+  "status": 200,
+  "ratio": 0.3,
+  "page_title": "美법원 &quot;국방부 앤스로픽 블랙리스트 지정은 위법&quot;",
+  "unreached": false
+ },
+ {
+  "headline": "중국 AI 구동 최적화한 엔비디아…\"미 규제 리스크\" 인정",
+  "url": "https://www.yna.co.kr/view/AKR20260828012800009",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "중국 AI 구동 최적화한 엔비디아…&quot;미 규제 리스크&quot; 인정 | 연합뉴스",
+  "unreached": false
+ },
+ {
+  "headline": "'청소년 SNS 중독 유도' 메타, 미국 주정부들과 167억 달러 지급·청소년 보호조치 강화 합의",
+  "url": "https://admin.businesspost.co.kr/BP?command=article_view&num=445810",
+  "verdict": "OK",
+  "reason": "제목 일치 77%",
+  "status": 200,
+  "ratio": 0.7692307692307693,
+  "page_title": "&#39;청소년 SNS 중독 유도&#39; 메타, 미국 주정부들과 167억 달러 지급·청소년 보호조치 강화 합의",
+  "unreached": false
+ },
+ {
+  "headline": "“외산 AI 끊기면 전쟁도 멈춘다”…네이버클라우드, ‘국방 AI 주권’ 청사진",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=03644086645551912",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "“외산 AI 끊기면 전쟁도 멈춘다”…네이버클라우드, ‘국방 AI 주권’ 청사진",
+  "unreached": false
+ },
+ {
+  "headline": "[엔비디아, ''AI 모델 허브'' 허깅페이스 18조원에 인수]",
+  "url": "https://biz.chosun.com/it-science/ict/2026/08/27/PJBTHSG4FVB5VNKNHP2MFEOLPI/",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "엔비디아, ‘AI 모델 허브’ 허깅페이스 18조원에 인수",
+  "unreached": false
+ },
+ {
+  "headline": "[단독] 메타, 1조 원화채 발행 추진…한국으로 번진 'AI 영끌전쟁'",
+  "url": "https://www.hankyung.com/article/2026082776971",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "[단독] 메타, 1조 원화채 발행 추진…한국으로 번진 &#039;AI 영끌전쟁&#039;",
+  "unreached": false
+ },
+ {
+  "headline": "\"中딥시크, 기업가치 102조원 전망…1~7월 매출, 전년 연매출 10배\"",
+  "url": "https://www.newsis.com/view/NISX20260827_0003765823",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "&quot;中딥시크, 기업가치 102조원 전망…1~7월 매출, 전년 연매출 10배&quot; :: 공감언론 뉴시스 ::",
+  "unreached": false
+ },
+ {
+  "headline": "앤트로픽, 칩 개발 위해 MatX 인수 논의",
+  "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2077626",
+  "verdict": "미확인",
+  "reason": "403 봇 차단(정상 취급)",
+  "status": 403,
+  "ratio": null,
+  "page_title": "",
+  "unreached": false
+ },
+ {
+  "headline": "팀 쿡 후임은 25년차 ‘애플맨’…AI 격랑 속 혁신 이룰까",
+  "url": "https://biz.heraldcorp.com/article/10855323",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "팀 쿡 후임은 25년차 ‘애플맨’…AI 격랑 속 혁신 이룰까",
+  "unreached": false
+ }
+]

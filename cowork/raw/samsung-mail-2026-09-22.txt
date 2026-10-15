@@ -1,0 +1,27 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 11개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. [After Amazon Blocks Meta's Muse Agent, Shopify Says It'll Integrate Muse To Help People Shop On Its Stores] (OfficeChai)
+o 링크: [officechai.com/ai/after-amazon-blocks-metas-muse-agent-shopify-says-itll-integrate-muse-to-help-people-shop-on-its-stores](https://officechai.com/ai/after-amazon-blocks-metas-muse-agent-shopify-says-itll-integrate-muse-to-help-people-shop-on-its-stores/)
+2. [아마존, 메타 '뮤즈' 접근 차단…AI 쇼핑 주도권 충돌] (알파경제)
+o 링크: [alphabiz.co.kr/news/articleView.html?idxno=189515](https://www.alphabiz.co.kr/news/articleView.html?idxno=189515)
+3. [오픈AI, '수학 난제 100개 풀었다'…학계 반발에 자문그룹 신설로 대응] (디지털데일리)
+o 링크: [ddaily.co.kr/page/view/2026092205531999565](https://www.ddaily.co.kr/page/view/2026092205531999565)
+4. [오픈AI, 美가 AI 표준 주도…韓포함 10개국 네트워크 제안] (파이낸셜뉴스)
+o 링크: [fnnews.com/news/202609220737405132](https://www.fnnews.com/news/202609220737405132)
+5. [OpenAI, Anthropic near deal to stress-test AI systems: The Information] (Crypto Briefing)
+o 링크: [cryptobriefing.com/openai-anthropic-near-deal-to-stress-test-ai-systems-the-information](https://cryptobriefing.com/openai-anthropic-near-deal-to-stress-test-ai-systems-the-information/)
+6. [Grok 4.7, 2조1000억 매개변수에도 클로드에 뒤져] (토큰포스트)
+o 링크: [tokenpost.kr/news/breaking/411875](https://www.tokenpost.kr/news/breaking/411875)
+7. [샤오미, AI 훈련 과정 첫 '생중계'…일주일 만에 50억 투입] (AI타임스)
+o 링크: [aitimes.com/news/articleView.html?idxno=215528](https://www.aitimes.com/news/articleView.html?idxno=215528)
+8. [智谱, GLM-5.3-FlashX 출시…최대 200 tokens/s] (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/410161](https://www.tokenpost.kr/news/ai/410161)
+9. [구글, EU 개인정보 규정 위반…약 6,500억원 '역대급 과징금'] (알파경제)
+o 링크: [alphabiz.co.kr/news/articleView.html?idxno=189521](https://www.alphabiz.co.kr/news/articleView.html?idxno=189521)
+10. [뉴욕 월가, AI 데이터센터에 갈수록 회의적… IPO 연기 늘어] (파이낸셜뉴스)
+o 링크: [fnnews.com/news/202609220611146465](https://www.fnnews.com/news/202609220611146465)
+11. [Australia's Firmus Sets October 6 for Potential $5 Billion Data Center IPO] ([your]NEWS)
+o 링크: [yournews.com/…/australias-firmus-sets-october-6-for-potential-5-billion-data](https://yournews.com/2026/09/21/7201434/australias-firmus-sets-october-6-for-potential-5-billion-data/)
+
+## 텔레그램 - 에이닷비즈뉴스레터

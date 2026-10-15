@@ -1,0 +1,467 @@
+{
+ "date": "2026-09-23",
+ "terms": [
+  {
+   "term": "제브",
+   "norm": "제브",
+   "n_outlets": 6,
+   "n_today": 2,
+   "outlets": [
+    "AI타임스",
+    "startuprecipe.co.kr",
+    "tokenpost.kr",
+    "아시아경제",
+    "조선일보",
+    "지디넷코리아"
+   ],
+   "days": 4,
+   "first": "2026-09-18",
+   "reaction": 5,
+   "community": 0,
+   "titles": [
+    "AI타임스(09-18) | \"환각·타입 오류 없다\"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여",
+    "AI타임스(09-21) | “문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
+    "tokenpost.kr(09-21) | 제브 공개 일주일 만에 오픈소스 구현 잇따라",
+    "아시아경제 | 글 한 줄 못 써도 개발자들이 열광하는 AI '제브'…\"193배 빠르고 444배 저렴\"",
+    "조선일보 | “오픈AI 모델보다 75배 빠른데 비용은 170분의 1” 판단만 내리는 AI ‘제브’, 실리콘밸리서 주목"
+   ],
+   "score": 22
+  },
+  {
+   "term": "Nscale Files",
+   "norm": "nscalefiles",
+   "n_outlets": 57,
+   "n_today": 2,
+   "outlets": [
+    "Benzinga",
+    "Bitget",
+    "Bloomberg.com",
+    "Breakingthenews.net",
+    "Briefs Finance",
+    "CNA",
+    "CNBC",
+    "City AM"
+   ],
+   "days": 3,
+   "first": "2026-09-21",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Bitget(09-21) | AI data center company Nscale files for US IPO, Nvidia holds over 5% stake",
+    "The Tech Buzz(09-21) | AI Cloud Provider Nscale Files for IPO in Hot Neocloud Market",
+    "finance.biggo.com(09-21) | Nvidia-Backed UK AI Cloud Firm Nscale Files for NYSE IPO, Targeting Valuation Up",
+    "Startup Fortune | Nscale Files for a $35 Billion IPO That Tests the Neocloud Story",
+    "konsulteer.com | Nvidia-Backed Nscale Files for NYSE IPO at $14.6B Valuation"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Meta Surges",
+   "norm": "metasurges",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "Currently.com",
+    "marketscreener.com",
+    "深潮TechFlow"
+   ],
+   "days": 2,
+   "first": "2026-09-22",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "Currently.com(09-22) | Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Ag",
+    "marketscreener.com(09-22) | Meta Surges 11% as AI Agent Demand Fuels Chip Rally | Closing Bell",
+    "深潮TechFlow | Bitget UEX Daily｜Nasdaq Hits New All-Time High; Meta Surges 11.34%; Bitcoin Brea"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Tiny Jev",
+   "norm": "tinyjev",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "GitHub",
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-09-23",
+   "reaction": 2,
+   "community": 2,
+   "titles": [
+    "HN | Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "GitHub | jaredpalmer/kev — tiny Jev-like family of decision models built on top of Qwen3."
+   ],
+   "score": 16
+  },
+  {
+   "term": "1인 기업",
+   "norm": "1인기업",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "SR타임스",
+    "뉴데일리",
+    "아이티비즈",
+    "한국경제"
+   ],
+   "days": 3,
+   "first": "2026-09-14",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "뉴데일리(09-14) | 한컴, AI 직원으로 '1인 기업' 만든다 … 美 겨냥 '노마디안' 출격",
+    "아이티비즈(09-14) | 한컴, AI 워크포스 플랫폼 '노마디안' 출시…美 1인 기업 정조준",
+    "SR타임스(09-14) | 한컴, AI 워크포스 플랫폼 ‘노마디안’ 출시…미국 1인 기업 겨냥",
+    "한국경제 | \"어려운 취업 대신 창업\"…中 청년들, AI로 '1인 기업' 열풍"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Laya",
+   "norm": "laya",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "GitHub",
+    "HuggingFace"
+   ],
+   "days": 1,
+   "first": "2026-09-23",
+   "reaction": 1,
+   "community": 4,
+   "titles": [
+    "GitHub | NandhaKishorM/laya — Non-autoregressive System 1 decision engine. Typed choice, ",
+    "GitHub | mizorewww/laya-mlx — Native MLX runtime for Laya typed decision models — 7–14 ms",
+    "GitHub | mizorewww/laya-coreml — Local Laya typed decisions on Apple Core ML and Neural E",
+    "HuggingFace | HF trending: convaiinnovations/laya"
+   ],
+   "score": 15
+  },
+  {
+   "term": "속도 조절론",
+   "norm": "속도조절론",
+   "n_outlets": 54,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "AI포스트",
+    "KBS 뉴스",
+    "SBS Biz",
+    "YTN",
+    "coinreaders.com",
+    "cwn.kr",
+    "edaily.co.kr"
+   ],
+   "days": 7,
+   "first": "2026-09-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "koreancenter.or.kr(09-14) | \"AI 개발 늦춰야\"…'속도 조절론' 한 목소리",
+    "블록미디어(09-14) | AI 속도 조절론, 증시 ‘요동’ …반도체 단기 타격 vs AI 트레이드 유효",
+    "동행미디어 시대(09-14) | [사설]AI 수장들도 경고한 위험…'속도 조절론' 귀 기울여야",
+    "초이스경제 | AI 속도 조절론에도...오픈AI·앤트로픽 '새 모델' 내놨다"
+   ],
+   "score": 14
+  },
+  {
+   "term": "ZCode",
+   "norm": "zcode",
+   "n_outlets": 15,
+   "n_today": 7,
+   "outlets": [
+    "Cryptopolitan",
+    "GitHub",
+    "Longbridge",
+    "MIXED Reality News",
+    "Silicon UK",
+    "TechNode",
+    "Techiexpert.com",
+    "Technology Org"
+   ],
+   "days": 3,
+   "first": "2026-09-21",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The News International(09-21) | ZCode tried uploading your files 564 times, researcher finds",
+    "finance.biggo.com(09-21) | China's Zhipu AI Faces Formal Legal Demand Over ZCode Data Upload Scandal",
+    "finance.biggo.com(09-21) | Zhipu's ZCode Accused of Silently Packaging and Uploading Complete Code History;",
+    "Technology Org | Z.ai Disables ZCode Features After Its Coding Assistant Uploaded Users’ Reposito",
+    "eSecurity Planet | Z.ai Disables ZCode Features Over Privacy Concerns",
+    "finance.biggo.com | Chinese AI Firm Z.ai Apologizes After ZCode Uploaded Entire Developer Workspaces"
+   ],
+   "score": 14
+  },
+  {
+   "term": "RMAC",
+   "norm": "rmac",
+   "n_outlets": 11,
+   "n_today": 5,
+   "outlets": [
+    "Chosunbiz",
+    "PRESS9",
+    "Queen 이코노미퀸",
+    "thetracker.co.kr",
+    "뉴스퀘스트",
+    "더구루",
+    "생생비즈플러스",
+    "이투데이"
+   ],
+   "days": 2,
+   "first": "2026-09-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "더구루(09-22) | 현대차 보스턴다이내믹스, '아틀라스 실전 훈련장' RMAC 공식 출범",
+    "Chosunbiz(09-22) | 보스턴다이내믹스, 로봇학교 ‘RMAC’ 개소… 내년 10배 확장",
+    "이투데이(09-22) | 현대차그룹, 로봇 학교 ‘RMAC’ 본격 가동…내년 규모 10배로 확장",
+    "PRESS9 | 현대차그룹, 휴머노이드 로봇 사업 가치 부각…RMAC 가동 주목-다올투자증권",
+    "헤럴드경제 | 현대차그룹 ‘로봇 학교’ RMAC 개소…아틀라스 2만5000대 배치",
+    "이투데이 | 현대차그룹, 로봇 학교 ‘RMAC’ 본격 가동…내년 규모 10배로 확장"
+   ],
+   "score": 12
+  },
+  {
+   "term": "V900",
+   "norm": "v900",
+   "n_outlets": 14,
+   "n_today": 14,
+   "outlets": [
+    "24/7 Wall St.",
+    "AI포스트",
+    "Crypto Briefing",
+    "DailyCoin",
+    "DataCenterDynamics",
+    "Investing.com 한국어",
+    "Mathrubhumi English",
+    "The Eastern Herald"
+   ],
+   "days": 1,
+   "first": "2026-09-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "디지털투데이 | 알리바바, 자체 AI 칩 '전우 V900' 공개…2032년까지 데이터센터 20GW 확충",
+    "포커스온경제 | 알리바바, 신형 AI칩 ‘젠우 V900’ 공개-엔비디아에 정면 도전",
+    "뉴시스 | [올댓차이나] 알리바바, 차세대 AI칩 ‘진우 V900’ 내년 1분기 투입…AI 인프라 확충",
+    "AI포스트 | 알리바바, 10조 매개변수 AI 모델·차세대 칩 '전우 V900' 공개…\"AI 수요 폭발적\"",
+    "Investing.com 한국어 | 알리바바, 중국 최강 AI 칩 ’전무 V900’ 공개",
+    "tokenpost.kr | 알리바바, 5조~10조 AI 모델 계획·전우 V900 공개"
+   ],
+   "score": 11
+  },
+  {
+   "term": "AMD Hits",
+   "norm": "amdhits",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "Barron's",
+    "The Eastern Herald",
+    "Yahoo Finance",
+    "tech-insider.org"
+   ],
+   "days": 2,
+   "first": "2026-09-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Barron's(09-22) | Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
+    "Yahoo Finance(09-22) | AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
+    "The Eastern Herald(09-22) | AMD Hits $1 Trillion for a Day as Chip Stocks Surge on Trump-Xi AI Dinner",
+    "tech-insider.org | AMD Hits $1T: Wall Street Splits $76 on Next Move [2026]"
+   ],
+   "score": 10
+  },
+  {
+   "term": "숨은 수혜주",
+   "norm": "숨은수혜주",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "코인리더스",
+    "한국경제"
+   ],
+   "days": 3,
+   "first": "2026-09-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "코인리더스(09-14) | 삼성전자·SK하이닉스 공장 늘린다…54조 투자에 ‘숨은 수혜주’ 주목",
+    "한국경제(09-22) | 올해만 140% 상승…AI 데이터센터의 숨은 수혜주",
+    "한국경제 | 삼아알미늄, AI데이터센터 '숨은 수혜주' 부상"
+   ],
+   "score": 9
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "HOAX",
+   "norm": "hoax",
+   "n_outlets": 22,
+   "n_today": 1,
+   "outlets": [
+    "ABC News - Breaking News, Latest News and Videos",
+    "AP News",
+    "Americans for Responsible Innovation",
+    "Fox Business",
+    "New York Post",
+    "NewsGhana",
+    "Seeking Alpha",
+    "Source ONE News"
+   ],
+   "days": 5,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "AP News(09-15) | Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and ",
+    "cnbc.com(09-15) | Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘ho",
+    "UA.NEWS(09-15) | Trump calls criticism of data centers a hoax",
+    "Americans for Responsible Innovation | New Poll: Voters Don’t Buy That AI Safety Is a “Hoax”"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 감속론",
+   "norm": "ai감속론",
+   "n_outlets": 20,
+   "n_today": 2,
+   "outlets": [
+    "OBC 뉴스",
+    "g-enews.com",
+    "theonetv.kr",
+    "글로벌이코노믹",
+    "뉴스비전e",
+    "뉴스웍스",
+    "뉴스핌",
+    "뉴시안"
+   ],
+   "days": 8,
+   "first": "2026-09-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "theonetv.kr(09-14) | 트럼프, AI 감속론 밀어냈다",
+    "글로벌이코노믹(09-14) | 아모데이 ‘AI 감속론’에 빅테크·정계 갈렸다",
+    "g-enews.com(09-15) | AI 감속론에 아시아 기술주 급락…소프트뱅크 13%↓",
+    "포인트데일리 | 'AI 감속론'에도 반도체는 질주…HBM 수출·실물 수요 뜨겁다",
+    "디지털투데이 | AI 감속론에 숨은 금융 리스크?…아서 헤이즈 \"비트코인엔 호재\""
+   ],
+   "score": 10
+  },
+  {
+   "term": "ISMS",
+   "norm": "isms",
+   "n_outlets": 19,
+   "n_today": 1,
+   "outlets": [
+    "Chosunbiz",
+    "SR타임스",
+    "g-enews.com",
+    "yna.co.kr",
+    "뉴데일리",
+    "뉴스1",
+    "뉴스웍스",
+    "뉴스핌"
+   ],
+   "days": 5,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "yna.co.kr(09-15) | 삼성전자서비스, 업계 첫 ISMS-P 인증…\"정보보호 신뢰강화\"",
+    "Chosunbiz(09-15) | 삼성전자서비스, 전자제품 서비스 업계 최초 ‘ISMS-P’ 인증 획득 - 조선비즈",
+    "g-enews.com(09-15) | 삼성전자서비스, 전자제품 서비스 업계 최초 ‘ISMS-P’ 인증",
+    "서울신문 | 시너지월드와이드코리아, 정보보호 관리체계 ‘ISMS’ 인증 획득"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Toyota",
+   "norm": "toyota",
+   "n_outlets": 18,
+   "n_today": 3,
+   "outlets": [
+    "AI News",
+    "AIM Media House",
+    "Ars Technica",
+    "Autoblog",
+    "Automotive News",
+    "Automotive Testing Technology International",
+    "Automotive World",
+    "CNBC"
+   ],
+   "days": 4,
+   "first": "2026-09-18",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Nikkei Asia(09-18) | Toyota to deploy 400,000 humanoid robots to work alongside factory staff",
+    "finance.biggo.com(09-18) | Manufacturing AI startup CADDi raises ¥17.7 billion, valuation reaches ¥182 bill",
+    "AIM Media House(09-21) | Toyota Plans 400,000 Humanoid Robots for Factory Automation",
+    "AI News | Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+    "konsulteer.com | Toyota Eyes $6.4 Billion Robotics Investment as Physical AI Expands",
+    "Ars Technica | Toyota orders workers to train humanoid robots but says humans won’t be replaced"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Aleph Alpha",
+   "norm": "alephalpha",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "Digital Journal",
+    "IT Pro",
+    "Leaders League",
+    "PR Newswire",
+    "Pulse 2.0",
+    "Tech Times",
+    "Techzine Global",
+    "The Economic Times"
+   ],
+   "days": 4,
+   "first": "2026-09-17",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Pulse 2.0(09-17) | Cohere And Aleph Alpha Sign Deal To Create Transatlantic Sovereign AI Company",
+    "PR Newswire(09-17) | Cohere and Aleph Alpha Sign Agreement to Become the First Transatlantic Sovereig",
+    "TradingView(09-17) | Cohere & Aleph Alpha Sign Agreement To Become First Transatlantic Sovereign Ai S",
+    "Leaders League | Cohere and German AI company Aleph Alpha sign definitive agreement to create tra"
+   ],
+   "score": 10
+  },
+  {
+   "term": "WONJU",
+   "norm": "wonju",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "gukjenews.com",
+    "강원신문",
+    "뉴스1",
+    "뉴스핌",
+    "동방일보",
+    "매일일보",
+    "아시아경제",
+    "위클리오늘"
+   ],
+   "days": 4,
+   "first": "2026-09-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "뉴스핌(09-15) | 원주시, 'NEXT AI 2026 WONJU' 첫 개최…의료AI 넘어 피지컬AI 산업 확장",
+    "뉴스1(09-15) | \"원주로 오는 AI 전문가들\"…'NEXT AI 2026 WONJU' 16~17일 개최",
+    "동방일보(09-15) | 원주시, 글로벌 AI 포럼 ‘NEXT AI 2026 WONJU’ 개최",
+    "한국경제 | 강원 원주서 NEXT AI 2026 WONJU 글로벌 AI 포럼 개최…의료 AI 활용 사례·현장 적용 방안 공유"
+   ],
+   "score": 10
+  }
+ ]
+}

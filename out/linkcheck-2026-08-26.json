@@ -1,0 +1,302 @@
+[
+ {
+  "headline": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "verdict": "미확인",
+  "reason": "제목 못 읽음",
+  "status": 308,
+  "ratio": null,
+  "page_title": "",
+  "unreached": false
+ },
+ {
+  "headline": "[미국 특징주] 구글, 법률 업계에 제미나이 AI 플랫폼 확대",
+  "url": "https://www.newspim.com/news/view/20260825001190",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "[미국 특징주] 구글, 법률 업계에 제미나이 AI 플랫폼 확대",
+  "unreached": false
+ },
+ {
+  "headline": "애플, M5 울트라 '맥 스튜디오' 선봬…\"대형 AI 모델도 온디바이스로 구동\"",
+  "url": "https://www.newsis.com/view/NISX20260826_0003762807",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "애플, M5 울트라 &#039;맥 스튜디오&#039; 선봬…&quot;대형 AI 모델도 온디바이스로 구동&quot; :: 공감언론 뉴시스 ::",
+  "unreached": false
+ },
+ {
+  "headline": "배경훈 \"독자 AI, 세계 최고 오픈모델 도전\"…보안 특화 AI, 올해 첫선",
+  "url": "https://www.newsis.com/view/NISX20260825_0003761455",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "배경훈 &quot;독자 AI, 세계 최고 오픈모델 도전&quot;…보안 특화 AI, 올해 첫선 :: 공감언론 뉴시스 ::",
+  "unreached": false
+ },
+ {
+  "headline": "독파모 효과? 글로벌 평가기관 \"한국 AI, 美·中 이어 확고한 3위\"",
+  "url": "https://www.mt.co.kr/tech/2026/08/26/2026082608375762808",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "독파모 효과? 글로벌 평가기관 &quot;한국 AI, 美·中 이어 확고한 3위&quot; - 머니투데이",
+  "unreached": false
+ },
+ {
+  "headline": "네이버가 ‘모두의 AI’에 불참한 속내",
+  "url": "https://www.chosun.com/economy/tech_it/2026/08/23/SFOMM3ZEJNHL5LYOFD76TGXQZA/",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "네이버가 ‘모두의 AI’에 불참한 속내",
+  "unreached": false
+ },
+ {
+  "headline": "LS-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발 추진",
+  "url": "https://www.news1.kr/industry/general-industry/6268597",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "LS-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발 추진",
+  "unreached": false
+ },
+ {
+  "headline": "퍼플렉시티, '포터블 컴퓨터' 공개...로컬 AI에이전트 플랫폼 대공세",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695488",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "퍼플렉시티, '포터블 컴퓨터' 공개...로컬 AI에이전트 플랫폼 대공세 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "ETRI, 구글·MS·오픈AI 참여 협의체서 에이전틱 AI 표준 논의",
+  "url": "https://biz.chosun.com/science-chosun/science/2026/08/25/NZ7VD2NY4JBNVAQYQIWTXXN3AA/",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "ETRI, 구글·MS·오픈AI 참여 협의체서 에이전틱 AI 표준 논의",
+  "unreached": false
+ },
+ {
+  "headline": "“ERP, AI 에이전트로 최적화”... SK AX, SAP와 글로벌 AI 동맹 강화",
+  "url": "https://www.etnews.com/20260826000031",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "“ERP, AI 에이전트로 최적화”… SK AX, SAP와 글로벌 AI 동맹 강화",
+  "unreached": false
+ },
+ {
+  "headline": "엔비디아 차세대 AI칩 성능 공개… “전작보다 전력 효율 30배”",
+  "url": "https://v.daum.net/v/20260825144529803",
+  "verdict": "OK",
+  "reason": "제목 일치 89%",
+  "status": 200,
+  "ratio": 0.8888888888888888,
+  "page_title": "엔비디아, 차세대 AI칩 '베라 루빈' 성능 공개… \"전력 효율 30배\"",
+  "unreached": false
+ },
+ {
+  "headline": "한국투자증권, 군산 AI 데이터센터 개발 참여...PF 주선·재무투자 맡는다",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695534",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "한국투자증권, 군산 AI 데이터센터 개발 참여...PF 주선·재무투자 맡는다 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "LG CNS, 삼송 데이터센터에 '차세대 액체냉각' 도입…AI 팩토리 공략",
+  "url": "https://www.mt.co.kr/tech/2026/08/26/2026082608202148476",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "LG CNS, 삼송 데이터센터에 &#039;차세대 액체냉각&#039; 도입…AI 팩토리 공략 - 머니투데이",
+  "unreached": false
+ },
+ {
+  "headline": "AIDC 전력 변동성 낮추면 요금 깎아준다",
+  "url": "https://v.daum.net/v/20260825155527386",
+  "verdict": "OK",
+  "reason": "제목 일치 83%",
+  "status": 200,
+  "ratio": 0.8333333333333334,
+  "page_title": "[단독] 데이터센터, 전력 변동성 낮추면 요금 깎아준다",
+  "unreached": false
+ },
+ {
+  "headline": "Spain will impose 80% renewable energy on data centers",
+  "url": "https://www.democrata.es/en/economy/the-government-will-require-that-80-of-the-energy-of-data-centers-comes-from-renewables-every-hour/",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "Spain will impose 80% renewable energy on data centers",
+  "unreached": false
+ },
+ {
+  "headline": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214341",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모 < 산업일반 < AI산업 < 기사본문 - AI타임스",
+  "unreached": false
+ },
+ {
+  "headline": "엔비디아, 엔트리급 로보틱스 컴퓨터 '젯슨 오린 나노 2' 공개",
+  "url": "https://v.daum.net/v/20260826000003027",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "엔비디아, 엔트리급 로보틱스 컴퓨터 '젯슨 오린 나노 2' 공개",
+  "unreached": false
+ },
+ {
+  "headline": "Figure AI Announces Index, a Crowdsourced Robot Training Dataset That Could Reshape the Labor Market",
+  "url": "https://glitchwire.com/news/figure-ai-announces-index-a-crowdsourced-robot-training-dataset-that-could-resha/",
+  "verdict": "미확인",
+  "reason": "403 봇 차단(정상 취급)",
+  "status": 403,
+  "ratio": null,
+  "page_title": "",
+  "unreached": false
+ },
+ {
+  "headline": "미·중 로봇 패권전쟁…한국, 3년 내 '국가대표 K-휴머노이드' 띄운다",
+  "url": "https://www.newsis.com/view/NISX20260825_0003761175",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "미·중 로봇 패권전쟁…한국, 3년 내 &#039;국가대표 K-휴머노이드&#039; 띄운다 :: 공감언론 뉴시스 ::",
+  "unreached": false
+ },
+ {
+  "headline": "중국 휴머노이드 ''베를린 공습''...가전 넘어 로봇판 된 IFA 2026",
+  "url": "https://www.etoday.co.kr/news/view/2617932",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "중국 휴머노이드 ‘베를린 공습’…가전 넘어 로봇판 된 IFA 2026",
+  "unreached": false
+ },
+ {
+  "headline": "오픈AI, 러시아發 챗GPT 계정 차단…VPN 우회 뒤 허위정보 공작",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695555",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "오픈AI, 러시아發 챗GPT 계정 차단…VPN 우회 뒤 허위정보 공작 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "네이버·카카오, AI 생성물 규제 장벽 낮춰",
+  "url": "https://v.daum.net/v/20260825154307753",
+  "verdict": "의심",
+  "reason": "제목 일부만 일치 43%",
+  "status": 200,
+  "ratio": 0.42857142857142855,
+  "page_title": "플랫폼 업계, 'AI 생성물 표시' 규제 적정선 찾기…판매자 부담 완화에 초점",
+  "unreached": false
+ },
+ {
+  "headline": "내년 800조원+ a 슈퍼예산 AI·3대 메가에 집중 투입",
+  "url": "https://www.segye.com/newsView/20260825515614",
+  "verdict": "의심",
+  "reason": "제목 일부만 일치 38%",
+  "status": 200,
+  "ratio": 0.375,
+  "page_title": "2027년 800조원+α 슈퍼예산 AI·3대 메가에 집중 투입",
+  "unreached": false
+ },
+ {
+  "headline": "반도체 인프라·AI 데이터센터 '예타 면제'...3대 메가프로젝트 속도전",
+  "url": "https://www.news1.kr/politics/president/6268717",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "반도체 인프라·AI 데이터센터 &#x27;예타 면제&#x27;…3대 메가프로젝트 속도전",
+  "unreached": false
+ },
+ {
+  "headline": "우리은행-기보, 반도체.AI 미래산업에 1조원 금융 지원",
+  "url": "https://www.etnews.com/20260826000018",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "우리은행-기보, 반도체·AI 미래산업에 1조원 금융 지원",
+  "unreached": false
+ },
+ {
+  "headline": "“1년 반만에 몸값 3배”…뤼튼, 1000억 투자받아 국내 첫 소비자 AI ‘1조 유니콘’",
+  "url": "https://www.chosun.com/economy/tech_it/2026/08/26/P3EVT6SXQVE7DCDVGXBSPGGY2I/",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "“1년 반만에 몸값 3배”…뤼튼, 1000억 투자받아 국내 첫 소비자 AI ‘1조 유니콘’",
+  "unreached": false
+ },
+ {
+  "headline": "AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round",
+  "url": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
+  "verdict": "미확인",
+  "reason": "403 봇 차단(정상 취급)",
+  "status": 403,
+  "ratio": null,
+  "page_title": "",
+  "unreached": false
+ },
+ {
+  "headline": "WSJ \"앤트로픽, IPO 앞두고 잠재매출 30조 달러 제시 전망\"…스페이스X 마저 넘나",
+  "url": "https://v.daum.net/v/20260826043000608",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "WSJ &quot;앤트로픽, IPO 앞두고 잠재매출 30조 달러 제시 전망&quot;…스페이스X 마저 넘나",
+  "unreached": false
+ },
+ {
+  "headline": "카카오AI 이사회, 前 KT CTO·장관·국세청장 합류",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=04024566645550928",
+  "verdict": "OK",
+  "reason": "제목 일치 71%",
+  "status": 200,
+  "ratio": 0.7142857142857143,
+  "page_title": "[단독] 카카오AI 사외이사에 오승필 전 KT CTO 합류…전직 장관&#183;국세청장도 물망(종합)",
+  "unreached": false
+ },
+ {
+  "headline": "오픈AI, IPO 앞두고 잇따른 임원 이탈...데이터센터 총괄 퇴사",
+  "url": "https://biz.heraldcorp.com/article/10852098",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "오픈AI, IPO 앞두고 잇따른 임원 이탈…데이터센터 총괄 퇴사",
+  "unreached": false
+ }
+]

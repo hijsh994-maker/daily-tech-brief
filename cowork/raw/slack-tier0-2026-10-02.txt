@@ -1,0 +1,143 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-02 09:41:36 KST === 
+Message TS: 1790901696.131619
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.news1.kr/industry/distribution/6308377|동원몰, 생성형 AI로 상품 추천...'AI 쇼핑 어시스턴트' 도입>
+ㄴ뉴스1 2026.10.02 관련뉴스 2건
+<https://www.seoul.co.kr/news/publicnews/local_govern/2026/10/02/20261002500012|군포시, 민선 9기 지자체 최초로 미취업 청년에 ‘생성형 AI 구독료’ 지원>
+ㄴ서울신문 2026.10.02
+<https://www.etnews.com/20261001000495|앤트로픽 "LLM·로봇 함께 쓰면 업무 자동화 80% 가능">
+ㄴ전자신문 2026.10.01
+<https://www.sedaily.com/article/20097254|전력부터 반도체까지...트럼프, 동맹 돈으로 중국과 AI 경쟁하나>
+ㄴ서울경제 2026.10.02
+<https://www.etnews.com/20261001000489|''R&D 특화 AI 에이전트 프로토타입 개발'' 2026 NAIS AI 해커톤 성료>
+ㄴ전자신문 2026.10.01 관련뉴스 1건
+<https://www.etnews.com/20261001000139|[정구민의 테크읽기] 플랫폼 주도권 경쟁을 가속하는 AI에이전트의 진화>
+ㄴ전자신문 2026.10.01
+<https://biz.chosun.com/industry/business-venture/2026/10/01/F46OMCS7CNDEPCIG2DQPEYXCWA/|AI 시청 에이전트 ‘7CUT’, 웨이브 골프에 첫 상용화 적용>
+ㄴ조선비즈 2026.10.01
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100114424352873|LG화학, 육군 간부 대상 생성형 AI 교육>
+ㄴ아시아경제 2026.10.01 관련뉴스 2건
+<https://www.etnews.com/20261001000460|한국딥러닝, 문서 분석 AI '딥 에이전트' 모바일 앱 출시>
+ㄴ전자신문 2026.10.01
+<https://www.news1.kr/world/usa-canada/6307663|"AI 에이전트, 캐나다 정부 웹사이트 해킹 시도...침해 흔적은 없어">
+ㄴ뉴스1 2026.10.01
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-02 09:41:29 KST === 
+Message TS: 1790901689.567749
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.etnews.com/20261002000020|LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동 개발>
+ㄴ전자신문 2026.10.02
+<https://www.news1.kr/industry/general-industry/6308513|[단독] 'K-뷰티 공룡' 구다이, 'AX센터' 신설...핵심 데이터에 AI 심는다>
+ㄴ뉴스1 2026.10.02
+<https://biz.heraldcorp.com/article/10891205|구글, 우주 데이터센터 첫 궤도 실험...TPU 실은 위성 발사 성공>
+ㄴ헤럴드경제 2026.10.02
+<https://www.sedaily.com/article/20097392|“동의만 해주면 1400만원 드립니다”...파격 제안 건 美 데이터센터, 왜?>
+ㄴ서울경제 2026.10.01
+<https://www.khan.co.kr/article/202610012055005|LG전자, 미국에 AI데이터센터 냉각설비 공장>
+ㄴ경향신문 2026.10.01 관련뉴스 2건
+<https://biz.heraldcorp.com/article/10890963|中 텐센트, AI 경쟁 위해 오라클 데이터센터 임대...70억달러 ‘역대 최대’ 계약>
+ㄴ헤럴드경제 2026.10.01 관련뉴스 1건
+<https://www.news1.kr/realestate/general/6308115|박상우 전 국토장관 "AI, 데이터센터·SMR 등 새 건설수요 창출">
+ㄴ뉴스1 2026.10.01
+<https://www.kukinews.com/article/view/kuk202610010193|김성환 장관 “AI 데이터센터 전용요금제 설계...녹조 대책 아쉬워”>
+ㄴ쿠키뉴스 2026.10.01 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100113592679579|오텍캐리어, 엔비디아 품질 인증 CDU 앞세워 AI 데이터센터 시장 공략>
+ㄴ아시아경제 2026.10.01
+<https://www.segye.com/newsView/20261001517227|김성환 기후장관 “AI데이터센터 위한 별도 전기요금제 설계 중”>
+ㄴ세계일보 2026.10.01
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://biz.heraldcorp.com/article/10891257|[영상] 잡기만 하던 현대차 로봇 ‘아틀라스’, 이젠 공구 쓴다...산업용 ‘새 손’ 공개>
+ㄴ헤럴드경제 2026.10.02
+<https://www.etnews.com/20261002000003|DGIST 창업기업 엠에프알, 포스코 제철소 출하장에 투입될 '무인자동화로봇' 수주>
+ㄴ전자신문 2026.10.02
+<https://www.news1.kr/industry/auto-industry/6308468|손가락 4개로 드릴질에 너트 조이기 척척...아틀라스 이젠 '손'까지>
+ㄴ뉴스1 2026.10.02 관련뉴스 2건
+<https://www.news1.kr/photos/8138725|'드릴 쓰고, 너트 조이고' 아틀라스의 ‘손’이 진화했다>
+ㄴ뉴스1 2026.10.02 관련뉴스 2건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100208393100373|로보락, '2026 KCSI' 로봇청소기 부문 2년 연속 1위 수상>
+ㄴ아시아경제 2026.10.02
+<https://www.news1.kr/industry/general-industry/6307967|"834년치 영상도 AI가 분석"...트웰브랩스, 美 로봇 학습 시장 침투 [K-챌린저]>
+ㄴ뉴스1 2026.10.02
+<https://www.etnews.com/20261001000422|현실판 터미네이터?...스스로 용광로에 뛰어든 로봇>
+ㄴ전자신문 2026.10.01
+<https://www.sedaily.com/article/20097376|첫 개인전 63점 판매한 작가 곽신 “수익금 1억 기부”>
+ㄴ서울경제 2026.10.02
+<https://www.etnews.com/20261001000495|앤트로픽 "LLM·로봇 함께 쓰면 업무 자동화 80% 가능">
+ㄴ전자신문 2026.10.01
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100114003310833|[써보니]"지니야 미드 추천해줘"...디자인·편의 다잡은 KT 'AI 셋톱박스'>
+ㄴ아시아경제 2026.10.02
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-02 09:41:14 KST === 
+Message TS: 1790901674.469349
+_[텔레그램 로그 2026-10-02] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 2일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100116113597794|"위험해서 못 푼다"는 사이버보안 AI, 中 공개 모델이 따라잡나>
+ㄴ아시아경제 2026.10.02
+<https://www.etnews.com/20261001000495|앤트로픽 "LLM·로봇 함께 쓰면 업무 자동화 80% 가능">
+ㄴ전자신문 2026.10.01
+<https://www.khan.co.kr/article/202610012054065|KT, 병원 업무 AI 적용 ‘의료 표준모델’ 공개>
+ㄴ경향신문 2026.10.01 관련뉴스 1건
+<https://www.hani.co.kr/arti/economy/it/1280420.html|구글 ‘제미나이4 아르곤’ 공개...최상위 AI모델 경쟁 재진입>
+ㄴ한겨레 2026.10.01 관련뉴스 2건
+<https://www.etnews.com/20261001000457|업스테이지, 소형 LLM '솔라 미니 4' 공개...350억 파라미터 규모>
+ㄴ전자신문 2026.10.01 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2631560|구글, 7개월 만에 새 AI 모델 ''아르곤'' 발표...기업용 시장서 반격>
+ㄴ이투데이 2026.10.01 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/10/01/XYVWDKSPO5D6PM5XW3V6DYLZQ4/|구글, 최상위 AI 모델 ‘제미나이 4 아르곤’ 공개... “코딩 능력 1위”>
+ㄴ조선비즈 2026.10.01
+<https://www.etnews.com/20261001000071|KETI, 한국 문화유산.한글 특화 AI 모델 2종 개발>
+ㄴ전자신문 2026.10.01
+<https://www.news1.kr/world/northeast-asia/6307456|美앤트로픽 "中 즈푸AI 사이버 능력, 자사 최상위급 모델에 근접">
+ㄴ뉴스1 2026.10.01
+<https://www.fnnews.com/news/202610010941536469|AI가 진료기록 쓰고 암 진단 지원...KT, 의료AX 표준모델 공개>
+ㄴ파이낸셜뉴스 2026.10.01
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20261002000022|크리어스, 실리콘밸리서 에이전틱 AI 기술 발표...북미 시장 공략 본격화>
+ㄴ전자신문 2026.10.02
+<https://www.etnews.com/20261001000489|''R&D 특화 AI 에이전트 프로토타입 개발'' 2026 NAIS AI 해커톤 성료>
+ㄴ전자신문 2026.10.01 관련뉴스 1건
+<https://www.etnews.com/20261001000139|[정구민의 테크읽기] 플랫폼 주도권 경쟁을 가속하는 AI에이전트의 진화>
+ㄴ전자신문 2026.10.01
+<https://biz.chosun.com/industry/business-venture/2026/10/01/F46OMCS7CNDEPCIG2DQPEYXCWA/|AI 시청 에이전트 ‘7CUT’, 웨이브 골프에 첫 상용화 적용>
+ㄴ조선비즈 2026.10.01
+<https://www.etnews.com/20261001000460|한국딥러닝, 문서 분석 AI '딥 에이전트' 모바일 앱 출시>
+ㄴ전자신문 2026.10.01
+<https://www.news1.kr/world/usa-canada/6307663|"AI 에이전트, 캐나다 정부 웹사이트 해킹 시도...침해 흔적은 없어">
+ㄴ뉴스1 2026.10.01
+<https://www.etnews.com/20261001000284|디지털엑스, '서브 어카운트' 출시...AI 에이전트별 자산 분리 운용>
+ㄴ전자신문 2026.10.01 관련뉴스 3건
+<https://biz.chosun.com/it-science/ict/2026/10/01/3I35WQLZEJDELLEEXEOK3B43MQ/|“코딩 몰라도 AI 에이전트 개발”...SK AX, 바이브코딩 교육 프로그램 출시>
+ㄴ조선비즈 2026.10.01 관련뉴스 3건
+<https://www.etnews.com/20261001000450|참가자 모집 2배 초과...'제4회 경남 AI.SW 경진대회' 경쟁 본격 점화>
+ㄴ전자신문 2026.10.02
+<https://www.etnews.com/20261002000002|美 캘리포니아주, 오픈AI에 소환장...AI 안정성 조사>
+ㄴ전자신문 2026.10.02
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-02 09:25:27 KST === 
+Message TS: 1790900727.697929
+
+Files: [2026년 10월 2일] 조간 뉴스 클리핑 (ID: F0C5PQZ2NCX, text/html, 63.2 KB)

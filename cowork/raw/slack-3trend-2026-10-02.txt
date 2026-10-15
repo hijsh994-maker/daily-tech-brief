@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-02 09:00:16 KST === 
+Message TS: 1790899216.597039
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-02 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261001000492|'모두의 AI 실험실' 경진대회 390개 아이디어 모여…12팀 본선행>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261001000062|SK AX, 'AI 부트캠프 바이브' 교육 출시…바이브코딩으로 AI 에이전트 개발>* (전자신문 (AI))
+*3. [:office: Enterprise AI] <https://www.etnews.com/20261001000495|앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”>* (전자신문 (AI))
+*4. [:robot_face: AI Agent] <https://www.etnews.com/20261002000010|씨에스리, '산업AI EXPO 2026' 참가…데이터 분석·품질검사 AI 선봬>* (전자신문 (AI))
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/|Amazon Bedrock AgentCore에서 에이전트 AI로 클라우드 마이그레이션 확장>* (AWS Machine Learning Blog)
+*6. [:sparkles: Agent UX] <https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/|Shopify debuts Canvas, a way to build online stores by chatting with AI>* (TechCrunch)
+*7. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/|Brian Chesky interview: AI agents need their own operating system>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/|OpenAI cuts ties with 3 safety researchers, WSJ reports>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://openai.com/index/albertsons-reimagining-retail|Albertsons Companies가 내부에서 소매를 재창조하는 방법>* (OpenAI News &amp; Research)
+*10. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/|Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.>* (TechCrunch)

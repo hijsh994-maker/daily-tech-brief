@@ -1,0 +1,52 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 (26/8/26) - 국내 언론사 최우선 반영본
+
+1. 오픈AI, "자체 개발 칩 '할라피뇨' 엔비디아 GB300 앞질렀다" (디지털데일리 / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260826060823956&source=gmail&ust=1787788961956000&sa=E
+
+2. IPO 앞둔 오픈AI서 또 임원 이탈…데이터센터 총괄 퇴사 (연합뉴스 / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260826073038362&source=gmail&ust=1787788961956000&sa=E
+
+3. 아스트라 통제 강화, 10조 모델설은 외부 보도 (토큰포스트)
+o 링크: https://www.google.com/url?q=https://www.tokenpost.kr/news/ai/397710&source=gmail&ust=1787788961956000&sa=E
+
+4. OpenAI launches Admin plugin for ChatGPT Work and Codex (Investing.com)
+o 링크: https://www.google.com/url?q=https://www.investing.com/news/stock-market-news/openai-launches-admin-plugin-for-chatgpt-work-and-codex-93CH-4875799&source=gmail&ust=1787788961956000&sa=E
+
+5. WSJ "앤트로픽, IPO 앞두고 잠재매출 30조 달러 제시 전망"…스페이스X 마저 넘나 (SBS Biz / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260826043000608&source=gmail&ust=1787788961956000&sa=E
+
+6. 클로드, 채팅 기억 바로 작업에 반영…코워크와 메모리 공유 (디지털투데이)
+o 링크: https://www.google.com/url?q=https://www.digitaltoday.co.kr/news/articleView.html?idxno%3D695513&source=gmail&ust=1787788961956000&sa=E
+
+7. Anthropic Tells Staff to Work From Home Due to Potential Security Workers' Strike (SFist)
+o 링크: https://www.google.com/url?q=https://sfist.com/2026/08/25/anthropic-tells-staff-to-work-from-home-due-to-potential-security-workers-strike/&source=gmail&ust=1787788961956000&sa=E
+
+8. 엔비디아, 엔트리급 로보틱스 컴퓨터 '젯슨 오린 나노 2' 공개 (EBN산업경제 / Daum뉴스)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260826000003027&source=gmail&ust=1787788961956000&sa=E
+
+9. [미국 특징주] 구글, 법률 업계에 제미나이 AI 플랫폼 확대 (뉴스핌)
+o 링크: https://www.google.com/url?q=https://www.newspim.com/news/view/20260825001190&source=gmail&ust=1787788961956000&sa=E
+
+10. Build with Muse Spark and Muse Glimmer — Meta Model API (Meta Developer)
+o 링크: https://www.google.com/url?q=https://dev.meta.ai/docs/overview/&source=gmail&ust=1787788961956000&sa=E
+
+11. Figure AI Announces Index, a Crowdsourced Robot Training Dataset That Could Reshape the Labor Market (Glitchwire)
+o 링크: https://www.google.com/url?q=https://glitchwire.com/news/figure-ai-announces-index-a-crowdsourced-robot-training-dataset-that-could-resha/&source=gmail&ust=1787788961956000&sa=E
+
+12. Introducing S1: In-Context Learning for Robotics (Skild AI)
+o 링크: https://www.google.com/url?q=https://www.skild.ai/blogs&source=gmail&ust=1787788961956000&sa=E
+
+13. 퍼플렉시티, '포터블 컴퓨터' 공개...로컬 AI에이전트 플랫폼 대공세 (디지털투데이)
+o 링크: https://www.google.com/url?q=https://www.digitaltoday.co.kr/news/articleView.html?idxno%3D695488&source=gmail&ust=1787788961956000&sa=E
+
+14. ClickHouse ARR passes $350M as AI agents fuel database demand (Dealroom News)
+o 링크: https://www.google.com/url?q=https://dealroom.co/news/146838-clickhouse-arr-passes-350m-as-ai-agents-fuel-database-demand/&source=gmail&ust=1787788961956000&sa=E
+
+15. 바이트댄스, 더우바오 워크 독립 출범…TRAE·코즈 흡수해 한달만에 세 번째 조직재편 (위키트리)
+o 링크: https://www.google.com/url?q=https://www.wikitree.co.kr/articles/1154922&source=gmail&ust=1787788961956000&sa=E
+
+16. Hugging Face annualized revenue jumps 50% to $150 Million (The Information / Reuters)
+o 링크: https://www.google.com/url?q=https://www.tradingview.com/news/reuters.com,2026:newsml_L4N44M017:0-hugging-face-annualized-revenue-jumps-50-to-150-million-the-information/&source=gmail&ust=1787788961956000&sa=E
+
+17. Spain will impose 80% renewable energy on data centers (Demócrata)
+o 링크: https://www.google.com/url?q=https://www.democrata.es/en/economy/the-government-will-require-that-80-of-the-energy-of-data-centers-comes-from-renewables-every-hour/&source=gmail&ust=1787788961956000&sa=E

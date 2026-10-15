@@ -1,0 +1,77 @@
+{
+ "date": "2026-07-20",
+ "items": [
+  {
+   "title": "中 Moonshot, 오픈웨이트 'Kimi K3' 공개",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Google, 플래그십 'Gemini 3.5 Pro' 출시 수개월 지연",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+   "category": "AI Model"
+  },
+  {
+   "title": "알리바바, 2.4조 파라미터 'Qwen 3.8' 공개…Kimi K3에 맞불",
+   "outlet": "이코노미트리뷰",
+   "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3903376",
+   "category": "AI Model"
+  },
+  {
+   "title": "[K-AI 국가대표①] LG AI연구원 'K-엑사원' AI 주권 세우다",
+   "outlet": "천지일보",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3417568",
+   "category": "독파모(소버린 AI)"
+  },
+  {
+   "title": "앤트로픽, 메타에 최대 100억 달러 '컴퓨팅 임대' 제안",
+   "outlet": "Reuters",
+   "url": "https://finance.yahoo.com/technology/ai/articles/meta-talks-10-billion-anthropic-162927340.html",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "뉴멕시코, Oracle 'Project Jupiter' 가스관 요청 거부",
+   "outlet": "KOB",
+   "url": "https://www.kob.com/news/top-news/new-mexico-land-commissioner-denies-project-jupiter-pipeline-request/",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "일본, 'Noetra' 컨소시엄 통해 Nvidia Rubin 칩 27,500개 확보",
+   "outlet": "Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "현대차그룹, 보스턴다이내믹스 지분 100% 확보…피지컬 AI 상용화 가속",
+   "outlet": "서울경제",
+   "url": "https://n.news.naver.com/article/011/0004642252",
+   "category": "Physical AI"
+  },
+  {
+   "title": "GPU 더 팔기 위한 엔비디아의 큰 그림…한국을 '피지컬 AI' 제조 기지로",
+   "outlet": "이코노미스트",
+   "url": "https://economist.co.kr/article/view/ecn202607140022",
+   "category": "Physical AI"
+  },
+  {
+   "title": "\"프롬프트 인젝션은 에이전트 시대의 XSS\" — UC버클리 방어 프레임워크",
+   "outlet": "Help Net Security",
+   "url": "https://www.helpnetsecurity.com/2026/07/17/xss-web-agent-prompt-injection/",
+   "category": "AI 보안"
+  },
+  {
+   "title": "MS, AI 취약점 탐지 도구 'Project Perception' 이달 출시 예정",
+   "outlet": "PANews",
+   "url": "https://www.panewslab.com/ko/articles/019f6fcd-36b0-75fa-9ac9-aa51456887d5",
+   "category": "AI 보안"
+  },
+  {
+   "title": "[주간 클라우드 동향/7월③] 1인 1 AI 에이전트 시대…정부, 핵심 인프라 국산화 추진",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026072009160287852",
+   "category": "국가 정책"
+  }
+ ]
+}

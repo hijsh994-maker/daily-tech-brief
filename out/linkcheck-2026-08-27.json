@@ -1,0 +1,313 @@
+[
+ {
+  "headline": "구글, 85개 언어 알아듣는 '제미나이3.5' 음성 AI 공개…\"말...",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695848",
+  "src": "slack",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "구글, 85개 언어 알아듣는 '제미나이3.5' 음성 AI 공개…&quot;말 끊어도 알아들어&quot; - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "[표준연, 지진 후 원전 '점검 우선순위' 제시하는 AI 모델 개발]",
+  "url": "https://www.etnews.com/20260826000169",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "표준연, 지진 후 원전 '점검 우선순위' 제시하는 AI 모델 개발 - 전자신문",
+  "unreached": false
+ },
+ {
+  "headline": "[\"벤치마크 1위인데 왜 탈락\"...모티프, 독파모 재심의 요청]",
+  "url": "https://www.news1.kr/it-science/internet-platform/6270845",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "&quot;벤치마크 1위인데 왜 탈락&quot;…모티프, 독파모 재심의 요청",
+  "unreached": false
+ },
+ {
+  "headline": "막오른 '보안 특화 AI' 경쟁⋯네이버클라우드·LG CNS vs SKT·업스테이지 '2파전'",
+  "url": "https://www.inews24.com/view/1998527",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "막오른 '보안 특화 AI' 경쟁⋯네이버클라우드&middot;LG CNS vs SKT&middot;업스테이지 '2파전'",
+  "unreached": false
+ },
+ {
+  "headline": "KT '모두의 AI' 박차... 무신사·EBS·다음 뭉친다",
+  "url": "https://v.daum.net/v/KEvgAA0Hjc",
+  "src": "newsclips",
+  "verdict": "의심",
+  "reason": "제목 일부만 일치 38%",
+  "status": 200,
+  "ratio": 0.375,
+  "page_title": "KT, 무신사·직방·BC카드에 AI 심는다…'생활 밀착형 AI' 확산",
+  "unreached": false
+ },
+ {
+  "headline": "\"전 국민이 한글처럼 쉽게 AI 쓰도록\"…'모두의 AI' 오늘 PT 심사 - 머니투데이",
+  "url": "https://www.mt.co.kr/tech/2026/08/27/2026082617560536142",
+  "verdict": "OK",
+  "reason": "제목 일치 90%",
+  "status": 200,
+  "ratio": 0.9,
+  "page_title": "&quot;전 국민이 한글처럼 쉽게 AI 쓰도록&quot;…&#039;모두의 AI&#039; 오늘 PT 심사 - 머니투데이",
+  "unreached": false
+ },
+ {
+  "headline": "퍼플렉시티, 엔비디아 협력으로 로컬 에이전트 '포터블 컴퓨터' 공개",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214382",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "퍼플렉시티, 엔비디아 협력으로 로컬 에이전트 '포터블 컴퓨터' 공개 < 산업일반 < AI산업 < 기사본문 - AI타임스",
+  "unreached": false
+ },
+ {
+  "headline": "[지멘스, 'ICX'로 기업 AX 지원...“에이전틱 AI로 업무 프로세스 재설계”]",
+  "url": "https://www.etnews.com/20260826000236",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "지멘스, 'ICX'로 기업 AX 지원…“에이전틱 AI로 업무 프로세스 재설계” - 전자신문",
+  "unreached": false
+ },
+ {
+  "headline": "[SK AX, SAP와 AI 협력 강화...“기업 운영에 에이전틱 AI 활용”]",
+  "url": "https://biz.chosun.com/it-science/ict/2026/08/26/7AAMPVNXHFFPNJKKXQ3ZAWFPJM/",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 90%",
+  "status": 200,
+  "ratio": 0.9,
+  "page_title": "SK AX, SAP와 AI 협력 강화…“기업 운영 전반에 에이전틱 AI 활용”",
+  "unreached": false
+ },
+ {
+  "headline": "450억달러 베팅…앤트로픽, 엔비디아 차세대 '베라 루빈' AI 컴퓨팅 6년 확보",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695920",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "450억달러 베팅…앤트로픽, 엔비디아 차세대 '베라 루빈' AI 컴퓨팅 6년 확보 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "아마존, 엔비디아 GPU 200만개 추가 구매…AWS AI 인프라 '초대형 베팅'",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695924",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "아마존, 엔비디아 GPU 200만개 추가 구매…AWS AI 인프라 '초대형 베팅' - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "엔비디아, 메모리 등 구매약정 2790억달러…석 달 새 134% 급증",
+  "url": "https://www.hankyung.com/article/202608275583i",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "엔비디아, 메모리 등 구매약정 2790억달러…석 달 새 134% 급증",
+  "unreached": false
+ },
+ {
+  "headline": "[‘화웨이 VS 엔비디아 연합군’...이집트 AI데이터센터 놓고경쟁]",
+  "url": "https://www.sedaily.com/article/20083711",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "‘화웨이 VS 엔비디아 연합군’…이집트 AI데이터센터 놓고경쟁",
+  "unreached": false
+ },
+ {
+  "headline": "리벨리온, 英 소버린AI 시장 공략…NPU 랙 100대 공급 추진",
+  "url": "https://www.newsis.com/view/NISX20260826_0003763077",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "리벨리온, 英 소버린AI 시장 공략…NPU 랙 100대 공급 추진 :: 공감언론 뉴시스 ::",
+  "unreached": false
+ },
+ {
+  "headline": "“1GW  70조 드는데 수혜 기업은 0곳”…AIDC 세액공제, 조특법 손질 시급",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=04070486645551256",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "“1GW 70조 드는데 수혜 기업은 0곳”…AIDC 세액공제, 조특법 손질 시급",
+  "unreached": false
+ },
+ {
+  "headline": "[부동산 PF 다음은 ‘AI 데이터센터’...한투, 시장 27% 선점]",
+  "url": "https://www.kukinews.com/article/view/kuk202608260193",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "부동산 PF 다음은 &lsquo;AI 데이터센터&rsquo;&hellip;한투, 시장 27% 선점",
+  "unreached": false
+ },
+ {
+  "headline": "LG CNS, 네이버와 손잡고 ‘차세대 냉각기술’ 인프라 구축…삼송 데이터센터에 도입",
+  "url": "https://biz.heraldcorp.com/article/10852168",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "LG CNS, 네이버와 손잡고 ‘차세대 냉각기술’ 인프라 구축…삼송 데이터센터에 도입",
+  "unreached": false
+ },
+ {
+  "headline": "휴머노이드·피지컬AI에 4.3조 투입…혁신기업엔 최대 100억 지원",
+  "url": "https://www.etoday.co.kr/news/view/2618693",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "휴머노이드·피지컬AI에 4.3조 투입…혁신기업엔 최대 100억 지원",
+  "unreached": false
+ },
+ {
+  "headline": "현대차, ‘세계 최초’ 로봇공장 2028년 가동…웨이모엔 올해 로보택시 공급 [CEO 인베스터데이]",
+  "url": "https://biz.heraldcorp.com/article/10853076",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "현대차, ‘세계 최초’ 로봇공장 2028년 가동…웨이모엔 올해 로보택시 공급 [CEO 인베스터데이]",
+  "unreached": false
+ },
+ {
+  "headline": "[스마트클라우드쇼 2026] 영상 한 편 보고 처음 하는 일도 척척… 아비나브 굽타 스킬드 AI 공동창업자 “로봇의 ‘챗GPT 순간’ 왔다”",
+  "url": "https://www.chosun.com/economy/tech_it/2026/08/26/MI4GCMRWHA4GMYRVMZRTMYZVHA/",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "[스마트클라우드쇼 2026] 영상 한 편 보고 처음 하는 일도 척척… 아비나브 굽타 스킬드 AI 공동창업자 “로봇의 ‘챗GPT 순간’ 왔다”",
+  "unreached": false
+ },
+ {
+  "headline": "현대모비스, 협력사와 AI·로봇 제조혁신 확대…신기술 40여종 공개",
+  "url": "https://www.etoday.co.kr/news/view/2618663",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "현대모비스, 협력사와 AI·로봇 제조혁신 확대…신기술 40여종 공개",
+  "unreached": false
+ },
+ {
+  "headline": "[오픈AI 자체 AI 에이전트가 내부망 뚫었다...시험 중 통제 이탈]",
+  "url": "https://www.news1.kr/world/usa-canada/6270703",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "오픈AI 자체 AI 에이전트가 내부망 뚫었다…시험 중 통제 이탈",
+  "unreached": false
+ },
+ {
+  "headline": "메타, 美 청소년 '인스타·페북' 사용시간까지 막는다…최소 10년간 규제",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695929",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "메타, 美 청소년 '인스타·페북' 사용시간까지 막는다…최소 10년간 규제 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "[5극3특에 반도체·AI 등 ‘성장엔진’...대규모 투자엔 특별보조금]",
+  "url": "https://www.sedaily.com/article/20083712",
+  "src": "adot",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "5극3특에 반도체·AI 등 ‘성장엔진’…대규모 투자엔 특별보조금",
+  "unreached": false
+ },
+ {
+  "headline": "“韓 AI 경쟁력, 美·中 이어 글로벌 3위”",
+  "url": "https://v.daum.net/v/XjUKGUNdDz",
+  "src": "newsclips",
+  "verdict": "의심",
+  "reason": "제목 일부만 일치 40%",
+  "status": 200,
+  "ratio": 0.4,
+  "page_title": "아티피셜 어낼리시스 “한국 AI 경쟁력, 미·중 이어 세계 3위”",
+  "unreached": false
+ },
+ {
+  "headline": "\"엔비디아, AI 모델 공유 플랫폼 허깅페이스 인수 논의 중\"",
+  "url": "https://imnews.imbc.com/news/2026/world/article/6847692_36925.html",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "&quot;엔비디아, AI 모델 공유 플랫폼 허깅페이스 인수 논의 중&quot;",
+  "unreached": false
+ },
+ {
+  "headline": "앤트로픽·구글 지원하는 AI 보안 스타트업, 삼성 등서 1900억 투자 유치",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214406",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "앤트로픽·구글 지원하는 AI 보안 스타트업, 삼성 등서 1900억 투자 유치 < 산업일반 < AI산업 < 기사본문 - AI타임스",
+  "unreached": false
+ },
+ {
+  "headline": "엔비디아, 실적보다 2000억 달러 장부외 부채가 더 큰 변수-BofA",
+  "url": "https://www.edaily.co.kr/News/Read?newsId=05103686645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+  "verdict": "OK",
+  "reason": "제목 일치 88%",
+  "status": 200,
+  "ratio": 0.875,
+  "page_title": "[실적프리뷰]엔비디아, 실적보다 2000억 달러 장부외 부채가 더 큰 변수-BofA",
+  "unreached": false
+ },
+ {
+  "headline": "소니·유니버설·워너가 동시에 베팅…스태빌리티 AI, 1050억원 투자 유치",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695666",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "소니·유니버설·워너가 동시에 베팅…스태빌리티 AI, 1050억원 투자 유치 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "크라우드웍스, 피지컬 AI 데이터로  정부 ‘M.AX 전문 기업‘ 선정",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214369",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "크라우드웍스, 피지컬 AI 데이터로 정부 ‘M.AX 전문 기업‘ 선정 < 보도자료 < AI 기업 < AI산업 < 기사본문 - AI타임스",
+  "unreached": false
+ }
+]

@@ -1,0 +1,174 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-08 09:44:12 KST === 
+Message TS: 1791420252.218219
+_[텔레그램 로그 2026-10-08] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 12개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=216044|aitimes.com/news/articleView.html?idxno=216044>
+2. 챗GPT가 질문마다 '화면'도 만든다…오픈AI, GPT-6 전면 확대 (머니투데이)
+o 링크: <https://www.mt.co.kr/tech/2026/10/08/2026100808574692589|mt.co.kr/tech/…/2026100808574692589>
+3. OpenAI says Codex and ChatGPT Work have 40M active users (RuntimeWire)
+o 링크: <https://runtimewire.com/article/openai-codex-chatgpt-work-40-million-users|runtimewire.com/article/openai-codex-chatgpt-work-40-million-users>
+4. OpenAI Announces College Planner and Study Tools for ChatGPT for Teens (Unite.AI)
+o 링크: <https://www.unite.ai/openai-announces-college-planner-and-study-tools-for-chatgpt-for-teens/|unite.ai/openai-announces-college-planner-and-study-tools-for-chatgpt-for-teens>
+5. WSJ: Broadcom seeks over $50 billion for OpenAI chips as Oracle, SpaceX chase AI debt deals (investingLive)
+o 링크: <https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/|investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals>
+6. AI칩 사려고 수십조 빚낸다…브로드컴·스페이스X '메가딜' 추진 (뉴스1)
+o 링크: <https://www.news1.kr/world/international-economy/6313657|news1.kr/world/international-economy/6313657>
+7. Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform (Game Developer)
+o 링크: <https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform|gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform>
+8. Building Windows for hybrid intelligence (Microsoft Windows Experience Blog)
+o 링크: <https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/|blogs.windows.com/windowsexperience/…/building-windows-for-hybrid-intelligence>
+9. Meta's Muse launches on iPad just a month after its mobile debut (TechCrunch)
+o 링크: <https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/|techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut>
+10. Zuckerberg's Biohub lands Google and U.S. Government backing for $1.8 billion AI biology push (TechStartups)
+o 링크: <https://techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push/|techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push>
+11. 트럼프, 일론 머스크·젠슨 황·리사 수에 국가과학훈장 수여 (뉴스핌)
+o 링크: <https://www.newspim.com/news/view/20261008000020|newspim.com/news/view/20261008000020>
+12. Nous Research confirms it hit $1.5B valuation, launches AI agents for business users (TechCrunch)
+o 링크: <https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/|techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-08 09:42:04 KST === 
+Message TS: 1791420124.558129
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.segye.com/newsView/20261007516634|AMD ‘AI 반도체 여제’, K기업과 글로벌 연합작전 펼친다>
+ㄴ세계일보 2026.10.08
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100808215450820|"반도체 환경 난제 해결하겠다"...SK하이닉스 'AI 환경연구소' 설립 추진>
+ㄴ아시아경제 2026.10.08 관련뉴스 1건
+<https://www.news1.kr/world/international-economy/6313651|美 AI 반도체주 혼조...국채금리 급등에 엔비디아.AMD↓, 마이크론 4%↑>
+ㄴ뉴스1 2026.10.08
+<https://biz.heraldcorp.com/article/10896208|“반도체 원하는 위치서 성장 시킨다”...AI칩 ‘수직 적층’ 난제 해결>
+ㄴ헤럴드경제 2026.10.08
+<https://www.khan.co.kr/article/202610072105075|“반도체는 팀 스포츠”...국내 기업들 손잡고 ‘글로벌 AI’ 공략>
+ㄴ경향신문 2026.10.07 관련뉴스 2건
+<https://www.news1.kr/bio/welfare-medical/6313553|정은경 "위기가구 AI상담 생성형 AI로 전환...시범운영 중">
+ㄴ뉴스1 2026.10.07
+<https://www.sedaily.com/article/20099264|로빈후드 누비는 AI 에이전트만 15만개...USDC로 24시간 거래>
+ㄴ서울경제 2026.10.07
+<https://www.fnnews.com/news/202610071821048238|AI 에이전트 '실행 단계'까지 점검.. 금융보안원, 보안 평가기준 대폭 확대>
+ㄴ파이낸셜뉴스 2026.10.07 관련뉴스 3건
+<https://www.news1.kr/finance/blockchain-fintech/6313200|수이 개발사 미스틴랩스, 구글 클라우드와 AI 에이전트 검증 기술 공개>
+ㄴ뉴스1 2026.10.07 관련뉴스 1건
+<https://www.news1.kr/finance/general-finance/6313370|금융위, 금융권 'AI 에이전트' 규율체계 만든다...연구용역 발주>
+ㄴ뉴스1 2026.10.07 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-08 09:41:55 KST === 
+Message TS: 1791420115.494989
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100809024153159|마스턴운용, SK이터닉스와 '연료전지 데이터센터 사업 MOU' 체결>
+ㄴ아시아경제 2026.10.08
+<https://www.sedaily.com/article/20099365|마스턴투자운용, SK이터닉스와 데이터센터 분야 협력한다 [시그널]>
+ㄴ서울경제 2026.10.08
+<https://www.etoday.co.kr/news/view/2633652|LS증권 "DL이앤씨, 3분기 실적 눈높이 하향...SMR·데이터센터 성장 기대">
+ㄴ이투데이 2026.10.08
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100715595013955|"DL이앤씨, 데이터센터·SMR 신사업 가시화...목표가↑"[클릭 e종목]>
+ㄴ아시아경제 2026.10.08 관련뉴스 1건
+<https://www.news1.kr/finance/market-exr/6313788|대신證 "효성중공업, 3분기 전쟁 여파 일시 부진...美데이터센터 호조 지속">
+ㄴ뉴스1 2026.10.08 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2633645|삼성증권 "LG전자, AI 데이터센터 냉각솔루션 성장 본격화">
+ㄴ이투데이 2026.10.08 관련뉴스 1건
+<https://www.news1.kr/local/moi/6313597|소방청장 "데이터센터 배터리 화재대책 마련"...감찰규정도 손질(종합2보)>
+ㄴ뉴스1 2026.10.07
+<https://www.fnnews.com/news/202610071814297326|"과천주암데이터센터, 전자파·소음 등 기준 모두 충족">
+ㄴ파이낸셜뉴스 2026.10.07 관련뉴스 5건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100715541415708|[클릭 e종목]"GS건설, 데이터센터 신사업 긍정적...목표가↑">
+ㄴ아시아경제 2026.10.07
+<https://www.segye.com/newsView/20261007517434|정유.편의점 회사인 줄 알았는데...GS, 2.4GW AI 데이터센터에 꽂힌 이유>
+ㄴ세계일보 2026.10.07 관련뉴스 1건
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.sedaily.com/article/20099313|권총부터 휴머노이드 로봇까지...국감장 달군 ‘이색 아이템’[국감 2026]>
+ㄴ서울경제 2026.10.08
+<https://www.news1.kr/local/daegu-gyeongbuk/6312692|TK '휴머노이드 로봇 특화단지' 후속 지원 논의...8일 국회 간담회>
+ㄴ뉴스1 2026.10.07 관련뉴스 1건
+<https://www.news1.kr/local/moi/6313326|서울숲서 'AI 평생학습' 축제...휴머노이드·VR 등 30여 개 체험>
+ㄴ뉴스1 2026.10.08
+<https://www.etnews.com/20261007000112|[기후테크, 산업을 바꾸다 ]배터리 속 얇은 막 하나...화재 위험 낮추는 기술>
+ㄴ전자신문 2026.10.08
+<https://www.seoul.co.kr/news/economy/IT/2026/10/08/20261008030003|아마존 수석과학자, 아틀라스 뇌 심는다>
+ㄴ서울신문 2026.10.08
+<https://www.news1.kr/entertain/music/6313612|"한국 꼭 다시 올게"...위켄드, 8년의 기다림 보답한 뜨거운 2시간(종합) [N현장]>
+ㄴ뉴스1 2026.10.07
+<https://www.etoday.co.kr/news/view/2628133|AI도 결국 ''쩐의 전쟁''?재계 순위 바꾸는 AI 자본력 [AI 신계급사회]>
+ㄴ이투데이 2026.10.08
+<https://www.sedaily.com/article/20099357|[속보]역대급 실적에도...삼성, 3분기 폰.가전 兆단위 적자 본 듯>
+ㄴ서울경제 2026.10.08
+<https://www.news1.kr/entertain/music/6313697|8년 만에 韓 찾은 위켄드...5만 4000명 관객과 만든 황홀경의 무대 [N리뷰]>
+ㄴ뉴스1 2026.10.08
+<https://www.segye.com/newsView/20261007516625|현대차 로봇사업에 ‘아마존 AI 두뇌 합류>
+ㄴ세계일보 2026.10.08 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-08 09:41:41 KST === 
+Message TS: 1791420101.198089
+_[텔레그램 로그 2026-10-08] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 8일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.fnnews.com/news/202610080743261362|오픈AI.앤스로픽 같은 날 신모델...무료 개방 vs 가격 인하>
+ㄴ파이낸셜뉴스 2026.10.08
+<https://www.seoul.co.kr/news/economy/industry/2026/10/08/20261008032003|AI 기업 ''최강 모델'' 전문가에 개방... 사이버 공격 전에 취약점 찾아낸다>
+ㄴ서울신문 2026.10.08
+<https://biz.heraldcorp.com/article/10896047|퓨리오사AI 검증해보니...HBF 적용하면 LLM 작업시간·에너지 효율 모두 개선>
+ㄴ헤럴드경제 2026.10.07
+<https://www.khan.co.kr/article/202610071843035|[민선 9기 특집]안양시-AI·첨단기술 접목한 ''스마트 행정'' 미래 도시 모델 제시>
+ㄴ경향신문 2026.10.07 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2633383|장병탁 교수 "주도권 놓친 LLM...피지컬 AI가 승부처" [미리 보는 테크퀘스트]>
+ㄴ이투데이 2026.10.07
+<https://www.fnnews.com/news/202609281104111934|GPU.모델만으론 안 된다..."AI 경쟁 승부처는 데이터"[AI WORLD 2026]>
+ㄴ파이낸셜뉴스 2026.10.07 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/10/07/7ALQJVVK2JBAJILWH36J7A2IVY/|삼성 투자 받은 프랑스 미스트랄, 개방형 AI 모델 공개>
+ㄴ조선비즈 2026.10.07
+<https://www.etnews.com/20261007000051|전남테크노파크, AI.로봇 확산모델 신규 협업과제 발굴 추진>
+ㄴ전자신문 2026.10.07
+<https://www.news1.kr/it-science/internet-platform/6313829|챗GPT, '똑똑한 UI' 도입...단순 답변 外 시각 자료도 동원>
+ㄴ뉴스1 2026.10.08
+<https://www.sedaily.com/article/20099387|SKT·업스테이지, 사이버보안 협의체 출범...안랩 등 참여>
+ㄴ서울경제 2026.10.08 관련뉴스 3건
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.sedaily.com/article/20099264|로빈후드 누비는 AI 에이전트만 15만개...USDC로 24시간 거래>
+ㄴ서울경제 2026.10.07
+<https://www.fnnews.com/news/202610071821048238|AI 에이전트 '실행 단계'까지 점검.. 금융보안원, 보안 평가기준 대폭 확대>
+ㄴ파이낸셜뉴스 2026.10.07 관련뉴스 3건
+<https://www.news1.kr/finance/blockchain-fintech/6313200|수이 개발사 미스틴랩스, 구글 클라우드와 AI 에이전트 검증 기술 공개>
+ㄴ뉴스1 2026.10.07 관련뉴스 1건
+<https://www.news1.kr/finance/general-finance/6313370|금융위, 금융권 'AI 에이전트' 규율체계 만든다...연구용역 발주>
+ㄴ뉴스1 2026.10.07 관련뉴스 2건
+<https://www.news1.kr/economy/trend/6313339|"AI 해킹엔 AI 에이전트로"...재경부 전략경제자문단, KISA서 보안 대응책 논의>
+ㄴ뉴스1 2026.10.07
+<https://www.khan.co.kr/article/202610071454001|해킹만큼 위험한 ‘AI 비서의 정보 유출’...금융보안원, AI 에이전트 점검기준 마련>
+ㄴ경향신문 2026.10.07 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/2026/10/07/20261007500168|탈루스, KBW 2026서 AI 에이전트의 ‘실행 신뢰’ 설계 소개>
+ㄴ서울신문 2026.10.07
+<https://www.segye.com/newsView/20261007512510|휴먼컨설팅그룹, 28일 HR AI 컨퍼런스 ‘그라운드 원’ 개최...5개 AI 에이전트 시연>
+ㄴ세계일보 2026.10.07 관련뉴스 4건
+<https://www.sedaily.com/article/20099040|워크데이코리아, 파트너 생태계 확 키운다...AI 에이전트로 B2B 공략>
+ㄴ서울경제 2026.10.07
+<https://www.etnews.com/20261007000176|“카드 분실신고도 대화로”...토스뱅크, AI 채팅 에이전트 도입>
+ㄴ전자신문 2026.10.07 관련뉴스 3건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-08 09:01:57 KST === 
+Message TS: 1791417717.180969
+
+Files: [2026년 10월 8일] 조간 뉴스 클리핑 (ID: F0C8F1SCL1E, text/html, 50.3 KB)

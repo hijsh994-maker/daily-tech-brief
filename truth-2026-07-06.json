@@ -1,0 +1,89 @@
+{
+ "date": "2026-07-06",
+ "items": [
+  {
+   "title": "구글도 딥시크도 '메모리 다이어트'",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026070564171",
+   "category": "AI Model"
+  },
+  {
+   "title": "예약·구매까지…네이버, AI 검색 승부수",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/amp/2026070563421",
+   "category": "AI Model"
+  },
+  {
+   "title": "AI 에이전트, 일반 생성형 AI보다 전력 136배 더 쓴다",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20063827",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "엔비디아칩 478배 앞선 중국칩 등장…'디지털 뇌 쌍둥이' 만든다",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20063963",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "[단독] 삼성, SK·GS 등과 강원권 AI데이터센터 총력전…춘천에 모듈러형 AIDC 건축신고",
+   "outlet": "강원일보",
+   "url": "https://kwnews.co.kr/article/20260705500512",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "AI 데이터센터 전력망 병목에 '소형 엔진' 뜬다",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20260704503586",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "SKT '해인' 클러스터 CSAP 인증 취득…블랙웰 AIDC 중 국내 처음",
+   "outlet": "SK텔레콤 뉴스룸",
+   "url": "https://news.sktelecom.com/227507",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "공군 AX 거점 8월 개소…소요기술 3건 민군 공동개발 추진",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260705000041",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "공장 넘어 농장 간 현대차·기아 '입는 로봇', 어깨 근육 사용 33%↓ 효과",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10798681",
+   "category": "Physical AI"
+  },
+  {
+   "title": "알리바바, 직원 '클로드 코드' 사용 금지…\"中 사용자 비밀 추적\" 여파",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212423",
+   "category": "AI 보안"
+  },
+  {
+   "title": "삼성전자, 정보보호 투자 4121억원… 역대 최대",
+   "outlet": "서울신문",
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/07/06/20260706030003",
+   "category": "AI 보안"
+  },
+  {
+   "title": "Anthropic Eyes Massive 1.4 GW Data Center Foothold in Australia Worth Up to $15B",
+   "outlet": "techiexpert.com[[techiexpert.com]]",
+   "url": "https://techiexpert.com/anthropic-eyes-massive-1-4-gw-data-center-foothold-in-australia-worth-up-to-15b/",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "메타, 앤트로픽 '클로드' 직접 서비스 추진…\"클라우드 진입 준비\"",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212432",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "'AI 토큰 지출' 지표 첫 하락세…AI 거품 붕괴 vs 수요 조정 의견 맞서",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212434",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

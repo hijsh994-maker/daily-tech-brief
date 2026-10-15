@@ -1,0 +1,24 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-23 09:00:47 KST === 
+Message TS: 1790121647.874499
+- <https://news.google.com/rss/articles/CBMib0FVX3lxTE5JM2NuYUpPN1haVy1ISE5abzVHN1UwZ3dQakUwWWlRbnZpbURCcF81MUFsdEdPUFlFMHNXU1l0ejF2ZlBETEd4cVZfWUt4MTFUekdrQ25NbnlHX21ZRDZibVZoUGRDcjk2RHdpQXlZYw?oc=5|트럼프 vs 유엔, AI 안전 장치 놓고 충돌...에스컬레이터 대신 CNN 취재에 시비 - YTN> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UcGZXalpscWx2OXBweTVkM2tMMG5iTzItTlRpVHpidVgwS1p0RExuRUxmTElOLXNfeTFqU2pRMnRJUWZUdTFrNl96cXh1YVBHYnlVNks1MnJoY1HSAWBBVV95cUxOeC13MlEwMkQ1bDRtUnRJRFJvNWV5d1BSS0xlTjUyaEs0REZYbnRnM0YyMUs3OVlKTHBzYnZwVWd5VGF5RUNrVWNKRHFLOVN2Y2FSSEVLVTQyM3oxdVJCQW8?oc=5|트럼프, 이란에 "합의냐 전멸이냐"…서반구 패권·AI우위 과시(종합2보) - 연합뉴스> 
+- <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1U0wtWmlJaUNIdlhocllxTVM3ckg2LW95UzRfSGhwUkM5cGNlVHhtblNZV1dRaDl4TTk4RmpYU19MYVJEWVN6MzR1d01uN2g1RFROa2hoY2TSAV5BVV95cUxOWUdza1Q3Q2JidDFNNEhCdTltZDE0OUFFVTRrZTR2djh6MlNvZDhLZU9kVGVYT3ZjbnlvTWVBY0tCdXl5X051dU1ha0hDd1c4bHFtYlJtOHIxRlpiRzBB?oc=5|"베선트 재무, 트럼프가 신설 발표한 'AI 차르' 맡을 가능성" - 뉴스1> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fc28wek5VM2xxeXczbUw3ek5MckpPY0FvRnlsczlzSVlmSUJhOXJ2eWZLekFxWmlHUDBQMS02SjlOaENiMlhQR21ScFpKR3RKRFMyRzZR?oc=5|[golf&] AI 스윙 코칭부터 라운드까지 한곳에서 - 중앙일보> 
+- <https://news.nate.com/view/20260921n01128|빙의시켜라"…AI를 '수석 비서'로 부리는 법  [워크인AI by...> 
+- <https://news.nate.com/view/20260920n04492|SUV 최초 'AI 비서' 품은 신형 투싼…복합연비 17.4km/ℓ...> 
+- <https://news.nate.com/view/20260921n21684|넘나드는 파격 '현대차 신형 투싼'…"지능형 AI 비서까지 품었다"> 
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTE5OdnpuUnIwSlZNbDFXYjhob1NsLUdHVVRyLW1LWEZERFlTcVhXaXoxNkYwUm4wbDliVjVBMDhXY2J5dnNTdzFQZmpSVXJ2aV81a0UzT1ZERG5SOTZYS3JkQnluRG9fT2hRSnB6R1VlSE7SAXRBVV95cUxQSWtfcHhJTmxnb2JBZlNjZ19kMlB5RnluS1kxcTlUMGhQc2VRQThCaVhzRlpkVzVHREZQMTRGaE1xNm1ibVNXYi15UDBxM2xOTmZqWldGYm9NZzFMSURIUGM4Y1VqSDNwVHZGQU01SGxNRTdadg?oc=5|AI 쏟아지지만…‘나를 아는 금융비서’는 요원 [동의, 하십니까? ②] - IT조선> 
+- <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWV9fZ0x1YTlnSmFCQTBIdGJtMjU4cjFodW84Z3Z3Wmpmck14U1FhVWtZZnd0aUt5OXdOQVlyWHlOallzQm5panpyTU5LM0hEN2ZJYXlqMmZtOUJsODlkMlp4dnhmVXBhX19oZFRuTTlfTVU0MDRyVG9JcE1MeXV4YXM2Y2NmRUdIQnZQekdTQVVWZVFWMW5KNmllWTFFTjM2dWdUZGVPVzAweXFtT1U1YTJjYzRNUnJIay11MWJqNldqUzg?oc=5|[미주조선일보 창간 7주년]AI가 바꿀 앞으로 10년의 일상 - 미주조선일보> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iOFR5STY3TWJsZkJJUmE0d245SXhIY1hwenNTblFOalUtaVBvS2o0NVUzTS1nNkp1LUdCTUw5eGdqOVp0cUxsRVRqRnhLUDA0TmxuMERvRWFVSkU?oc=5|AI 비서 전쟁 뛰어든 머스크…‘그로 봇’ 한 달 만에 42만명｜Global Money Club - 중앙일보> 
+- <https://news.nate.com/view/20260922n02619|AI 비서 품은 회장님 차…요람 같은 무게감에 첨단 두뇌도 장착 [온더로드]> 
+- <https://news.nate.com/view/20260923n00426|단숨에 美 앱 1위…메타 AI비서, AI 위기론 잠재울까> 
+- <https://news.nate.com/view/20260923n01869|답하는 AI서 일하는 AI로…'개인비서' 앱, 챗GPT 제쳐> 
+- <https://news.nate.com/view/20260923n06061|예약·결제까지…메타 생활형 AI 비서 '뮤즈' 돌풍 [앵커리포트]> 
+- <https://news.nate.com/view/20260920n11650|보이스피싱 예방부터 돌봄까지…SKT '선한 AI' 확장>
+- <https://news.nate.com/view/20260922n03761|구글, 899달러 '구글북' 출격…크롬북 넘어 AI 노트북 승부>
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE85bEV6NXExOHpvYm1BRWVSdlo0ejFrN2p3aVFmZm0yaWcxelZXY1RxSTJuMXJ4VTROaVdmaVFNRmpJT2l4b0ZaUjYwcVI4aGJUc21aOFRB?oc=5|퀄컴 "AI 에이전트, 먼 미래 아닌 실체…'신뢰' 생태계로 시장 연다" - 지디넷코리아>
+- <https://news.nate.com/view/20260922n32742|[단독] 구글, 엔비디아 GPU 독점 구도에 도전…빅테크 AI 인프라...>
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5SWVuMnVTNWRPVEZneTNkZndCb1dybFN4c3BFUXhxTlYwRk10SG5VekVqRkFrWFB5UEZudjMzOHNPbXV6Yk13dEpZbUhWQ1pTQTVtYXFxX2sxQQ?oc=5|'뮤즈'가 뭐길래, 메타 발 'AI 멜트업'…이란과 정상회담? 유가 폭락 [김현석의 월스트리트나우] - 한국경제>
+- <https://news.nate.com/view/20260921n34055|애플, '시리 AI' 거실로 옮긴다···가정용 'AI 허브' 출격 채비>

@@ -1,0 +1,137 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-23 09:43:58 KST === 
+Message TS: 1790124238.702989
+_(이어서 2/2)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092309170574691|뉴욕서 K팝 춘 휴머노이드 16대...갤럭시코퍼레이션, '최용호 로봇'도 공개>
+ㄴ아시아경제 2026.09.23
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092308242769454|[클릭 e종목]"티로보틱스, 진공로봇·ESS·휴머노이드 '삼각편대'...2027년 이익 성장 본격화">
+ㄴ아시아경제 2026.09.23
+<https://www.segye.com/newsView/20260922516017|엡손, 로봇.산업용 잉크젯 육성... B2B 확대>
+ㄴ세계일보 2026.09.23
+<https://www.sedaily.com/article/20093955|로브로스, 휴머노이드 로봇 전신 원격조작 영상 공개 [로보 인사이트]>
+ㄴ서울경제 2026.09.22 관련뉴스 1건
+<https://biz.chosun.com/international/international_general/2026/09/22/7JG3P22XJVHKHCKA2OAR75JSFQ/|휴머노이드의 ‘마지막 1 ’... 中 로봇 손, 새 전장으로>
+ㄴ조선비즈 2026.09.22
+<https://biz.chosun.com/international/international_general/2026/09/22/B23IEG7NRRDNXLJAQKTMT7ODQA/|‘옥석 가리기’ 들어가나... 中, 휴머노이드 로봇기업 IPO 제동>
+ㄴ조선비즈 2026.09.22
+<https://www.etnews.com/20260922000386|엡손 “산업용 잉크젯.로봇 중심 사업 재편...10년 뒤 매출 20% 성장 목표”>
+ㄴ전자신문 2026.09.22
+<https://www.etnews.com/20260922000290|[포토] 물건 집어내는 휴머노이드 물류 로봇>
+ㄴ전자신문 2026.09.22 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092210564932080|[기자수첩]희토류 공급망, 시장 논리만으로 지킬 수 없다>
+ㄴ아시아경제 2026.09.23
+<https://www.etnews.com/20260923000037|HL로보틱스-삼성물산, 주차로봇 '파키' 기반 차세대 주거 솔루션 구축한다>
+ㄴ전자신문 2026.09.23 관련뉴스 5건
+
+
+
+*AI기술현황*
+신규 10건
+<https://www.news1.kr/it-science/internet-platform/6299849|"1주일마다 1억 토큰"...메타 AI에이전트 '뮤즈' 돌풍>
+ㄴ뉴스1 2026.09.23
+<https://www.sedaily.com/article/20094315|ADB, 올해 韓 성장률 3.2%로 상향...“AI 반도체 수출 호조”>
+ㄴ서울경제 2026.09.23 관련뉴스 6건
+<https://www.segye.com/newsView/20260922516012|AI가 ‘AI 에이전트 구축’ 컨설팅 한다>
+ㄴ세계일보 2026.09.23
+<https://www.news1.kr/world/international-economy/6299666|[뉴욕마감]지수별 혼조...AI 반도체 랠리에 나스닥 사상 최고>
+ㄴ뉴스1 2026.09.23
+<https://biz.chosun.com/it-science/ict/2026/09/23/VSE6MU4D5RA7FFZ2XXCVL456TQ/|[스냅드래곤 서밋] 퀄컴, 구글.마스터카드와 ‘AI 에이전트 생태계’ 확장... 검색 넘어 결제까지>
+ㄴ조선비즈 2026.09.23 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/09/23/RMXSP4TGLFANDBG3MPHCHAHNG4/|[스냅드래곤 서밋] 아몬 퀄컴 CEO “스마트폰 안 사라진다... 앱 대신 AI 에이전트가 중심”>
+ㄴ조선비즈 2026.09.23
+<https://www.fnnews.com/news/202609221819226346|한미반도체, HBM 넘어 AI패키징 시장 공략>
+ㄴ파이낸셜뉴스 2026.09.22 관련뉴스 2건
+<https://www.khan.co.kr/article/202609221625001|“대형 히트작 될듯” 메타 ‘뮤즈’ 돌풍에...불 붙는 AI 에이전트 ‘연결망’ 경쟁>
+ㄴ경향신문 2026.09.22 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2628643|게임사 AI, 제작 도구 넘어선다...자체 모델·에이전트·피지컬 AI로 확장>
+ㄴ이투데이 2026.09.22
+<https://biz.chosun.com/it-science/ict/2026/09/22/FOPAJKISYJFP7K3YX4FCNPBKXQ/|아마존, 메타 AI 에이전트 ‘뮤즈’ 자사 쇼핑몰서 접근 차단해>
+ㄴ조선비즈 2026.09.22 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-23 09:43:23 KST === 
+Message TS: 1790124203.345119
+_[텔레그램 로그 2026-09-23] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 23일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092308290558123|앤스로픽·오픈AI 저가 AI 모델 나란히 출시...가격 경쟁 격화>
+ㄴ아시아경제 2026.09.23
+<https://www.fnnews.com/news/202609230336252460|"AI 속도 늦추자"더니...오픈AI.앤트로픽, 더 싼 신모델 맞불>
+ㄴ파이낸셜뉴스 2026.09.23
+<https://www.etnews.com/20260922000484|[포토] 사이버보안 특화 AI 모델 개발사업 착수 간담회>
+ㄴ전자신문 2026.09.22 관련뉴스 9건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092216294613259|"GPU 4512장 투입해 국내 특화 보안 AI 모델 개발...해외로 수출도"(종합)>
+ㄴ아시아경제 2026.09.22 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2628643|게임사 AI, 제작 도구 넘어선다...자체 모델·에이전트·피지컬 AI로 확장>
+ㄴ이투데이 2026.09.22
+<https://biz.chosun.com/it-science/ict/2026/09/22/UA5DTXU3VVAIRLYW6SBJW43PGI/|오픈AI.앤트로픽, AI 모델 상호검증 계약 논의해...“타결 여부는 불분명”>
+ㄴ조선비즈 2026.09.22
+<https://biz.heraldcorp.com/article/10882865|현대차와 만든 차세대 고속철...현대로템, 독일서 디자인 첫 공개>
+ㄴ헤럴드경제 2026.09.23
+<https://www.news1.kr/industry/general-industry/6299792|현대로템, 차세대 고속철도 첫선...獨 철도 박람회 이노트란스 참가>
+ㄴ뉴스1 2026.09.23
+<https://biz.heraldcorp.com/article/10882821|美 “규제 반대”·유럽 “제3의 길”...유엔 달군 AI 패권 전쟁>
+ㄴ헤럴드경제 2026.09.23
+<https://www.news1.kr/world/europe/6299702|佛마크롱 "참혹한 야만의 시대...국제법.유엔 체제 복원해야">
+ㄴ뉴스1 2026.09.23
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20260923000034|플래티어, '금융 테크 콘퍼런스 2026'서 에이전틱 AI 플랫폼 '엑스젠' 소개>
+ㄴ전자신문 2026.09.23 관련뉴스 1건
+<https://www.news1.kr/it-science/internet-platform/6299849|"1주일마다 1억 토큰"...메타 AI에이전트 '뮤즈' 돌풍>
+ㄴ뉴스1 2026.09.23
+<https://www.segye.com/newsView/20260922516012|AI가 ‘AI 에이전트 구축’ 컨설팅 한다>
+ㄴ세계일보 2026.09.23
+<https://biz.chosun.com/it-science/ict/2026/09/23/VSE6MU4D5RA7FFZ2XXCVL456TQ/|[스냅드래곤 서밋] 퀄컴, 구글.마스터카드와 ‘AI 에이전트 생태계’ 확장... 검색 넘어 결제까지>
+ㄴ조선비즈 2026.09.23 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/09/23/C6NJXFQAEJD3DH27EN4SZG4RNE/|퀄컴, 2나노 기반 ‘스냅드래곤 8 엘리트’ 2종 공개... 에이전틱 AI 강화>
+ㄴ조선비즈 2026.09.23
+<https://biz.chosun.com/it-science/ict/2026/09/23/RMXSP4TGLFANDBG3MPHCHAHNG4/|[스냅드래곤 서밋] 아몬 퀄컴 CEO “스마트폰 안 사라진다... 앱 대신 AI 에이전트가 중심”>
+ㄴ조선비즈 2026.09.23
+<https://www.khan.co.kr/article/202609221625001|“대형 히트작 될듯” 메타 ‘뮤즈’ 돌풍에...불 붙는 AI 에이전트 ‘연결망’ 경쟁>
+ㄴ경향신문 2026.09.22 관련뉴스 2건
+<https://www.etoday.co.kr/news/view/2628643|게임사 AI, 제작 도구 넘어선다...자체 모델·에이전트·피지컬 AI로 확장>
+ㄴ이투데이 2026.09.22
+<https://biz.chosun.com/it-science/ict/2026/09/22/FOPAJKISYJFP7K3YX4FCNPBKXQ/|아마존, 메타 AI 에이전트 ‘뮤즈’ 자사 쇼핑몰서 접근 차단해>
+ㄴ조선비즈 2026.09.22 관련뉴스 2건
+<https://www.etnews.com/20260922000265|포스코DX, AI 에이전트 구축 컨설팅도 AI가 수행...도입 기간 절반 단축>
+ㄴ전자신문 2026.09.22 관련뉴스 1건
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092210125950852|[Invest&Law]세종, AIDC 인프라센터 출범...AI 데이터센터 자문 강화>
+ㄴ아시아경제 2026.09.23
+<https://www.news1.kr/realestate/general/6299038|불황에도 10대 건설사 7곳 신입 공채...원전.데이터센터 인재 확보전>
+ㄴ뉴스1 2026.09.23
+<https://www.fnnews.com/news/202609221803392022|"AI 시대, 데이터센터 현재와 미래" 한경협 세미나 개최>
+ㄴ파이낸셜뉴스 2026.09.23 관련뉴스 3건
+<https://www.sedaily.com/article/20094203|데이터센터도 냉장고처럼...EU, 에너지·물 사용 ‘등급’ 매긴다>
+ㄴ서울경제 2026.09.23
+<https://www.khan.co.kr/article/202609230600015|[논설위원의 단도직입]“데이터센터 계획, 절반이 허수일 듯...AI용 전력, 재생에너지로 한정을”>
+ㄴ경향신문 2026.09.23
+<https://biz.chosun.com/stock/market_trend/2026/09/23/2D4TZBRZQFEZNLOHLU5M76HG2I/|TCC동양타워 매각 무산... LB운용.액티스, 데이터센터 직접 개발로 선회>
+ㄴ조선비즈 2026.09.23
+<https://www.kukinews.com/article/view/kuk202609220194|도심 가까이 들어오는 ‘엣지 데이터센터’...주민 반발은 과제>
+ㄴ쿠키뉴스 2026.09.23
+<https://www.news1.kr/local/kangwon/6299459|삼척블루파워, AI 데이터센터 유치 추진...2만5000평 부지 매각 협약>
+ㄴ뉴스1 2026.09.22 관련뉴스 5건
+<https://www.sedaily.com/article/20094152|美 데이터센터 주민 반발에 월가도 불똥...IPO 줄줄이 제동>
+ㄴ서울경제 2026.09.22
+<https://www.sedaily.com/article/20094133|구광모.나델라 AI 동맹...MS 데이터센터에 ‘원LG’ 기술력 심는다>
+ㄴ서울경제 2026.09.22 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

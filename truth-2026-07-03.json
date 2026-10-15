@@ -1,0 +1,89 @@
+{
+ "date": "2026-07-03",
+ "items": [
+  {
+   "title": "정부, 초과세수로 '미토스'급 소버린 AI 개발 검토",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/07/02/53VBBHVFXBBMHITXCELAZMX56Q/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "Anthropic is discussing a new custom chip with Samsung",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+   "category": "AI DC"
+  },
+  {
+   "title": "\"애플, 中 창신·양쯔 메모리와 칩 구매 협상 중\"",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20063069",
+   "category": "AI DC"
+  },
+  {
+   "title": "비싼 GPU 부담 낮춘다…엔비디아, AI 스타트업에 '매출 나눠 갖기' 모델 도입",
+   "outlet": "이코노미트리뷰",
+   "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3903234",
+   "category": "AI DC"
+  },
+  {
+   "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem",
+   "outlet": "VentureBeat",
+   "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "세일즈포스, 고객 서비스 AI 에이전트 공개…\"상담 해결해야 과금\"",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/07/02/JUGXORPUZNFUBLMQKM3IHM5RXA/",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "포밸류소프트, NH농협은행에 AI 에이전트 통합 제어 플랫폼 'Sunstone AI Hub' 도입",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260702000388",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "행안부, 'AI 정부 실험실' 시범 운영…\"공무원이 직접 AI에이전트 개발\"",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260702000374",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+   "outlet": "The Hacker News",
+   "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+   "category": "AI 보안"
+  },
+  {
+   "title": "오픈AI, 美 정부에 지분 5% 제공 논의…앤트로픽·구글 참여도 언급",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/07/02/2026070215083262119",
+   "category": "국가정책"
+  },
+  {
+   "title": "Trump administration and Anthropic have not discussed government taking stakes in firm, source says",
+   "outlet": "Reuters",
+   "url": "https://www.reuters.com/business/trump-administration-anthropic-have-not-discussed-government-taking-stakes-firm-2026-07-02/",
+   "category": "국가정책"
+  },
+  {
+   "title": "'금융 AI 에이전트' 링크알파, 340억 규모 신규 투자 유치",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2599648",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "구글, EU '7조원 과징금' 소송 최종 패소…안드로이드 반독점 제재 확정",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2599852",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

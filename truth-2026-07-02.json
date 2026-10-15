@@ -1,0 +1,95 @@
+{
+ "date": "2026-07-02",
+ "items": [
+  {
+   "title": "메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260702000019",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "화웨이 AI NPU 서버, 4분기 韓 상륙…엔비디아에 도전장",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260701000492",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "팔란티어 CEO \"오픈AI·앤트로픽 '토큰' 모델 완전히 잘못돼…미친짓\"",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10795293",
+   "category": "AI Model"
+  },
+  {
+   "title": "[AI 브리핑] 중국 탈엔비디아 모델 공개, 메타는 아동 위장 논란",
+   "outlet": "네이트뉴스",
+   "url": "https://news.nate.com/view/20260701n25608",
+   "category": "AI Model"
+  },
+  {
+   "title": "문서만 올리면 60초 쇼츠로…구글 노트북LM, AI 영상 기능 확대",
+   "outlet": "네이트뉴스",
+   "url": "https://news.nate.com/view/20260701n29381",
+   "category": "AI Model"
+  },
+  {
+   "title": "\"몸값 낮춰도 27조\"…中 클링 AI, 4조 실탄 들고 글로벌 공세 본격화",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260702094648",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "투게더AI 8억달러 유치…기업가치 83억달러로 도약",
+   "outlet": "위키트리",
+   "url": "https://www.wikitree.co.kr/articles/1144303",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "영상 AI 트웰브랩스, 1500억 시리즈B 투자유치…아마존도 참여",
+   "outlet": "머니투데이",
+   "url": "https://v.daum.net/v/20260702093153415",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "AI로 제조업 대전환…로봇·반도체 등 6개분야에 16兆 푼다",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202607011807584120",
+   "category": "Physical AI"
+  },
+  {
+   "title": "\"부품 선별·배치까지\"…美 휴머노이드, BMW 생산라인 투입",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260701000591",
+   "category": "Physical AI"
+  },
+  {
+   "title": "\"사람 감정 읽고 대화한다\"…2억원대 가정용 휴머노이드 로봇",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260701000593",
+   "category": "Physical AI"
+  },
+  {
+   "title": "로봇계의 올림픽 '로보컵 2026 인천' 7월 2일 개막",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=47109",
+   "category": "Physical AI"
+  },
+  {
+   "title": "[단독] 공무원 징계 회의록 AI가 쓴다…인사행정 특화 LLM 개발도 착수",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20062626",
+   "category": "AI Agent"
+  },
+  {
+   "title": "\"스마트글래스 쓰면 AI에이전트가 안내\"…딥파인, 병원 실증 진행",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20062599",
+   "category": "AI Agent"
+  },
+  {
+   "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 개발 착수",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026070208355303260",
+   "category": "AI 보안"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-08 09:00:01 KST === 
+Message TS: 1788825601.009289
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtNDFqVjhWWk1jVnloVU53bUFYdTU1bkVYU3hqaC1Ma1paWnFGOHhVUmotVWt1MGVyZUVHQkhNdGh5Q3VUWXZEdW1NOWZHZw?oc=5|호텔신라, '맛있는 제주만들기' 29호점 선정 - 전자신문> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpaHhEZGlEX3NYOTJyNlNJR2haZzNjLXdlS1V0dDRPWThuY1BvMno5RUc3cHYwWE5idkxNcnAzT3EtWDlzdHBlQ2ttTm8yUQ?oc=5|김민석, AI경쟁력·지역발전·경찰개혁 화두로…“韓, 세계 이끌 것” - 전자신문> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGV3BKaUtwSzVtNHpFazBtVHBhRUtCUGZRVDJFblpsdmR5dG13Wmx2MldLSVVRV0ZIN0FyUFlYRTV3MGJjNlFMa2xBYngwTXlteDlFQ2FKcVlkQQ?oc=5|삼전닉스 급등 이유 있었다…세상 놀라게 한 '괴물 AI' 정체 - 한국경제> 
+- <https://news.nate.com/view/20260907n25957|GAMFF 2026, 'AI·메타버스 융합의 미래' 조망하며 성황리...> 
+- <https://news.nate.com/view/20260908n02980|바이트댄스, 실시간 공간 영상 AI 공개 임박…애플·메타에 '도전장'> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LaXd5eTRsYjlzaEdLU1hNZ2Zkc2dXYllBVjU2TjBic0hibnRMa2hGbjZaa05OSGxOR3Y5UjI3Mll6b09Pd0thdnl3c3V4QQ?oc=5|'AI직원' 시대 … 똘똘한 AI 100% 활용할 숙련된 관리자 앉혀야 - 매일경제> 
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLW5CMmVleExlV0VJUnBQSTRUazFrdzIyN3BPVmpYTlQ4RW1CSExPV05xbC1FYlhERVp0Z2xwYldaMkZDM05qLVJoem9xcDE5NE1KUE96eWJWWHFBQlowLTNZMjQ5TzVxTmduTE8tQ1ZWeW940gF0QVVfeXFMTk4tbkIyZWV4TGVXRUlScFBJNFRrMWt3MjI3cE9WalhOVDhFbUJITE9XTnFsLUViWERFWnRnbHBiV1oyRkMzTmotUmh6b3FwMTk0TUpQT3p5YlZYcUFCWjAtM1kyNDlPNXFOZ25MTy1DVlZ5b3g?oc=5|“AI 데이터센터 보안, 설계 단계부터 내재화해야” - IT조선> 
+- <https://news.nate.com/view/20260908n04700|상주여중 구나윤, 경북 국제AI·메타버스 공모전 장려상> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jd1VQTmlERU9haEE1T0ViN3lvTm5OdlQ1ZVRJNjgxc1RrdlJMYUU2eWVnQmxQdng5T2NVMEJLOUgtZ0Y4Rkd6SmIwVEhCZw?oc=5|구글 업은 위즈, 韓 본격 공략 …K시큐리티 위협 - 전자신문> 
+- <https://news.nate.com/view/20260907n34414|[글로벌 특징주] 구글·캐세이퍼시픽, AI로 비행운 잡는다> 
+- <https://news.nate.com/view/20260908n05625|구글 AI가 항공기 비행운 잡았다…온난화 영향 40% 감축 성공> 
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE1YQjhNUHlwNmk3NDNDZUVpVlBDWFh2aEhzOGJxSFJUVlRRaE9JeUpkN0F2VlVhdjZXSWtEekpxSGp2eXFhZl80MzVNQ2JTaTBCeFd6MUNuY2tzQkk4Q1JYVjR2UTBaQmtFZGFKZkNMYks2dE030gF0QVVfeXFMTVhCOE1QeXA2aTc0M0NlRWlWUENYWHZoSHM4YnFIUlRWVFFoT0l5SmQ3QXZWVWF2NldJa0R6SnFIanZ5cWFmXzQzNU1DYlNpMEJ4V3oxQ25ja3NCSThDUlhWNHZRMFpCa0VkYUpmQ0xiSzZ0TTc?oc=5|[에이전틱 AI 맵 2026] SK텔레콤, 통화·문자에서 다음 행동까지 연결…생활형 AI 에이전트 확대 - IT조선> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTVg3R2x3TkJXRGFLT292LXpUYUhnbm9ZNlhCbllvLTdNWjVjal90OWd0Wk9xdVFHa1JwQ054WkpmdDJWSDAzZGZObGlKSmZ2d2tTNkRxRXRwNlU?oc=5|트럼프, 美연휴 폭풍 SNS…'자랑·조롱·지명갈이' AI밈 도배(종합) - 연합뉴스> 
+- <https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNWlVSkwzd0hzN2lPVk5WQkN3Q29ZQ2VpSWRxSkN5aV9JX2NDVzJwSm84NE9MeUZ5REFlZVNLVlNRUlBrRzdGNThsVFp6aXF1ay1ETm5fY2VqeHE1NEJOTDlGc04wMW9IMHZKMWR5VGQ3aVA1UDZ4RXlwQkc?oc=5|카카오, 오는 10월 ‘이프 카카오’서 카나나·AI 개발 전략 공개 - 디지틀조선TV>

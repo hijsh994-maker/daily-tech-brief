@@ -1,0 +1,125 @@
+{
+ "date": "2026-08-31",
+ "items": [
+  {
+   "title": "구글, 4K 영상 생성 AI 제미나이 옴니 1.1 플래시 출시",
+   "outlet": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696355",
+   "category": "AI Model"
+  },
+  {
+   "title": "KT-서울대-KAIST, AI 공동 연구 성과 공유",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260830090220622",
+   "category": "AI Model"
+  },
+  {
+   "title": "모두의 AI 3색 전략",
+   "outlet": "서울신문",
+   "url": "https://v.daum.net/v/20260831050458026",
+   "category": "독파모 & 모두의 AI & 특파모"
+  },
+  {
+   "title": "“용산 맛집 추천해드릴까요”… 센스 선톡으로 ‘AI 비서’ 노린다",
+   "outlet": "세계일보",
+   "url": "https://v.daum.net/v/20260830190508804",
+   "category": "독파모 & 모두의 AI & 특파모"
+  },
+  {
+   "title": "[ET시론]나를 대신하는 AI는 누구 편인가: AI 에이전트 충실의무",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260830160222295",
+   "category": "AI Agent"
+  },
+  {
+   "title": "세일즈포스·앤트로픽 손잡았다... ‘Claudeforce’로 기업용 AI 에이전트 시장 공략",
+   "outlet": "테크데일리",
+   "url": "https://www.techdaily.co.kr/news/articleView.html?idxno=29433",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "KT, 우리은행 ‘AI 챗봇·상담봇’ 재구축 착수…금융업무 지원",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20085089",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "IFA 2026 내달 4일 개막… 韓·中·유럽 '피지컬AI 기술' 격전장 된다",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608301753166161",
+   "category": "Physical AI"
+  },
+  {
+   "title": "中 로보택시 韓 상륙…토종 자율주행 '긴장'",
+   "outlet": "전자신문",
+   "url": "https://n.news.naver.com/mnews/article/030/0003461568",
+   "category": "Physical AI"
+  },
+  {
+   "title": "메타, 데이터센터에 로봇 투입…케이블 교체·서버 재시작 맡긴다",
+   "outlet": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696758",
+   "category": "Physical AI"
+  },
+  {
+   "title": "오픈AI-커서 ‘결별’ 앤트로픽-X ‘동맹’…AI 패권 놓고 빅테크 합종연횡 본격화",
+   "outlet": "서울신문",
+   "url": "https://v.daum.net/v/20260831050501028",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "실리콘밸리 투자거물, 1.5조원 AI하드웨어 펀드 '기계시대' 조성",
+   "outlet": "연합뉴스",
+   "url": "https://v.daum.net/v/8yQI4o5TZX?f=p",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "우주에 데이터센터 짓는다고 3500억 받은 스타트업 [주末머니]",
+   "outlet": "아시아경제",
+   "url": "https://v.daum.net/v/20260829100051948",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "\"AI와 과제 어떻게 풀었나요\" 반나절 테스트…'생각근육' 더 중요해졌다",
+   "outlet": "이데일리",
+   "url": "https://v.daum.net/v/20260831050354969",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "메타 'AI 인력 대체' 프로젝트는 어떻게 실패했나",
+   "outlet": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20260830085212",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "美국방부의 앤스로픽 압박에 제동 건 美법원",
+   "outlet": "동아일보",
+   "url": "https://v.daum.net/v/20260831003216649",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "“AI 데이터센터 반대는 중국의 공작?”… 미국 빅테크들 발칵 뒤집혔다",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260830112400266",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "“스위프트 노래 훔쳤다”…또 소송당한 앤트로픽",
+   "outlet": "중앙일보",
+   "url": "https://v.daum.net/v/20260831003108615",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "충남도, 전국 첫 'AI 기본사회' 만든다…도민 기본권 보장 모델 구축",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260831000040",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "이해민·하정우·배경훈 'AI 3강' 재정비… 성과 창출 속도전",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://v.daum.net/v/20260830180816875",
+   "category": "인물"
+  }
+ ]
+}

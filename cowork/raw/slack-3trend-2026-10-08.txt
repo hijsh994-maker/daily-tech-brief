@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-08 09:00:24 KST === 
+Message TS: 1791417624.001609
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-08 · 10건)
+*1. [:shield: Agent Infra] <https://www.etnews.com/20261007000277|로그프레소, SIEM에 챗GPT 사용기록 통합…AI 보안관리 강화>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/|에이전트 라이트닝 V1.0: 실제 하네스를 사용하는 교육 에이전트를 위한 3,500라인 경량 에이전트 RL 프레임워크>* (Microsoft Research Blog)
+*3. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/|시간 초과 절감: 에이전트 자동화를 위한 비즈니스 사례 구축>* (AWS Machine Learning Blog)
+*4. [:office: Enterprise AI] <https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/|Amazon Quick 및 Amazon Bedrock으로 RAG에 대한 액세스 제어 재고>* (AWS Machine Learning Blog)
+*5. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/|Nous Research confirms it hit $1.5B valuation, launches AI agents for business users>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/|OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://openai.com/index/radisson|래디슨 호텔 그룹 (Radisson Hotel Group) 이 호텔 검색을 ChatGPT로 가져옵니다.>* (OpenAI News &amp; Research)
+*8. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/|AWS의 Claude Haiku 5.5 소개>* (AWS Machine Learning Blog)
+*9. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/|Meta’s Muse launches on iPad just a month after its mobile debut>* (TechCrunch)
+*10. [:zap: Optimization] <https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/|SpaceX alumni nab $100M to rethink shipping with autonomous freight trains>* (TechCrunch)

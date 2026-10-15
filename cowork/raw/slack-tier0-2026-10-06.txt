@@ -1,0 +1,168 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-06 09:41:32 KST === 
+Message TS: 1791247292.653169
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.etnews.com/20261006000012|스틸리언 '웹수트', AI 에이전트 기반 웹.API 공격 차단 검증>
+ㄴ전자신문 2026.10.06
+<https://www.etoday.co.kr/news/view/2632524|"오픈AI 에이전트, 위키피디아 대규모 무단 접속ㆍ장애유발">
+ㄴ이투데이 2026.10.06 관련뉴스 1건
+<https://www.news1.kr/world/international-economy/6310729|美AI 반도체 강세 지속...필라델피아 0.27%↑.엔비디아 사상 최고>
+ㄴ뉴스1 2026.10.06
+<https://www.news1.kr/industry/sb-founded/6308810|스타트업 투자, 3분기 만에 10조 돌파...AI 반도체·바이오 자금 쏠림>
+ㄴ뉴스1 2026.10.06
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100609063431986|두산로보틱스, 국산 AI 반도체로 '피지컬 AI' 협동로봇 개발>
+ㄴ아시아경제 2026.10.06 관련뉴스 1건
+<https://biz.chosun.com/stock/stock_general/2026/10/06/GZQTOZBXMFQWKYJXHBRGKMDDGU/|"美는 AI 모델·中은 AI 서비스에 강점... 한국은 반도체·전력기기 등 인프라 훌륭">
+ㄴ조선비즈 2026.10.06
+<https://www.fnnews.com/news/202610051907404878|AI에이전트가 해킹하는데... 은행은 올 들어서야 보안에 활용 [금융권 AI 공격 속수무책 (中)]>
+ㄴ파이낸셜뉴스 2026.10.05
+<https://www.segye.com/newsView/20261005509109|AI 에이전트 ‘해킹 성공률’ 20%... 무한반복 땐 치명적 [AI發 금융권 동시다발 해킹]>
+ㄴ세계일보 2026.10.05 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10893230|‘반도체는 알겠는데’ AI 투자로 조선주가 좋다니...왜? [투자360]>
+ㄴ헤럴드경제 2026.10.05
+<https://www.hani.co.kr/arti/society/schooling/1280952.html|AI.반도체 선호에...4개 과기원 지원자 ‘역대 최다’ 3만명 돌파>
+ㄴ한겨레 2026.10.05 관련뉴스 3건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-06 09:41:23 KST === 
+Message TS: 1791247283.176609
+_(이어서 2/3)_
+
+[09:30]
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100609073368427|KB운용 "AI 데이터센터 확산에 AI 전력 인프라 ETF 뜬다">
+ㄴ아시아경제 2026.10.06 관련뉴스 4건
+<https://www.news1.kr/finance/market-exr/6310799|NH證 "LS일렉트릭, 데이터센터 투자 본격화...목표가 32만5000원">
+ㄴ뉴스1 2026.10.06
+<https://biz.chosun.com/it-science/ict/2026/10/06/WGJBRAY7DRCGHKURPLZYC3DUKA/|LG전자, 美 버지니아에 칠러 공장 신설...1500억원 투자해 AI 데이터센터 공략>
+ㄴ조선비즈 2026.10.06
+<https://www.etoday.co.kr/news/view/2628188|AI 데이터센터 따라 몸값 뛴다...''빅딜'' 이어 지방 개발도 확산 [AI 新계급사회]>
+ㄴ이투데이 2026.10.06
+<https://www.news1.kr/world/international-economy/6310738|美 데이터센터 전력난 심화..."엔비디아보다 메모리칩 타격">
+ㄴ뉴스1 2026.10.06
+<https://www.seoul.co.kr/news/economy/industry/2026/10/06/20261006032003|LG전자, 북미서 5GW 데이터센터 냉각설비 장기 공급 계약>
+ㄴ서울신문 2026.10.06 관련뉴스 8건
+<https://www.seoul.co.kr/news/editOpinion/weft-column/2026/10/06/20261006027005|[씨줄날줄] 달 원전, 우주 데이터센터>
+ㄴ서울신문 2026.10.05
+<https://biz.heraldcorp.com/article/10893251|이강석 대우건설 대표이사 공식 취임...“AI. 데이터센터 등 미래성장 분야 발굴”>
+ㄴ헤럴드경제 2026.10.05 관련뉴스 2건
+<https://www.news1.kr/industry/general-industry/6310881|LG화학, 유럽서 미래 산업용 엔지니어링 소재 경쟁력 선봬>
+ㄴ뉴스1 2026.10.06 관련뉴스 1건
+<https://www.fnnews.com/news/202610060854304627|오텍, AI 서버부터 신선배송까지...'열관리'로 성장축 확장>
+ㄴ파이낸셜뉴스 2026.10.06
+
+
+
+*로봇동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100609232707693|세아베스틸, 로봇 감속기용 특수강 국산화...日 의존도 낮춘다>
+ㄴ아시아경제 2026.10.06
+<https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/10/06/20261006020001|광진에선 휴머노이드와 함께 춤을>
+ㄴ서울신문 2026.10.06
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100609063431986|두산로보틱스, 국산 AI 반도체로 '피지컬 AI' 협동로봇 개발>
+ㄴ아시아경제 2026.10.06 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100608314691695|바디프랜드, 2026 KCSI 스마트라이프케어 부문 1위>
+ㄴ아시아경제 2026.10.06
+<https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/10/06/20261006020002|미래 창업이 궁금해? ‘강남 스타트 트랙 위크’로 드루와~>
+ㄴ서울신문 2026.10.06 관련뉴스 2건
+<https://www.khan.co.kr/article/202610052039015|업무.AI.안전...5G 망 분리해 쓴다>
+ㄴ경향신문 2026.10.05 관련뉴스 1건
+<https://www.news1.kr/local/moi/6310885|강남구, '스마트라이프위크'에 AI·로봇 기업 5곳과 참가>
+ㄴ뉴스1 2026.10.06
+<https://www.etnews.com/20261006000014|SKT, 지상군페스티벌서 'AI 참모' 선봬...국방 AX 공략>
+ㄴ전자신문 2026.10.06
+<https://biz.chosun.com/it-science/ict/2026/10/06/UPIOEJQ7GFHUZBBVR6BJH6Y4EQ/|SK텔레콤, 전장 데이터 분석하는 ‘AI 참모’ 공개... 국방 AI 전환 공략>
+ㄴ조선비즈 2026.10.06
+<https://www.etnews.com/20261006000008|배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원”>
+ㄴ전자신문 2026.10.06
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-06 09:41:07 KST === 
+Message TS: 1791247267.350569
+_[텔레그램 로그 2026-10-06] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 6일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://biz.chosun.com/stock/stock_general/2026/10/06/GZQTOZBXMFQWKYJXHBRGKMDDGU/|"美는 AI 모델·中은 AI 서비스에 강점... 한국은 반도체·전력기기 등 인프라 훌륭">
+ㄴ조선비즈 2026.10.06
+<https://www.khan.co.kr/article/202610051400001|"AI는 국가 안보자산" 정부, 독파모+프런티어 모델로 승부수 건다>
+ㄴ경향신문 2026.10.05
+<https://biz.chosun.com/it-science/ict/2026/10/05/TBJBSDUXM5F5BEHLKTB73BHYUI/|“저가 요금제서 고성능 모델 제외”...구글, 제미나이 AI 요금 개편>
+ㄴ조선비즈 2026.10.05 관련뉴스 1건
+<https://www.sedaily.com/article/20098319|18만명 수술 데이터 학습한 AI...신장 손상 위험 미리 찾는다>
+ㄴ서울경제 2026.10.06
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100609171224635|서울아산병원, 난치성 간암 새 바이오마커 규명...AI 진단·치료법 제시>
+ㄴ아시아경제 2026.10.06
+<https://www.news1.kr/industry/general-industry/6310921|"사람 없으면 난방 줄인다"...귀뚜라미, AI 보일러·카본매트 광고 공개>
+ㄴ뉴스1 2026.10.06
+<https://biz.heraldcorp.com/article/10893670|금융권 해킹에 과기정통부-KISA 대응체계 강화 총력전>
+ㄴ헤럴드경제 2026.10.06
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100608525125033|진매트릭스, 유전자 전달 플랫폼 'GM-CAD1' 美 특허 취득>
+ㄴ아시아경제 2026.10.06
+<https://www.etnews.com/20261006000008|배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원”>
+ㄴ전자신문 2026.10.06
+<https://www.fnnews.com/news/202610060749092928|MS "소버린AI, 국산AI 아냐...생태계 선택권 확보해야"[글로벌AI브리핑]>
+ㄴ파이낸셜뉴스 2026.10.06
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20261006000012|스틸리언 '웹수트', AI 에이전트 기반 웹.API 공격 차단 검증>
+ㄴ전자신문 2026.10.06
+<https://www.etoday.co.kr/news/view/2632524|"오픈AI 에이전트, 위키피디아 대규모 무단 접속ㆍ장애유발">
+ㄴ이투데이 2026.10.06 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10893466|전국 최초 행정 AI Agent 챗봇 ‘서초 AI전트’ 고도화...AI 행정비서로 진화>
+ㄴ헤럴드경제 2026.10.05 관련뉴스 2건
+<https://www.asiae.co.kr/article/stock-etc/2026100215452411295|앤트로픽 상장 앞두고...ETF에도 ''에이전틱 AI'' 바람>
+ㄴ아시아경제 2026.10.05 관련뉴스 2건
+<https://www.fnnews.com/news/202610051907404878|AI에이전트가 해킹하는데... 은행은 올 들어서야 보안에 활용 [금융권 AI 공격 속수무책 (中)]>
+ㄴ파이낸셜뉴스 2026.10.05 관련뉴스 1건
+<https://www.segye.com/newsView/20261005509109|AI 에이전트 ‘해킹 성공률’ 20%... 무한반복 땐 치명적 [AI發 금융권 동시다발 해킹]>
+ㄴ세계일보 2026.10.05 관련뉴스 3건
+<https://www.fnnews.com/news/202610051325243350|조셉 샬롬 CEO "'AI 에이전틱 금융' 혁명이 온다...韓도 대비해야" [크립토브리핑]>
+ㄴ파이낸셜뉴스 2026.10.05 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100609064238428|[포토] 금융ㆍ공공기관 개인정보 유출 관련 회의>
+ㄴ아시아경제 2026.10.06 관련뉴스 3건
+<https://www.etnews.com/20261006000019|SKT, 쉬운 우리말로 고객 응대...'UX 라이팅 가이드' 개발>
+ㄴ전자신문 2026.10.06 관련뉴스 1건
+<https://www.etnews.com/20261006000015|“UX 기획.DESIGN.md 설계.AI 구현 전 과정 1-day 워크숍” 10월 16일 개최>
+ㄴ전자신문 2026.10.06
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-06 09:29:35 KST === 
+Message TS: 1791246575.812539
+
+Files: [2026년 10월 6일] 조간 뉴스 클리핑 (ID: F0C7STRJH7A, text/html, 46.3 KB)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-06 09:25:37 KST === 
+Message TS: 1791246337.103309
+_[텔레그램 로그 2026-10-06] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 8개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 월가, '600억달러 AI칩 부채' 판매 개시…앤스로픽 시험대 (글로벌이코노믹)
+o 링크: <https://www.g-enews.com/article/Global-Biz/2026/10/2026100607581078439a1f309431_1|g-enews.com/article/…/…>
+2. 메타·마이크로소프트, 앤트로픽 클로드 사용 급감...내부 툴로 전환 (디지털포커스)
+o 링크: <https://www.digitalfocus.news/news/articleView.html?idxno=24241|digitalfocus.news/news/articleView.html?idxno=24241>
+3. 상장 미룬 오픈AI, UAE 펀드와 300억달러 투자 협상…블랙록도 참여 논의 (디지털데일리)
+o 링크: <https://www.ddaily.co.kr/page/view/2026100608055809289|ddaily.co.kr/page/view/2026100608055809289>
+4. 오픈AI, EU서 챗GPT 텍스트 워터마킹 도입 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/news/articleView.html?idxno=705021|digitaltoday.co.kr/news/articleView.html?idxno=705021>
+5. 오픈AI, 이미지 생성 결과 옆에 노출되는 시각형 광고 출시 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/news/articleView.html?idxno=705023|digitaltoday.co.kr/news/articleView.html?idxno=705023>
+6. Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work (CommsTrader, GeekWire 기사 재게재)
+o 링크: <https://commstrader.com/technology/amazon-hires-a-veteran-microsoft-ai-leader-to-help-build-its-tools-for-coding-and-work/|commstrader.com/technology/amazon-hires-a-veteran-microsoft-ai-leader-to-help-build-its-tools-for-coding-and-work>
+7. 엔비디아 지원 리플렉션AI, 첫 오픈웨이트 모델 공개 (포춘코리아)
+o 링크: <https://www.fortunekorea.co.kr/news/articleView.html?idxno=54297|fortunekorea.co.kr/news/articleView.html?idxno=54297>
+_링크 미확보_
+7. 엔비디아, 네오클라우드에 신용을 제공하고 매출을 공유받는 AI Compute 파트너십 재설계
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

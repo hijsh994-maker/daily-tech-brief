@@ -1,0 +1,89 @@
+{
+ "date": "2026-07-23",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
+  },
+  {
+   "category": "독파모(소버린 AI)",
+   "title": "[AI픽] 업스테이지, ‘솔라 오픈2’ 공개…글로벌 AI 정면 승부",
+   "outlet": "연합뉴스",
+   "url": "https://v.daum.net/v/20260723092849888"
+  },
+  {
+   "category": "독파모(소버린 AI)",
+   "title": "업스테이지-두레시닝, ‘부동산 AI 플랫폼 고도화’ 협약",
+   "outlet": "중앙일보",
+   "url": "https://v.daum.net/v/20260722174907076"
+  },
+  {
+   "category": "AI Agent",
+   "title": "팀 마켓플레이스의 MCP 및 조직 그룹",
+   "outlet": "Cursor Changelog",
+   "url": "https://cursor.com/ko/changelog"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+  },
+  {
+   "category": "AI DC",
+   "title": "OpenAI plans to spend over $30 billion on Georgia data center",
+   "outlet": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center"
+  },
+  {
+   "category": "AI DC",
+   "title": "오픈AI, 44조원 투입 ‘프로젝트 카멜리아’ 가동…스페이스XAI와 데이터센터 구축 경쟁",
+   "outlet": "파이낸스스코프",
+   "url": "https://www.finance-scope.com/article/view/scp202607230003"
+  },
+  {
+   "category": "AI DC",
+   "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Tesla (TSLA) Q2 2026 earnings report",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Humanoid raises $152 million at $1.35 billion valuation, becoming ‘Europe’s first pure-play humanoid robotics unicorn’",
+   "outlet": "Robotics & Automation News",
+   "url": "https://roboticsandautomationnews.com/2026/07/22/humanoid-raises-152-million-at-1-35-billion-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/103561/"
+  },
+  {
+   "category": "AI 보안",
+   "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "OpenAI’s AI spending spree has ballooned to $750B",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Google justifies its massive AI spending with a booming cloud business",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+  }
+ ]
+}

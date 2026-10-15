@@ -1,0 +1,141 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-03 09:44:24 KST === 
+Message TS: 1788396264.260519
+_(이어서 3/3)_
+
+[09:30]
+*AI기술현황*
+신규 10건
+<https://biz.chosun.com/it-science/ict/2026/09/03/ERFCBOCNINFOXOFQPZ47DR74KA/|브로드컴, AI 반도체 타고 3분기 매출 40조원... 전년比 86% 증가>
+ㄴ조선비즈 2026.09.03
+<https://www.etnews.com/20260903000012|뉴욕시, 초.중학생 교실 내 생성형 AI 1년간 금지>
+ㄴ전자신문 2026.09.03
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090308165812005|에이텀, '알짜 자회사' 청한전자 성장 본격화...AI MLCC·반도체로 재평가 기대>
+ㄴ아시아경제 2026.09.03
+<https://biz.chosun.com/industry/business_info/2026/09/03/M5F2YZAADNA7JKZOZBCHR4C4D4/|NDS, AWS AI 컴피턴시 2개 부문 획득...생성형.에이전틱 AI 역량 검증>
+ㄴ조선비즈 2026.09.03
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090218000660132|조선대, 전 구성원 대상 생성형 AI 서비스 개시>
+ㄴ아시아경제 2026.09.02 관련뉴스 2건
+<https://www.fnnews.com/news/202609021649134112|보안벽 높여도 6개월 뒤엔 더 강해져 ...AI 에이전트 통제 어렵다..>
+ㄴ파이낸셜뉴스 2026.09.02 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10860302|한미반도체, ‘세미콘 타이완’ AI 반도체 2.5D 패키징 장비 공개>
+ㄴ헤럴드경제 2026.09.02 관련뉴스 3건
+<https://www.etoday.co.kr/news/view/2621017|석유관리원, 전 직원 ''생성형 AI'' 실습 교육?"안전한 AX 내재화">
+ㄴ이투데이 2026.09.02
+<https://biz.chosun.com/industry/company/2026/09/02/XIEVMJRAEZB4XIZNVZVALPRCI4/|고려아연, ‘반도체 세정용’ 황산 생산능력 32만t으로 확대... AI.첨단 반도체 수요 대응>
+ㄴ조선비즈 2026.09.02
+<https://www.fnnews.com/news/202609021013050526|플레이디, AI 에이전트 42개 구축...전사 업무 혁신 확대>
+ㄴ파이낸셜뉴스 2026.09.02 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-03 09:44:05 KST === 
+Message TS: 1788396245.041799
+_(이어서 2/3)_
+
+[09:30]
+*데이터센터시장*
+신규 10건
+<https://www.fnnews.com/news/202609030918091488|"데이터센터가 번영 가져온다"...美정부.AI업계, 성난 민심 달래기>
+ㄴ파이낸셜뉴스 2026.09.03
+<https://www.etnews.com/20260902000138|AI 데이터센터 전력 고도화 속 솔루엠, 800Vdc 전력 솔루션 검증 본격화>
+ㄴ전자신문 2026.09.03 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10860977|LS일렉트릭, KT클라우드와 모듈형 데이터센터 인프라 공급·개발 ‘맞손’>
+ㄴ헤럴드경제 2026.09.03 관련뉴스 1건
+<https://www.asiae.co.kr/article/social-general/2026090307543772432|강원도, 데이터센터·재난·국방드론 등 현안 AI로 해법 찾는다>
+ㄴ아시아경제 2026.09.03 관련뉴스 1건
+<https://www.asiae.co.kr/article/stock-disclosure/2026090215033374189|"LG유플러스, 적극적인 주주환원...데이터센터 성장도 기대"[클릭e종목]>
+ㄴ아시아경제 2026.09.03 관련뉴스 1건
+<https://www.sedaily.com/article/20086471|나스닥 상장예고 SB에너지, 엔비디아 맞손 잡았다더니 데이터센터 실적 ‘0’>
+ㄴ서울경제 2026.09.03
+<https://www.news1.kr/realestate/general/6278028|주택 넘어 AI 데이터센터로...대형 건설사 '수주전' 본격화>
+ㄴ뉴스1 2026.09.03
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090304193907808|Fed 베이지북 "美 경제 성장 동력은 데이터센터 투자">
+ㄴ아시아경제 2026.09.03 관련뉴스 1건
+<https://www.news1.kr/economy/trend/6277760|AI 데이터센터發 전력시장 열린다...남부발전, 중소기업 美 진출 '가교'>
+ㄴ뉴스1 2026.09.02 관련뉴스 9건
+<https://biz.chosun.com/industry/business_info/2026/09/02/S4XRDM5XK5DYPFTI54VN727OLA/|시너지, 중기부 ‘글로벌팁스’ 선정...AI 데이터센터 전력 솔루션 해외 실증 추진>
+ㄴ조선비즈 2026.09.02
+
+
+
+*로봇동향*
+신규 10건
+<https://biz.heraldcorp.com/article/10861042|로봇이 박스에 완충재 ‘척척’...CJ대한통운, 물류현장에 휴머노이드 투입>
+ㄴ헤럴드경제 2026.09.03
+<https://www.etnews.com/20260902000231|中 완성차 톱10 모두 휴머노이드 사업 진출...제조업 공급망 로봇으로 이동>
+ㄴ전자신문 2026.09.02
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090213591973833|中 세계 첫 '로봇 유치원' 개설..."휴머노이드 로봇 자율학습">
+ㄴ아시아경제 2026.09.02 관련뉴스 4건
+<https://biz.heraldcorp.com/article/10861055|K-가전, 진화한 AI·고효율 기술로 유럽 공략...中은 로봇 과시 [IFA 2026]>
+ㄴ헤럴드경제 2026.09.03
+<https://www.etnews.com/20260902000348|페스카로, 자동차 이어 로봇 보안 사업 확장...위즈진과 전략적 MOU>
+ㄴ전자신문 2026.09.03
+<https://www.etoday.co.kr/news/view/2621344|폴라리스AI, 안전산업박람회서 휴머노이드 시연...피지컬 AI 상용화 시동>
+ㄴ이투데이 2026.09.03 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090308385213768|CJ대한통운, 물류업계 최초 AI 휴머노이드 상용화 '첫발'>
+ㄴ아시아경제 2026.09.03
+<https://biz.chosun.com/industry/business-venture/2026/09/03/BXN6PJJELVHHHH2QNA2POFESH4/|‘어디에 쓰나’가 가치 가른다...일손 부족한 현장서 로봇 몸값 ‘쑥’>
+ㄴ조선비즈 2026.09.03
+<https://www.etnews.com/20260902000462|[2026 전남광주미래산업박람회] 콘텐츠랩 슬러그, 콘텐츠 제작.행사 중계 등 솔루션 선봬>
+ㄴ전자신문 2026.09.02 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090308333345644|삼성SDS, RX 본격화...미국서 'RX ART 2026' 개최>
+ㄴ아시아경제 2026.09.03 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-03 09:43:34 KST === 
+Message TS: 1788396214.432539
+_[텔레그램 로그 2026-09-03] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 3일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090309174994669|정부, 사이버 보안 특화 AI 모델 개발 사업자로 네이버 선정(상보)>
+ㄴ아시아경제 2026.09.03 관련뉴스 5건
+<https://www.fnnews.com/news/202609030754000879|구글, 3주만에 또 AI 신모델...AI 신제품 '속도전'[글로벌AI브리핑]>
+ㄴ파이낸셜뉴스 2026.09.03
+<https://www.seoul.co.kr/news/publicnews/policy_admin/public_org/2026/09/03/20260903500014|경과원-KISTI, ‘AI 실증 활성화 및 AX 통합지원 모델 확산’ 업무협약>
+ㄴ서울신문 2026.09.03
+<https://www.sedaily.com/article/20086493|값 내리는 앤트로픽, 사용 제한하는  오픈AI...거세지는 AI 모델경쟁>
+ㄴ서울경제 2026.09.02
+<https://biz.heraldcorp.com/article/10860542|“내달 인바디3사 AI모델 탑재로 보이스피싱 방지 플랫폼 진화”>
+ㄴ헤럴드경제 2026.09.02
+<https://biz.chosun.com/it-science/ict/2026/09/02/W6UCXKQ4I5A7TKL3KVGX3MBM2E/|오픈AI 차세대 모델 아스트라, 보안등급 ‘위험’...“스스로 취약점 찾아 해킹 가능”>
+ㄴ조선비즈 2026.09.02
+<https://www.segye.com/newsView/20260902505892|“AI가 해킹까지 한다고?”...오픈AI 차기 모델 보안등급 ‘위험’>
+ㄴ세계일보 2026.09.02 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2621046|오픈AI 새 모델, 사이버 위험 첫 ''중대'' 판정?AI 불신 확산 [종합]>
+ㄴ이투데이 2026.09.02
+<https://www.news1.kr/industry/electronics/6278472|"집에서 나만의 영화관" LG전자, '시네뷰 AI' 출시...4년 만에 신제품>
+ㄴ뉴스1 2026.09.03 관련뉴스 2건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090309221009026|실내 로봇이 숲속 드론 지혜 배운다... UNIST, 연합학습 '페덱스' 개발>
+ㄴ아시아경제 2026.09.03
+
+
+
+*AI에이전트*
+신규 10건
+<https://biz.chosun.com/industry/business_info/2026/09/03/M5F2YZAADNA7JKZOZBCHR4C4D4/|NDS, AWS AI 컴피턴시 2개 부문 획득...생성형.에이전틱 AI 역량 검증>
+ㄴ조선비즈 2026.09.03
+<https://www.fnnews.com/news/202609021649134112|보안벽 높여도 6개월 뒤엔 더 강해져 ...AI 에이전트 통제 어렵다..>
+ㄴ파이낸셜뉴스 2026.09.02 관련뉴스 1건
+<https://www.fnnews.com/news/202609021013050526|플레이디, AI 에이전트 42개 구축...전사 업무 혁신 확대>
+ㄴ파이낸셜뉴스 2026.09.02 관련뉴스 2건
+<https://www.sedaily.com/article/20086221|“대화형 에이전트로 사운드 생성·편집”...NC AI, ‘바르코 사운드’ 출시>
+ㄴ서울경제 2026.09.02 관련뉴스 4건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090308362124179|제논, 상반기 매출 전년 比 331%↑...지난해 연매출 돌파>
+ㄴ아시아경제 2026.09.03
+<https://www.news1.kr/industry/general-industry/6278295|제논, AX 수요 확대에 실적 성장...상반기 매출 331% 증가>
+ㄴ뉴스1 2026.09.03
+<https://www.fnnews.com/news/202609030535184363|국악.관광까지 AI에 퓐다...인공지능 친화 데이터 5종 개방>
+ㄴ파이낸셜뉴스 2026.09.03
+<https://www.news1.kr/world/international-economy/6278231|스노우플레이크, 실적.전망 '깜짝 호조'에 시간외 주가 22% 폭등>
+ㄴ뉴스1 2026.09.03
+<https://www.etnews.com/20260901000401|CS쉐어링, 9월 SWCC 2026 참가...“CS 비용 50%↓, 자동화 80%” 에이전틱 AICC 공개>
+ㄴ전자신문 2026.09.03
+<https://biz.heraldcorp.com/article/10861055|K-가전, 진화한 AI·고효율 기술로 유럽 공략...中은 로봇 과시 [IFA 2026]>
+ㄴ헤럴드경제 2026.09.03
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

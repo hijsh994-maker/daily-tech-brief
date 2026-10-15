@@ -1,0 +1,163 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-13 09:43:26 KST === 
+Message TS: 1791852206.594859
+_[텔레그램 로그 2026-10-13] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 7개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. MS, 자체개발 AI 반도체 '애저 마이아' 공급 확대 … 2027년 멀티 기가와트 규모 구축 (뉴데일리)
+o 링크: <https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300044.html|biz.newdaily.co.kr/site/…/2026101300044.html>
+2. 메타, 자체 최고 모델 '뮤즈 원더' 출시로 프런티어 경쟁 합류 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=216176|aitimes.com/news/articleView.html?idxno=216176>
+3. Ondas and Palantir Form Regna AI for Sovereign Model Deployment (토큰포스트)
+o 링크: <https://www.tokenpost.com/news/technology/30288|tokenpost.com/news/technology/30288>
+4. Our Project Suncatcher prototype satellite is in orbit (Google 공식 블로그)
+o 링크: <https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/|blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype>
+5. Administration Considers Moving Three CAISSI Officials to White House Lines (토큰포스트)
+o 링크: <https://www.tokenpost.com/news/regulation/30568|tokenpost.com/news/regulation/30568>
+6. Liang Wenfeng Closely Following Embodied AI, DeepSeek Considering Entry (PANews)
+o 링크: <https://panews.io/articles/01a1305d-61d9-7134-9279-70c22e93a8c3|panews.io/articles/…>
+7. Z.ai Unveils GLM-Legal, an Agentic Model for Legal Workflows (Unite.AI)
+o 링크: <https://www.unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows/|unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-13 09:41:42 KST === 
+Message TS: 1791852102.650659
+_(이어서 2/2)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20261012000202|게이즈샵, 현대백화점 판교점에서 휴머노이드 도슨트 로봇 시범운영 시작>
+ㄴ전자신문 2026.10.12
+<https://biz.heraldcorp.com/article/10899756|세림로보틱스 산업용 청소로봇, GS건설·포스코이앤씨 현장 도입...거친 건설현장서 자율주행 청소 입증>
+ㄴ헤럴드경제 2026.10.12
+<https://www.etoday.co.kr/news/view/2634498|효성화학, 휴머노이드 로봇 시장 정조준...''포케톤'' 유럽 공략>
+ㄴ이투데이 2026.10.12
+<https://www.kukinews.com/article/view/kuk202610120045|AI 돌봄 로봇·병원 동행까지...고양형 통합돌봄 서비스 강화>
+ㄴ쿠키뉴스 2026.10.12
+<https://www.sedaily.com/article/20100777|엔비디아·엑스와이지 로보틱스 전문가 양성 교육 개강 [로보 인사이트]>
+ㄴ서울경제 2026.10.13
+<https://www.seoul.co.kr/news/international/europe/2026/10/13/20261013012009|인간 악단 거느리는 로봇>
+ㄴ서울신문 2026.10.13
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101308085870802|뒤에서 슬금슬금 다가온 로봇...10대 성추행하고 생중계까지 '충격'>
+ㄴ아시아경제 2026.10.13
+<https://www.sedaily.com/article/20100598|쿠쿠, 봇인킷 손잡고 B2B 푸드테크 사업 역량 강화[로보 인사이트]>
+ㄴ서울경제 2026.10.13
+<https://go.seoul.co.kr/news/newsView.php?id=20261013021001|보고 만지고 즐기는 ''서초 AI 페스타''>
+ㄴ서울신문 2026.10.13 관련뉴스 1건
+<https://www.khan.co.kr/article/202610122140015|중 CXMT “차세대 D램 기술 적용한 서버용 메모리 연내 출시”>
+ㄴ경향신문 2026.10.12 관련뉴스 1건
+
+
+
+*AI기술현황*
+신규 10건
+<https://www.sedaily.com/article/20100783|삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장>
+ㄴ서울경제 2026.10.13 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10900372|‘답변’부터 ‘해결’까지...LGU+, ‘유플러스원’ AI 에이전트 전환 본격화>
+ㄴ헤럴드경제 2026.10.13
+<https://www.news1.kr/it-science/internet-platform/6317676|韓 가장 많이 쓴 생성형 AI는 '챗GPT'...이용자 2470만 명 돌파>
+ㄴ뉴스1 2026.10.13
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101308355048793|한울반도체, 홍보영상 통해 AI 서버용 MLCC 후공정 장비 청사진 공개>
+ㄴ아시아경제 2026.10.13 관련뉴스 1건
+<https://www.sedaily.com/article/20100700|메모리 넘어 피지컬 AI까지...‘SEDEX 2026’ 반도체 미래 기술 총출동>
+ㄴ서울경제 2026.10.13
+<https://www.kukinews.com/article/view/kuk202610120222|SEDEX 14일 개막...삼전·SK하닉, AI 반도체 기술 전시...KT·카카오 [기업IN]>
+ㄴ쿠키뉴스 2026.10.12 관련뉴스 1건
+<https://www.news1.kr/finance/general-stock/6317387|JP모건 "AI 반도체 호황 과소평가...한국·대만 비중확대">
+ㄴ뉴스1 2026.10.12 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/industry/2026/10/12/20261012500262|“승인은 나중에 받자” 부추기자...AI 에이전트, 기밀정보 무단 공개>
+ㄴ서울신문 2026.10.12
+<https://biz.chosun.com/it-science/ict/2026/10/12/P7WWRMAIJRDTZAUNH2KILAHKWY/|TSMC, AI 반도체 핵심 부품 美서 조달... 현지 공급망 구축 속도>
+ㄴ조선비즈 2026.10.12
+<https://www.etnews.com/20261012000276|어댑티브, 생성형 AI 지식관리 솔루션 ''Adapt RAG v1.0'' GS인증 1등급 획득>
+ㄴ전자신문 2026.10.12
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-13 09:41:28 KST === 
+Message TS: 1791852088.314589
+_[텔레그램 로그 2026-10-13] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 13일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.fnnews.com/news/202610130901016686|'뮤즈'로 이용자 잡은 메타...고성능 AI 모델로 기술 경쟁력 강화[1일IT템]>
+ㄴ파이낸셜뉴스 2026.10.13 관련뉴스 1건
+<https://www.fnnews.com/news/202610130804018945|삼성전자, AI 모델 대형화와 추론 과정 처리 맞춤형 새 메모리 전략 공개...속도.확장성.영속성 초점>
+ㄴ파이낸셜뉴스 2026.10.13 관련뉴스 1건
+<https://www.fnnews.com/news/202610130740367218|메타의 새 AI모델 '뮤즈 원더' 공개....GPT 최신 모델보다 높은 지능>
+ㄴ파이낸셜뉴스 2026.10.13 관련뉴스 1건
+<https://www.news1.kr/society/education/6317741|"AI시대 공학교육, 전략적 엔지니어 양성해야"...연세대, 새 모델 제시>
+ㄴ뉴스1 2026.10.13
+<https://www.seoul.co.kr/news/peoples/2026/10/13/20261013023005|"AI 주권의 핵심은 모델 개발 아닌 운영에 달려">
+ㄴ서울신문 2026.10.13
+<https://www.etnews.com/20261012000358|얀 르쿤 "AI 종말론은 과도한 우려...차세대 혁명은 ''월드모델''이 이끌 것">
+ㄴ전자신문 2026.10.12 관련뉴스 1건
+<https://www.etnews.com/20261012000347|래블업, ''한국어 AI 추론 속도 향상'' 드래프트 모델 공개>
+ㄴ전자신문 2026.10.12
+<https://www.seoul.co.kr/news/economy/industry/2026/10/12/20261012500267|지미 리 "소버린 AI 핵심은 ''모델'' 아닌 ''운영''...엔지니어링 규칙 세워 로봇 안전성 보장해야">
+ㄴ서울신문 2026.10.12
+<https://www.news1.kr/industry/sb-founded/6317256|소진공, 피지컬AI로 소공인 제조혁신 돕는다...상생모델 발굴>
+ㄴ뉴스1 2026.10.12
+<https://www.news1.kr/local/incheon/6316871|인하대, AI 시계열 예측 모델 작동 원리 규명>
+ㄴ뉴스1 2026.10.12
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.sedaily.com/article/20100783|삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장>
+ㄴ서울경제 2026.10.13 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10900372|‘답변’부터 ‘해결’까지...LGU+, ‘유플러스원’ AI 에이전트 전환 본격화>
+ㄴ헤럴드경제 2026.10.13
+<https://www.seoul.co.kr/news/economy/industry/2026/10/12/20261012500262|“승인은 나중에 받자” 부추기자...AI 에이전트, 기밀정보 무단 공개>
+ㄴ서울신문 2026.10.12
+<https://www.etoday.co.kr/news/view/2634764|?김앤장 ''에이전틱 AI 보안 이슈와 규제 대응'' 세미나 개최>
+ㄴ이투데이 2026.10.12
+<https://www.etnews.com/20261012000217|수이, AI 에이전트 인프라 선도..."5년 내 전통 금융거래 사라질 것">
+ㄴ전자신문 2026.10.12
+<https://www.fnnews.com/news/202610130901016686|'뮤즈'로 이용자 잡은 메타...고성능 AI 모델로 기술 경쟁력 강화[1일IT템]>
+ㄴ파이낸셜뉴스 2026.10.13 관련뉴스 1건
+<https://www.news1.kr/it-science/cc-newmedia/6317750|질문 답하던 AI가 요금 납부.로밍 가입도 척척...U+one 고도화>
+ㄴ뉴스1 2026.10.13
+<https://www.etoday.co.kr/news/view/2634907|한화證 "루빈 대량 출하 임박?2027년 HBM4 성장 본격화">
+ㄴ이투데이 2026.10.13
+<https://www.sedaily.com/article/20100675|엔비디아, CPU도 AMD·인텔 추월하나...미즈호 “내년 매출 1위”[마켓무버]>
+ㄴ서울경제 2026.10.13
+<https://www.sedaily.com/article/20100778|노타, AI 영상관제 서버 구축비 최대 85% 낮춰...20개 기업 적용>
+ㄴ서울경제 2026.10.13
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101309023180920|바스프, AI 데이터센터 시장 공략...고성능 플라스틱 활용 확대>
+ㄴ아시아경제 2026.10.13 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2634638|AI 전력난에 웃는 K전력기기?美 데이터센터 수주 확대 [AI 호황의 역설]>
+ㄴ이투데이 2026.10.13 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10900504|LS일렉, 빅테크 데이터센터에 1853억원 규모 배전설루션 공급>
+ㄴ헤럴드경제 2026.10.13 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101309133334246|LS일렉트릭, 美 빅테크 데이터센터에 1850억원 규모 배전 솔루션 공급...누적 5억달러 돌파>
+ㄴ아시아경제 2026.10.13
+<https://www.hani.co.kr/arti/economy/marketing/1282033.html|“AI데이터센터는 새로운 금광”...가전사도 철강사도 앞으로>
+ㄴ한겨레 2026.10.12
+<https://www.news1.kr/world/europe/6317421|'러시아판 구글' 얀덱스 데이터센터 3곳 피격..."복구에 6개월">
+ㄴ뉴스1 2026.10.12
+<https://www.etoday.co.kr/news/view/2634811|AI 팩토리 시대...AI 데이터센터의 역할과 미래는? [미리 보는 테크퀘스트]>
+ㄴ이투데이 2026.10.12
+<https://www.hani.co.kr/arti/economy/marketing/1281946.html|데이터센터 커지자 H형강도 ‘맞춤형’으로...현대제철, 통합 브랜드 출범>
+ㄴ한겨레 2026.10.12
+<https://www.khan.co.kr/article/202610121457001|AI 데이터센터 붐에 올라타려는 현대제철...H형강 통합 브랜드 출시>
+ㄴ경향신문 2026.10.12 관련뉴스 2건
+<https://www.etnews.com/20261008000213|유비디시전, 대학 전자문서에서 AI 데이터센터까지..."GPU 몇 대로 AI 인프라 구축">
+ㄴ전자신문 2026.10.12
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-13 09:17:06 KST === 
+Message TS: 1791850626.184709
+
+Files: [2026년 10월 13일] 조간 뉴스 클리핑 (ID: F0C8TKHQNNQ, text/html, 41.9 KB)

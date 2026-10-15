@@ -1,0 +1,107 @@
+{
+ "date": "2026-07-08",
+ "items": [
+  {
+   "title": "SpaceXAI plans to launch new model with Cursor as soon as Wednesday",
+   "outlet": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacexai-plans-launch-model-cursor-210200389.html",
+   "category": "AI Model"
+  },
+  {
+   "title": "텐센트, 차세대 AI 모델 'Hy3' 정식 공개…코딩·에이전트 성능 강화",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260707000087",
+   "category": "AI Model"
+  },
+  {
+   "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Introducing Muse Image and Muse Video",
+   "outlet": "Meta AI blog",
+   "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Claude Cowork expands to mobile and web",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "Exclusive: China's DeepSeek developing its own AI chip, sources say",
+   "outlet": "Engadget",
+   "url": "https://www.engadget.com/2209378/deepseek-reportedly-developing-ai-chips/",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "Zhipu AI explores custom ASIC chip as GLM-5.2 usage surges 27x",
+   "outlet": "Investing.com[[Investing.com]]",
+   "url": "https://uk.investing.com/news/stock-market-news/zhipu-ai-explores-custom-asic-chip-as-glm52-usage-surges-27x--the-information-4760037",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "[단독] \"NPU 수요 선점\"… 유럽 향하는 퓨리오사AI·리벨리온",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20065059",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "팀네이버-KAI, 방산 특화 AI 모델 공동 개발…국방 소버린 AI 구현 나선다",
+   "outlet": "뉴스스페이스",
+   "url": "https://www.newsspace.kr/news/article.html?no=14668",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "네이버클라우드-미스트랄AI, 제조 AI 사업 맞손…전방위 파트너십 체결",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10801605",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "\"피지컬AI 기술 주권 확보\"...1.4조 규모 국책 연구개발 시동",
+   "outlet": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20260707124921",
+   "category": "Physical AI"
+  },
+  {
+   "title": "트럼프 사용 금지 지시에도…미 당국, 수개월 째 미토스 사용",
+   "outlet": "아주경제",
+   "url": "https://www.ajunews.com/view/20260707105427975",
+   "category": "AI 보안"
+  },
+  {
+   "title": "유럽중앙은행, 은행권에 AI발 보안 취약점 대응 가속 요구",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260525000032",
+   "category": "AI 보안"
+  },
+  {
+   "title": "정부, '소버린 AI' 핵심 GPU 확보 총력전… 3조 투입 사업 연장 검토",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260707000304",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "China Weighs Blocking Foreign Access to Top AI Models",
+   "outlet": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/china-weighs-blocking-foreign-access-to-top-ai-models/",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/07/07/amazon-launches-25b-bond-sale-fund-ai-infrastructure/",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "Why the rise of open source AI isn't hurting Anthropic … yet",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

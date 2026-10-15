@@ -1,0 +1,89 @@
+{
+ "date": "2026-06-17",
+ "items": [
+  {
+   "title": "통신 3사, 앤스로픽 AI 수출 차단 韓통신사 의혹에 \"연관 없다\"",
+   "outlet": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026061709240454428",
+   "category": "AI 보안"
+  },
+  {
+   "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+   "outlet": "The Hacker News",
+   "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+   "category": "AI 보안"
+  },
+  {
+   "title": "업스테이지, 모델·에이전트·검색을 하나로 '모두를 위한 AI' 도약",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260616000192",
+   "category": "AI Model"
+  },
+  {
+   "title": "\"압축 시각정보 고해상도 복원\"…GPU 메모리 효율 16배 높인다",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10773216",
+   "category": "AI Model"
+  },
+  {
+   "title": "일레븐랩스, AI 더빙 v2 공개…90개 언어 지원",
+   "outlet": "한스경제",
+   "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=844490",
+   "category": "AI Model"
+  },
+  {
+   "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
+   "outlet": "The Decoder",
+   "url": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+   "category": "AI Model"
+  },
+  {
+   "title": "AI 데이터센터 수요 정조준…STT GDC, 서울에 첫 거점 구축",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2594069",
+   "category": "AI DCㅤ"
+  },
+  {
+   "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
+   "outlet": "Google Cloud Blog",
+   "url": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers?hl=en",
+   "category": "AI DCㅤ"
+  },
+  {
+   "title": "유비씨·EY한영, Physical AI 기반 휴머노이드 로봇 기술 공동개발",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260616000220",
+   "category": "Physical AI"
+  },
+  {
+   "title": "Alibaba Launches Qwen-Robot Series Embodied AI Large Models",
+   "outlet": "Gasgoo",
+   "url": "https://autonews.gasgoo.com/articles/icv/alibaba-launches-qwen-robot-series-embodied-ai-large-models-2066890758655971328",
+   "category": "Physical AI"
+  },
+  {
+   "title": "AI 칩 임대비용도 원유처럼 선물시장서 거래 추진",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260617000005",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "SpaceX acquires Cursor for $60 billion",
+   "outlet": "Techzine Global",
+   "url": "https://www.techzine.eu/news/devops/142197/spacex-acquires-cursor-for-60-billion/",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "France to invest €655 million in AI, set up common chatbot for all state services",
+   "outlet": "The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/06/16/france-to-invest-655-million-in-ai-set-up-common-chatbot-for-all-state-services",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "France's intelligence service is dropping Palantir for a homegrown rival",
+   "outlet": "TNW",
+   "url": "https://thenextweb.com/news/frances-intelligence-service-is-dropping-palantir-for-a-homegrown-rival",
+   "category": "Enterprise AI"
+  }
+ ]
+}

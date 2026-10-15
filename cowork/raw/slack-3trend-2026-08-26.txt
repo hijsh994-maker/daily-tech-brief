@@ -1,0 +1,18 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-08-26 09:00:08 KST === 
+Message TS: 1787702408.313379
+- <https://news.nate.com/view/20260826n02150|해커' 잡는 'AI 방패' 만든다…SKT·네이버·LG '3파전' 예상> 
+- <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fTnJLcXVxbHBCS1JmdnNGLVR6T1ppRWlTa0gydGIxQkRKcngyd0tDRHF0MkQteG03M2I0VWR3ZGE2cTJHVmduLW1HQk56OFRXdEE?oc=5|SKT 정재헌 CEO "1위 무너지고 있다…AI에 조 단위 투자" - 매일경제 마켓> 
+- <https://news.nate.com/view/20260826n03863|애플, AI 탑재 신형 '맥 미니·맥 스튜디오' 공개…데스크탑 라인업...> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tdkx3R1lfYTh3ejU1cFZ0d0l5UFU2X2JTcXJTaUFMZnp4RXQ0TGN2aVZNOE9kbmZmcU02VXVVME1iYjNMTklBVmV1dTRyQQ?oc=5|'50조 규모' AI 광고 시장 열린다…플랫폼 기술 경쟁 본격화 - 전자신문> 
+- <https://news.nate.com/view/20260825n23097|애플 iOS 27, 시리 전용 앱 탑재…메시지·캘린더도 AI로> 
+- <https://news.nate.com/view/20260825n29074|이슈 5] AI 데이터센터, 전력 다음은 '물'…구글 6000만달러...> 
+- <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PQ2t6WTltRTlFWmg5TFZrTVFHQnlBWnBTaEctSTkybmhsMVFXUzROSjVYWVZIZ0RsRUdSeG1TWG9kRlQ1UmZyQXliTDZmcjdRcHNVVm5XdVBieG5Va0tUN9IBZkFVX3lxTE1EalpWZEV0ZHQtN0Z4eHduVS16RzBVcC1OTE15U2RHclFkV0lJX1RQdHI5Vl9UV3VzTTJSR2NfcDl2YTctcTFCcVY1U0xDNjNzUEJQRTMxWkNIYW03anpGaVlMaTVLUQ?oc=5|'AI 구독, 유독으로 쓰자"…LGU+, 유독 Pick 혜택 확대 - 뉴스1> 
+- <https://news.nate.com/view/20260825n28362|복지·세금 상담 24시간 AI로…정부24·국민비서도 하나로 합친다> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TeWJjYTVtVGllMGloLWpYQk41UVlHMUl1Smdhc3ZwOEctekJkTkF3M3BseFVNZkpzaXpDYjB3OW9XQndtQ2NWMnZYMGhvdk5zaUhYRnJ3?oc=5|"AI발 보안리스크 관리 이렇게"...에임인텔리전스, 내달 7일 컨퍼런스 - 지디넷코리아> 
+- <https://news.nate.com/view/20260826n00398|가볍고 AI 비서 기능까지…떠오르는 AR 글라스> 
+- <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTOURpX0NXYjBzYmZ2Tnd3RlFaUmVBQlBKSkcwT3JxQ19zdmdtVHRNUkVaRU51d1NmYzZ5ckMtQUl2eEVDUm9oM0Ryb3E5Vm9iamRQbWxCRzHSAVRBVV95cUxNNmxRY2VPcW1WY21hRmhhMXV4UzBTV25fMUIwWUZwZGxGaV81UUFPcEpjQlpBUWJuM3I5Mm5RcG00MHdIY0ZLNllaRW9meU5RNEM5blo?oc=5|메시가 한국어로 인터뷰?…입모양까지 번역하는 'AI 더빙'의 두 얼굴 - 세계일보> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE02TnQ1Y25kenBzN0lIa3ZXamNVVExRclNZeVU0NW12bThUNURlQjdaVVIzQ053ZlZqOWZDdXJmRTRJd2xzaUFZdTYyZ21kMXdGVklyM3lR?oc=5|韓, 에이전틱 AI 글로벌 표준 경쟁 합류…ETRI, AAIF 가입 - 지디넷코리아> 
+- <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xY3kxSld5aWRqV1phQ3BRdDVKN01pOEc1T2VMZ0JXaVpqWVR0SHluQjU4eGc2WHRvTUF1bjBFNjFSbUJ0VHZDN0JCSEQxZlhra3pEM3pZeHZCNlppbnc?oc=5|당정 "내년 예산, 3대 메가프로젝트·AI·미래 성장에 집중 투자" - YTN> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE04R29HWUlpem04Nndpcjhfal9uSVdkQU9HSTZLbnRGSlUzaEl4elNuTGttOGU4bFZYU3lvd0NEajM4UzVIbkRPOWg4SmU3WFpHX1dUQ3pYYXhoUQ?oc=5|AI 데이터센터 1GW에 전력망 비용만 15억달러…빅테크 '전기료 폭탄' 온다 - 한국경제>

@@ -1,0 +1,457 @@
+{
+ "date": "2026-09-29",
+ "terms": [
+  {
+   "term": "Akamai",
+   "norm": "akamai",
+   "n_outlets": 34,
+   "n_today": 4,
+   "outlets": [
+    "Barron's",
+    "Benzinga",
+    "Bloomberg",
+    "Breakingthenews.net",
+    "CXOToday.com",
+    "Crypto Briefing",
+    "Data Center Dynamics",
+    "DataCenterDynamics"
+   ],
+   "days": 6,
+   "first": "2026-09-22",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance Australia(09-22) | Akamai (AKAM) Wants to Be the Bouncer for Your AI Agents",
+    "SecurityBrief UK(09-23) | Akamai warns of blind spots in workplace agentic AI",
+    "CXOToday.com(09-24) | From Identity to Action: Akamai Urges CISOs to Govern Autonomous AI Agent Behavi",
+    "SaasRise | Akamai signs $11.6B AI infrastructure deal with Anthropic",
+    "Futuriom | Akamai's Anthropic Deal Highlights AI at the Edge",
+    "Data Center Dynamics | Akamai signs $11.6bn compute deal with Anthropic"
+   ],
+   "score": 22
+  },
+  {
+   "term": "LLM 재킹",
+   "norm": "llm재킹",
+   "n_outlets": 7,
+   "n_today": 3,
+   "outlets": [
+    "M이코노미뉴스",
+    "yna.co.kr",
+    "국민일보",
+    "글로벌이코노믹",
+    "매일신문",
+    "세이프타임즈",
+    "아시아경제"
+   ],
+   "days": 2,
+   "first": "2026-09-28",
+   "reaction": 7,
+   "community": 0,
+   "titles": [
+    "yna.co.kr(09-28) | \"고가 AI모델·서버 무단 탈취…다크웹서 'LLM 재킹' 범죄 급증\"",
+    "M이코노미뉴스(09-28) | 해커들, AI 계정·클라우드 자원까지 훔친다...‘LLM 재킹’ 급증",
+    "매일신문(09-28) | LLM 재킹 급증…앤트로픽·구글·오픈AI 계정 다크웹서 97% 할인 판매",
+    "세이프타임즈 | 탈취한 AI 계정·GPU로 공격까지 … 'LLM 재킹' 확산",
+    "국민일보 | 앤트로픽 AI 이용권이 단돈 몇 달러에… 다크웹서 ‘LLM 재킹’ 급증",
+    "국민일보 | “앤트로픽 이용권, 97% 싸게 팝니다”… 다크웹서 ‘LLM 재킹’ 급증"
+   ],
+   "score": 20
+  },
+  {
+   "term": "V900",
+   "norm": "v900",
+   "n_outlets": 26,
+   "n_today": 1,
+   "outlets": [
+    "24/7 Wall St.",
+    "AI포스트",
+    "Crypto Briefing",
+    "DailyCoin",
+    "English Bombay Samachar",
+    "FinanceFeeds",
+    "Investing.com 한국어",
+    "Mathrubhumi English"
+   ],
+   "days": 5,
+   "first": "2026-09-23",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "디지털투데이(09-23) | 알리바바, 자체 AI 칩 '전우 V900' 공개…2032년까지 데이터센터 20GW 확충",
+    "포커스온경제(09-23) | 알리바바, 신형 AI칩 ‘젠우 V900’ 공개-엔비디아에 정면 도전",
+    "뉴시스(09-23) | [올댓차이나] 알리바바, 차세대 AI칩 ‘진우 V900’ 내년 1분기 투입…AI 인프라 확충",
+    "서울신문 | AI 수직 계열화에 도전하는 알리바바…AI 가속기 ‘젠우 V900’ 공개 [고든 정의 TECH+]"
+   ],
+   "score": 18
+  },
+  {
+   "term": "Climate Week",
+   "norm": "climateweek",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "Broadband Breakfast",
+    "TechCrunch",
+    "The Tech Buzz",
+    "Yahoo Finance"
+   ],
+   "days": 3,
+   "first": "2026-09-22",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(09-22) | Schneider Electric Releases AI Building Efficiency and Data Center Water Researc",
+    "The Tech Buzz(09-22) | NVIDIA Spotlights AI-Powered Clean Energy at Climate Week",
+    "Broadband Breakfast(09-23) | Climate Week Talks Balance Hope For Clean Energy Against Uncertainty Over AI",
+    "TechCrunch | The AI boom took over Climate Week and not everyone is happy about it",
+    "TechCrunch | The AI boom took over Climate Week and not everyone is happy about it"
+   ],
+   "score": 15
+  },
+  {
+   "term": "전력망 병목",
+   "norm": "전력망병목",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "tier0",
+    "동아일보"
+   ],
+   "days": 1,
+   "first": "2026-09-29",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "동아일보 | 급증하는 AI 데이터센터… ‘전력망 병목’ 변수 급부상",
+    "tier0 | 급증하는 AI 데이터센터 '전력망 병목' 변수 급부상 오라클, 사업 지연에 “불가항력” 트럼프의 '스타게이트'도 경고음",
+    "동아일보 | 급증하는 AI 데이터센터… ‘전력망 병목’ 변수 급부상"
+   ],
+   "score": 15
+  },
+  {
+   "term": "AMD Hits",
+   "norm": "amdhits",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "AD HOC NEWS",
+    "Barron's",
+    "Business Chief",
+    "The Eastern Herald",
+    "Yahoo Finance",
+    "tech-insider.org"
+   ],
+   "days": 4,
+   "first": "2026-09-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Barron's(09-22) | Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
+    "Yahoo Finance(09-22) | AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
+    "The Eastern Herald(09-22) | AMD Hits $1 Trillion for a Day as Chip Stocks Surge on Trump-Xi AI Dinner",
+    "AD HOC NEWS | AMD Hits $1 Trillion, but the Real Story Is a $211 Billion Server Market"
+   ],
+   "score": 14
+  },
+  {
+   "term": "RISE 글로벌AI낸드메모리반도체",
+   "norm": "rise글로벌ai낸드메모리반도체",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "아시아경제"
+   ],
+   "days": 1,
+   "first": "2026-09-29",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "아시아경제 | 한달 수익률 13%…KB운용 'RISE 글로벌AI낸드메모리반도체' 주목",
+    "아시아경제 | [한달 수익률 13%...KB운용 'RISE 글로벌AI낸드메모리반도체' 주목]",
+    "아시아경제 | 한달 수익률 13%…KB운용 'RISE 글로벌AI낸드메모리반도체' 주목"
+   ],
+   "score": 14
+  },
+  {
+   "term": "불가항력",
+   "norm": "불가항력",
+   "n_outlets": 18,
+   "n_today": 2,
+   "outlets": [
+    "Investing.com 한국어",
+    "TradingKey",
+    "TradingView",
+    "blockmedia.co.kr",
+    "edaily.co.kr",
+    "tier0",
+    "글로벌이코노믹",
+    "네이버 프리미엄콘텐츠"
+   ],
+   "days": 3,
+   "first": "2026-09-25",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "머니투데이(09-25) | 오라클, AI 데이터센터 불가항력 통보…관련 주가 일제히 하락 - 머니투데이",
+    "글로벌이코노믹(09-25) | 오라클, 초대형 AI 데이터센터 ‘불가항력’ 통보…주가 3.4% 하락",
+    "한국경제(09-25) | 오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
+    "네이버 프리미엄콘텐츠 | 오라클의 '불가항력' 선언...전력망이 AI 투자 '게임 체인저'가 됐다",
+    "tier0 | 급증하는 AI 데이터센터 '전력망 병목' 변수 급부상 오라클, 사업 지연에 “불가항력” 트럼프의 '스타게이트'도 경고음"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Data Centre Financing",
+   "norm": "datacentrefinancing",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "Data Centre Magazine",
+    "Disruption Banking",
+    "Global Brands Magazine",
+    "Tekedia",
+    "Traders Union",
+    "datacentremagazine.com",
+    "theedgemalaysia.com"
+   ],
+   "days": 3,
+   "first": "2026-09-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Disruption Banking(09-25) | Could AI Data Centre Financing Become a Systemic Risk?",
+    "datacentremagazine.com(09-25) | Inside VIRTUS' £2.45bn Data Centre Financing Deal",
+    "Disruption Banking(09-28) | Could AI Data Centre Financing Become a Systemic Risk?",
+    "Global Brands Magazine | Data Centre Financing: 5 Bold Risks in the AI Surge"
+   ],
+   "score": 13
+  },
+  {
+   "term": "AKAM",
+   "norm": "akam",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "Seeking Alpha",
+    "Stocktwits",
+    "TradingView",
+    "Yahoo Finance Australia",
+    "인포스탁데일리"
+   ],
+   "days": 3,
+   "first": "2026-09-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance Australia(09-22) | Akamai (AKAM) Wants to Be the Bouncer for Your AI Agents",
+    "Seeking Alpha(09-25) | Akamai surges after announcing massive deal with Anthropic (AKAM:NASDAQ)",
+    "Stocktwits(09-25) | AKAM Stock Soars 20% After-Hours — Akamai Lands $11.6B AI Cloud Deal With Anthro",
+    "인포스탁데일리 | 아카마이 테크놀로지스(AKAM), 앤트로픽과 116억 달러 규모 컴퓨팅 계약 체결"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Chuseok",
+   "norm": "chuseok",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "VT Markets",
+    "디지털투데이",
+    "매일경제"
+   ],
+   "days": 4,
+   "first": "2026-09-24",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "디지털투데이(09-24) | Korean stocks enter Chuseok holiday with eyes on U.S.-China summit outcome",
+    "디지털투데이(09-25) | Korean stocks enter Chuseok holiday with eyes on U.S.-China summit outcome",
+    "VT Markets(09-28) | USD/KRW slips as Chuseok exporter dollar sales bolster won; exports surge on AI ",
+    "매일경제 | Samsung Electronics, SK hynix fall after Chuseok break"
+   ],
+   "score": 11
+  },
+  {
+   "term": "AI열풍 계속",
+   "norm": "ai열풍계속",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "글로벌경제신문",
+    "연합뉴스"
+   ],
+   "days": 1,
+   "first": "2026-09-29",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "연합뉴스 | 엔비디아, 美기업 사상 최대 자사주 매입…\"'AI열풍 계속' 신호\"(종합)",
+    "글로벌경제신문 | 엔비디아, 美기업 최대 규모 자사주 매수... \"'AI열풍 계속' 신호\""
+   ],
+   "score": 11
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Upwind",
+   "norm": "upwind",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "Beinsure",
+    "Globes - Israel Business News",
+    "HackerNoon",
+    "Investing.com",
+    "Security Boulevard",
+    "StreetInsider",
+    "The Next Web",
+    "Ynetnews"
+   ],
+   "days": 4,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Ynetnews(09-24) | Upwind acquires Israeli AI security startup Aegis, launches new cyber research l",
+    "Globes - Israel Business News(09-24) | Upwind acquires Israeli AI security startup Aegis",
+    "calcalistech.com(09-24) | Cyber unicorn Upwind acquires nine-month-old Aegis for tens of millions",
+    "infotechlead.com | Tech M&A deals: Microchip, Upwind, Nomios, Eftsure"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Blueprint Alliance",
+   "norm": "blueprintalliance",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "Business Wire",
+    "ChannelE2E",
+    "Cyber Magazine",
+    "MarketBeat",
+    "Proofpoint",
+    "SC Media",
+    "SiliconANGLE",
+    "TNGlobal"
+   ],
+   "days": 5,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SiliconANGLE(09-23) | Okta adds AI agent runtime gateway, forms Blueprint Alliance with AWS and CrowdS",
+    "TNGlobal(09-23) | Blueprint Alliance targets shared security architecture for AI agents",
+    "Virtualization Review(09-23) | Blueprint Alliance Targets Common Security Model for AI Agents",
+    "ChannelE2E | Okta launches Blueprint Alliance to secure AI agents"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Domo",
+   "norm": "domo",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "AiThority",
+    "GlobeNewswire",
+    "Investing.com UK",
+    "The Manila Times",
+    "TipRanks",
+    "diginomica"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com UK(09-23) | Progress Software completes acquisition of Domo AI assets By Investing.com",
+    "The Manila Times(09-23) | Progress Software Completes Acquisition of Domo's AI and Data Platform Business",
+    "TipRanks(09-23) | Progress Software Completes Domo AI and Data Acquisition",
+    "diginomica | AI + analytics = value? (1/2) Domo's Chief AI Officer on what organizations real"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 대모",
+   "norm": "ai대모",
+   "n_outlets": 6,
+   "n_today": 4,
+   "outlets": [
+    "chosun.com",
+    "ebn.co.kr",
+    "edaily.co.kr",
+    "매일경제 마켓",
+    "조선일보",
+    "포춘코리아"
+   ],
+   "days": 4,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "조선일보(09-24) | ‘AI 대모’ 페이페이 리 “AI 안전 평가, 공공 검증으로”",
+    "chosun.com(09-25) | ‘AI 대모’ 페이페이 리 “AI 안전 평가, 공공 검증으로”",
+    "chosun.com(09-28) | ‘AI 대모’ 페이페이 리 “AI 안전 평가, 공공 검증으로”",
+    "매일경제 마켓 | AMD, 'AI 대모' 페이페이 리 월드랩스 11조원에 인수",
+    "ebn.co.kr | [서학개미 안테나] AMD, 'AI 대모' 페이페이 리의 월드 랩스 8.2조원에 품는다",
+    "edaily.co.kr | AMD, ‘AI 대모’ 페이페이 리의 월드랩스 11조원에 인수"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Robotiq",
+   "norm": "robotiq",
+   "n_outlets": 9,
+   "n_today": 8,
+   "outlets": [
+    "Moneycontrol.com",
+    "PR Newswire",
+    "Rediff MoneyWiz",
+    "Robotics & Automation News",
+    "Unite.AI",
+    "citybiz",
+    "rediff.com",
+    "scanx.trade"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Robotics & Automation News(09-24) | Robotiq launches open-source software tools for physical AI and robot manipulati",
+    "Robotics & Automation News(09-25) | Robotiq launches open-source software tools for physical AI and robot manipulati",
+    "PR Newswire | HCLSoftware to Acquire Robotiq.ai, Strengthening Enterprise Agentic Automation",
+    "Unite.AI | HCLSoftware Plans Robotiq.ai Acquisition to Add RPA to HCL UnO Agentic",
+    "citybiz | HCLSoftware to Acquire Robotiq.ai to Expand Enterprise Agentic Automation",
+    "Rediff MoneyWiz | HCLSoftware Acquires Robotiq.ai for €9M to Boost RPA"
+   ],
+   "score": 9
+  },
+  {
+   "term": "AI낙관론",
+   "norm": "ai낙관론",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "busan.com",
+    "chosundaily.com",
+    "yna.co.kr",
+    "중소기업신문",
+    "중앙신문"
+   ],
+   "days": 3,
+   "first": "2026-09-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "yna.co.kr(09-22) | 뉴욕증시, 'AI낙관론'에 메타·인텔 급등…나스닥 사상 최고치(종합)",
+    "중앙신문(09-22) | [뉴욕증시] AI낙관론에 국채금리·유가 '뚝'...나스닥 2.26% '급등'",
+    "busan.com(09-22) | [속보] `AI낙관론`에 나스닥 사상 최고치…메타·인텔 급등",
+    "chosundaily.com | [뉴욕증시 21일] 'AI낙관론'에 나스닥 사상 최고치"
+   ],
+   "score": 8
+  }
+ ]
+}

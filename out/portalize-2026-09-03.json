@@ -1,0 +1,14 @@
+{
+ "date": "2026-09-03",
+ "mapping": {
+  "https://www.ddaily.co.kr/page/view/2026090305214687362": "https://n.news.naver.com/mnews/article/138/0002239994",
+  "https://www.asiae.co.kr/news/view.htm?idxno=2026090309174994669": "https://n.news.naver.com/mnews/article/277/0005811247",
+  "https://www.sedaily.com/article/20086597": "https://n.news.naver.com/mnews/article/011/0004658141",
+  "https://www.sedaily.com/article/20086619": "https://n.news.naver.com/mnews/article/011/0004658118",
+  "https://biz.heraldcorp.com/article/10861042": "https://n.news.naver.com/mnews/article/016/0002692148",
+  "https://www.etnews.com/20260902000231": "https://n.news.naver.com/mnews/article/030/0003462963",
+  "https://www.sedaily.com/article/20086615": "https://n.news.naver.com/mnews/article/011/0004658116",
+  "https://www.hankyung.com/article/202609020518i": "https://n.news.naver.com/mnews/article/015/0005328118",
+  "https://www.newsis.com/view/NISX20260902_0003773053": "https://n.news.naver.com/mnews/article/003/0014163835"
+ }
+}

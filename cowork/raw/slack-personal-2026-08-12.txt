@@ -1,0 +1,169 @@
+Channel: #개인테스트 (C0AU2AFDL5S)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-12 09:45:19 KST === 
+Message TS: 1786495519.816529
+_(이어서 2/2)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.sedaily.com/article/20078255|AI가 화재 잡고 로봇이 부스설치...킨텍스 '스타트업 실험장' 변신>
+ㄴ서울경제 2026.08.11 관련뉴스 1건
+<https://www.news1.kr/world/northeast-asia/6255193|상반기 휴머노이드 로봇 97%가 중국산..."연간 10만대 생산 가능">
+ㄴ뉴스1 2026.08.11
+<https://www.etnews.com/20260810000467|눈 가려도 척척...알아서 빨래 개는 휴머노이드 로봇>
+ㄴ전자신문 2026.08.11
+<https://www.news1.kr/it-science/general-science/6255073|휴머노이드와 축구.로봇강아지와 산책...어린이과학관 'AI로봇놀이터'>
+ㄴ뉴스1 2026.08.11
+<https://www.etnews.com/20260811000050|로볼루션, 산업용 로봇 재제조 기술로 자동차 용접 공정 혁신 나선다>
+ㄴ전자신문 2026.08.11
+<https://www.etnews.com/20260812000010|참치 공장에 투입된 AI 휴머노이드...비정형 식품 선별 자동화 실증>
+ㄴ전자신문 2026.08.12
+<https://biz.chosun.com/stock/market_trend/2026/08/12/UQM4HKD7CJEI7OXASZYAYJMSPA/|시드 투자유치 1년 만에 '몸값 3배'로 자금 조달... 유로보틱스, 로봇 메가라운드 합류>
+ㄴ조선비즈 2026.08.12
+<https://www.seoul.co.kr/news/economy/industry/2026/08/12/20260812031003|美 견제에도 中 유니트리 몸값 12조원 넘었다>
+ㄴ서울신문 2026.08.12
+<https://biz.chosun.com/industry/business_info/2026/08/12/3PPF6QA4HFBNTKZBIRAE2HPBPM/|리얼티쓰, CES 2026 등 글로벌 치과 전시회.학술행사 참가>
+ㄴ조선비즈 2026.08.12
+<https://www.etnews.com/20260811000268|[테크 차이나] 인증 통과해야 시장이다...시험.검사.인증이 젠 중국 산업 관문 [박지민의 비욘드 차이나]>
+ㄴ전자신문 2026.08.12
+
+
+
+*AI기술현황*
+신규 10건
+<https://biz.chosun.com/it-science/ict/2026/08/11/PNX6SZQVTNA2DPREEHBFPJMNF4/|"자고 일어나면 반도체 설계 완성"... 지멘스, EDA에 AI 접목 '승부수'>
+ㄴ조선비즈 2026.08.11
+<https://www.sedaily.com/article/20078134|서울공대, 오래된 정보 '스스로 잊는' AI 반도체 개발>
+ㄴ서울경제 2026.08.11
+<https://www.etnews.com/20260811000245|에티버스, AI 에이전트 구축 지원 위한 '2026 Okta for AI Agents Hands-on Training' 진행>
+ㄴ전자신문 2026.08.11
+<https://www.etnews.com/20260811000211|모티프, MS 마켓플레이스에서 자체 LLM '모티프-2' 제공>
+ㄴ전자신문 2026.08.11
+<https://www.etnews.com/20260811000134|WIPO "생성형 AI 특허 1위는 소프트뱅크"...中 기업 약진 속 오픈AI는 '35건'>
+ㄴ전자신문 2026.08.11
+<https://www.asiae.co.kr/news/view.htm?idxno=2026081110295984420|제24회 모의 공정위 경연대회 개최...생성형 AI·알고리즘 담합 법리 '맞불'>
+ㄴ아시아경제 2026.08.11
+<https://www.etoday.co.kr/news/view/2613235|KCL-충남대, AI·반도체 기술사업화 ''맞손''?중부권 혁신 생태계 조성>
+ㄴ이투데이 2026.08.11
+<https://www.kukinews.com/article/view/kuk202608110085|"누굴 위한 산업 전환인가"...노동·시민사회, 정부 AI·반도체 정책에 '쓴소리'>
+ㄴ쿠키뉴스 2026.08.11
+<https://www.etnews.com/20260812000032|전남대 문화전문대학원, 영광서 '2026 네덜뮤라 누오 글로리아' 전시 개최>
+ㄴ전자신문 2026.08.12
+<https://www.etnews.com/20260803000189|[올쇼TV] "체계화된 데이터가 곧 AI 시대의 경쟁력이다" 8월 19일 생방송>
+ㄴ전자신문 2026.08.12
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-12 09:44:52 KST === 
+Message TS: 1786495492.147139
+_[텔레그램 로그 2026-08-12] 에이닷비즈뉴스레터_
+
+[09:30]
+*8월 12일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.sedaily.com/article/20078417|SKT AI 모델 A.X K2, 국제수학올림피아드서 금메달급 성적>
+ㄴ서울경제 2026.08.12
+<https://www.etnews.com/20260812000001|엔비디아, 자체 AI 모델 출시...1조 매개변수 초대형 모델도 준비중>
+ㄴ전자신문 2026.08.12
+<https://www.etoday.co.kr/news/view/2613441|엔비디아, ''1조 파라미터'' 네모트론4 개발중...개방형 AI 모델 경쟁 박차>
+ㄴ이투데이 2026.08.12
+<https://www.fnnews.com/news/202608120152086804|엔비디아, 새 AI 모델 공개..."GPU 1개로 PC에서 구동 가능">
+ㄴ파이낸셜뉴스 2026.08.12
+<https://www.etnews.com/20260811000215|독파모 4개 모델, 美 에포크AI '주목할 만한 모델' 등재>
+ㄴ전자신문 2026.08.11 관련뉴스 2건
+<https://www.etnews.com/20260811000211|모티프, MS 마켓플레이스에서 자체 LLM '모티프-2' 제공>
+ㄴ전자신문 2026.08.11
+<https://www.etoday.co.kr/news/view/2613227|SKT AI 모델 ''A.X K2'', 국제수학올림피아드서 금메달 성능...미·중 이외 유일>
+ㄴ이투데이 2026.08.11 관련뉴스 1건
+<https://www.fnnews.com/news/202608111343062438|한국 독자 AI 모델 4종, 에포크AI '주목할 모델' 선정...美.中과 나란히>
+ㄴ파이낸셜뉴스 2026.08.11 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/08/11/GAPYC7W4NRDZBAQXJWRTQPFBOE/|오픈AI, 사이버보안 특화 AI 모델 'GPT-5.6 사이버' 출시>
+ㄴ조선비즈 2026.08.11 관련뉴스 4건
+<https://biz.heraldcorp.com/article/10837256|오픈AI, 최신 모델도 전면 무료 개방>
+ㄴ헤럴드경제 2026.08.11
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20260811000245|에티버스, AI 에이전트 구축 지원 위한 '2026 Okta for AI Agents Hands-on Training' 진행>
+ㄴ전자신문 2026.08.11
+<https://www.etnews.com/20260811000036|토큰 사용 많은 에이전틱AI, 메모리 중심 새 인프라 시급>
+ㄴ전자신문 2026.08.11
+<https://www.etnews.com/20260812000003|"표준화된 초음파 검사로 유방암 조기 진단" DGIST, 지능형 유방 초음파 스캐닝 솔루션 상용화 연구 착수>
+ㄴ전자신문 2026.08.12
+<https://www.etnews.com/20260812000023|플래티어 '젠서 디스커버리', 슈마커플러스에 탑재...에이전틱 커머스 확산>
+ㄴ전자신문 2026.08.12 관련뉴스 1건
+<https://biz.chosun.com/industry/business_info/2026/08/07/35WTLICF5JHQPD2UIS5LR4EHOE/|퀀텀에이아이, AI 메모리 압축 기술 '퀀텀퀀트' 공개>
+ㄴ조선비즈 2026.08.12
+<https://www.etnews.com/20260812000001|엔비디아, 자체 AI 모델 출시...1조 매개변수 초대형 모델도 준비중>
+ㄴ전자신문 2026.08.12
+<https://biz.chosun.com/it-science/ict/2026/08/12/XJU7Z6VLQBHKFNUOFVNBZBS4VA/|"4팀 중 3팀만 살아남는다"... 독파모 2차 평가 앞둔 AI 4종 해부>
+ㄴ조선비즈 2026.08.12
+<https://www.asiae.co.kr/news/view.htm?idxno=2026081208195375022|삼정KPMG, AI 활용 내부회계관리 플랫폼 출시>
+ㄴ아시아경제 2026.08.12
+<https://www.etnews.com/20260812000005|정부 개발자 조직 '국민AI서비스혁신추진단' 9월 출범>
+ㄴ전자신문 2026.08.12
+<https://www.asiae.co.kr/news/view.htm?idxno=2026081119214446473|이용필 산기평 원장 "M.AX로 제조업 혁신...산업기술 정책 선도하겠다"(종합)>
+ㄴ아시아경제 2026.08.11
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.news1.kr/realestate/general/6256343|한화 건설부문, AI 데이터센터 전력 효율 국책과제 사업자 선정>
+ㄴ뉴스1 2026.08.12 관련뉴스 2건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026081116142580183|데이터센터로 항해하는 조선株...ETF 수익률도 '둥실'>
+ㄴ아시아경제 2026.08.12
+<https://www.fnnews.com/news/202608040800517114|"선박에서 데이터센터로"...HD현대마린솔루션, '세계 1위 K-AM 기업' 정조준[인터뷰]>
+ㄴ파이낸셜뉴스 2026.08.12
+<https://www.hani.co.kr/arti/economy/finance/1272375.html|초대형 AI 데이터센터 투자, 부채 적다고?...장부 밖 약정 1400조원>
+ㄴ한겨레 2026.08.11
+<https://www.sedaily.com/article/20078122|美, 데이터센터 자금조달 문턱 낮춘다...유동화증권 투자자보호 규제 면제>
+ㄴ서울경제 2026.08.11
+<https://www.news1.kr/it-science/internet-platform/6255226|NHN, 2분기 역대 최대 실적..."30MW AI 데이터센터 추가 확보">
+ㄴ뉴스1 2026.08.11 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2613467|슈퍼마이크로, AI 서버 호황 지속...매출 전망 월가 눈높이 훌쩍 [마켓햇]>
+ㄴ이투데이 2026.08.12 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2613471|신한 "NHN, 2분기 영업익 컨센서스 상회...게임·클라우드가 서프라이즈 견인">
+ㄴ이투데이 2026.08.12
+<https://www.sedaily.com/article/20078314|젠슨 황, 월가와 710조 'AI 금융 동맹'...순환 거래 우려는 여전 [글로벌 모닝 브리핑]>
+ㄴ서울경제 2026.08.12
+<https://www.khan.co.kr/article/202608120600101|자산운용사 블랙록이 미국 건설노조와 손잡은 이유는?...AI 인프라 건설에 '네오 블루칼라' 시대가 온다>
+ㄴ경향신문 2026.08.12
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-12 09:42:38 KST === 
+Message TS: 1786495358.932949
+_[텔레그램 로그 2026-08-12] 삼성 글로벌 AI/SW 뉴스_
+
+[22:58]
+[삼성 이영진] 글로벌 AI/SW 뉴스 :robot_face: (26/8/12)
+
+■ 구글, Gemini 앱 MAU 10억 명 돌파
+
+■ 오픈AI 브래드 라이트캡 퇴사 발표. 기존 COO 직무였으나, 4월 조직 개편에서 Special Project 총괄로 이동
+
+■ 오픈AI, Linux용 ChatGPT 데스크톱 앱을 프리뷰로 출시
+
+■ 스페이스XAI, 상시 자율 에이전트 Grok Bot 베타 출시
+
+■ Manus, 메타에서 분리해 독립회사로 복귀, 일부 유저 데이터 삭제
+
+■ 오라클, 8월 중 추가 인력 감축 준비. 일부 조직에서는 인원의 두 자릿수 비율을 줄이는 방안 검토
+
+■ 오라클, Quantinuum과 다년과의 파트너십 체결. OCI에 양자컴퓨터 Helios 배치
+
+■ 엔비디아, 세계 최고 수준 오픈소스 AI 모델 목표로 'Nemotron 4' 개발. 최조 1조 파라미터 규모 예상
+
+■ 엔비디아, 경량 오픈 모델 Nemotron 3.5 Lightning 출시
+
+■ IBM, Together AI와 2.4억 달러 규모 AI 인프라 계약 체결
+
+■ CME 그룹, Silicon Data와 협력해 10/5일 Compute Futures를 출시 예정. NVIDIA H100과 Blackwell B200 GPU의 시간당 임대 가격을 기초자산으로 하는 2종의 선물 상장
+
+감사합니다.
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

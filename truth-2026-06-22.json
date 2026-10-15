@@ -1,0 +1,89 @@
+{
+ "date": "2026-06-22",
+ "items": [
+  {
+   "title": "오픈AI, 이번 주 'GPT-5.6' 출시 전망…앤트로픽 규제 틈타나",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=211949",
+   "category": "AI Model"
+  },
+  {
+   "title": "\"클로드 오퍼스 4.7 능가\" 中 GLM-5.2 공식 발표",
+   "outlet": "스타트업레시피",
+   "url": "https://startuprecipe.co.kr/archives/tech/5821865",
+   "category": "AI Model"
+  },
+  {
+   "title": "구글·MS·엔비디아 동맹…AI 에이전트 표준 전쟁 시작됐다",
+   "outlet": "이데일리TV",
+   "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01620326645483688&Kind=257",
+   "category": "AI Agent"
+  },
+  {
+   "title": "퍼플렉시티, 밤마다 스스로 학습하는 AI 에이전트 메모리 '브레인' 출시",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=211932",
+   "category": "AI Agent"
+  },
+  {
+   "title": "프롬프트 엔지니어링도 옛말…이젠 '루프 엔지니어링'이 대세",
+   "outlet": "연합뉴스",
+   "url": "https://www.yna.co.kr/view/AKR20260622001400091",
+   "category": "AI Agent"
+  },
+  {
+   "title": "오픈AI, '챗GPT 광고' 한국 도입…무료·Go 요금제 대상",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2595315",
+   "category": "AI Agent"
+  },
+  {
+   "title": "LG그룹, 엔비디아 본사 간다…피지컬 AI 사업화 논의",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/article/IT/2026062120141724874",
+   "category": "AI 투자&시장ㅤ"
+  },
+  {
+   "title": "[단독] 카카오, 전 세계 30위권 AI 슈퍼컴 가동…삼성·NHN도 '개봉박두'",
+   "outlet": "아주경제",
+   "url": "https://www.ajunews.com/view/20260621111115931",
+   "category": "AI DC"
+  },
+  {
+   "title": "과기정통부, 피지컬 AI 얼라이언스 2기 출범",
+   "outlet": "디일렉",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=58376",
+   "category": "Physical AI"
+  },
+  {
+   "title": "오픈AI, 삼성전자 품었다…챗GPT·코덱스 대규모 공급",
+   "outlet": "연합뉴스",
+   "url": "https://www.yna.co.kr/view/AKR20260622025700017",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "KT, 고객 AX 함께 이끌 AI 스타트업 찾는다",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20058442",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "트럼프 \"앤트로픽, 지금은 국가안보 위협 존재 아냐\"",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260620131742",
+   "category": "인플루언서"
+  },
+  {
+   "title": "'알파폴드' 노벨상 존 점퍼, 구글 떠나 앤트로픽 합류",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=211937",
+   "category": "인플루언서"
+  },
+  {
+   "title": "구글이 '4조' 주고 데려온 개발자, 2년 만에 오픈AI로",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026062208100780228",
+   "category": "인플루언서"
+  }
+ ]
+}

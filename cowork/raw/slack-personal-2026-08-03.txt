@@ -1,0 +1,194 @@
+Channel: #개인테스트 (C0AU2AFDL5S)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-03 09:27:19 KST ===
+Message TS: 1785716839.588219
+_(이어서 3/3)_
+
+[09:00]
+*로봇동향*
+신규 10건
+<https://www.news1.kr/industry/sb-founded/6245501|'AI 메가프로젝트'에 로봇 스타트업 투자 몰린다...양산 속도 관건>
+ㄴ뉴스1 2026.08.03
+<https://biz.chosun.com/it-science/ict/2026/08/03/7GTMHOUJK5FI5FWLIJYGXZ2RU4/|공장과 로봇 묶는 ‘AI 두뇌’... IT서비스 업계, 공장 OS 선점 경쟁>
+ㄴ조선비즈 2026.08.03
+<https://www.etnews.com/20260802000076|[포토] 휴머노이드 로봇의 댄스>
+ㄴ전자신문 2026.08.02 관련뉴스 1건
+<https://www.sedaily.com/article/20074775|고래밥 뮤지컬.로봇과 액션...여름방학 동심 파고든다>
+ㄴ서울경제 2026.08.03
+<https://www.etoday.co.kr/news/view/2609646|[단독] 류재철, 휴머노이드 R&D 현장 점검...LG ''피지컬 AI'' 속도>
+ㄴ이투데이 2026.08.03 관련뉴스 2건
+<https://www.seoul.co.kr/news/economy/industry/2026/08/03/20260803032004|국내 기업들, AI 중심 사업 포트폴리오 재편>
+ㄴ서울신문 2026.08.02
+<https://www.etoday.co.kr/news/view/2610093|AI 패권전쟁부터 자원안보까지...李 경제외교의 외연 확장>
+ㄴ이투데이 2026.08.02
+<https://biz.heraldcorp.com/article/10828556|‘비욘드 중공업’ 두산, 반도체 삼각편대 완성>
+ㄴ헤럴드경제 2026.08.03
+<https://www.hani.co.kr/arti/society/society_general/1271097.html|“법안 통과 가능성 9.3점”... 로펌 대관팀은 데이터를 돌린다>
+ㄴ한겨레 2026.08.03
+<https://www.sedaily.com/article/20074859|희비 갈린 가전 투톱...삼성은 영업 적자, LG는 1조 회복>
+ㄴ서울경제 2026.08.02
+
+*AI기술현황*
+신규 10건
+<https://www.news1.kr/economy/trend/6246264|수출엔 효자, 환율엔 불효자...AI.반도체가 환율 공식 바꿨다>
+ㄴ뉴스1 2026.08.03
+<https://www.asiae.co.kr/news/view.htm?idxno=2026080218272174965|박관열 시장 "광주만 희생하는 시대 끝내고 AI·반도체 미래도시 만들 것">
+ㄴ아시아경제 2026.08.03
+<https://www.sedaily.com/article/20074783|“코스피와 IPO 격차 줄여 시장 활성화”...AI·반도체가 직행 ‘1호’ 후보군 [시그널]>
+ㄴ서울경제 2026.08.02 관련뉴스 1건
+<https://www.seoul.co.kr/news/plan/K-ScienceAcademy/2026/08/03/20260803023003|서울대에서 AI·반도체·신약 탐구... ''K-과학인재 고교생 캠프'' 열린다>
+ㄴ서울신문 2026.08.02
+<https://www.sedaily.com/article/20074906|경콘진, 생성형 AI 콘텐츠 실무 인재 육성>
+ㄴ서울경제 2026.08.03
+<https://www.fnnews.com/news/202608021822279031|AI가 바꾼 '반도체 거래판'... LTA로 슈퍼사이클 길어진다>
+ㄴ파이낸셜뉴스 2026.08.02
+<https://www.fnnews.com/news/202608021813094330|"韓 기술과 베트남 인재 연계...AI.반도체 산업 함께 키워야" [인터뷰]>
+ㄴ파이낸셜뉴스 2026.08.02
+<https://www.hani.co.kr/arti/economy/economy_general/1271023.html|AI 수요에 7월 수출 역대 2위...반도체 비중 40%대로>
+ㄴ한겨레 2026.08.02
+<https://www.fnnews.com/news/202608021813156028|1375조 AI·반도체 협력... 핵심광물 공급망 확보·에너지 수입원 다변화>
+ㄴ파이낸셜뉴스 2026.08.02
+<https://www.hani.co.kr/arti/economy/economy_general/1271054.html|글로벌 AI.반도체주 흔든 20대 천재의 ‘빚투’>
+ㄴ한겨레 2026.08.02
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-03 09:26:49 KST ===
+Message TS: 1785716809.221719
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.segye.com/newsView/20260803501693|미국 정치의 주요 쟁점이 된 데이터센터 [美쎈랭]>
+ㄴ세계일보 2026.08.03
+<https://www.etoday.co.kr/news/view/2610106|AI 서버 하나에 자동차 부품 수 43배...데이터센터가 만든 新산업 [AI 경제권의 탄생 ①]>
+ㄴ이투데이 2026.08.03 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/industry/2026/08/03/20260803031004|''바다 위 데이터센터'' K조선 새 먹거리 부상>
+ㄴ서울신문 2026.08.02
+<https://www.asiae.co.kr/news/view.htm?idxno=2026073015401446812|2분기 부진 GS건설...주가 향방은 AI데이터센터에[주末머니]>
+ㄴ아시아경제 2026.08.02
+<https://www.etnews.com/20260731000187|양한광 국립암센터 원장 “암 데이터.AI 결합, 지금이 세계 선도할 골든타임”>
+ㄴ전자신문 2026.08.02
+<https://www.etoday.co.kr/news/view/2610171|KB證 "반도체, 최소 3년간 공급 부족 지속?삼전·SK하닉 최선호주">
+ㄴ이투데이 2026.08.03
+<https://www.news1.kr/it-science/cc-newmedia/6246582|AI DC 완판 흥행 속 1.3조 추가 투자...LGU+, 시장 선점 속도>
+ㄴ뉴스1 2026.08.03
+<https://www.segye.com/newsView/20260802511586|[경제 단신] 현대엔지니어링, 새 가치체계 선포 외>
+ㄴ세계일보 2026.08.03 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2610107|''기가스케일러''의 시대...국가를 넘어선 AI 기업들 [AI 경제권 탄생 ②]>
+ㄴ이투데이 2026.08.03 관련뉴스 1건
+<https://www.news1.kr/local/gwangju-jeonnam/6246536|[오늘의 주요일정] 전남광주(3일, 월)>
+ㄴ뉴스1 2026.08.03
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-03 09:26:32 KST ===
+Message TS: 1785716792.855039
+_[텔레그램 로그 2026-08-03] 에이닷비즈뉴스레터_
+
+[09:00]
+*8월 3일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.etoday.co.kr/news/view/2610142|오픈AI "차세대 모델로 수학 난제 10개 해결"...아스트라 출시 예고 [마켓햇]>
+ㄴ이투데이 2026.08.03 관련뉴스 2건
+<https://www.sedaily.com/article/20074844|체급 깬 딥시크...8배 큰 AI 모델 성능 추월>
+ㄴ서울경제 2026.08.02
+<https://biz.heraldcorp.com/article/10828418|관악구, 관악S밸리 기업 공공시장 진출 지원>
+ㄴ헤럴드경제 2026.08.03
+<https://www.sedaily.com/article/20074758|[단독] 합참, 우크라軍 도입한 ‘무기 구매 사이트’ 개설한다[이현호의 밀리터리!톡]>
+ㄴ서울경제 2026.08.03
+<https://www.segye.com/newsView/20260802511586|[경제 단신] 현대엔지니어링, 새 가치체계 선포 외>
+ㄴ세계일보 2026.08.03 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026080218272174965|박관열 시장 "광주만 희생하는 시대 끝내고 AI·반도체 미래도시 만들 것">
+ㄴ아시아경제 2026.08.03
+<https://www.seoul.co.kr/news/economy/industry/2026/08/03/20260803030003|"집, 짓지 말고 홈쇼핑 주문하세요">
+ㄴ서울신문 2026.08.02
+<https://www.seoul.co.kr/news/economy/industry/2026/08/03/20260803031003|앤트로픽에 왕좌 빼긴 오픈AI... 수익성 두고 ''2차 주도권'' 경쟁>
+ㄴ서울신문 2026.08.02
+<https://www.khan.co.kr/article/202608022044015|홈쇼핑에서 집도 판다...LG전자의 ‘스마트코티지’ 라이브쇼>
+ㄴ경향신문 2026.08.02 관련뉴스 1건
+<https://www.khan.co.kr/article/202608022039025|인간 통제 벗어난 ‘AI 일탈’에 빅테크 비상>
+ㄴ경향신문 2026.08.02 관련뉴스 1건
+
+*AI에이전트*
+신규 10건
+<https://www.sportschosun.com/entertainment/2026-08-02/202608020100009840000562|NC AI, '시키지 않아도 일하는 AI' 개발 나선다...국가 에이전틱 AI 사업 주관기관 선정>
+ㄴ스포츠조선 2026.08.02
+<https://www.etnews.com/20260731000141|에이전틱 AI로 CX 시장 공략...제네시스, 한국 시장 확대>
+ㄴ전자신문 2026.08.02
+<https://www.etoday.co.kr/news/view/2610142|오픈AI "차세대 모델로 수학 난제 10개 해결"...아스트라 출시 예고 [마켓햇]>
+ㄴ이투데이 2026.08.03 관련뉴스 2건
+<https://www.news1.kr/it-science/general-it/6245588|광고.커머스가 견인한 네카오 2분기 실적...하반기 AI 수익화 주목>
+ㄴ뉴스1 2026.08.03
+<https://biz.chosun.com/distribution/channel/2026/08/03/G7QVS2GASRAWRFY52ZW3DOL7MQ/|[인터뷰] ‘1만개 상품 중 내게 맞는 것만 쏙’... 배민의 검색 업그레이드 비결>
+ㄴ조선비즈 2026.08.03
+<https://www.news1.kr/finance/general-stock/6246606|'삼전닉스' 급락·실적 맞힌 족집게 증권사들..."지금은 저평가">
+ㄴ뉴스1 2026.08.03
+<https://www.fnnews.com/news/202608021824289059|[기고] 추론의 시대, 개방형 AI 컴퓨팅 생태계로>
+ㄴ파이낸셜뉴스 2026.08.02
+<https://www.khan.co.kr/article/202608021553001|"판도라 상자 열었다"...구글 가짜 위성사진 논란에 빅테크들 AI 통제 비상>
+ㄴ경향신문 2026.08.02 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10828229|“한국, 온체인 금융허브 조건 다 갖췄다”...체인링크 창업자가 꼽은 ‘마지막 퍼즐’ [크립토360]>
+ㄴ헤럴드경제 2026.08.02
+<https://www.etnews.com/20260731000138|KB국민은행, 아마존.구글 클라우드 잇는 AI 데이터망 구축한다>
+ㄴ전자신문 2026.08.02
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-03 09:26:02 KST ===
+Message TS: 1785716762.747529
+_[텔레그램 로그 2026-08-03] 삼성 글로벌 AI/SW 뉴스_
+
+[22:09]
+*[삼성 이영진] 글로벌 AI/SW 뉴스* :robot_face: *(26/8/3)*
+
+■ 오픈AI, 차세대 내부 모델 Astra가 수학 및 이론컴퓨터과학 분야에서 최소 10년 이상 진전이 없었던 난제 10개에 대한 새로운 결과를 도출했다고 발표
+
+■ 오픈AI, AI 투자 확대와 시장 환경을 고려해 IPO를 내년으로 연기하는 방안을 검토하고 있다는 보도
+
+■ 오픈AI-앤스로픽, EU 집행위원회와 AI 관련 해킹 사고 대응을 위해 긴밀히 접촉 중
+
+■ 오픈AI, 활성 이용자 10억 명 돌파 및 모델 도입 기업 200만 곳 돌파 발표
+
+■ 오픈AI, 허깅페이스 해킹 조사 과정에서 AI 에이전트의 추가적 샌드박스 탈출 사례를 확인해 조사 중이며, 현재까지 외부 네트워크 유출은 확인되지 않음
+
+■ 아마존, 오픈AI에 대한 350억 달러 추가 투자 완료. 지분 5% 확보
+
+■ 그렉 브록먼, ChatGPT를 단순한 AI 챗봇이 아니라 인간의 사고와 생산성을 크게 확장하는 '사고 증폭기'로 규정
+
+■ 구글, Gemini Spark를 미국 외 Google AI Pro 구독자까지 확대
+
+■ 이란 혁명수비대, AWS 바레인 데이터센터가 미군의 정보, 클라우드 지원에 활용됐다며 보복 공격 대상이었다고 주장
+
+감사합니다.
+
+<https://t.me/Samsung_Global_AI_SW|t.me/Samsung_Global_AI_SW>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-08-03 09:10:58 KST ===
+Message TS: 1785715858.135539
+:robot_face: _오늘의 AI/기술 트렌드 브리핑_
+날짜: 2026-08-03 | 수집 기간: 어제+오늘 (2026-08-02 ~ 2026-08-03)
+
+:microscope: _모델 & 연구_
+
+<https://www.techtimes.com/articles/322710/20260802/openais-astra-solves-ten-decade-old-math-problems-machine-checkable-lean-proofs.htm|OpenAI's Astra Solves Ten Decade-Old Math Problems With Machine-Checkable Lean Proofs> (2026-08-02) — 오픈AI 차세대 연구형 모델 '아스트라'가 10년 이상 미해결이던 수학·이론컴퓨터과학 난제 10개를 풀어내며 리인(Lean) 기반 기계검증 증명을 생성, 일부는 필즈상급 난이도로 평가됨. :boom: 임팩트 4/5
+
+:robot_face: _AI Agent_
+
+<https://www.aitimes.com/news/articleView.html?idxno=213447|구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원> (2026-08-02) — 구글이 개인용 AI 에이전트 '제미나이 스파크'를 크롬 브라우저와 직접 연동해 로그인 계정 기반 다단계 웹 작업 자동화를 지원하고, 서비스 제공국을 160개국 이상으로 확대함. :boom: 임팩트 3/5
+
+:closed_lock_with_key: _AI 보안_
+
+<https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm|California AI Transparency Act Operative: Midjourney Has No Watermark, Fines Start Today> (2026-08-02) — 캘리포니아주 SB 942(AI 투명성법)가 시행되며 월 100만 이용자 이상 생성형 AI 사업자에 콘텐츠 출처 워터마킹 의무 부과, 위반 시 하루 5000달러부터 벌금 부과. 미들저니 등 일부 서비스는 시행일 기준 미준수 상태로 확인됨. :boom: 임팩트 3/5
+
+:briefcase: _AI 산업 동향 (M&A·계약·투자)_
+
+<https://www.aitimes.com/news/articleView.html?idxno=213448|아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보> (2026-08-02) — 아마존이 오픈AI에 약정한 500억달러(약 72조원) 투자를 IPO·AGI 조건 미충족에도 조기 전액 집행, 지분 약 5%를 확보해 최대 외부주주로 부상. 같은 공시에서 앤트로픽에도 최대 330억달러 투자 약정 중 180억달러를 이미 집행한 사실도 함께 공개됨. :boom: 임팩트 5/5
+
+:pushpin: _오늘의 핵심 인사이트_
+
+빅테크의 AI 연구소 지분 투자가 클라우드·반도체 공급 계약과 결합되며 '투자자이자 인프라 공급자'라는 이중 구조가 굳어지는 중. 동시에 캘리포니아 AI 투명성법 시행으로 콘텐츠 출처 규제가 본격화, EU AI Act 등 글로벌 규제 동조화 흐름과 맞물려 컴플라이언스 부담이 커질 전망.
+
+_※ 오늘은 엄격한 발행일 검증(2일 이내) 기준을 통과한 기사가 소수로 확인되어, AI DC·Physical AI·Enterprise AI·컨퍼런스·국책과제·개발자 커뮤니티 섹션은 검증 가능한 신규 기사가 없어 생략함._
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

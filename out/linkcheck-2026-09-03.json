@@ -1,0 +1,175 @@
+[
+ {
+  "headline": "구글, 보안 특화 신규 AI모델 선보여…취약점 탐지와 자동 패치 강점",
+  "url": "https://n.news.naver.com/mnews/article/138/0002239994",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "구글, 보안 특화 신규 AI모델 선보여…취약점 탐지와 자동 패치 강점",
+  "unreached": false
+ },
+ {
+  "headline": "월드랩스, 사진 몇 장으로 3D 공간 만드는 AI '아틀라스' 공개",
+  "url": "https://zdnet.co.kr/view/?no=20260902153722",
+  "src": "samsung",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "월드랩스, 사진 몇 장으로 3D 공간 만드는 AI '아틀라스' 공개 - ZDNet korea",
+  "unreached": false
+ },
+ {
+  "headline": "정부, 사이버 보안 특화 AI 모델 개발 사업자로 네이버 선정",
+  "url": "https://n.news.naver.com/mnews/article/277/0005811247",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "정부, 사이버 보안 특화 AI 모델 개발 사업자로 네이버 선정(상보)",
+  "unreached": false
+ },
+ {
+  "headline": "미소정보기술, 공공 R&D 예산심의 AI 시스템 개발 수주...독파모 기반 구축",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697822",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "미소정보기술, 공공 R&amp;D 예산심의 AI 시스템 개발 수주...독파모 기반 구축 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "국방부 '국방 소버린 AI' 본격 착수… 판교에 첫 실증 거점",
+  "url": "https://www.newscj.com/news/articleView.html?idxno=3429666",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "국방부 ‘국방 소버린 AI’ 본격 착수… 판교에 첫 실증 거점 < IT·전자·과학 < 경제 < 기사본문 - 천지일보",
+  "unreached": false
+ },
+ {
+  "headline": "엔비디아, AWS에 GPU 200만개 공급…피지컬 AI 공략",
+  "url": "https://n.news.naver.com/mnews/article/011/0004658141",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "엔비디아, AWS에 GPU 200만개 공급…피지컬 AI 공략",
+  "unreached": false
+ },
+ {
+  "headline": "한전, 삼성·SK에 전기료 25조 선납 제안…반도체 전력망에 투입",
+  "url": "https://n.news.naver.com/mnews/article/011/0004658118",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "한전, 삼성·SK에 전기료 25조 선납 제안…반도체 전력망에 투입",
+  "unreached": false
+ },
+ {
+  "headline": "기후싱크탱크, 정부 'AI 데이터센터 20GW' 수요 분석 \"확인 물량 2.5GW\"",
+  "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446204",
+  "verdict": "OK",
+  "reason": "제목 일치 70%",
+  "status": 200,
+  "ratio": 0.7,
+  "page_title": "기후싱크탱크 정부서 발표한 &#39;AI 데이터센터 20GW&#39; 수요 분석, &quot;확인 물량은 2.5GW에 불과&quot;",
+  "unreached": false
+ },
+ {
+  "headline": "로봇이 박스에 완충재 '척척'...CJ대한통운, 물류현장에 휴머노이드 투입",
+  "url": "https://n.news.naver.com/mnews/article/016/0002692148",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "로봇이 박스에 완충재 ‘척척’…CJ대한통운, 물류현장에 휴머노이드 투입",
+  "unreached": false
+ },
+ {
+  "headline": "中 완성차 톱10 모두 휴머노이드 사업 진출...제조업 공급망 로봇으로 이동",
+  "url": "https://n.news.naver.com/mnews/article/030/0003462963",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "中 완성차 톱10 모두 휴머노이드 사업 진출…제조업 공급망 로봇으로 이동",
+  "unreached": false
+ },
+ {
+  "headline": "NC AI, '인간 동작' 로봇에 심는다…자율형 휴머노이드 국책과제 선정",
+  "url": "https://n.news.naver.com/mnews/article/011/0004658116",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "NC AI, ‘인간 동작’ 로봇에 심는다…자율형 휴머노이드 국책과제 선정[로보 인사이트]",
+  "unreached": false
+ },
+ {
+  "headline": "엔비디아, 오픈소스 AI 플랫폼 허깅페이스 19조원에 인수",
+  "url": "https://n.news.naver.com/mnews/article/015/0005328118",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "&quot;엔비디아, 오픈소스 AI 플랫폼 허깅페이스 19조원에 인수&quot;",
+  "unreached": false
+ },
+ {
+  "headline": "맞춤 AI칩도 자사 생태계로…엔비디아, 미디어텍에 4.8조원 베팅",
+  "url": "https://n.news.naver.com/mnews/article/003/0014163835",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "맞춤 AI칩도 자사 생태계로…엔비디아, 미디어텍에 4.8조원 베팅",
+  "unreached": false
+ },
+ {
+  "headline": "미국 정부, 뉴욕타임스·오픈AI 소송서 오픈AI 손 들어줘",
+  "url": "https://v.daum.net/v/20260903053720503",
+  "src": "samsung",
+  "verdict": "OK",
+  "reason": "제목 일치 50%",
+  "status": 200,
+  "ratio": 0.5,
+  "page_title": "미국 정부, 뉴욕타임스·오픈AI 소송서 오픈AI 손 들어줘",
+  "unreached": false
+ },
+ {
+  "headline": "디지털트윈 넘어 데이터센터까지 네이버, 사우디 'AI 영토' 넓힌다",
+  "url": "https://v.daum.net/v/20260902160838013",
+  "src": "newsclips",
+  "verdict": "OK",
+  "reason": "제목 일치 62%",
+  "status": 200,
+  "ratio": 0.625,
+  "page_title": "네이버, 사우디 AI 영토 넓힌다…소버린·데이터센터 청사진",
+  "unreached": false
+ },
+ {
+  "headline": "'토큰 팩토리' 띄우는 KT… AI 사용량으로 수익 낸다",
+  "url": "https://v.daum.net/v/20260902181253432",
+  "src": "newsclips",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "'토큰 팩토리' 띄우는 KT… AI 사용량으로 수익 낸다",
+  "unreached": false
+ }
+]

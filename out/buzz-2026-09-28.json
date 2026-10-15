@@ -1,0 +1,474 @@
+{
+ "date": "2026-09-28",
+ "terms": [
+  {
+   "term": "Akamai",
+   "norm": "akamai",
+   "n_outlets": 30,
+   "n_today": 7,
+   "outlets": [
+    "Barron's",
+    "Benzinga",
+    "Bloomberg",
+    "Breakingthenews.net",
+    "CXOToday.com",
+    "Crypto Briefing",
+    "Finimize",
+    "GlobeNewswire"
+   ],
+   "days": 5,
+   "first": "2026-09-22",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance Australia(09-22) | Akamai (AKAM) Wants to Be the Bouncer for Your AI Agents",
+    "SecurityBrief UK(09-23) | Akamai warns of blind spots in workplace agentic AI",
+    "CXOToday.com(09-24) | From Identity to Action: Akamai Urges CISOs to Govern Autonomous AI Agent Behavi",
+    "dqindia.com | AI at scale is becoming an inference problem, says Akamai's Mitesh Jain",
+    "dqindia.com | Akamai warns of AI browser risks as enterprise adoption crosses 40%",
+    "The Boston Globe | Akamai expands deal to $11.6 billion partnership with Anthropic"
+   ],
+   "score": 22
+  },
+  {
+   "term": "제브",
+   "norm": "제브",
+   "n_outlets": 8,
+   "n_today": 2,
+   "outlets": [
+    "AI타임스",
+    "IT조선",
+    "chosun.com",
+    "startuprecipe.co.kr",
+    "tokenpost.kr",
+    "아시아경제",
+    "지디넷코리아",
+    "한국강사신문"
+   ],
+   "days": 6,
+   "first": "2026-09-21",
+   "reaction": 8,
+   "community": 0,
+   "titles": [
+    "AI타임스(09-21) | “문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
+    "tokenpost.kr(09-21) | 제브 공개 일주일 만에 오픈소스 구현 잇따라",
+    "startuprecipe.co.kr(09-22) | 타입세이프AI, LLM보다 빠르고 저렴한 모델 ‘제브’ 출시",
+    "AI타임스 | \"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불",
+    "IT조선 | “긴 답변 대신 필요한 판단만”… 개발자들 열광한 ‘제브’ 뭐길래",
+    "AI타임스 | 말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\""
+   ],
+   "score": 22
+  },
+  {
+   "term": "Nscale Files",
+   "norm": "nscalefiles",
+   "n_outlets": 58,
+   "n_today": 2,
+   "outlets": [
+    "Benzinga",
+    "Bitget",
+    "Bloomberg.com",
+    "Breakingthenews.net",
+    "Briefs Finance",
+    "CNA",
+    "CNBC",
+    "City AM"
+   ],
+   "days": 6,
+   "first": "2026-09-21",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Bitget(09-21) | AI data center company Nscale files for US IPO, Nvidia holds over 5% stake",
+    "The Tech Buzz(09-21) | AI Cloud Provider Nscale Files for IPO in Hot Neocloud Market",
+    "finance.biggo.com(09-21) | Nvidia-Backed UK AI Cloud Firm Nscale Files for NYSE IPO, Targeting Valuation Up",
+    "Stocktwits | Nvidia-Backed Cloud Platform Nscale Files For IPO — NVDA Stock In Focus",
+    "tokenpost.com | Nscale Files for NYSE IPO With $3.1 Billion Financing Agreements"
+   ],
+   "score": 18
+  },
+  {
+   "term": "V900",
+   "norm": "v900",
+   "n_outlets": 25,
+   "n_today": 3,
+   "outlets": [
+    "24/7 Wall St.",
+    "AI포스트",
+    "Crypto Briefing",
+    "DailyCoin",
+    "English Bombay Samachar",
+    "FinanceFeeds",
+    "Investing.com 한국어",
+    "Mathrubhumi English"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "디지털투데이(09-23) | 알리바바, 자체 AI 칩 '전우 V900' 공개…2032년까지 데이터센터 20GW 확충",
+    "포커스온경제(09-23) | 알리바바, 신형 AI칩 ‘젠우 V900’ 공개-엔비디아에 정면 도전",
+    "뉴시스(09-23) | [올댓차이나] 알리바바, 차세대 AI칩 ‘진우 V900’ 내년 1분기 투입…AI 인프라 확충",
+    "위키리크스한국 | [AI 프리즘] 알리바바, 초고성능 신형 AI칩 '진우 V900' 무기로, 독자 인프라 확장 가속화",
+    "TIKR.com | Alibaba Stock Jumps After Unveiling New Zhenwu V900 AI Chip and Cloud Expansion",
+    "English Bombay Samachar | Alibaba Unveils Zhenwu V900 AI Chip, Plans 10-Trillion-Parameter Qwen Model"
+   ],
+   "score": 18
+  },
+  {
+   "term": "Crispr",
+   "norm": "crispr",
+   "n_outlets": 18,
+   "n_today": 3,
+   "outlets": [
+    "Al Jazeera",
+    "Anthropic",
+    "Digital Watch Observatory",
+    "HN",
+    "Seeking Alpha",
+    "The Next Web",
+    "The Verge",
+    "TradingView"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "Unite.AI(09-24) | Anthropic, Claude가 CRISPR와 유사한 새로운 효소 시스템을 발견했다고 발표",
+    "The Verge(09-24) | Anthropic’s biolab made a discovery it’s comparing to Crispr",
+    "Anthropic(09-24) | Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "더밀크 | 앤트로픽 \"AI가 CRISPR급 발견\" 발표...생명공학의 '게임체인저' 되나?",
+    "Anthropic | Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "varindia | Anthropic says Claude spotted a novel CRISPR-like enzyme system in bacterial vir"
+   ],
+   "score": 18
+  },
+  {
+   "term": "60 Minutes",
+   "norm": "60minutes",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "CBS News",
+    "Comic Sands"
+   ],
+   "days": 4,
+   "first": "2026-09-24",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "CBS News(09-21) | 60 Minutes Transcript: The data center uproar",
+    "CBS News(09-21) | Data center opposition a rare issue uniting Americans across the political divid",
+    "Comic Sands(09-24) | Lifelong Texas Republican Goes Viral With Criticism Of Proposed AI Data Center O",
+    "Comic Sands | Lifelong Texas Republican Goes Viral With Criticism Of Proposed AI Data Center O"
+   ],
+   "score": 18
+  },
+  {
+   "term": "LLM 재킹",
+   "norm": "llm재킹",
+   "n_outlets": 4,
+   "n_today": 4,
+   "outlets": [
+    "M이코노미뉴스",
+    "yna.co.kr",
+    "글로벌이코노믹",
+    "매일신문"
+   ],
+   "days": 1,
+   "first": "2026-09-28",
+   "reaction": 4,
+   "community": 0,
+   "titles": [
+    "yna.co.kr | \"고가 AI모델·서버 무단 탈취…다크웹서 'LLM 재킹' 범죄 급증\"",
+    "M이코노미뉴스 | 해커들, AI 계정·클라우드 자원까지 훔친다...‘LLM 재킹’ 급증",
+    "매일신문 | LLM 재킹 급증…앤트로픽·구글·오픈AI 계정 다크웹서 97% 할인 판매",
+    "글로벌이코노믹 | 해커들 AI 계정·서버 노린다…‘LLM 재킹’ 급증"
+   ],
+   "score": 17
+  },
+  {
+   "term": "챗GPT 열풍",
+   "norm": "챗gpt열풍",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "businesspost.co.kr",
+    "비즈니스포스트"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "businesspost.co.kr(09-24) | 메타의 AI 에이전트 '챗GPT 열풍' 재현 가능성, 삼성전자 SK하이닉스에 기회 커진다",
+    "비즈니스포스트(09-25) | 메타의 AI 에이전트 '챗GPT 열풍' 재현 가능성, 삼성전자 SK하이닉스에 기회 커진다",
+    "비즈니스포스트 | 메타의 AI 에이전트 '챗GPT 열풍' 재현 가능성, 삼성전자 SK하이닉스에 기회 커진다"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Terms Everyone Is Getting Wrong",
+   "norm": "termseveryoneisgettingwrong",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Forbes",
+    "forbes.com"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "forbes.com(09-24) | The Big AI Terms Everyone Is Getting Wrong: Open Source, Open Weight And Proprie",
+    "Forbes(09-25) | The Big AI Terms Everyone Is Getting Wrong: Open Source, Open Weight And Proprie",
+    "Forbes | The Big AI Terms Everyone Is Getting Wrong: Open Source, Open Weight And Proprie"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Open Weight And Proprietary",
+   "norm": "openweightandproprietary",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Forbes",
+    "forbes.com"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "forbes.com(09-24) | The Big AI Terms Everyone Is Getting Wrong: Open Source, Open Weight And Proprie",
+    "Forbes(09-25) | The Big AI Terms Everyone Is Getting Wrong: Open Source, Open Weight And Proprie",
+    "Forbes | The Big AI Terms Everyone Is Getting Wrong: Open Source, Open Weight And Proprie"
+   ],
+   "score": 17
+  },
+  {
+   "term": "뮤즈 참",
+   "norm": "뮤즈참",
+   "n_outlets": 11,
+   "n_today": 6,
+   "outlets": [
+    "AI타임스",
+    "TradingView",
+    "chosun.com",
+    "yna.co.kr",
+    "글로벌이코노믹",
+    "디일렉",
+    "디지털투데이",
+    "마켓인"
+   ],
+   "days": 2,
+   "first": "2026-09-25",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "AI타임스(09-25) | 메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
+    "토큰포스트(09-25) | 메타, 주머니형 AI 기기 ‘뮤즈 참’ 공개…AI 하드웨어 경쟁 본격화",
+    "연합뉴스(09-25) | '뮤즈 참'(Muse Charm)'·새 VR글라스를 소개합니다…메타 커넥트 2026",
+    "chosun.com | 화면 속 캐릭터와 대화… 휴대용 AI 기기 ‘뮤즈 참’",
+    "디일렉 | 메타, 키링형 AI 기기 '뮤즈 참' 발표",
+    "글로벌이코노믹 | 메타, '뮤즈 참' 공개에 750달러 돌파…옵션 시장선 '상하한선 매도' 전략 주목"
+   ],
+   "score": 16
+  },
+  {
+   "term": "Drone Maker Tekever Hits",
+   "norm": "dronemakertekeverhits",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "NDTV Profit"
+   ],
+   "days": 3,
+   "first": "2026-09-24",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "NDTV Profit(09-24) | AI Drone Maker Tekever Hits $6.4 Billion Valuation Amid Europe's Military Spendi",
+    "NDTV Profit(09-25) | AI Drone Maker Tekever Hits $6.4 Billion Valuation Amid Europe's Military Spendi",
+    "NDTV Profit | AI Drone Maker Tekever Hits $6.4 Billion Valuation Amid Europe's Military Spendi"
+   ],
+   "score": 16
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Toyota",
+   "norm": "toyota",
+   "n_outlets": 21,
+   "n_today": 3,
+   "outlets": [
+    "AI News",
+    "AIM Media House",
+    "Ars Technica",
+    "Autoblog",
+    "Automotive News",
+    "Automotive Testing Technology International",
+    "Automotive World",
+    "CNBC"
+   ],
+   "days": 6,
+   "first": "2026-09-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "AIM Media House(09-21) | Toyota Plans 400,000 Humanoid Robots for Factory Automation",
+    "Automotive News(09-21) | Toyota Group to invest $6.42 billion annually in 400,000-robot global workforce",
+    "Autoblog(09-21) | Toyota Estimates Spending $6.4 Billion a Year on 400,000 Robots",
+    "Yahoo Finance | Toyota Motor (TSE:7203) Plans 400,000 Humanoid Robots Across Global Plants",
+    "simplywall.st | Did Humanoid Robot Rollout Just Shift Toyota's (TSE:7203) Investment Narrative?",
+    "repairerdrivennews.com | Toyota to deploy AI-powered robots at factories worldwide"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Neysa",
+   "norm": "neysa",
+   "n_outlets": 16,
+   "n_today": 7,
+   "outlets": [
+    "AiThority",
+    "Bernama",
+    "BernamaBiz",
+    "Communications Today",
+    "ET Enterprise AI",
+    "Fierce Network",
+    "Macau Business",
+    "The Economic Times"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Manila Times(09-23) | Mavenir and Neysa Partner to Bring AI-Native Infrastructure to Operators, Enterp",
+    "The Economic Times(09-23) | Mavenir, Neysa partner to offer sovereign AI infrastructure to telcos, enterpris",
+    "스페셜타임스(09-24) | Mavenir, Neysa GPU 인프라 결합해 소버린 AI 과금 서비스로 전환 지원",
+    "newsphere.kr | Mavenir·Neysa, GPU를 과금형 AI 서비스로 바꾼다",
+    "fierce-network.com | Mavenir and Neysa target telcos, enterprise with new Sovereign AI stack",
+    "ET Enterprise AI | Mavenir, Neysa partner to offer sovereign AI infrastructure to enterprises, tele"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Rafale",
+   "norm": "rafale",
+   "n_outlets": 15,
+   "n_today": 6,
+   "outlets": [
+    "Aviacionline",
+    "Aviation A2Z",
+    "Aviation News.eu",
+    "Defence Industry Europe",
+    "Defence Security Asia",
+    "Defensemirror.com",
+    "EurAsian Times",
+    "FlightGlobal"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "dassault-aviation.com(09-23) | New Artificial Intelligence Takes Flight on Dassault Aviation’s Rafale",
+    "Defensemirror.com(09-23) | Dassault Flight-Tests Sovereign AI on Rafale Fighter",
+    "marketscreener.com(09-23) | Dassault Aviation Flight-Tests Two New Sovereign Ai Algorithms on the Rafale Fig",
+    "FlightGlobal | Dassault Aviation tests sovereign AI algorithms on Rafale fighter",
+    "MiGFlug | Rafale Flies With AI: Dassault Tests Two Cockpit Algorithms",
+    "Defence Security Asia | Rafale Flies Sovereign AI as France Accelerates Fighter Upgrades"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Brahma",
+   "norm": "brahma",
+   "n_outlets": 15,
+   "n_today": 8,
+   "outlets": [
+    "BW Disrupt",
+    "Business Standard",
+    "ET Enterprise AI",
+    "ET Entrepreneur",
+    "Exchange4Media",
+    "Inc42",
+    "Indian Startup News",
+    "Kalkine India"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Economic Times(09-23) | Brahma AI raises $150m at $2b valuation in multiples-led round",
+    "Inc42(09-24) | Multiples Leads $150 Mn Funding Round In Brahma AI",
+    "ET Entrepreneur(09-24) | Brahma AI raises $150 mn funding led by Multiples",
+    "ET Entrepreneur | Funding Wrap: Brahma AI, ByteAsk, Dextr AI raise fresh capital",
+    "Inc42 | Multiples Leads $150 Mn Funding Round In Brahma AI",
+    "Indian Startup News | Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 mi"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Got Talent",
+   "norm": "gottalent",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "Euronews.com",
+    "Firstpost",
+    "Interesting Engineering",
+    "Kuwait Times",
+    "Malay Mail",
+    "Moneycontrol.com",
+    "NDTV",
+    "The Peninsula Qatar"
+   ],
+   "days": 6,
+   "first": "2026-09-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "조선일보(09-21) | Unitree Robotics' Humanoid Advances to America's Got Talent Finals",
+    "Moneycontrol.com(09-21) | Chinese humanoid robots turn martial arts into a high-tech spectacle on America’",
+    "NDTV(09-22) | Humanoid Robots Show Off Martial Arts Moves On America's Got Talent, Earn Golden",
+    "Interesting Engineering | Unitree humanoid robots return to America’s Got Talent for Chinese dance finale"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Cognex",
+   "norm": "cognex",
+   "n_outlets": 13,
+   "n_today": 2,
+   "outlets": [
+    "DC Velocity",
+    "IoT News",
+    "MVPro Media",
+    "PR Newswire",
+    "Pulse 2.0",
+    "Robotics & Automation News",
+    "The Jerusalem Post",
+    "TradingView"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Pulse 2.0(09-23) | Cognex To Acquire RealSense For $500 Million To Expand Into Robotic Perception A",
+    "Unite.AI(09-23) | Cognex to Acquire RealSense in $500M All-Cash Robotic Perception Deal",
+    "PR Newswire(09-23) | Cognex to Acquire RealSense, Expanding Machine Vision Leadership into High-Growt",
+    "jpost.com | Shifting to physical AI, Cognex to acquire Intel spinoff RealSense in $500 milli",
+    "DC Velocity | As robotics market expands, Cognex acquires RealSense for $500 million"
+   ],
+   "score": 10
+  }
+ ]
+}

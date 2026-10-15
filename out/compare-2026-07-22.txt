@@ -1,0 +1,31 @@
+실제 브리프 11건 vs 파이프라인 48클러스터
+======================================================================
+PASS [16점 /   7위] Google releases three new Gemini models — but 
+        매칭: 구글, '제미나이3.6 플래시' 등 경량 AI 모델 3종 출시 (포함도 0.00, 엔티티 2)
+        근거: medium+2(출시) 보도수+4(28) 교차소스+6(adot+gnews+rss+samsung) 큐레이션+2 복수쿼리+2(5)
+없음                    Meta’s AI Incubator Is Developing an OpenRoute
+없음                    [주목 e-AI] LG ‘엑사원(EXAONE)→AX→윤리’ 3축 AI시대 재편…“산
+없음                    공연 추천도 택배 조회도…카카오 찾는 AI 비서들
+PASS [17점 /   3위] Microsoft and Mistral expand strategic partner
+        매칭: “유럽 주권형 AI 시대 연다”...마이크로소프트·미스트랄, 수십억 달러 규모 전략적  (포함도 0.00, 엔티티 2)
+        근거: high+3(억 달러) medium+2(파트너십) 보도수+4(12) 교차소스+4(gnews+rss+samsung) 큐레이션+2 복수쿼리+2(5)
+없음                    AMD just landed its biggest AI deal yet
+없음                    Tesla spins up robotaxi pilots in Orlando and 
+없음                    OpenAI and Hugging Face partner to address sec
+없음                    Critical ServiceNow AI Platform Flaw Exploited
+없음                    CuspAI raises $450 million Series B for AI mat
+없음                    OpenAI CEO Sam Altman to brief Trump administr
+
+----------------------------------------------------------------------
+수집 재현율   2/11 (18%)
+임계 통과율   2/11 (18%)  (min-score=6)
+실린 기사 점수: 최저 16 / 중앙 17 / 최고 17
+   임계  3점이면 2/11 통과 (18%)
+   임계  4점이면 2/11 통과 (18%)
+   임계  5점이면 2/11 통과 (18%)
+   임계  6점이면 2/11 통과 (18%)
+   임계  7점이면 2/11 통과 (18%)
+   임계  8점이면 2/11 통과 (18%)
+   임계  9점이면 2/11 통과 (18%)
+   임계 10점이면 2/11 통과 (18%)
+   임계 11점이면 2/11 통과 (18%)

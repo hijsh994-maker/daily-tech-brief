@@ -1,0 +1,176 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-14 09:43:11 KST === 
+Message TS: 1791938591.062759
+_[텔레그램 로그 2026-10-14] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 9개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 구글, 최상위 모델 '제미나이 4 아르곤' 확대 출시 (전자신문)
+o 링크: <https://www.etnews.com/20261014000003|etnews.com/20261014000003>
+2. 구글 플레이, 나만을 위한 비공개 바이브 코딩 앱 지원 시작 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/news/articleView.html?idxno=706908|digitaltoday.co.kr/news/articleView.html?idxno=706908>
+3. 오픈AI 직원, 임원 회의실에 몰래 녹음장치 설치 혐의…FBI 체포·기소 '보안 비상' (중앙이코노미뉴스)
+o 링크: <https://www.joongangenews.com/news/articleView.html?idxno=554702|joongangenews.com/news/articleView.html?idxno=554702>
+4. OpenAI가 보안 기업 Trail of Bits 인수 협상을 진행 중이다 (TechFlow)
+o 링크: <https://techflowpost.com/ko-KR/newsletter/139853|techflowpost.com/ko-KR/newsletter/139853>
+5. AI labs sought control over what outside evaluators publish, Reuters says (The Next Web)
+o 링크: <https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control|thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control>
+6. Microsoft reportedly is reorganising the leadership of its Azure cloud unit (The Next Web)
+o 링크: <https://thenextweb.com/news/microsoft-azure-reorganisation-leadership-ulag|thenextweb.com/news/microsoft-azure-reorganisation-leadership-ulag>
+7. 마이크로소프트 애저 20% 비용 절감 논의 보도…회사는 부인 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/ai/422296|tokenpost.kr/news/ai/422296>
+8. Oracle Proposes Up To $55M In Annual Power Bill Credits, Reaffirms Bloom Energy's Role At Project Jupiter (Asianet Newsable/Stocktwits)
+o 링크: <https://newsable.asianetnews.com/markets/oracle-proposes-up-to-55m-in-annual-power-bill-credits-reaffirms-bloom-energy-s-role-at-project-jupiter-articleshow-i2dzhor|…asianetnews.com/…/oracle-proposes-up-to-55m-in-annual-power-bill-credits-reaffirms-bloom-energy-s-role-at-project-jupiter-articleshow…>
+9. Oracle asks FERC to fast-track gas pipeline for New Mexico AI data center (Crypto Briefing)
+o 링크: <https://cryptobriefing.com/oracle-gas-pipeline-new-mexico-data-center/|cryptobriefing.com/oracle-gas-pipeline-new-mexico-data-center>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-14 09:41:43 KST === 
+Message TS: 1791938503.232509
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.etoday.co.kr/news/view/2635322|AI 반도체는 뜨거운데 스마트폰은 식었다...부품주 희비 속 동반 급락>
+ㄴ이투데이 2026.10.14
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101314544810108|"전기 덜 쓰고 AI 연산은 더 빠르게"...차세대 반도체 개발 도전>
+ㄴ아시아경제 2026.10.14 관련뉴스 1건
+<https://biz.chosun.com/about-investing/2026/10/14/HD7R2LFA5BFR5NN4I4KIMGTCFY/|[투자노트] 메모리 가격 하락에 AI 투자 불안까지... 반도체주 반등 가능할까>
+ㄴ조선비즈 2026.10.14
+<https://www.seoul.co.kr/news/economy/distribution/2026/10/14/20261014032003|고객 늘리기 vs 단골 지키기... 기업들 ''AI 에이전트'' 딜레마>
+ㄴ서울신문 2026.10.14 관련뉴스 3건
+<https://www.etnews.com/20261013000217|[라이징 2026] 헬러마크 워크데이 CAIO "HR·IT 업무, AI 에이전트 하나로 해결">
+ㄴ전자신문 2026.10.13
+<https://www.khan.co.kr/article/202610132049005|LG유플, 고객 플랫폼 U+one ‘AI 에이전트’로 본격 전환>
+ㄴ경향신문 2026.10.13 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/10/13/B7DVR7B5Z5BQTLVBMQN4NTHKSI/|엔비디아 中 AI 반도체 점유율 34%로 하락...화웨이 28%로 추격>
+ㄴ조선비즈 2026.10.13 관련뉴스 1건
+<https://www.khan.co.kr/article/202610131523001|MS, 자체 AI 반도체 ‘마이아 300’ 공개...엔비디아 의존도 낮춘다>
+ㄴ경향신문 2026.10.13
+<https://www.etnews.com/20261013000417|엠클라우드브리지, 로컬.퍼블릭 LLM 통합 AI 플랫폼 'Ai 365' 선보여>
+ㄴ전자신문 2026.10.13
+<https://biz.chosun.com/stock/stock_general/2026/10/13/AZXRK7GGONGYBFMNDGOVW6LNKI/|국민연금, AI 에이전트 기반 데이터 분석 체계 구축...공공기관 최초>
+ㄴ조선비즈 2026.10.13
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-14 09:41:35 KST === 
+Message TS: 1791938495.849369
+_(이어서 2/3)_
+
+[09:30]
+*데이터센터시장*
+신규 10건
+<https://biz.heraldcorp.com/article/10901778|KT, 초고속·초저지연 ‘AI 전용회선’ 출시...데이터센터 연결 속도 높인다>
+ㄴ헤럴드경제 2026.10.14 관련뉴스 3건
+<https://www.sedaily.com/article/20101274|“NTT, 오사카에 앤트로픽 데이터센터 추진...8.5조 투자”>
+ㄴ서울경제 2026.10.14
+<https://www.etoday.co.kr/news/view/2635304|에스에너지ㆍ에스프리즘, 日 상장사 EFHD와 맞손...AI 데이터센터 연료전지ㆍESS 공략>
+ㄴ이투데이 2026.10.14
+<https://www.khan.co.kr/article/202610132016005|[국제칼럼] 데이터센터는 누굴 위한 성장?>
+ㄴ경향신문 2026.10.13
+<https://signal.sedaily.com/article/20101101|“데이터센터 선점 경쟁 격화...인재확충·기술투자 확대를” [시그널]>
+ㄴ서울경제 2026.10.13 관련뉴스 1건
+<https://www.hani.co.kr/arti/international/america/1282171.html|폭파 협박에 자택 총격까지...미국 사회 불안 요소된 데이터센터>
+ㄴ한겨레 2026.10.13
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101315583910402|에스에너지·에스프리즘, 日 상장사 EFHD와 AI 데이터센터 연료전지 협력 MOU>
+ㄴ아시아경제 2026.10.13
+<https://biz.chosun.com/it-science/ict/2026/10/13/YBQJTW35MBAHVFIZUTL24I4ZNM/|“앤트로픽, 日 NTT와 오사카에 데이터센터 건설 추진”>
+ㄴ조선비즈 2026.10.13 관련뉴스 3건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101314512729280|"앤스로픽-NTT, 오사카에 日 최대 데이터센터 건립 조율">
+ㄴ아시아경제 2026.10.13
+<https://www.segye.com/newsView/20261013515066|SNT에너지, 사우디 발전시장 공략...AI.데이터센터 전력 수요 잡는다>
+ㄴ세계일보 2026.10.13 관련뉴스 2건
+
+
+
+*로봇동향*
+신규 10건
+<https://www.news1.kr/industry/general-industry/6318886|HD현대, 다음 주 자체 개발 양팔 로봇 첫선...휴머노이드 시장 진출 속도>
+ㄴ뉴스1 2026.10.13
+<https://www.etoday.co.kr/news/view/2635238|상하이, 2028년까지 휴머노이드 로봇 8000대 공장 투입>
+ㄴ이투데이 2026.10.13 관련뉴스 2건
+<https://www.etoday.co.kr/news/view/2635111|공장 안으로 들어온 두발 로봇? ''제조업 AI 전환'' 판 바꾼다[규제 풀린 휴머노이드]>
+ㄴ이투데이 2026.10.13 관련뉴스 1건
+<https://www.fnnews.com/news/202610131103564249|산업부, 제조현장 휴머노이드 20대 투입...4족보행 순찰로봇도 허용>
+ㄴ파이낸셜뉴스 2026.10.13 관련뉴스 1건
+<https://biz.chosun.com/industry/company/2026/10/13/HJDOQRZ7LNH7BCML4TWEJ6GKDM/|공사장, 조선소에선 휴머노이드보다 실용적... 상용화 속도 내는 ‘현장 맞춤형 로봇’>
+ㄴ조선비즈 2026.10.13
+<https://www.sedaily.com/article/20101193|상하이, 내후년 공장에 휴머노이드 8000대 배치 추진>
+ㄴ서울경제 2026.10.14
+<https://biz.heraldcorp.com/article/10901675|LX판토스, ‘로봇 물류센터’ 만든다...청라에 실증 공간 구축>
+ㄴ헤럴드경제 2026.10.14
+<https://www.sedaily.com/article/20101266|“공장장님, 신입사원은 휴머노이드입니다”...반도체·車·조선에 20대 투입[Pick코노미]>
+ㄴ서울경제 2026.10.14
+<https://biz.heraldcorp.com/article/10901635|관악S밸리 스타트업 5개 사 ‘KES 2026(한국전자전)’참가... 기술력 선보여>
+ㄴ헤럴드경제 2026.10.14
+<https://www.segye.com/newsView/20261013525721|AI.로봇 품은 ‘미래 서울’ 만나다>
+ㄴ세계일보 2026.10.14 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-14 09:41:23 KST === 
+Message TS: 1791938483.339889
+_[텔레그램 로그 2026-10-14] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 14일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101408594591486|NH-Amundi운용 "에이전틱AI 시대 개막, 모델·인프라 전반 수혜 확산">
+ㄴ아시아경제 2026.10.14
+<https://www.etnews.com/20261013000425|에이아이웍스, 15개국 사회혁신 리더에 AI 기반 포용 고용 모델 소개>
+ㄴ전자신문 2026.10.13
+<https://www.etnews.com/20261013000417|엠클라우드브리지, 로컬.퍼블릭 LLM 통합 AI 플랫폼 'Ai 365' 선보여>
+ㄴ전자신문 2026.10.13
+<https://www.news1.kr/photos/8156076|발표하는 노병석 카카오 파운데이션 모델 성과리더>
+ㄴ뉴스1 2026.10.13
+<https://www.etoday.co.kr/news/view/2635112|메타, AI 모델 ''뮤즈 원더'' 출격?오픈AIㆍ앤스로픽에 반격>
+ㄴ이투데이 2026.10.13 관련뉴스 2건
+<https://biz.chosun.com/it-science/ict/2026/10/13/6EIDY52BUFB6TE6QYVLFSXXESU/|이강욱 크래프톤 CAIO “로봇도 ‘사회적 지능’ 갖춰야”... 내년 초 통합 로봇 AI 모델 공개>
+ㄴ조선비즈 2026.10.13
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101308344420689|메타, 새 AI모델 '뮤즈원더' 출시...저커버그 "오픈AI 따라잡아">
+ㄴ아시아경제 2026.10.13
+<https://www.news1.kr/society/education/6318106|한양대, 뇌파 분석 AI 개발...9개 평가 중 8개서 기존 모델 앞서>
+ㄴ뉴스1 2026.10.13 관련뉴스 1건
+<https://www.news1.kr/it-science/internet-platform/6319118|수개월 걸릴 코드 작업을 수주로...구글 ‘제미나이 4 아르곤’ 한국 출시>
+ㄴ뉴스1 2026.10.14
+<https://biz.heraldcorp.com/article/10901808|“말 한마디에 통신망 척척”...ETRI, AI로 광통신망 설정·점검>
+ㄴ헤럴드경제 2026.10.14
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101408594591486|NH-Amundi운용 "에이전틱AI 시대 개막, 모델·인프라 전반 수혜 확산">
+ㄴ아시아경제 2026.10.14
+<https://www.seoul.co.kr/news/economy/distribution/2026/10/14/20261014032003|고객 늘리기 vs 단골 지키기... 기업들 ''AI 에이전트'' 딜레마>
+ㄴ서울신문 2026.10.14 관련뉴스 3건
+<https://www.etnews.com/20261013000217|[라이징 2026] 헬러마크 워크데이 CAIO "HR·IT 업무, AI 에이전트 하나로 해결">
+ㄴ전자신문 2026.10.13
+<https://www.khan.co.kr/article/202610132049005|LG유플, 고객 플랫폼 U+one ‘AI 에이전트’로 본격 전환>
+ㄴ경향신문 2026.10.13 관련뉴스 2건
+<https://www.etnews.com/20261013000391|"AI의 진화, 똑똑함에서 정확함으로"...AI 플랫폼기업 팔레트, ''Palette Agent'' 선봬>
+ㄴ전자신문 2026.10.13
+<https://biz.chosun.com/stock/stock_general/2026/10/13/AZXRK7GGONGYBFMNDGOVW6LNKI/|국민연금, AI 에이전트 기반 데이터 분석 체계 구축...공공기관 최초>
+ㄴ조선비즈 2026.10.13
+<https://biz.chosun.com/it-science/ict/2026/10/13/OKT62EFQFNHMDOETOFWSPFVDIE/|삼성전기, 자체 생성형 AI로 업무용 에이전트 개발... 첫 사내 해커톤 개최>
+ㄴ조선비즈 2026.10.13 관련뉴스 5건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026101313501668854|AMD, AI 에이전트 특화 서버랙 '헬리온' 공개..."11월 공급">
+ㄴ아시아경제 2026.10.13 관련뉴스 3건
+<https://www.etnews.com/20261013000208|인텔, 에이전틱 AI 대응한 ''GPU D-시리즈·제온 랙'' 공개>
+ㄴ전자신문 2026.10.13 관련뉴스 1건
+<https://www.sedaily.com/article/20101044|누구나 ‘라이언 비서’ 쓴다...카카오 AI에이전트 플랫폼 전환>
+ㄴ서울경제 2026.10.13
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-14 09:16:54 KST === 
+Message TS: 1791937014.439859
+*2026-10-14 AI 관련 사업 공고 점검 결과*
+확인 범위: 10/13(화)~10/14(수) 게시분
+(공고 점검 본문은 기사가 아니라 생략)
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-14 08:54:35 KST === 
+Message TS: 1791935675.378079
+
+Files: [2026년 10월 14일] 조간 뉴스 클리핑 (ID: F0C8YPAH7KQ, text/html, 32.8 KB)

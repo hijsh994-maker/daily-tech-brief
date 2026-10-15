@@ -1,0 +1,17 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-16 09:00:00 KST === 
+Message TS: 1789516800.938299
+- <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Q3VIWnFDTG9DNWIwc1NDamdUVk9GSVNpTnNYYkc4NTdXemI0X1E1Qk44aWpHTmlvd3R0QV9NYkhuM05SWWlEOVMzSWZRbEdMRkNBdGRYY0c1NkoxV0E?oc=5|AI속도조절론 반도체 악재인 줄 알았는데...삼전닉스에 오히려 기회?> 
+- <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwYjMxNXExd1BuUGphdXBIR2pxM3p3al94Qkhuc3VpdlZzSWxjd2hyMnp1TFV6ejNGcjQzREhucnpZUkhfcTFFV05lNlJHdF9zLVdETUxfSC1YVDctcl9Fd2ctSTUxd9IBZkFVX3lxTFBwYjMxNXExd1BuUGphdXBIR2pxM3p3al94Qkhuc3VpdlZzSWxjd2hyMnp1TFV6ejNGcjQzREhucnpZUkhfcTFFV05lNlJHdF9zLVdETUxfSC1YVDctcl9Fd2ctSTUxdw?oc=5|“AI 때문에 ‘생각하기’를 포기”…‘인지적 항복’ 현상 경고> 
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE5JS3lvdjVNd0hzbGt3Z0pBVXNEQVZUZjRTXzl3LU9ZczU2SjVYQWpxMnp1bDZobHFNUkE1cjRQV3F1bGowNl9sVllfSS0xVGh0bmMwdEV3RHVudGd1N0w3SUUwN2w2WEJWaEk1UElkTEI1VXl2?oc=5|젠슨 황, AI 우려에 "새로운 규제 필요 없어…혁신·안전 동시 달성 가능"> 
+- <https://news.nate.com/view/20260916n01532|"AI비서가 모임 관리·투자 분석 척척, 카뱅앱 나중엔 대화창만 남을..."> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZ1RROHZsNVFzTDdxV084c0JLd1BTbmVrUmtWZG12RzBhLVQ4S0laV3dZN1hOUHZUV283RkI5cDFvZndzYzIxWWVkblNIeDBNS2RoM3hn?oc=5|개인 맥락 이해하는 '시리 AI', 10월 한국어 지원> 
+- <https://news.nate.com/view/20260916n02685|"AI가 샀어요, 반품할게요" 일상되기 전에…SKT가 전세계에 제안했다> 
+- <https://news.nate.com/view/20260915n28550|SKT "고객 나이·성별만 봐선 부족…행동 데이터로 '관심'을 읽어야"> 
+- <https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zMldpVmNRbHJmczJ2YXVUNEo3eElJSTBveEZ4a0psMjBndUV4M0h2cHpHVV9ZYUtrUlVDU3lPN2pZeU56eFN2UnJ5eUlaZElvM2FzNDlnSExYRXBEbk5N0gFfQVVfeXFMTnMyV2lWY1FscmZzMnZhdVQ0Sjd4SUlJMG94RnhrSmwyMGd1RXgzSHZwekdVX1lhS2tSVUNTeU83all5Tnp4U3ZScnl5SVpkSW8zYXM0OWdITFhFcERuTk0?oc=5|'AI 글라스' 시장이 온다…산학연 150명 머리 맞대> 
+- <https://news.nate.com/view/20260915n24800|애플 홈에도 AI 왔다…여러 카메라 쓰려면 구독료 '껑충'> 
+- <https://news.google.com/rss/articles/CBMidEFVX3lxTE5FXzQwVUg5b215UUgxLWtPczRiLXNGb0tKWnpLZEFwbE9oWXMzbW1SaDZ0M0pxNUVJQjM2SXFFbUg4OUwxeVJ3a0hWZkFFemlsV3N5Q2NtQzlVeFdwak1IYWJGRkhnbUQzVzE5VTgzSGs1X3FW?oc=5|앤트로픽 CEO "자동차처럼 모두를 위한 AI 안전표준 세워야"> 
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzQzVGUxY0ZQbkswYkVmNTg5N21uVG9xeDdWaW5qSm80Z09uVno3dFZqR1FuZDRJVkh1bnhvX2I3T2ZPVV9Uc0ZOZERGbVBURldUemFpOWVfdV9zb2t5RVRIcUxRelpEYTZYMEFPYlViZjVvaFpEMjBSdzJZeXkzcDFZaw?oc=5|AI 감속론 놓고 세쪽 난 美 기업… "속도 조절" vs "개발 가속" vs "빅테크 횡포"> 
+- <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ic0hLQUlmdWF3ZDdDREh5QXQwWnl6QkNKN1cxbUF0U1BsVkZBSnF2U2oxT191bkg3bjM0dkV3YXdLZnU4c01KMERkSF9WUml5NXdUdGp5WWM5QWZRdWIyakh6b1A0UdIBZkFVX3lxTE1Ic0hLQUlmdWF3ZDdDREh5QXQwWnl6QkNKN1cxbUF0U1BsVkZBSnF2U2oxT191bkg3bjM0dkV3YXdLZnU4c01KMERkSF9WUml5NXdUdGp5WWM5QWZRdWIyakh6b1A0UQ?oc=5|[단독]“AI개발 감속” 외쳤지만, 새모델 공개 주기 1년새 210→47일 ‘가속’> 
+- <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sWXBzUGZIZURKTHJPaUFLLVpkUkc0OU44ODBFMDBiRGhXby1jRG56SzFFYnJNd2xHSDc5X1oydk9lSG0xS1pUa1QySmJKWWZrN1loNXFGV096WWZOVnlaZE5R?oc=5|게임을 학습한 AI, 이제 게임을 만든다>

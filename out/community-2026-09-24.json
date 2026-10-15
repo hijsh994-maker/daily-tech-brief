@@ -1,0 +1,122 @@
+{
+ "date": "2026-09-24",
+ "items": [
+  {
+   "src": "community",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "outlet": "HN",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 467pt·510댓글",
+   "weight": 467
+  },
+  {
+   "src": "community",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "outlet": "HN",
+   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 446pt·254댓글",
+   "weight": 446
+  },
+  {
+   "src": "community",
+   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "outlet": "HN",
+   "url": "https://drivingbench.com/",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 272pt·221댓글",
+   "weight": 272
+  },
+  {
+   "src": "community",
+   "title": "Gemini 3.8 text-to-speech",
+   "outlet": "HN",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 248pt·119댓글",
+   "weight": 248
+  },
+  {
+   "src": "community",
+   "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+   "outlet": "HN",
+   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 206pt·204댓글",
+   "weight": 206
+  },
+  {
+   "src": "community",
+   "title": "Stripe's Knowledge AI Platform",
+   "outlet": "HN",
+   "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 173pt·108댓글",
+   "weight": 173
+  },
+  {
+   "src": "community",
+   "title": "LLM Ass Bench",
+   "outlet": "HN",
+   "url": "https://www.assbench.com/",
+   "pub_date": "2026-09-22",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 165pt·45댓글",
+   "weight": 165
+  },
+  {
+   "src": "community",
+   "title": "bespokelabsai/nimble — Local typed decisions, contrastive data curation, and model evaluation.",
+   "outlet": "GitHub",
+   "url": "https://github.com/bespokelabsai/nimble",
+   "pub_date": "2026-09-18",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★1684·6일·281/일",
+   "weight": 280.6666666666667
+  },
+  {
+   "src": "community",
+   "title": "HF trending: Comfy-Org/Qwen-Image-2.1",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+   "pub_date": "2026-09-15",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥626·↓2220609",
+   "weight": 626
+  }
+ ]
+}

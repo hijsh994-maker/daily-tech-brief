@@ -1,0 +1,30 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 13개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 "일반 사용 제한" (AI타임스)
+o 링크: [aitimes.com/news/articleView.html?idxno=215821](https://www.aitimes.com/news/articleView.html?idxno=215821)
+2. 美, 통제 벗어난 AI 에이전트 조사…오픈AI·앤트로픽 겨냥 (뉴스1)
+o 링크: [news1.kr/world/usa-canada/6306798](https://www.news1.kr/world/usa-canada/6306798)
+3. OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design (Synopsys 공식 발표)
+o 링크: [news.synopsys.com/2026-09-30-O…](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
+4. OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents (NBC News)
+o 링크: [nbcnews.com/politics/congress/openai-ceo-sam-altman-skip-congressional-hearing-rogue-ai-agents…](https://www.nbcnews.com/politics/congress/openai-ceo-sam-altman-skip-congressional-hearing-rogue-ai-agents-rcna600707)
+5. 아마존 x 컨스텔레이션, Calvert Cliffs 원전 20년·690MW 전력구매계약 — Constellation and Amazon Sign 20-Year PPA for 190 MW of Nuclear Power at Calvert Cliffs (The Energy Mag)
+o 링크: [theenergymag.com/news/market-news/constellation-amazon-sign-20-year-ppa-190-mw](https://www.theenergymag.com/news/market-news/constellation-amazon-sign-20-year-ppa-190-mw)
+6. Anthropic Makes Claude for Government Generally Available to Agencies (Unite.AI)
+o 링크: [unite.ai/anthropic-makes-claude-for-government-generally-available-to-agencies](https://www.unite.ai/anthropic-makes-claude-for-government-generally-available-to-agencies/)
+7. SpaceXAI weighs one Grok and X plan, from free to $100, Bloomberg reports (The Next Web)
+o 링크: [thenextweb.com/news/spacexai-grok-x-subscription-tiers-ultra-lite](https://thenextweb.com/news/spacexai-grok-x-subscription-tiers-ultra-lite)
+8. 일레븐랩스, 기업가치 220억 달러…반년 만에 '몸값 2배' (ZDNet Korea)
+o 링크: [zdnet.co.kr/view?no=20261001090434](https://zdnet.co.kr/view/?no=20261001090434)
+9. GMI Cloud Secures $668 Million Funding to Expand AI Capabilities (GuruFocus)
+o 링크: [gurufocus.com/news/9103191/gmi-cloud-secures-668-million-funding-to-expand-ai-capabilities](https://www.gurufocus.com/news/9103191/gmi-cloud-secures-668-million-funding-to-expand-ai-capabilities)
+10. AIB Signs 12-Year Deal to Supply Nebius With 50 MW of AI Capacity (The Energy Mag)
+o 링크: [theenergymag.com/news/market-news/aib-nebius-ai-data-center](https://www.theenergymag.com/news/market-news/aib-nebius-ai-data-center)
+11. Cognition Becomes First Customer for NVIDIA Vera Rubin NVL72 on CoreWeave Cloud (CoreWeave 공식 블로그)
+o 링크: [coreweave.com/blog/cognition-becomes-first-customer-for-nvidia-vera-rubin-nvl72-on-coreweave-cloud](https://www.coreweave.com/blog/cognition-becomes-first-customer-for-nvidia-vera-rubin-nvl72-on-coreweave-cloud)
+_링크 미확보_
+• 그렉 브록만, 친 AI Super PAC 'Leading the Future'에 대규모 정치자금 투입 지속
+• Societe Generale·SMBC·MUFG, 신규 데이터센터 프로젝트 대출 선별 집행 보도
+
+## 텔레그램 - 에이닷비즈뉴스레터

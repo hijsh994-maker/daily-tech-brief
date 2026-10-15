@@ -1,0 +1,112 @@
+# =============================================================
+# aliases.yaml — 국문/영문·표기 흔들림을 하나로 묶는 별칭표  [2026-09-21 신설]
+#
+# 왜 만들었나
+#   09-18 발송본에 Figure 공식 게시물 "Helix 2.5: Zero-Shot 30-Home
+#   Generalization" 이 실렸는데, 09-21 후보 "피규어 AI, 로봇 모델
+#   '헬릭스 2.5' 공개" 와 제목 토큰이 **한 개도 겹치지 않아**
+#   run.sh hist 가 '처음 나온 이야기' 로 찍었고 중복 발송이 났다.
+#   주체·제품 이름의 국문 표기와 영문 표기를 기계가 같은 것으로
+#   보게 하려고 만든다.
+#
+# 쓰는 법
+#   cowork/repeat_gate.py 가 헤드라인을 정규화할 때 왼쪽 표기를
+#   전부 오른쪽 대표어로 바꾼 뒤 토큰을 비교한다.
+#   **긴 표기를 먼저 적는다**(부분 치환이 먼저 먹지 않게).
+#
+# 갱신
+#   중복을 놓친 사례가 나오면 그 쌍을 여기에 한 줄 추가한다.
+# =============================================================
+aliases:
+  # --- 프런티어랩·빅테크 -------------------------------------
+  "앤스로픽": "anthropic"
+  "앤트로픽": "anthropic"
+  "Anthropic": "anthropic"
+  "오픈AI": "openai"
+  "오픈에이아이": "openai"
+  "OpenAI": "openai"
+  "마이크로소프트": "microsoft"
+  "MS": "microsoft"
+  "Microsoft": "microsoft"
+  "구글": "google"
+  "Google": "google"
+  "딥마인드": "deepmind"
+  "DeepMind": "deepmind"
+  "메타": "meta"
+  "Meta": "meta"
+  "엔비디아": "nvidia"
+  "NVIDIA": "nvidia"
+  "Nvidia": "nvidia"
+  "아마존": "amazon"
+  "Amazon": "amazon"
+  "AWS": "aws"
+  "애플": "apple"
+  "Apple": "apple"
+  "알리바바": "alibaba"
+  "Alibaba": "alibaba"
+  "화웨이": "huawei"
+  "Huawei": "huawei"
+  "테슬라": "tesla"
+  "Tesla": "tesla"
+  "스페이스X": "spacex"
+  "SpaceX": "spacex"
+  "세일즈포스": "salesforce"
+  "Salesforce": "salesforce"
+  "오라클": "oracle"
+  "Oracle": "oracle"
+  "인텔": "intel"
+  "Intel": "intel"
+  "소프트뱅크": "softbank"
+  "SoftBank": "softbank"
+  "Softbank": "softbank"
+  # --- 로봇 ---------------------------------------------------
+  "피규어 AI": "figure"
+  "피규어AI": "figure"
+  "피규어": "figure"
+  "Figure AI": "figure"
+  "Figure": "figure"
+  "헬릭스": "helix"
+  "Helix": "helix"
+  "보스턴다이내믹스": "bostondynamics"
+  "보스턴 다이내믹스": "bostondynamics"
+  "Boston Dynamics": "bostondynamics"
+  "유니트리": "unitree"
+  "Unitree": "unitree"
+  "어질리티": "agility"
+  "Agility": "agility"
+  "옵티머스": "optimus"
+  "Optimus": "optimus"
+  "도요타": "toyota"
+  "Toyota": "toyota"
+  "디로보틱스": "drobotics"
+  "D-Robotics": "drobotics"
+  # --- 인프라·반도체 ------------------------------------------
+  "엔스케일": "nscale"
+  "Nscale": "nscale"
+  "크루소": "crusoe"
+  "Crusoe": "crusoe"
+  "허깅페이스": "huggingface"
+  "Hugging Face": "huggingface"
+  "리벨리온": "rebellions"
+  "Rebellions": "rebellions"
+  "퓨리오사AI": "furiosa"
+  "퓨리오사": "furiosa"
+  "FuriosaAI": "furiosa"
+  "SK하이닉스": "skhynix"
+  "SK하닉": "skhynix"
+  "삼성전자": "samsungelec"
+  "LG유플러스": "lguplus"
+  "LGU+": "lguplus"
+  # --- 어젠다 낱말 --------------------------------------------
+  "모두의 AI": "모두의ai"
+  "모두의AI": "모두의ai"
+  "독자 AI 파운데이션 모델": "독파모"
+  "독파모": "독파모"
+  "피지컬 AI": "피지컬ai"
+  "피지컬AI": "피지컬ai"
+  "데이터센터": "데이터센터"
+  "AI 데이터센터": "데이터센터"
+  "AIDC": "데이터센터"
+  "휴머노이드": "휴머노이드"
+  "Humanoid": "휴머노이드"
+  "humanoid": "휴머노이드"

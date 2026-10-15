@@ -1,0 +1,95 @@
+{
+ "date": "2026-08-19",
+ "items": [
+  {
+   "title": "'모두의 AI'에 SKT·KT·카카오 등 6곳 참여…네이버는 불참",
+   "outlet": "전자신문/서울경제",
+   "url": "https://www.etnews.com/20260818000352",
+   "category": "독파모 & 모두의AI**"
+  },
+  {
+   "title": "오픈AI, 엔비디아 지원에 10GW 오하이오 데이터센터 임대",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260818000002",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "마이크로소프트의 AI 계획, 반도체 부족으로 발목 잡히나",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "에치드, 한 달 만에 기업가치 2배 급증해 210억달러",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "클로드 코워크, 전체 유료 플랜에서 모바일 이용 가능",
+   "outlet": "9to5Mac",
+   "url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "A2A, AAIF 오픈 에이전틱 스택에 편입",
+   "outlet": "AAIF",
+   "url": "https://aaif.io/blog/a2a-joins-aaif",
+   "category": "AI Agent"
+  },
+  {
+   "title": "KT, 국산 반도체·LLM 결합한 기업용 '소버린 AI' 출시",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026081909580277651",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "앤트로픽, 스페이스X 대상 API 요청 한도 상향",
+   "outlet": "Anthropic",
+   "url": "https://www.anthropic.com/news/higher-limits-spacex",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "中 로봇기업 유니트리, 커촹반 전격 상장…12조원대 '최대 로봇 IPO'",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260819000046",
+   "category": "Physical AI"
+  },
+  {
+   "title": "오픈AI, 허깅페이스 해킹 여파로 모델 훈련 속도 늦춰 보안 강화",
+   "outlet": "Reuters/아시아경제/전자신문",
+   "url": "https://www.reuters.com/technology/openai-slows-model-training-bolster-security-after-hugging-face-hack-2026-08-18/",
+   "category": "AI 보안"
+  },
+  {
+   "title": "SK쉴더스, AI 에이전트도 '제로트러스트' 적용…보안 사업 확대",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/it-science/security-hacking/6262681",
+   "category": "AI 보안"
+  },
+  {
+   "title": "오픈AI, 미성년자 안전 소송 속 청소년 전용 챗GPT 출시",
+   "outlet": "Axios/전자신문",
+   "url": "https://www.axios.com/2026/08/18/openai-chatgpt-for-teens",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "앤트로픽, IPO 앞두고 연매출 92조원 전망…7배 급증",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260818000013",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "아마존, 루이지애나 북서부 투자 180억달러로 확대",
+   "outlet": "Louisiana Economic Development",
+   "url": "https://www.opportunitylouisiana.gov/news/amazon-grows-northwest-louisiana-planned-investment-to-18-billion-with-new-shreveport-campus",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "바이트댄스, 초대형 은행 대출에 300억달러 이상 주문 몰려",
+   "outlet": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-18/bytedance-draws-over-30-billion-in-orders-for-jumbo-bank-loan",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

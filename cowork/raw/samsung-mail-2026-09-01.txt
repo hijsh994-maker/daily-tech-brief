@@ -1,0 +1,31 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/9/1)
+
+1. 오픈AI '챗GPT' 광고 200일만에 연매출 10억달러 (연합뉴스TV / Daum뉴스)
+o 링크: https://v.daum.net/v/20260901041501693
+
+2. Muse Code: New plans and features (Meta for Developers)
+o 링크: https://developer.meta.com/ai/resources/blog/muse-code-new-plans-and-features/
+
+3. Introducing Azure Multicloud Interconnect for AWS (Microsoft Azure)
+o 링크: https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/
+
+4. 美 FTC, 아마존 광고 정조준...광고주 오도했다 소송 (SBS Biz / Daum뉴스)
+o 링크: https://v.daum.net/v/20260901043900868
+
+5. AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 (About Amazon)
+o 링크: https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia
+
+6. 엔비디아, 미디어텍에 베팅...업계 '표준' 노린다 (SBS Biz / Daum뉴스)
+o 링크: https://v.daum.net/v/20260901042700724
+
+7. [마켓 브리핑] 크라우드스트라이크, 팔콘 플랫폼 구글 클라우드 탑재 (SBS Biz / Daum뉴스)
+o 링크: https://v.daum.net/v/20260901071912489
+
+8. 크라우드스트라이크, 구글 클라우드·스노우플레이크와 전략적 제휴 확대로 주목 (매일경제)
+o 링크: https://www.mk.co.kr/news/stock/12140842
+
+9. CrowdStrike Launches AI Partner Specialization, Defining Cybersecurity's Ecosystem for the Agentic Era (CrowdStrike)
+o 링크: https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-ai-partner-specialization-for-the-agentic-era/
+
+10. Nscale Closes Approximately $3 Billion in Financing for Both Ward County, Texas and Madison County, North Carolina AI Deployments (PR Newswire)
+o 링크: https://www.prnewswire.com/news-releases/nscale-closes-approximately-3-billion-in-financing-for-both-ward-county-texas-and-madison-county-north-carolina-ai-deployments-302865201.html

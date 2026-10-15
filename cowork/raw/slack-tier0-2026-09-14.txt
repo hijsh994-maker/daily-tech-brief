@@ -1,0 +1,136 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-14 09:45:03 KST === 
+Message TS: 1789346703.247359
+_(이어서 3/3)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20260911000315|휴머노이드가 거리 순찰...中 '로봇 경찰서'>
+ㄴ전자신문 2026.09.13
+<https://www.sedaily.com/article/20089759|HD현대, 토종 로봇 스타트업에 130억원 전략적 투자>
+ㄴ서울경제 2026.09.11 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2624400|HD현대로보틱스, 로봇 감각기능 전문 스타트업에 130억 지분 투자>
+ㄴ이투데이 2026.09.11 관련뉴스 4건
+<https://www.etnews.com/20260913000088|[민선 9기, 새 4년을 묻다]이기형 김포시장, 97개 공약 재정비...첨단산업 육성.교통 동시 확충>
+ㄴ전자신문 2026.09.14
+<https://www.kukinews.com/article/view/kuk202609130009|대구 FIX 2026, AI 일상화 시대 미래기술 한자리에>
+ㄴ쿠키뉴스 2026.09.13
+<https://www.etnews.com/20260914000006|“AI, 기술을 넘어 일상이 되다”...'FIX2026' 내달 21일 개막>
+ㄴ전자신문 2026.09.14
+<https://www.news1.kr/industry/general-industry/6287861|1인 2역 "회장님 곽동신, 작가 곽신"...알루미늄에 새긴 '.사랑'>
+ㄴ뉴스1 2026.09.14
+<https://biz.heraldcorp.com/article/10872092|추격의 30년 넘어 선도경제로...AI 시대, 한국의 새 도약을 묻다 [헤럴드 기업포럼 10년]>
+ㄴ헤럴드경제 2026.09.14
+<https://www.news1.kr/it-science/cc-newmedia/6289122|LGU+.국방부, 군 장병 자녀 AI 교육...'가디언 로봇' 직접 만든다>
+ㄴ뉴스1 2026.09.14
+<https://biz.chosun.com/entertainment/tv/2026/09/14/GI4TONRTGU3GKMDCG5SDMNTCHE/|서강준, 안은진에 청혼 엔딩 "엉장진창이 돼도 너랑 가고싶다" (너말고)>
+ㄴ조선비즈 2026.09.14
+
+*AI기술현황*
+신규 10건
+<https://www.sedaily.com/article/20090352|일본 후지쓰, 슈퍼컴 기술 접목한 AI 반도체 수출 추진>
+ㄴ서울경제 2026.09.14
+<https://www.kukinews.com/article/view/kuk202609140022|AI 속도조절론에 흔들린 반도체株...“아직 주문 안 꺾였다”>
+ㄴ쿠키뉴스 2026.09.14
+<https://www.etoday.co.kr/news/view/2624972|실무자가 직접 AI 에이전트 구축...''삼일 AI 재무아카데미'' 4기 모집>
+ㄴ이투데이 2026.09.14
+<https://www.news1.kr/it-science/internet-platform/6276471|[AI밸류체인]②반도체 넘어 AI공장까지...韓, AI 영토 넓힌다>
+ㄴ뉴스1 2026.09.14
+<https://biz.chosun.com/it-science/ict/2026/09/13/4HDBO5TGXVHM3FVIHSOJFZJ2YA/|후지쓰, AI 반도체 내년 첫 수출...TSMC가 생산>
+ㄴ조선비즈 2026.09.13 관련뉴스 2건
+<https://www.sedaily.com/article/20090264|[단독] AI에이전트 결제 수단인데...스테이블코인도 과세>
+ㄴ서울경제 2026.09.13
+<https://www.etnews.com/20260911000266|[김태형의 혁신의기술] 59 AI 에이전트 시대, 우리는 누구에게 질문할 것인가 중>
+ㄴ전자신문 2026.09.13
+<https://www.etnews.com/20260913000078|용인시.UNIST, 반도체.AI 최고위 과정 6기 14주 교육 돌입>
+ㄴ전자신문 2026.09.13
+<https://www.khan.co.kr/article/202609131248001|중국 AI 산업, 모델 개발에서 AI 에이전트 앱 통한 수익화로...토큰 수요 폭발 예상>
+ㄴ경향신문 2026.09.13
+<https://www.etnews.com/20260911000293|[르포] 반도체·AI 이끌 청정에너지 중심...전남해상풍력 단지를 가다>
+ㄴ전자신문 2026.09.13
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-14 09:44:38 KST === 
+Message TS: 1789346678.719309
+_(이어서 2/3)_
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20260914000026|대전정보문화산업진흥원, '코디세이 AI' 1기 모집...18개월 실전형 에이전틱 AI 교육>
+ㄴ전자신문 2026.09.14
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091408543620541|바로팜, 약국 전용 AI 'OTC Agent' 출시...약국 업무 AX 확대>
+ㄴ아시아경제 2026.09.14
+<https://www.etoday.co.kr/news/view/2624972|실무자가 직접 AI 에이전트 구축...''삼일 AI 재무아카데미'' 4기 모집>
+ㄴ이투데이 2026.09.14
+<https://www.sedaily.com/article/20090264|[단독] AI에이전트 결제 수단인데...스테이블코인도 과세>
+ㄴ서울경제 2026.09.13
+<https://www.etnews.com/20260911000266|[김태형의 혁신의기술] 59 AI 에이전트 시대, 우리는 누구에게 질문할 것인가 중>
+ㄴ전자신문 2026.09.13
+<https://www.khan.co.kr/article/202609131248001|중국 AI 산업, 모델 개발에서 AI 에이전트 앱 통한 수익화로...토큰 수요 폭발 예상>
+ㄴ경향신문 2026.09.13
+<https://www.seoul.co.kr/news/economy/industry/2026/09/12/20260912500001|KT, ''이음 에이전트''로 일상 속 ''AI 동반자'' 구축...다음·무신사 등 기존 앱에 그대로 적용>
+ㄴ서울신문 2026.09.13
+<https://www.news1.kr/world/usa-canada/6288312|오픈AI AI 에이전트, 허깅페이스 해킹 두 달 전 '루비젬스'도 공격>
+ㄴ뉴스1 2026.09.12
+<https://www.etnews.com/20260911000201|토스인사이트 “AI 에이전트, 금융상품 선택 구조 바꾼다”>
+ㄴ전자신문 2026.09.11 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10870370|“AI에이전트가 결제수단 추천” 국내 금융권 생존전략 바꾼다>
+ㄴ헤럴드경제 2026.09.11
+
+*데이터센터시장*
+신규 10건
+<https://biz.chosun.com/stock/stock_general/2026/09/14/5PVZQIT575CGZJXNNTPSNWQWH4/|하나證 "GS건설, 동해 데이터센터 수주 기대감...목표가 4만원">
+ㄴ조선비즈 2026.09.14 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2624971|하나證 "DL이앤씨, AI 데이터센터·발전소 수주 기대...목표가 10만원 상향">
+ㄴ이투데이 2026.09.14
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091407340378065|[클릭 e종목]"에스프리즘, AI 데이터센터發 전력 병목 심화에 연료전지 수요 대안 부각">
+ㄴ아시아경제 2026.09.14
+<https://www.kukinews.com/article/view/kuk202609140002|한화오션, 60MW급 부유식 데이터센터 글로벌 시장에 첫 공개>
+ㄴ쿠키뉴스 2026.09.14
+<https://www.etnews.com/20260911000211|美 AI 데이터센터가 키우는 ESS...K배터리도 대응 속도>
+ㄴ전자신문 2026.09.13
+<https://www.fnnews.com/news/202609131825535021|"데이터센터 금융은 새 먹거리" 한투證, 글로벌 동맹 넓힌다>
+ㄴ파이낸셜뉴스 2026.09.13 관련뉴스 1건
+<https://www.khan.co.kr/article/202609131654021|한화오션 ‘해상 데이터센터’.HD현대 ‘친환경 가스선’...가스텍서 미래기술 선봬>
+ㄴ경향신문 2026.09.13
+<https://biz.chosun.com/stock/stock_general/2026/09/13/CYGENR7B4REXBJTIJLEE23U34A/|김성환 한투證 사장 “글로벌 금융사, 韓데이터센터 주목... 공동조달 추진”>
+ㄴ조선비즈 2026.09.13 관련뉴스 2건
+<https://www.sedaily.com/article/20090121|한투 김성환 “월가, 韓데이터센터 투자 최대 관심...고금리에 월배당 상품 확대”>
+ㄴ서울경제 2026.09.13
+<https://www.etnews.com/20260912000027|최태원 SK 회장, “AI 데이터센터 사업, 상당히 빠르게 진척”>
+ㄴ전자신문 2026.09.13 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-14 09:44:13 KST === 
+Message TS: 1789346653.833169
+_[텔레그램 로그 2026-09-14] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 14일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.segye.com/newsView/20260913509634|“AI, 수익화 모델 갖춰 지속가능 구조로 가야”>
+ㄴ세계일보 2026.09.14
+<https://www.news1.kr/industry/general-industry/6288199|"AI는 모든 영역에 침투...AI 모델·하드웨어戰 '최적화' 중요" [K-챌린저]>
+ㄴ뉴스1 2026.09.14
+<https://www.seoul.co.kr/news/economy/industry/2026/09/14/20260914032003|최태원 "AX 경쟁력 심은 울산, AI 선도 모델 만들자">
+ㄴ서울신문 2026.09.13
+<https://www.khan.co.kr/article/202609131248001|중국 AI 산업, 모델 개발에서 AI 에이전트 앱 통한 수익화로...토큰 수요 폭발 예상>
+ㄴ경향신문 2026.09.13
+<https://www.khan.co.kr/article/202609131148001|최태원 “AI, 비즈니스 모델 구축해 지속가능성 갖춰야”>
+ㄴ경향신문 2026.09.13 관련뉴스 2건
+<https://www.etnews.com/20260911000055|비그라운드, 인프라 자동화.AI 기술 '두 축' 강화...LLM 기술 특허 확보>
+ㄴ전자신문 2026.09.13
+<https://www.sedaily.com/article/20089922|‘팔란티어 모델’ 도입한 中 문샷AI...상장 앞두고 수익화 고삐[정다은의 차이나코어]>
+ㄴ서울경제 2026.09.12
+<https://www.etnews.com/20260911000263|주미당 AI 모델 '센릿', 베트남서 기술력 입증... 70억 규모 향미 공급 계약 및 최고 혁신상 수상>
+ㄴ전자신문 2026.09.11
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091116472142072|[AI세계속으로]잇단 신모델에 불거진 안전성 논란...속도조절론 부상>
+ㄴ아시아경제 2026.09.11
+<https://biz.chosun.com/it-science/ict/2026/09/11/LZIATRFUYVD2NMPLJDVNLWMCMI/|“AI 위험성 커졌다” 잇단 경고에...오픈AI, 첨단 모델 개발 속도 조절 검토>
+ㄴ조선비즈 2026.09.11
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

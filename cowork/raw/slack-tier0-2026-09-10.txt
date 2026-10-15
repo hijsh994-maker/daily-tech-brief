@@ -1,0 +1,137 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-10 09:44:06 KST === 
+Message TS: 1789001046.155069
+_(이어서 2/2)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.sedaily.com/article/20089002|‘휴머노이드 로봇과 함께 공연을‘>
+ㄴ서울경제 2026.09.09
+<https://www.etnews.com/20260909000331|[포토] 덕산JM로보틱스의 춤추는 휴머노이드 로봇>
+ㄴ전자신문 2026.09.09 관련뉴스 4건
+<https://www.etnews.com/20260909000177|“피지컬 AI가 백화점으로”...게이즈샵, 판교서 '휴머노이드부터 돌봄로봇까지' 총집합>
+ㄴ전자신문 2026.09.09
+<https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/09/20260909500098|전석훈 경기도의원, 전국 첫 휴머노이드 로봇산업 지원 조례 상임위 통과>
+ㄴ서울신문 2026.09.09
+<https://www.segye.com/newsView/20260909516190|로봇·골드카드... 편의점 선물의 ''무한 변신'' [추석선물특집]>
+ㄴ세계일보 2026.09.09
+<https://www.segye.com/newsView/20260909517426|현대차, 유산청에 로봇 10대 기증>
+ㄴ세계일보 2026.09.09 관련뉴스 4건
+<https://biz.chosun.com/stock/stock_general/2026/09/10/6U5DZUGMC5E3HHWPHTXHG6RYXQ/|한투證 “로보티즈, 업종 내 유일하게 초과 수요 국면...목표가 45만원”>
+ㄴ조선비즈 2026.09.10
+<https://www.sedaily.com/article/20088977|복권 안부러운 中 공모주...하루만에 새차 뽑았다 [정다은의 차이나코어]>
+ㄴ서울경제 2026.09.10
+<https://www.etoday.co.kr/news/view/2623808|[증시키워드] 이재용, 母 홍라희 보유 삼전 지분 1.9조 매수...미국발 훈풍에 원전·광통신주 ''들썩''>
+ㄴ이투데이 2026.09.10
+<https://www.segye.com/newsView/20260909520998|AI가 피아노 치고 화장품 추천... 미래 서울 한눈에>
+ㄴ세계일보 2026.09.10
+
+
+
+*AI기술현황*
+신규 10건
+<https://www.etnews.com/20260910000025|[NABS 2026 기획] AI 에이전트.로봇.사람 한곳서 조율...유아이패스 '마에스트로', 기업 자동화 통합>
+ㄴ전자신문 2026.09.10
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090915531222074|AI·반도체 대신 1481억 베팅...서학개미 몰린 이 종목[1분 브리프]>
+ㄴ아시아경제 2026.09.10
+<https://www.news1.kr/world/international-economy/6285639|메타 6.6% 급등...월가 "AI 에이전트 '뮤즈', 새 제품 사이클 시작">
+ㄴ뉴스1 2026.09.10
+<https://www.news1.kr/life-culture/book/6285583|RAG·로컬 LLM·MCP...생성형 AI의 핵심 흐름 정리>
+ㄴ뉴스1 2026.09.10
+<https://www.etoday.co.kr/news/view/2623699|AI 돈벼락 맞은 반도체맨?아시아 新부유층 떴다 [AI시대 新기술귀족 ①]>
+ㄴ이투데이 2026.09.10
+<https://www.etnews.com/20260910000032|하나카드, '모두의 AI' 금융 파트너 참여...'에이전트 페이' 개발>
+ㄴ전자신문 2026.09.10
+<https://www.sedaily.com/article/20089206|신한證 “반도체.AI 주도주 반등...차익실현보다 보유.추매해야” [코주부]>
+ㄴ서울경제 2026.09.10
+<https://www.news1.kr/world/usa-canada/6285616|오픈AI 통제이탈 에이전트, 10여개 사이트서 무단 소통..."더 있을 수도">
+ㄴ뉴스1 2026.09.10
+<https://www.fnnews.com/news/202609092131374636|한양대 학부생이 '전력 먹는 하마' AI 반도체 난제 풀었다>
+ㄴ파이낸셜뉴스 2026.09.09 관련뉴스 5건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090922554741135|한·프랑스, AI·반도체·양자 기술 협력 강화...정례회의 개최>
+ㄴ아시아경제 2026.09.09 관련뉴스 4건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-10 09:43:33 KST === 
+Message TS: 1789001013.251259
+_[텔레그램 로그 2026-09-10] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 10일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.news1.kr/life-culture/book/6285583|RAG·로컬 LLM·MCP...생성형 AI의 핵심 흐름 정리>
+ㄴ뉴스1 2026.09.10
+<https://www.asiae.co.kr/news/view.htm?idxno=2026090920165658698|AI랠리 심장은 GPU 아닌 '모델 매출'[클라우드산업]>
+ㄴ아시아경제 2026.09.10
+<https://www.news1.kr/local/busan-gyeongnam/6285447|"스마트시티 넘어 AI 시티로"...스마트시티부산, 미래 도시 모델 공개>
+ㄴ뉴스1 2026.09.09
+<https://www.fnnews.com/news/202609091833231311|"韓 독자 모델로 세계 3강 안착 총력 AI기술 넘어 안전성.보안까지 확보" [AI월드 2026]>
+ㄴ파이낸셜뉴스 2026.09.09 관련뉴스 1건
+<https://www.sedaily.com/article/20089064|“바이오 AI, 빅테크 독점 LLM과 달라...韓도 글로벌 경쟁서 승산 충분”>
+ㄴ서울경제 2026.09.09
+<https://biz.heraldcorp.com/article/10867505|한국 진료환경 특화 ‘의료LLM’ 개발된다>
+ㄴ헤럴드경제 2026.09.09
+<https://www.etnews.com/20260909000280|원주.천안아산.새만금.광주에 'K-AI 시티'...2030년 AI 도시모델 만든다>
+ㄴ전자신문 2026.09.09
+<https://www.segye.com/newsView/20260909508511|대구대, 186억 규모 ‘국가 사이버 안보 AI 파운데이션 모델’ 개발 사업 참여>
+ㄴ세계일보 2026.09.09
+<https://biz.heraldcorp.com/article/10867518|삼성전자, 미스트랄 AI와 ‘반도체 특화 AI 모델’ 개발 [韓佛기업 첨단산업 협력]>
+ㄴ헤럴드경제 2026.09.09
+<https://www.kukinews.com/article/view/kuk202609090066|“AI 모델 성능 경쟁 본격화...최대 수혜는 삼전·닉스”>
+ㄴ쿠키뉴스 2026.09.09
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.etnews.com/20260910000025|[NABS 2026 기획] AI 에이전트.로봇.사람 한곳서 조율...유아이패스 '마에스트로', 기업 자동화 통합>
+ㄴ전자신문 2026.09.10
+<https://www.news1.kr/world/international-economy/6285639|메타 6.6% 급등...월가 "AI 에이전트 '뮤즈', 새 제품 사이클 시작">
+ㄴ뉴스1 2026.09.10
+<https://www.etnews.com/20260910000032|하나카드, '모두의 AI' 금융 파트너 참여...'에이전트 페이' 개발>
+ㄴ전자신문 2026.09.10
+<https://www.news1.kr/world/usa-canada/6285616|오픈AI 통제이탈 에이전트, 10여개 사이트서 무단 소통..."더 있을 수도">
+ㄴ뉴스1 2026.09.10
+<https://www.sedaily.com/article/20089142|AI 에이전트 1만개 투입...88시간 만에 ‘90년 수학 난제’ 풀었다>
+ㄴ서울경제 2026.09.09 관련뉴스 5건
+<https://www.fnnews.com/news/202609091826242004|"AI에이전트, 보조 넘어 직접 일하는 시대... 기업 조직.업무 재설계를" [AI월드 2026]>
+ㄴ파이낸셜뉴스 2026.09.09 관련뉴스 1건
+<https://www.etnews.com/20260909000100|LG CNS, 차움 건강검진센터에 AI 입힌다...AI 에이전트로 전과정 지원>
+ㄴ전자신문 2026.09.09 관련뉴스 8건
+<https://biz.chosun.com/it-science/ict/2026/09/09/SUSH73QWWJHSTKU2FR2U4UQWG4/|메타, AI 에이전트 ‘뮤즈’ 출시...“이메일 쓰고 예약.결제까지”>
+ㄴ조선비즈 2026.09.09 관련뉴스 4건
+<https://biz.heraldcorp.com/article/10867301|신한카드, 고객 맞춤형 금융상품 실시간 추천·의사결정 지원 ‘AI 에이전트’ 개발>
+ㄴ헤럴드경제 2026.09.09
+<https://www.etnews.com/20260909000041|유베이스 그룹, 'SWCC 2026' 참가...AI 에이전트 기반 차세대 AICC 선보여>
+ㄴ전자신문 2026.09.09
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091009275730580|최태원 SK 회장, 울산서 AX 현장경영...AI 데이터센터·울산CLX 점검>
+ㄴ아시아경제 2026.09.10 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2623826|머큐리, 북미 광케이블 사업 확대...AI 데이터센터 시장 공략>
+ㄴ이투데이 2026.09.10 관련뉴스 1건
+<https://biz.chosun.com/stock/stock_general/2026/09/10/3RDKLY34VNGMHI3TEDRXZ4R6EE/|[투자노트] 데이터센터 수주 쌓여가는 광통신주...“2027년부터 본격화”>
+ㄴ조선비즈 2026.09.10
+<https://www.fnnews.com/news/202609100706208945|제주, 40MW '그린 AI 데이터센터' 승부... 11일 AX 청사진 공개>
+ㄴ파이낸셜뉴스 2026.09.10
+<https://www.kukinews.com/article/view/kuk202609090216|당진 송산2일반산단, 민선 8기에 이은 AI 데이터센터 투자 협약 체결>
+ㄴ쿠키뉴스 2026.09.09 관련뉴스 3건
+<https://www.news1.kr/local/kangwon/6285476|강원도-한전, '강원 AI데이터센터' 유치·전력망 확충 협력키로>
+ㄴ뉴스1 2026.09.09 관련뉴스 1건
+<https://biz.chosun.com/topics/topics_social/2026/09/09/I5Z2RJ6D7BDXTGYKVRO7RCS63Y/|충남도, 당진 송산2산단에 1조2405억 규모 AI 데이터센터 유치>
+ㄴ조선비즈 2026.09.09 관련뉴스 11건
+<https://biz.heraldcorp.com/article/10867973|데이터센터 80여 건 설계 경험 모은다...간삼건축, AI 인프라 모듈화 추진>
+ㄴ헤럴드경제 2026.09.09
+<https://www.fnnews.com/news/202609091517018624|강원도, 한전과 AI데이터센터 전력 인프라 확충 나선다>
+ㄴ파이낸셜뉴스 2026.09.09
+<https://www.kukinews.com/article/view/kuk202609090140|[쿠키과학] ‘AI 데이터센터를 칩 하나처럼’... KAIST, 차세대 AI 데이터센터 설계>
+ㄴ쿠키뉴스 2026.09.09
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

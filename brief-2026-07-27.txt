@@ -1,0 +1,16 @@
+# 2026-07-27 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+Kimi K3's open weights arrive July 27. The catch is 1.4TB
+미국이 분노한 '키미 K3' 쇼크…중국과 전방위 AI 격돌
+NAVER, NVIDIA and Brookfield to Expand Korea's National AI Factory Infrastructure Buildout
+LG전자, 국내 최초 엔비디아 AI 데이터센터 액체냉각 인증
+구글, 전력 효율 10배 '프로즌 v2' 개발 시동
+현대차, '도시 지능화' 담은 피지컬 AI 비전 공개…엔비디아·구글 등과 결속 강화
+Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI hack
+What OpenAI CEO Sam Altman will tell the White House this week
+What is the AI Kill Switch Act proposed in the US and how will it work?
+Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic
+SKT, 스타트업 3곳에 독자 AI 모델 지원
+Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports
+Samsung Electronics, SK Group seal $950B deals
+Palantir's Karp bashes token-based AI model as 'completely wrong'
+"키미 쇼크? 삼전닉스 더 띄울 것" AI기업 임원이 주목한 7곳

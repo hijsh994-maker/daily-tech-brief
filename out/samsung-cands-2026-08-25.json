@@ -1,0 +1,796 @@
+{
+ "1": [
+  {
+   "headline": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
+   "outlet": "연합뉴스",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스페이스XAI 엔비디아 Vera CPU 도입"
+  },
+  {
+   "headline": "엔비디아, 그록3 LPX 본격 양산…삼성 파운드리·네비우스 잡고 추론시장 공략 : 경제",
+   "outlet": "재경일보",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스페이스XAI 엔비디아 Vera CPU 도입"
+  },
+  {
+   "headline": "엔비디아 ‘베라’ CPU, 에이전트 AI 오케스트레이션 전담해 x86보다 1.8...",
+   "outlet": "https://www.wikitree.co.kr/articles/1154620",
+   "date": "2026-08-25",
+   "url": "https://www.wikitree.co.kr/articles/1154620",
+   "via": "naver",
+   "q": "스페이스XAI 엔비디아 Vera CPU 도입"
+  },
+  {
+   "headline": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
+   "outlet": "NVIDIA Newsroom",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "SpaceX AI will adopt NVIDIA's (NVDA.US) Vera CPU to accelerate AI agent applications.",
+   "outlet": "Moomoo",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "Nvidia's Vera Chips to Power SpaceXAI's Grok and First Orbital AI Satellite",
+   "outlet": "finance.biggo.com",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall",
+   "outlet": "BeInCrypto",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "Nvidia Vera CPU Adopted by SpaceX AI, Extending AI Compute from Earth to Space",
+   "outlet": "TradingKey",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "SpaceXAI Taps NVIDIA To Build Faster AI Agents",
+   "outlet": "TradingView",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "NVIDIA Announces SpaceXAI Deployment of Vera CPUs and Vera Rubin Platform for Agentic AI and Orbital Computing",
+   "outlet": "Quiver Quantitative",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "SpaceXAI plans to take NVIDIA AI computing into orbit with Starmind",
+   "outlet": "Stock Titan",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  },
+  {
+   "headline": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents",
+   "outlet": "SiliconANGLE",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX xAI Nvidia Vera CPU deployment"
+  }
+ ],
+ "2": [
+  {
+   "headline": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
+   "outlet": "연합뉴스",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "엔비디아, '그록 3 LPX' 대량 양산 돌입…삼성전자·전기 수혜",
+   "outlet": "지디넷코리아",
+   "date": "2026-08-25",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "삼성전자 생산 엔비디아 추론칩 '그록3 LPX' 양산 돌입",
+   "outlet": "글로벌E",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "삼성 생산 엔비디아 추론가속기 '그록3', 고객사 확보하고 대량 양산 돌입",
+   "outlet": "생생비즈플러스",
+   "date": "2026-08-25",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "GPU 다음은 ‘AI 추론’…엔비디아 신무기 삼성전자가 만들고 네비우스가 샀다",
+   "outlet": "중앙이코노미뉴스",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
+   "outlet": "https://www.yna.co.kr/view/AKR20260825019500091?input=1195m",
+   "date": "2026-08-25",
+   "url": "https://www.yna.co.kr/view/AKR20260825019500091?input=1195m",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "엔비디아 ‘그록3’ 본격 출격…삼성 파운드리, 수익성 개선 가시화 [비...",
+   "outlet": "헤럴드경제",
+   "date": "2026-08-25",
+   "url": "https://biz.heraldcorp.com/article/10850944?ref=naver",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
+   "outlet": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008720138&plink=ORI&cooper=NAVER",
+   "date": "2026-08-25",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008720138&plink=ORI&cooper=NAVER",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "삼성 품은 엔비디아 추론칩 '그록3' 양산, 첫 고객 확보",
+   "outlet": "https://www.fnnews.com/news/202608250836196448",
+   "date": "2026-08-25",
+   "url": "https://www.fnnews.com/news/202608250836196448",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "엔비디아, '그록 3 LPX' 대량 양산 돌입…삼성전자·전기 수혜",
+   "outlet": "지디넷코리아",
+   "date": "2026-08-25",
+   "url": "https://zdnet.co.kr/view/?no=20260825090225",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "강력해지는 삼성파운드리, ‘엔비디아 그록’ 세계 최고 속도로 생산 돌...",
+   "outlet": "서울경제",
+   "date": "2026-08-25",
+   "url": "https://www.sedaily.com/article/20082872?ref=naver",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  },
+  {
+   "headline": "삼성 생산 엔비디아 추론 칩 '그록3'…고객 확보·본격 양산",
+   "outlet": "https://www.jnilbo.com/news/articleView.html?idxno=90000059253",
+   "date": "2026-08-25",
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000059253",
+   "via": "naver",
+   "q": "엔비디아 Groq 3 LPX 양산 네비우스"
+  }
+ ],
+ "3": [
+  {
+   "headline": "엔비디아 ‘베라’ CPU, 에이전트 AI 오케스트레이션 전담해 x86보다 1.8배 빠르다",
+   "outlet": "위키트리",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Vera Rubin NVL72 GB300 처리량 30배"
+  },
+  {
+   "headline": "머스크 \"내년 4분기 첫 AI 위성 발사…2028년엔 대규모\"",
+   "outlet": "연합뉴스",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Vera Rubin NVL72 GB300 처리량 30배"
+  },
+  {
+   "headline": "엔비디아 AI서버 15% 이상 인상…베라 루빈 원가 62%가 메모리",
+   "outlet": "자본시장뉴스",
+   "date": "2026-08-23",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Vera Rubin NVL72 GB300 처리량 30배"
+  },
+  {
+   "headline": "엔비디아 ‘베라’ CPU, 에이전트 AI 오케스트레이션 전담해 x86보다 1.8...",
+   "outlet": "https://www.wikitree.co.kr/articles/1154620",
+   "date": "2026-08-25",
+   "url": "https://www.wikitree.co.kr/articles/1154620",
+   "via": "naver",
+   "q": "엔비디아 Vera Rubin NVL72 GB300 처리량 30배"
+  },
+  {
+   "headline": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+   "outlet": "NVIDIA Blog",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA: Vera Rubin NVL72 Delivers Up To 30x More Agentic AI Throughput Per Megawatt And 35x Lower Token Cost",
+   "outlet": "Pulse 2.0",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA Vera Rubin NVL72 Rack at Hot Chips 2026",
+   "outlet": "ServeTheHome",
+   "date": "2026-08-25",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA Vera Rubin Records A Massive 30x Increase In Throughput Per Watt Than Blackwell While Offering a 35x Token Cost Reduction Across Agentic AI Workloads",
+   "outlet": "Wccftech",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt | NVIDIA Technical Blog",
+   "outlet": "NVIDIA Developer",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA Groq 3 LPX Enters Full Production: 3,400 Tokens per Second at 100K Context, 256 LP30s per Rack",
+   "outlet": "StorageReview.com",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA Vera Rubin NVL72 Sets New AI Agent Efficienc…",
+   "outlet": "StartupHub.ai",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  },
+  {
+   "headline": "NVIDIA announces full-scale production of Groq 3 LPX, with Vera Rubin delivering a multi-fold increase in inference efficiency; SpaceX AI intensifies investments in AI agents and space-based AI.",
+   "outlet": "Moomoo",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Vera Rubin NVL72 agentic throughput per megawatt"
+  }
+ ],
+ "4": [
+  {
+   "headline": "Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio",
+   "outlet": "PR Newswire",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  },
+  {
+   "headline": "Lancium and NVIDIA Partner to Deploy Gigawatt-Scale AI Factories",
+   "outlet": "Unite.AI",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  },
+  {
+   "headline": "NVDA Invests In Blackstone-Backed Lancium To Expand AI Data Center Capacity",
+   "outlet": "TradingView",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  },
+  {
+   "headline": "Lancium Llc Announces Partnership with NVIDIA Corporation to Advance Gigawatt-Scale Ai Factory Development Across Its 15+ Gw Portfolio",
+   "outlet": "marketscreener.com",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  },
+  {
+   "headline": "Lancium Announces Partnership With Nvidia To Advance Gigawatt-Scale AI Factory Development",
+   "outlet": "TradingView",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  },
+  {
+   "headline": "Nvidia, Lancium announce AI factory agreement for 15+ GW portfolio",
+   "outlet": "TipRanks",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  },
+  {
+   "headline": "SpaceX partners with Nvidia to launch Vera Rubin AI supercomputer into orbit in Q4 2027",
+   "outlet": "Crypto Briefing",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Lancium Nvidia partnership gigawatt AI factory"
+  }
+ ],
+ "5": [],
+ "6": [
+  {
+   "headline": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+   "outlet": "OpenAI",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI GPT-5.6 AWS Kiro"
+  },
+  {
+   "headline": "OpenAI Brings GPT-5.6 Model Family to AWS’s Kiro",
+   "outlet": "Unite.AI",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI GPT-5.6 AWS Kiro"
+  },
+  {
+   "headline": "OpenAI GPT-5.6 Powers Kiro for Devs",
+   "outlet": "StartupHub.ai",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI GPT-5.6 AWS Kiro"
+  }
+ ],
+ "7": [
+  {
+   "headline": "SpaceXAI: Grok handles 15,000 Starlink calls a day",
+   "outlet": "Breakingthenews.net",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok Voice Think Fast 2.0 Starlink support calls"
+  },
+  {
+   "headline": "Thousands Are Calling, Chatting With Starlink's AI To Place Orders",
+   "outlet": "PCMag UK",
+   "date": "2026-08-25",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok Voice Think Fast 2.0 Starlink support calls"
+  }
+ ],
+ "8": [
+  {
+   "headline": "＂레버리지 대출 정보 지우지 마라＂…美 SEC, ＇상황 인식＇ 조사 착수",
+   "outlet": "한국경제TV",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "SEC, 포트폴리오 67% 손실 후 시추에이셔널 어웨어니스 조사로 은행 4곳에 소환장",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "AI펀드 300억 달러 붕괴…SEC, 월스트리트 조사",
+   "outlet": "BeInCrypto",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "AI 헤지펀드 7월 67% 손실, SEC 조사",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-25",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "AI펀드 할인 청산 의혹에 SEC 조사 보도 나왔다",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "\"레버리지 대출 정보 지우지 마라\"…美 SEC, '상황 인식' 조사 착수",
+   "outlet": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250203&t=NN",
+   "date": "2026-08-25",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250203&t=NN",
+   "via": "naver",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "AI 헤지펀드 7월 67% 손실, SEC 조사",
+   "outlet": "https://www.tokenpost.kr/news/breaking/397048",
+   "date": "2026-08-25",
+   "url": "https://www.tokenpost.kr/news/breaking/397048",
+   "via": "naver",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "67% 손실 AI펀드, 레버리지 청산 압박 드러냈다",
+   "outlet": "https://www.tokenpost.kr/news/cryptocurrency/396926",
+   "date": "2026-08-25",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/396926",
+   "via": "naver",
+   "q": "SEC 헤지펀드 Situational Awareness 조사"
+  },
+  {
+   "headline": "US SEC subpoenas Wall Street lenders over Situational Awareness meltdown, source says",
+   "outlet": "Reuters",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SEC probe hedge fund Situational Awareness leverage"
+  },
+  {
+   "headline": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+   "outlet": "The New York Times",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SEC probe hedge fund Situational Awareness leverage"
+  },
+  {
+   "headline": "US SEC sends subpoenas to Wall Street banks over Situational Awareness, NYT reports",
+   "outlet": "The Mighty 790 KFGO",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SEC probe hedge fund Situational Awareness leverage"
+  },
+  {
+   "headline": "SEC subpoenas Wall Street banks over Situational Awareness",
+   "outlet": "Financial Times",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SEC probe hedge fund Situational Awareness leverage"
+  }
+ ],
+ "9": [
+  {
+   "headline": "알리바바, 영상 생성 AI ‘완3.0’ 출시…30초 영상에 PDF까지 넣어 구글 비오 도전",
+   "outlet": "위키트리",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "알리바바 Wan 3.0 영상 생성모델 출시"
+  },
+  {
+   "headline": "알리바바, AI 영상 생성 모델 'Wan3.0' 공개…한 번에 30초 영상 생성",
+   "outlet": "https://www.fntoday.co.kr/news/articleView.html?idxno=391207",
+   "date": "2026-08-25",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=391207",
+   "via": "naver",
+   "q": "알리바바 Wan 3.0 영상 생성모델 출시"
+  },
+  {
+   "headline": "알리바바, 영상 생성 AI ‘완3.0’ 출시…30초 영상에 PDF까지 넣어 구글...",
+   "outlet": "https://www.wikitree.co.kr/articles/1154618",
+   "date": "2026-08-25",
+   "url": "https://www.wikitree.co.kr/articles/1154618",
+   "via": "naver",
+   "q": "알리바바 Wan 3.0 영상 생성모델 출시"
+  },
+  {
+   "headline": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
+   "outlet": "Reuters",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba launches AI video model Wan 3.0 after Qwen beats Gemini and ChatGPT in coding",
+   "outlet": "India Today",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba Launches Wan3.0, A 30-second AI Video Generation Model",
+   "outlet": "Dataconomy",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
+   "outlet": "the-decoder.com",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba launches Wan3.0, its 30-second video model, days after raising $10bn",
+   "outlet": "The Next Web",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba Releases Wan3.0 Video Model a Day After $10 Billion Share Sale",
+   "outlet": "Technology Org",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba unveils Wan3.0, an AI model for video generation",
+   "outlet": "UA.NEWS",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba launches Wan3.0 video model with 30-second generation and document input",
+   "outlet": "TechNode",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  },
+  {
+   "headline": "Alibaba launches AI model that turns PDFs into videos",
+   "outlet": "NewsBytes",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba Wan 3.0 video generation model launch"
+  }
+ ],
+ "10": [
+  {
+   "headline": "알리바바, AI 경쟁·투자 확대 위해 14조원 유상증자 단행",
+   "outlet": "전자신문",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "알리바바 102억 달러 유상증자 초과청약"
+  },
+  {
+   "headline": "알리바바, 14조원 주식공모 시작…\"전액 AI에 투자\"",
+   "outlet": "연합뉴스",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "알리바바 102억 달러 유상증자 초과청약"
+  },
+  {
+   "headline": "알리바바, AI 경쟁·투자 확대 위해 14조원 유상증자 단행",
+   "outlet": "전자신문",
+   "date": "2026-08-25",
+   "url": "https://www.etnews.com/20260825000014",
+   "via": "naver",
+   "q": "알리바바 102억 달러 유상증자 초과청약"
+  },
+  {
+   "headline": "Top Alibaba executives purchase US$15m in shares following landmark AI placement",
+   "outlet": "South China Morning Post",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba $10.2 billion share sale oversubscribed"
+  },
+  {
+   "headline": "Alibaba to Raise $10.20 Billion for AI Investment With Share Placement",
+   "outlet": "WSJ",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba $10.2 billion share sale oversubscribed"
+  },
+  {
+   "headline": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+   "outlet": "Reuters",
+   "date": "2026-08-23",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba $10.2 billion share sale oversubscribed"
+  },
+  {
+   "headline": "Alibaba Lines Up A $10.2 Billion Share Sale For AI",
+   "outlet": "Finimize",
+   "date": "2026-08-23",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba $10.2 billion share sale oversubscribed"
+  },
+  {
+   "headline": "Alibaba Shares Plunge 9.8% After Record $10.2 Billion AI Funding Deal",
+   "outlet": "International Business Times, Singapore Edition",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Alibaba $10.2 billion share sale oversubscribed"
+  }
+ ],
+ "11": [
+  {
+   "headline": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
+   "outlet": "Amazon Web Services (AWS)",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "AWS Glue 6.0 general availability price cut"
+  },
+  {
+   "headline": "Real-time Analytics News for the Week Ending August 22",
+   "outlet": "RT Insights",
+   "date": "2026-08-23",
+   "url": null,
+   "via": "gnews-en",
+   "q": "AWS Glue 6.0 general availability price cut"
+  }
+ ],
+ "12": [
+  {
+   "headline": "메타, 오픈AI 베테랑 루크 메츠 영입 사실 확인 - 액시오스",
+   "outlet": "TradingView",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "메타 Luke Metz 영입 오픈AI"
+  },
+  {
+   "headline": "오픈AI 출신 루크 메츠, 메타 초지능 랩 합류",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "메타 Luke Metz 영입 오픈AI"
+  },
+  {
+   "headline": "Meta hires OpenAI veteran Luke Metz",
+   "outlet": "Axios",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "Meta Lands ChatGPT Early Researcher Luke Metz in Escalating AI Talent War",
+   "outlet": "finance.biggo.com",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "OpenAI's Luke Metz joins Meta’s Superintelligence Labs",
+   "outlet": "Social Samosa",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "Meta lands OpenAI researcher Luke Metz in latest superintelligence hire",
+   "outlet": "Dealroom",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "Meta pulls OpenAI veteran into Superintelligence Labs talent war",
+   "outlet": "Cryptopolitan",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "AI Talent War: Meta Hires OpenAI Researcher Luke Metz For Superintelligence Labs",
+   "outlet": "Times Now",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "Luke Metz moves to Meta from OpenAI, says Axios report",
+   "outlet": "ET Now",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  },
+  {
+   "headline": "Meta Hires OpenAI Researcher Luke Metz for Superintelligence Labs",
+   "outlet": "Readers.id",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta hires Luke Metz OpenAI Thinking Machines"
+  }
+ ],
+ "13": [
+  {
+   "headline": "Mistral and HUMAIN Announce Strategic Collaboration to Advance Sovereign AI in Saudi Arabia and Regionally",
+   "outlet": "PR Newswire",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Mistral AI Humain Saudi partnership Arabic model"
+  },
+  {
+   "headline": "Mistral and HUMAIN Team on Sovereign AI for Saudi Arabia and the Region",
+   "outlet": "Unite.AI",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Mistral AI Humain Saudi partnership Arabic model"
+  },
+  {
+   "headline": "Mistral partners with HUMAIN on hundreds-of-millions AI collaboration",
+   "outlet": "Crypto Briefing",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Mistral AI Humain Saudi partnership Arabic model"
+  },
+  {
+   "headline": "Chinese hackers are using DeepSeek AI to launch autonomous cyberattacks",
+   "outlet": "Crypto Briefing",
+   "date": "2026-08-24",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Mistral AI Humain Saudi partnership Arabic model"
+  }
+ ],
+ "14": []
+}

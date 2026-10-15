@@ -1,0 +1,107 @@
+{
+ "date": "2026-08-05",
+ "items": [
+  {
+   "title": "카카오 음성 AI, 사투리까지 표현",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260804173302734",
+   "category": "AI Model"
+  },
+  {
+   "title": "'국가대표 AI' 2차 평가 돌입…덩치보다 효율·실증 관건",
+   "outlet": "더팩트",
+   "url": "https://v.daum.net/v/20260804105736424",
+   "category": "독파모(소버린AI)"
+  },
+  {
+   "title": "삼전 AX 핵심은 '업무 재설계'…\"단순 AI 활용 아닌 구조 바꿔라\"",
+   "outlet": "이데일리",
+   "url": "https://v.daum.net/v/20260804183537927",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "엔비디아 맞먹는 구글 HBM 수요…내년 삼성·SK 1위 각축전",
+   "outlet": "이데일리",
+   "url": "https://v.daum.net/v/20260805040251809",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "스페이스X, 엔비디아 AI 칩 '올인'... 우주 데이터센터 쏘겠다",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608050748011172",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "퓨리오사AI, 스웨덴 AI 데이터센터 뚫었다…RNGD 8800장 단계적 공급",
+   "outlet": "디지털데일리",
+   "url": "https://v.daum.net/v/20260805100317544",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "엘리스그룹, 국내 최초 40도 온수 냉각 'AI 데이터센터' 구축한다",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213501",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+   "outlet": "NVIDIA blog",
+   "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+   "category": "Physical AI"
+  },
+  {
+   "title": "AI 칩 패권 경쟁···구글도 286조원 인프라 금융 사업망 구축",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20075758",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "\"앤트로픽, 신생 클라우드 스타트업 볼타와 100억달러 컴퓨팅 계약\"",
+   "outlet": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20260805000019",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "3대 메가 프로젝트 신속 이행… 제조 인공지능 전환 드라이브",
+   "outlet": "세계일보",
+   "url": "https://v.daum.net/v/20260804181046185",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "백악관, 첨단AI 해킹능력 검증 틀 확정… 비공개 논의 진행",
+   "outlet": "디지털타임스",
+   "url": "https://www.dt.co.kr/article/12076438",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "美, 오픈웨이트 AI는 사전검증 면제",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202608050842030562",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "美, AI 데이터센터도 '탈중국'…中 핵심장비 수입금지 추진",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://v.daum.net/v/20260804214317153",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "AI로 얼굴·목소리 베끼는 '디지털 레플리카' 규제 추진",
+   "outlet": "조선일보",
+   "url": "https://v.daum.net/v/20260804175137425",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "「AI 응용제품 신속 상용화 지원사업」 2차 신규지원 대상과제 공고",
+   "outlet": "산업통상부 공고 제2026-536호",
+   "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do",
+   "category": "국책과제"
+  },
+  {
+   "title": "AI가 뇌졸중·파킨슨·유방암 진단 돕는다…6개 컨소시엄 선정",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20260804_0003735875",
+   "category": "국책과제"
+  }
+ ]
+}

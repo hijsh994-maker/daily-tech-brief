@@ -1,0 +1,19 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 7개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. MS, 자체개발 AI 반도체 '애저 마이아' 공급 확대 … 2027년 멀티 기가와트 규모 구축 (뉴데일리)
+o 링크: [biz.newdaily.co.kr/site/…/2026101300044.html](https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300044.html)
+2. 메타, 자체 최고 모델 '뮤즈 원더' 출시로 프런티어 경쟁 합류 (AI타임스)
+o 링크: [aitimes.com/news/articleView.html?idxno=216176](https://www.aitimes.com/news/articleView.html?idxno=216176)
+3. Ondas and Palantir Form Regna AI for Sovereign Model Deployment (토큰포스트)
+o 링크: [tokenpost.com/news/technology/30288](https://www.tokenpost.com/news/technology/30288)
+4. Our Project Suncatcher prototype satellite is in orbit (Google 공식 블로그)
+o 링크: [blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)
+5. Administration Considers Moving Three CAISSI Officials to White House Lines (토큰포스트)
+o 링크: [tokenpost.com/news/regulation/30568](https://www.tokenpost.com/news/regulation/30568)
+6. Liang Wenfeng Closely Following Embodied AI, DeepSeek Considering Entry (PANews)
+o 링크: [panews.io/articles/…](https://panews.io/articles/01a1305d-61d9-7134-9279-70c22e93a8c3)
+7. Z.ai Unveils GLM-Legal, an Agentic Model for Legal Workflows (Unite.AI)
+o 링크: [unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows](https://www.unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows/)
+
+## 텔레그램 - 에이닷비즈뉴스레터

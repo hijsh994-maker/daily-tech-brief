@@ -1,0 +1,12 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News (U04M2AC692P) at 2026-08-13 09:00:00 KST ===
+Message TS: 1786579200.280809
+- <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLQTZZVFJKRXBjY2lLZkNQaWNIaTNDTVduWElBNG5RdTFNQ1cxRXlfcXJQV2hha1NZbTdRUTY5QmFGYXFYWmZ1d21tUWxiTmRUcUNsVkdTX0Nyb3VUSFE?oc=5|현대차, 연구부터 서비스까지 AI 도입..."가장 제대로 쓰는 기업" - YTN>
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZm1LeU5WUzM5S0VJQTlMUXYtaWlMR1R3NzVid3ZQWUdCRTJ0anJhTG1oZUwtdm9YNnUxZENmZ2c5amxIeGthRGluUFRFVWhUZ0dHVGF6MGJEczhkNUFEQ05oSG43SkRISHg0TXZ1MHHSAXRBVV95cUxOdDc2OXhLRmNkRV8xSngtbTh3SUsxNGlEZ3hJYVFoUnlVQ0lTeXdaQ1YxbDVaYS1VMkF5ZEZMbWQ0YkYwb1hmN3pBMjZBVzk5MUxjTXgxMnJwY200XzZmRVQyazBJWWVnd1VnS0dOeDdFaEYzXw?oc=5|데이터 중심으로 기술 모으는 오라클의 AI 전략 [테크리포트] - IT조선>
+- <https://news.nate.com/view/20260812n29470|보안 특화 AI 개발 경쟁 본격화…LG 참전, SKT·네이버도 저울질>
+- <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PZFFhNV9kODVFM0hUQ2tLcnJ1X1JubWY1ODY5SkdFTGN2WEp2Q29JanN6T3FoZ19GZlpFSVlXTmlabF9wc1dlMUFEbldpNzROY01SUG1fNWVCZkZNOVB3b0pHRHhKS21LWVHSAW5BVV95cUxNQzhMVWp0X2p0OVhwSmFZZkxnM2lvM2NfS1ZwMUt5T1FCdFFJc1hWdzNPdTdrbDQ2c2VrcUFRaTJ3cVM0V2NoaGVlN2VDSHNQZ09uSjdGODViWF84d1plWkVUS2ZaaVBMVm1LcVhJZw?oc=5|'고객' 챙긴 SKT vs '인프라·보안' 살핀 KT…CEO 현장경영 차별화 눈길 - 파이낸셜투데이>
+- <https://news.nate.com/view/20260812n23371|SKT·KT·LGU+, 앞다퉈 AI DC 구축…투자 전략 각양각색>
+- <https://news.nate.com/view/20260812n26818|SKT "AI 경쟁은 인프라 경쟁…2~3년이 골든타임">
+- <https://news.nate.com/view/20260813n03798|구글, 자율성 대신 수익성 노린다…'AI 개발' 딥마인드 조직 개편...>
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXNoUFBCcGlKeGlyMUJMcUlaMXAtNTYwV0VuVUJTTUlVZUpocEFEUk9nRHotYklWeUJ1SGZTWm1BUldWNEJTQVBCNEt5SUtPbXBhc2FsaFpJYXhLMG1RMlRXNE9MaGNHNnhmM2QwRHpzZmFuVnA0MV8zSTRMN2pBMVdCNA?oc=5|“AI가 만들었다면 정체를 밝혀라”…플랫폼으로 번지는 ‘AI 원산지 표시’ - 조선일보>

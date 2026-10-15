@@ -1,0 +1,16 @@
+# 2026-07-28 실제 Daily Tech Brief 수록 기사 (사람이 만든 최종본)
+Moonshot AI releases Kimi K3 open-weight model for download
+Cognizant and Anthropic expand partnership to embed Claude in Cognizant's industry platforms
+라이너, 삼성물산 건설부문과 빌딩에 에이전틱 AI 입힌다
+LG이노텍, 日 TDK와 피지컬AI 맞손…로봇 눈·피부 만든다
+Robots Acquire Manipulation Skills in Seconds from a Single Human Video
+Virtuix Sells First Enterprise System to Tesla for Optimus Humanoid Robot Division
+Industry Leaders Join Open Secure AI Alliance for AI Safety and Security
+마이크로소프트, 보안 특화 'AI 막는' AI 플랫폼 공개
+AI 에이전트 스스로 탈옥 사태…"오픈AI, 1주일간 몰랐다"
+OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat
+'빗장 vs 개방' 中 AI·칩 공습에 갈라진 美
+Nvidia Weighs $250 Billion Backstop for OpenAI Ohio Data Center Campus
+Nvidia invests $1 bil. in Naver for 4.5% stake
+"결국 돈 덜 쓴 회사가 AI 승자?"…애플, 엔비디아 제치고 시총 1위
+OpenAI announces new EU HQ and 250 additional jobs

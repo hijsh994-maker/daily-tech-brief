@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-09-30 09:00:16 KST === 
+Message TS: 1790726416.631089
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-09-30 · 10건)
+*1. [:shield: Agent Infra] <https://www.etnews.com/20260929000332|라이너, AI 에이전트에 1100여개 도구 연동 '액션즈 MCP' 출시>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20260930000004|오픈AI, 가성비 모델 'GPT-6.1 솔'·AI 에이전트 '닷츠' 공개>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/|Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents>* (TechCrunch)
+*4. [:robot_face: AI Agent] <https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/|OpenAI launches Dots, its bubbly agentic avatar>* (TechCrunch)
+*5. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews|AI 연구원은 슈퍼 인텔리전스가 ‘정확히 말처럼 위험하다‘ 고 말하는 동영상을 내놓았습니다.>* (The Verge)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/|The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/|OpenAI’s latest features take direct aim at the app store model>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor|OpenAI, Muse 경쟁사인 Dots 출시>* (The Verge)
+*9. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/|Amazon Quick 및 Amazon Bedrock AgentCore와 함께 AI 기반 계약 인텔리전스 플랫폼 구축>* (AWS Machine Learning Blog)
+*10. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/|Condé Nast가 Amazon Bedrock을 통해 멀티모달 비디오를 개발한 방법>* (AWS Machine Learning Blog)

@@ -1,0 +1,55 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/9/9)
+
+1. 오픈AI, 7대 수학 난제 '나비에-스토크스 방정식' 풀었다 (파이낸셜뉴스 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260909083906914
+
+2. Introducing ChatGPT Images 2.5 (OpenAI)
+o 링크: https://openai.com/index/introducing-chatgpt-images-2-5/
+
+3. OpenAI just anchored an Australian company's Malaysian data centres (The Next Web)
+o 링크: https://thenextweb.com/news/firmus-openai-anchor-customer-malaysia-900mw-asx-ipo
+
+4. 이메일 쓰고 쇼핑 결제까지…메타, AI에이전트 '뮤즈' 출시 (연합뉴스 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260909075452688
+
+5. Scoop: Anthropic breaks from major tech group over chips (Axios)
+o 링크: https://www.axios.com/2026/09/08/anthropic-breaks-tech-group-chips
+
+6. "앤트로픽·오픈AI IPO 이후 투자적격 등급 확보 추진" (연합뉴스 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260908154842011
+
+7. 구글·블랙스톤 6.7조 AI 프로젝트 '삐걱'…데이터센터 장비난·규제에 발목 (중앙일보)
+o 링크: https://www.joongang.co.kr/gmc/article/25460285
+
+8. 알파게놈 아틀라스: 인간 게놈에서 가능한 모든 DNA 염기 변화를 예측하는 지도 (Google 공식 블로그)
+o 링크: https://blog.google/intl/ko-kr/company-news/technology/alphagenome-atlas-kr/
+
+9. 액센츄어(ACN.N)·구글 클라우드, '제미나이 엔터프라이즈' 사업그룹 출범…기업 AI 도입 지원 (알파경제)
+o 링크: https://www.alphabiz.co.kr/news/articleView.html?idxno=182862
+
+10. 맞춤형 실리콘부터 1.6T 광 연결까지... 퀄컴-아마존, AI 인프라 동맹 (디지털데일리 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260909090448947
+
+11. 네비우스그룹, 팔란티어와 AI 인프라 공급 파트너십 체결… 주권형 AI 스택 제공 (매일경제)
+o 링크: https://www.mk.co.kr/news/stock/12147653
+
+12. Oracle (ORCL.N) has issued a request for proposals for a 2-gigawatt renewable energy project in New Mexico (Futubull)
+o 링크: https://news.futunn.com/en/flash/20723540/oracle-orcln-has-issued-a-request-for-proposals-for-a
+
+13. ERCOT 배치제로, IREN 2GW 스위트워터 허브 기저부하 조건부 포함 (증권플러스 뉴스룸)
+o 링크: https://newsroom.stockplus.com/breaking-news/34242
+
+14. Do it all with Devin: Announcing our Series E (Cognition)
+o 링크: https://cognition.com/blog/series-e
+
+15. 일레븐랩스, 최고수익책임자 오픈AI서 영입…글로벌 사업 가속 (지디넷코리아 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260908104553575
+
+16. 런웨이 AI, 비디오 도구 수요 급증에 2억 달러 매출 달성 - 블룸버그 (Investing.com 한국어)
+o 링크: https://kr.investing.com/news/stock-market-news/article-93CH-2086982
+
+17. [참고] DeepSeek, 멀티모달 지원 'V4.1 Flash' 테스트 시작 (promppy)
+o 링크: https://www.promppy.com/item/1519801
+
+18. China-Based Artificial Intelligence Companies Conducting Industrial-Scale Knowledge Distillation of U.S. AI Models (CISA)
+o 링크: https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a

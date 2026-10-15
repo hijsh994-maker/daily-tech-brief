@@ -1,0 +1,464 @@
+{
+ "date": "2026-10-01",
+ "terms": [
+  {
+   "term": "Akamai",
+   "norm": "akamai",
+   "n_outlets": 34,
+   "n_today": 1,
+   "outlets": [
+    "Barron's",
+    "Benzinga",
+    "Bloomberg",
+    "Breakingthenews.net",
+    "CXOToday.com",
+    "Crypto Briefing",
+    "Data Center Dynamics",
+    "Finimize"
+   ],
+   "days": 7,
+   "first": "2026-09-22",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance Australia(09-22) | Akamai (AKAM) Wants to Be the Bouncer for Your AI Agents",
+    "SecurityBrief UK(09-23) | Akamai warns of blind spots in workplace agentic AI",
+    "CXOToday.com(09-24) | From Identity to Action: Akamai Urges CISOs to Govern Autonomous AI Agent Behavi",
+    "seekingalpha.com | Akamai: The $11.6 Billion Anthropic Deal Is Worth Far Less - And Potentially Far"
+   ],
+   "score": 22
+  },
+  {
+   "term": "Laya",
+   "norm": "laya",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "GitHub",
+    "HuggingFace"
+   ],
+   "days": 2,
+   "first": "2026-09-23",
+   "reaction": 2,
+   "community": 7,
+   "titles": [
+    "GitHub(09-23) | NandhaKishorM/laya — Non-autoregressive System 1 decision engine. Typed choice, ",
+    "GitHub(09-23) | mizorewww/laya-mlx — Native MLX runtime for Laya typed decision models — 7–14 ms",
+    "GitHub(09-23) | mizorewww/laya-coreml — Local Laya typed decisions on Apple Core ML and Neural E",
+    "GitHub | NandhaKishorM/laya — Non-autoregressive System 1 decision engine. Typed choice, ",
+    "GitHub | mizorewww/laya-mlx — Native MLX runtime for Laya typed decision models — 7–14 ms",
+    "HuggingFace | HF trending: convaiinnovations/laya"
+   ],
+   "score": 20
+  },
+  {
+   "term": "분산형 AI",
+   "norm": "분산형ai",
+   "n_outlets": 11,
+   "n_today": 10,
+   "outlets": [
+    "ER 이코노믹리뷰",
+    "Korea IT Times",
+    "edaily.co.kr",
+    "thelec.kr",
+    "zdnet.co.kr",
+    "디지털데일리",
+    "디지털투데이",
+    "엠투데이"
+   ],
+   "days": 2,
+   "first": "2026-10-01",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "edaily.co.kr(09-30) | \"분산형 AI 도입하는 한국, 2035년 연간 68조 시장 열린다\"",
+    "디지털데일리(09-30) | 액세스 파트너십, 분산형 AI 2035년 한국서 500억달러 창출 전망",
+    "ER 이코노믹리뷰 | [분산형 AI, 그리고 디지털 이코노미⑤] 구슬이 서 말이어도 '빠르게 꿰어야' 보배다",
+    "zdnet.co.kr | \"분산형 AI, 2035년 한국서 연 68조원 가치 창출 전망\"",
+    "테크데일리 | [테크리포트] AI 추론 수요 2030년 30배…한국이 주목해야 할 ‘분산형 AI’",
+    "Korea IT Times | 분산형 AI, 한국 산업의 새 성장 인프라로…2035년 연 500억 달러 가치 전망"
+   ],
+   "score": 16
+  },
+  {
+   "term": "에이전틱 시프트",
+   "norm": "에이전틱시프트",
+   "n_outlets": 9,
+   "n_today": 7,
+   "outlets": [
+    "Samsung Global Newsroom",
+    "ebn.co.kr",
+    "edaily.co.kr",
+    "todaymild.com",
+    "디지틀조선TV",
+    "미디어데일",
+    "미디어파인",
+    "비즈워치"
+   ],
+   "days": 2,
+   "first": "2026-09-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Samsung Global Newsroom(09-30) | 삼성전자, ‘에이전틱 시프트’ 주제로 삼성 AI 포럼 2026 개최",
+    "ebn.co.kr(09-30) | [Tech & Now] 삼성전자, '에이전틱 시프트' 주제로 AI 포럼 개최 등",
+    "비즈워치 | AI가 동료가 되는 순간…삼성이 주목한 '에이전틱 시프트'",
+    "edaily.co.kr | \"AI 도입 넘어 성과로\"…삼성 AI포럼서 주목한 '에이전틱 시프트'",
+    "미디어데일 | 삼성전자 ‘에이전틱 시프트’ 주제로 삼성 AI 포럼 2026 개최",
+    "디지틀조선TV | 삼성전자, ‘에이전틱 시프트’ 주제 AI 포럼 개최…기술 혁신 성과 공유"
+   ],
+   "score": 16
+  },
+  {
+   "term": "ZCode",
+   "norm": "zcode",
+   "n_outlets": 19,
+   "n_today": 1,
+   "outlets": [
+    "Cryptopolitan",
+    "GitHub",
+    "KuCoin",
+    "Longbridge",
+    "MIXED Reality News",
+    "Pandaily",
+    "Pasquale Pillitteri",
+    "Silicon UK"
+   ],
+   "days": 8,
+   "first": "2026-09-22",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Cryptopolitan(09-22) | Z.ai, 동의 없이 로컬 파일 업로드 도구 논란 후 ZCode 오픈소스 공개",
+    "Techiexpert.com(09-22) | ZCode Caught Silently Uploading Entire Workspaces and Git Records to the Cloud",
+    "The Standard (HK)(09-22) | Z.AI open-sources ZCode after coding tool uploads local data silently",
+    "GitHub | zai-org/ZCode — Z.ai's coding agent harness. Powerful, intelligent, extensible."
+   ],
+   "score": 15
+  },
+  {
+   "term": "에이전틱 전환",
+   "norm": "에이전틱전환",
+   "n_outlets": 4,
+   "n_today": 3,
+   "outlets": [
+    "ddaily.co.kr",
+    "이슈밸리",
+    "지디넷코리아",
+    "퍼블릭뉴스통신"
+   ],
+   "days": 2,
+   "first": "2026-10-01",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "이슈밸리(09-30) | 삼성전자, AI를 ‘성과’로 바꾸다…글로벌 석학과 에이전틱 전환 이끌어",
+    "퍼블릭뉴스통신 | 삼성 AI 포럼 2026 개막… 에이전틱 전환과 피지컬 AI 상용화 주목",
+    "지디넷코리아 | \"추천·상담 넘어 운영 전반 혁신\"…MS, 리테일 AI 에이전틱 전환 가속",
+    "ddaily.co.kr | 전영현 삼성전자 부회장, “AI 융합 주목할 때”…삼성 AI 포럼, ‘에이전틱 전환’ 조명"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Dots",
+   "norm": "dots",
+   "n_outlets": 79,
+   "n_today": 31,
+   "outlets": [
+    "ADWEEK",
+    "Adgully.com",
+    "Al Jazeera",
+    "Axios",
+    "BBC",
+    "BankInfoSecurity",
+    "Barron's",
+    "CBS News"
+   ],
+   "days": 2,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Investing.com 한국어(09-30) | OpenAI, GPT-6 Astra 기반 AI 에이전트 ’Dots’ 출시",
+    "edaily.co.kr(09-30) | 오픈AI, 시키지 않아도 계속 일하는 AI 에이전트 ‘닷(dots)’ 공개",
+    "토큰포스트(09-30) | 오픈AI, Dots·GPT-6.1 Sol 공개…월 500달러 요금제",
+    "TIKR.com | Meta Faces Challenge in Enterprise Market As OpenAI Launches Autonomous Dots Age",
+    "Mashable | OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026",
+    "Axios | OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistan"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Jeeves",
+   "norm": "jeeves",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "SiliconANGLE"
+   ],
+   "days": 2,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN(09-30) | Jeeves. Reasoning improves Jev-like decision models",
+    "SiliconANGLE | Jeeves raises $110M to scale stablecoin-native banking platform for global payme"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Argon",
+   "norm": "argon",
+   "n_outlets": 28,
+   "n_today": 28,
+   "outlets": [
+    "9to5Google",
+    "Anadolu Ajansı",
+    "Android Authority",
+    "Ars Technica",
+    "Business Insider",
+    "CNBC",
+    "HN",
+    "Kingy AI"
+   ],
+   "days": 1,
+   "first": "2026-10-01",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI | Google, 코딩 및 사이버 방어를 위한 Gemini 4 Argon 프론티어 모델 발표",
+    "토큰포스트 | 구글, Gemini 4 Argon 공개…내부 실무 평가는 엇갈려",
+    "토큰포스트 | 구글, Gemini 4 Argon 공개…사이버 방어자에 선제 제공",
+    "blog.google | Gemini 4 Argon: our next era of frontier intelligence",
+    "Yahoo Finance | Google debuts Gemini 4 Argon, its latest frontier model",
+    "SiliconANGLE | Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders fi"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Closing Bell",
+   "norm": "closingbell",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Bloomberg.com",
+    "marketscreener.com"
+   ],
+   "days": 2,
+   "first": "2026-09-22",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "marketscreener.com(09-22) | Meta Surges 11% as AI Agent Demand Fuels Chip Rally | Closing Bell",
+    "Bloomberg.com | Watch Micron Beats Estimates as AI Data Center Revenue Surges | Closing Bell"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Peak XV Raises Surge Seed Cap",
+   "norm": "peakxvraisessurgeseedcap",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "The Tech Buzz"
+   ],
+   "days": 2,
+   "first": "2026-09-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "The Tech Buzz(09-30) | Peak XV Raises Surge Seed Cap to $5M, Backs 18 New Startups",
+    "AI Insider | Peak XV Raises Surge Seed Cap to $5M as AI Startups Dominate 18-Company Cohort"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Inference Demand Surges",
+   "norm": "inferencedemandsurges",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "digitimes"
+   ],
+   "days": 2,
+   "first": "2026-10-01",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "digitimes(09-22) | AI inference demand surges as training slowdown talk fades",
+    "AI Insider | Modal Labs Nears $750M Round at $15.75B Valuation as AI Inference Demand Surges"
+   ],
+   "score": 12
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Robotiq",
+   "norm": "robotiq",
+   "n_outlets": 22,
+   "n_today": 5,
+   "outlets": [
+    "AiThority",
+    "Business Standard",
+    "Croatia Week",
+    "Engineering.com",
+    "FourWeekMBA",
+    "Moneycontrol.com",
+    "PR Newswire",
+    "Rediff MoneyWiz"
+   ],
+   "days": 5,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Robotics & Automation News(09-24) | Robotiq launches open-source software tools for physical AI and robot manipulati",
+    "Robotics & Automation News(09-25) | Robotiq launches open-source software tools for physical AI and robot manipulati",
+    "PR Newswire(09-29) | HCLSoftware to Acquire Robotiq.ai, Strengthening Enterprise Agentic Automation",
+    "Engineering.com | HCLSoftware plans to acquire Robotiq.ai",
+    "The Recursive | Croatian RPA Platform Robotiq.ai To Be Acquired For €9M",
+    "SeeNews | HCLSoftware to acquire Croatia's Robotiq.ai for agentic automation"
+   ],
+   "score": 10
+  },
+  {
+   "term": "A10",
+   "norm": "a10",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "ANI News",
+    "CFOtech Asia",
+    "Manila Bulletin",
+    "Yahoo! Finance Canada",
+    "내외경제TV",
+    "데이터넷",
+    "디지털경제뉴스",
+    "바이라인네트워크"
+   ],
+   "days": 5,
+   "first": "2026-09-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "데이터넷(09-22) | A10 네트웍스, AI 활용 통합 관리 플랫폼 ‘AI 게이트웨이’ 출시",
+    "올포칩(09-23) | A10 네트웍스, AI운영 통합 관리 보안 플랫폼 ‘AI 게이트웨이’ 출시",
+    "아이티비즈(09-23) | A10 네트웍스, AI 운영 통합 관리 플랫폼 ‘A10 AI 게이트웨이’ 출시",
+    "CFOtech Asia | A10 launches AI Gateway to control model use & cost"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Blueprint Alliance",
+   "norm": "blueprintalliance",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "Business Wire",
+    "ChannelE2E",
+    "Cyber Magazine",
+    "MarketBeat",
+    "Proofpoint",
+    "SC Media",
+    "SiliconANGLE",
+    "TNGlobal"
+   ],
+   "days": 6,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SiliconANGLE(09-23) | Okta adds AI agent runtime gateway, forms Blueprint Alliance with AWS and CrowdS",
+    "TNGlobal(09-23) | Blueprint Alliance targets shared security architecture for AI agents",
+    "Virtualization Review(09-23) | Blueprint Alliance Targets Common Security Model for AI Agents",
+    "SC Media | Okta: The Blueprint Alliance AI-agent framework isn’t ours, but everybody’s"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Project Jupiter",
+   "norm": "projectjupiter",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "Albuquerque Journal",
+    "Investing.com",
+    "Investing.com 한국어",
+    "TIKR.com",
+    "Yahoo Finance",
+    "breitbart.com",
+    "elpasomatters.org",
+    "konsulteer.com"
+   ],
+   "days": 6,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "tikr.com(09-24) | Oracle’s Project Jupiter Loans Are Trading at 90 Cents. Here’s What the Q1 Numbe",
+    "Albuquerque Journal(09-24) | County names committee to monitor Project Jupiter data center",
+    "Investing.com 한국어(09-25) | Oracle, 대규모 ’Project Jupiter’ 데이터센터에 불가항력 조항 발동",
+    "elpasomatters.org | Opinion: Project Jupiter can strengthen southern New Mexico while advancing U.S."
+   ],
+   "score": 10
+  },
+  {
+   "term": "지능 폭발",
+   "norm": "지능폭발",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "SDG뉴스",
+    "ebn.co.kr",
+    "kbfd.com",
+    "경향신문",
+    "뉴시스",
+    "산경일보",
+    "세계일보",
+    "전자신문"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SDG뉴스(09-23) | [SDG 9] AI가 스스로 AI를 만드는 시대…‘지능 폭발’은 인류의 마지막 발명이 될 것인가",
+    "한국경제(09-29) | \"AI 지능 폭발 임박…통제 못하면 인류 멸망\" 무서운 경고",
+    "ebn.co.kr(09-29) | AI 연구자 22명 \"AI 지능 폭발 가능…통제 상실 땐 인류 위험\"",
+    "kbfd.com | “AI가 AI를 개발한다”…‘지능 폭발’ 가능성에 세계 AI 연구자들 경고"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OrcaRouter",
+   "norm": "orcarouter",
+   "n_outlets": 8,
+   "n_today": 2,
+   "outlets": [
+    "CEO경제신문",
+    "ceoeconomy.com",
+    "koreasprint.com",
+    "specialtimes.co.kr",
+    "뉴스와이어",
+    "매일타임즈",
+    "스페셜타임스",
+    "한국데이터경제신문"
+   ],
+   "days": 5,
+   "first": "2026-09-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "뉴스와이어(09-22) | 에이전트가 왜 그랬는지 알려준다… OrcaRouter, ‘orca-trace’ 공개",
+    "specialtimes.co.kr(09-22) | CONTINUUM AI OrcaRouter, 에이전트 실행 기록 추적 도구 무료 공개",
+    "ceoeconomy.com(09-24) | OrcaRouter, AI 추론 용량 공동구매 서비스 ‘OrcaPool’ 첫 가동",
+    "스페셜타임스 | OrcaRouter, 텐센트 Hy4 프리뷰 무료 제공…100만 토큰 컨텍스트 지원",
+    "뉴스와이어 | 무료도 같은 가중치… OrcaRouter, 텐센트 Hy4 프리뷰 무료 등급에 올려"
+   ],
+   "score": 10
+  }
+ ]
+}

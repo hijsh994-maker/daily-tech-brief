@@ -1,0 +1,14 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-09 09:00:00 KST === 
+Message TS: 1788912000.268689
+- <https://news.google.com/rss/articles/CBMiTEFVX3lxTE82RFJsOGlqdFRUZjZiX1dmX3pEbF9mRDZqYWtXMEZNcWxhcGNWSDVnMTVveThNT1pHZ3ppTG15MTQ5SlNOMzJIZkdzeGU?oc=5|거대한에이아이실험실, 베트남 'InnoEx 2026' 참가…AI 콘텐츠 제작 플랫폼 소개> 
+- <https://news.google.com/rss/articles/CBMigwFBVV95cUxORl96dDBFTWhmeGdoaTAxSzF3TTlvZkVEQVNtYnIwLXl1OU9PNVlvM3BKU3hGNDJBV05uc0RMd21qaURiU1BKaUxGbTRlMkRYdTNhWV9qZ2E0WEVhelNqM0MwLTZhOEQ1Z2ZSZ1pQajBNdVBXX19HLXh0T3dQVG5GNGhsMA?oc=5|세계 1위 로펌 키맨의 AI 실험…국내 로펌들도 공존 방식 고민> 
+- <https://news.nate.com/view/20260908n07498|정재헌 SKT 대표 "승부처는 AIDC…AI 네이티브 기업으로 도약"> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbEU5eWszWjVraGtTdFJ5d25kR0UyLWpsYWFNRjNzVjJkOVI4VjB5OG1QbXR1eWJ4R0hfYzZqS3p2b0Y5bkJXOEFKOG1JRWcyUEJsNEYtN1BSa1E?oc=5|구글·블랙스톤 6.7조 AI 프로젝트 ‘삐걱’…데이터센터 장비난·규제에 발목> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jV3g3N0dhUG1aQWVIYmNra3I1TTlEQVFORnVzbmRsQlF6R0RWWThFekZ1ZGdoWXMycC1CT0NMUmVZRnpXbWhfZHlJTU80QQ?oc=5|“상무는 챗GPT, 전무는 클로드 쓰자네요”…AI모델 홍수 속 기업들 결정장애> 
+- <https://news.nate.com/view/20260908n08761|'국제AI·메타버스영상제' 마침표…32억원 규모 수출상담> 
+- <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QSUVEWTRPNmppV3BKWFpjdDNGcUw1d01nMDdLU21vMTRaUVkyLVI3d1VKTU9PUnFRSWFHMlpiUlFJcm5VOExYZFlrZmZ6bFFsOTQ1ZjJiT0nSAVhBVV95cUxNUElFRFk0TzZqaVdwSlhaY3QzRnFMNXdNZzA3S1NtbzE0WlFZMi1SN3dVSk1PT1JxUUlhRzJaYlJRSXJuVThMWGRZa2ZmemxRbDk0NWYyYk9J?oc=5|퀄컴-아마존 '맞손'...80조원 차세대 AI칩 동맹> 
+- <https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3FnZkpVdk5HZkFnakV0N3dBWmZ6SFFjTE1DLWlsUGQ0N1Y3SlhiTGFzVkFQQnY2cHkxSzd2YlpwOERKLVZOOGtkdThRTzloZzBBUWlpWmUyS2UzU3J3QjhPUkFhR1pROW9ybW1JNWpMSmZWdjRwV0cyY3Atcnh1c3E1Q28zVnRGLTlmS1ZGQkRPY0xYVjU40gGcAUFVX3lxTE05R3lsWEZfZjV6WkRZNndRZU8wZWhUZDViT0tYYU1VWlpSTUpFNkpra2EzS0JCcl9ySzRCWTR4enJoVDdoTXFfcElqQ0hJZ0JVeXRWSU11ZWlnOElBbW9XYjFLVEtybktUMWlhU01DOC1VcVFGaktNeTl1eFNGYmowYjZZTzY5SnkzcllGdUl5N1NfWlprVmh2TFVoeQ?oc=5|메타, 개인 AI 에이전트로 진출…프라이버시와 안전 문제에 직면> 
+- <https://news.google.com/rss/articles/CBMiakFVX3lxTE1qU1NxR01NZm4xVmNjZVB6T1NnZVlIYUk0YVhJYjIzOS1GM0czMmNObmRPZkdybHR0YXlJb0dON1VtNGY2NFo4WVF4R19xVXRKQy11MWFJYkVhS2VTZml2QVdXX2RWdzdOMFE?oc=5|OpenClaw 2.0 출시> 
+- <https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVJ1eVp6dVdQZE1TaG9uczl2TzdNRllEWGkzNV9IVUtPYnVtclpSMFRBeU9kcXRaeU9QMlVJUmRVUkl0VFUxdXlFemc1NU5OMnRlQzdzaVVHSHlNMVQzQ3FycEZJQ05jRjU4MlFUU1liOGNRWDBUVXBWQWs2SXg0SGtHWlhFdzNQUEk4cEJ1SQ?oc=5|애플, OpenAI 비밀 소송에서 ‘충격적인 증거’ 공개>

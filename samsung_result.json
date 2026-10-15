@@ -1,0 +1,178 @@
+[
+ {
+  "bullet": "구글, Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 공개",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "구글 Gemini 3 6",
+  "title": "알파벳, 구글 신규 서버칩 '프로즌 v2' 개발 보도에 주가 3%↑",
+  "pubdate": "2026-07-21",
+  "url": "https://www.ddaily.co.kr/page/view/2026072105272700654"
+ },
+ {
+  "bullet": "오픈AI, 보안 테스트 중 AI 모델이 샌드박스를 우회해 허깅 페이스 환경에서 자동화된 공격을 수행했다고 공개",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "오픈AI 보안 테스트 모델이",
+  "title": "보안 해결하랬더니 스스로 해킹하다 걸린 오픈AI",
+  "pubdate": "2026-07-22",
+  "url": "https://www.hankyung.com/article/2026072200421"
+ },
+ {
+  "bullet": "오픈AI, Nubank의 창업자 겸 CEO 데이비드 벨리즈와 BNY Mellon CEO 로빈 빈스를 사외이사로 선임. IPO 준비의 일환으로 해석",
+  "ok": false,
+  "tier": "review",
+  "distinct": 1,
+  "entity_ok": true,
+  "query": "오픈AI Nubank CEO BNY",
+  "title": "오픈AI, IPO 앞두고 BNY멜론·누뱅크 CEO 이사회 영입",
+  "pubdate": "2026-07-22",
+  "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166219"
+ },
+ {
+  "bullet": "오픈AI, 중소기업 대상 챗GPT 서비스 출시. 챗GPT Work와 최신 GPT-5.6 모델 포함",
+  "ok": false,
+  "tier": "review",
+  "distinct": 1,
+  "entity_ok": true,
+  "query": "오픈AI GPT GPT Work",
+  "title": "“중요한 일에 챗GPT”… 오픈AI 한국 첫 광고",
+  "pubdate": "2026-07-22",
+  "url": "https://www.sedaily.com/article/20070296?ref=naver"
+ },
+ {
+  "bullet": "샘 올트먼, 미국 정부 관계자들에게 차세대 프런티어 모델 개발 현황과 향후 출시 계획 직접 브리핑 예정",
+  "ok": false,
+  "tier": "review",
+  "distinct": 1,
+  "entity_ok": true,
+  "query": "샘 올트먼 미국",
+  "title": "이 대통령, 24일부터 미국 등 순방⋯젠슨황·샘 올트먼 만난다",
+  "pubdate": "2026-07-22",
+  "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5207499"
+ },
+ {
+  "bullet": "앤스로픽, 상반기 로비 지출액 350만 달러 이상으로 '25년 연간 310만 달러 상회.",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "앤트로픽",
+  "title": "李대통령, 앤트로픽·오픈AI·엔비디아 수장 만난다…'샌프란 AI 선언' 발...",
+  "pubdate": "2026-07-22",
+  "url": "https://www.news1.kr/politics/president/6235765"
+ },
+ {
+  "bullet": "스페이스X, MS 365 추가 기능인 Grok for Outlook 출시. 유료 구독자 대상으로 롤아웃",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "스페이스X",
+  "title": "스페이스X, 첫 실적 8월4일 발표…보호예수 해제 변수",
+  "pubdate": "2026-07-22",
+  "url": "https://www.bloter.net/news/articleView.html?idxno=668602"
+ },
+ {
+  "bullet": "메타, Threads에 부모 감독 기능 추가. 청소년의 사용시간 확인, 일일 이용 제한, 취침 모드 및 개인정보 설정 관리 기능 제공",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "메타 Threads",
+  "title": "아이유, 미 법원에 ‘메타 증거개시’ 신청… 해외 SNS 악플러 신원 확...",
+  "pubdate": "2026-07-20",
+  "url": "https://www.sportsworldi.com/newsView/20260720512021"
+ },
+ {
+  "bullet": "문샷 AI, 현재 315억 달러 규모 펀딩 라운드 마무리 이후 최대 500억 달러 밸류로 프리 IPO 라운드 추진 보도",
+  "ok": true,
+  "tier": "auto",
+  "distinct": 3,
+  "entity_ok": true,
+  "query": "문샷 315억",
+  "title": "[중국 특징주] \"문샷AI, 몸값 500억달러로 상장 전 마지막 펀딩 추진\"",
+  "pubdate": "2026-07-22",
+  "url": "https://www.newspim.com/news/view/20260722000079"
+ },
+ {
+  "bullet": "베센트 재무장관, 트럼프 행정부가 오픈소스 AI는 지지하지만, IP 침해 시 제제 가능성 시사",
+  "ok": true,
+  "tier": "auto",
+  "distinct": 2,
+  "entity_ok": true,
+  "query": "베센트 재무장관 트럼프 행정부가 오픈소스",
+  "title": "美 재무장관 \"中 AI 모델, 기술 도용 확인되면 제재…IP 침해 조사 착수...",
+  "pubdate": "2026-07-22",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685886"
+ },
+ {
+  "bullet": "미-중, 9월 AI 관련 정부 간 회담 개최를 추진. 군사 활용, 핵심 인프라 대상 사이버 공격, 노동시장 영향 등 첨단 프런티어 AI 모델의 위험성과 규제 방안을 논의할 예정",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 1,
+  "entity_ok": false,
+  "query": "미-중 9월 정부 회담",
+  "title": "미중, 9월 정부 간 'AI 회담' 추진…\"시진핑 방미 전\"",
+  "pubdate": "2026-07-22",
+  "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5207394"
+ },
+ {
+  "bullet": "코어위브, AI 네이티브 클라우드 구축을 지속하고 있으며, AI 클라우드 매출이 성장할 수록 감가상각비 부담 완화 전망",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "코어위브",
+  "title": "미 클라우드 서비스주 강세…허트8·코어위브 4% 가까이 상승",
+  "pubdate": "2026-07-21",
+  "url": "https://www.tokenpost.kr/news/breaking/379914"
+ },
+ {
+  "bullet": "데이터브릭스, AI 모델 호스팅 수요가 가용 컴퓨팅 캐파를 넘어서면서 여러 지역에서 GPU가 부족한 상황이라는 CEO 코멘트",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "데이터브릭스",
+  "title": "데이터브릭스, 기업가치 1880억 달러로 투자 유치 추진...“AI 전략 강화...",
+  "pubdate": "2026-07-20",
+  "url": "https://www.etnews.com/20260720000187"
+ },
+ {
+  "bullet": "마이크로소프트-미스트랄 AI, 전략적 파트너십 확대. 유럽 AI 인프라 확대를 위해 수십억 달러 규모 계약 체결",
+  "ok": true,
+  "tier": "auto",
+  "distinct": 3,
+  "entity_ok": true,
+  "query": "마이크로소프트-미스트랄 AI 전략적 파트너십 유럽",
+  "title": "\"유럽 주권형 AI 시대 연다\"...마이크로소프트·미스트랄, 수십억 달러 ...",
+  "pubdate": "2026-07-22",
+  "url": "https://www.aitimes.kr/news/articleView.html?idxno=41089"
+ },
+ {
+  "bullet": "팔로알토 네트웍스, Embrace 인수를 통해 실사용자 모니터링(RUM) 역량 확보",
+  "ok": false,
+  "tier": "drop",
+  "distinct": 0,
+  "entity_ok": true,
+  "query": "팔로알토",
+  "title": "“오픈AI가 스스로 해킹했다” 충격…팔로알토 등 사이버보안株 주목",
+  "pubdate": "2026-07-22",
+  "url": "https://www.mk.co.kr/article/12104330"
+ },
+ {
+  "bullet": "인텔-포티넷, 차세대 SP6 보안 프로세서 개발을 위한 파트너십 확대 발표",
+  "ok": true,
+  "tier": "auto",
+  "distinct": 4,
+  "entity_ok": true,
+  "query": "인텔-포티넷 SP6 차세대 보안",
+  "title": "포티넷·인텔, 차세대 보안 프로세서 'SP6' 공동 개발 추진",
+  "pubdate": "2026-07-22",
+  "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166225"
+ }
+]

@@ -1,0 +1,107 @@
+{
+ "date": "2026-08-10",
+ "items": [
+  {
+   "title": "\"내년 글로벌 기업 절반이 가성비 뛰어난 中 AI 쓸 것\"",
+   "outlet": "동아일보",
+   "url": "https://v.daum.net/v/20260810003154560",
+   "category": "AI Model"
+  },
+  {
+   "title": "스페이스XAI, '이매진 이미지 2.0' 공개...생성 넘어 정밀 편집·일관성 집중",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213713",
+   "category": "AI Model"
+  },
+  {
+   "title": "UNIST, AI '전문가 공유' 기술 개발…언어모델 크기 63% 줄였다",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20077470",
+   "category": "AI Model"
+  },
+  {
+   "title": "'모두의 AI' 컨소시엄 영입 경쟁 불붙어",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260809090211105",
+   "category": "독파모** **& 모두의 AI"
+  },
+  {
+   "title": "독자 AI 모델에 87억 규모 '교재' 투입…문제·전공책에 강의영상까지",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260807000213",
+   "category": "독파모** **& 모두의 AI"
+  },
+  {
+   "title": "기업 부도 예측… 산업 특화 AI '엑사원' 경쟁력 입증",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://v.daum.net/v/20260809183313692",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "롯데마트, 英오카도와 손잡고 'AI 물류' 승부수",
+   "outlet": "한국경제",
+   "url": "https://v.daum.net/v/20260809180938263",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "금값 메모리의 역풍?… 엔비디아, HBM 탑재량 축소 검토",
+   "outlet": "조선일보",
+   "url": "https://v.daum.net/v/20260810003309584",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "'본격 출하' 엔비디아 베라 루빈, 원가의 62%는 메모리… \"HBM4보다 비중 큰 소캠2\"",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260810060209371",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "구글의 21조원 인도 AI 데이터센터 사업이 시험대에 오른 이유는",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260807145537730",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "조선업 블루오션 '부유식 데이터센터'…삼성重 이어 HD현대도 본격 참전",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10834303",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "삼성, 발전사업 전담 법인 검토…내년 출범 추진",
+   "outlet": "에너지경제",
+   "url": "https://m.ekn.kr/view.php?key=20260810021460998",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "GPU 다음은 전력… 엔비디아, 랜시엄에 4조원 투자",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260809155851382",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "네이버, 10월 이후 AI팩토리 운영사 설립…팀네이버 조직 투입하고 에셋라이트로 운영",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260809060259659",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "오픈AI, PT 스타트업 인수…'일하는 AI'로 전환 가속",
+   "outlet": "디지털타임스",
+   "url": "https://v.daum.net/v/20260809163641307",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "오픈AI, 새 모델 '아스트라' 개발 중단… \"통제 벗어나 공격 위험\"",
+   "outlet": "동아일보",
+   "url": "https://v.daum.net/v/20260810043411269",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "'데이터 긁어가기'에서 공식 전송으로…마이데이터 판 바뀐다",
+   "outlet": "이데일리",
+   "url": "https://v.daum.net/v/20260809183052642",
+   "category": "AI 보안 & 정책"
+  }
+ ]
+}

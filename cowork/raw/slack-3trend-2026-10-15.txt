@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-15 09:00:22 KST === 
+Message TS: 1792022422.290669
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-15 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261014000403|포티투마루, DMI서 AI 에이전트·초개인화 전략 공개>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://openai.com/index/amp-beyond-coding|AMP는 AI 에이전트가 OpenAI 모델에서 코드 이상의 작업을 수행하도록 합니다.>* (OpenAI News &amp; Research)
+*3. [:shield: Agent Infra] <https://openai.com/index/sentinelone|SentinelOne은 악성 소프트웨어 분석을 몇 주에서 몇 시간으로 단축합니다.>* (OpenAI News &amp; Research)
+*4. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/|CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes>* (TechCrunch)
+*5. [:rocket: BigTech Release] <https://openai.com/index/block-ai-powered-security|블록이 OpenAI 기술로 AI 기반 보안을 구축하는 방법>* (OpenAI News &amp; Research)
+*6. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on|AI 경쟁이 다시 시작됩니다>* (The Verge)
+*7. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/|Apate sends AI agents undercover to get scammed so they can gather fraud intelligence>* (TechCrunch)
+*8. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/|Floqer’s AI agents research sales prospects so teams don’t have to>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety|8개 주가 OpenAI를 고소하여 ChatGPT가 어린이에게 안전하지 않다고 말합니다.>* (The Verge)
+*10. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/|Amazon Bedrock AgentCore를 사용하여 자체 개선 문서 처리 구축>* (AWS Machine Learning Blog)

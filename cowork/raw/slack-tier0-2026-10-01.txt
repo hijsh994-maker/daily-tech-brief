@@ -1,0 +1,177 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-01 09:43:19 KST === 
+Message TS: 1790815399.454099
+_[텔레그램 로그 2026-10-01] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 13개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 "일반 사용 제한" (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=215821|aitimes.com/news/articleView.html?idxno=215821>
+2. 美, 통제 벗어난 AI 에이전트 조사…오픈AI·앤트로픽 겨냥 (뉴스1)
+o 링크: <https://www.news1.kr/world/usa-canada/6306798|news1.kr/world/usa-canada/6306798>
+3. OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design (Synopsys 공식 발표)
+o 링크: <https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design|news.synopsys.com/2026-09-30-O…>
+4. OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents (NBC News)
+o 링크: <https://www.nbcnews.com/politics/congress/openai-ceo-sam-altman-skip-congressional-hearing-rogue-ai-agents-rcna600707|nbcnews.com/politics/congress/openai-ceo-sam-altman-skip-congressional-hearing-rogue-ai-agents…>
+5. 아마존 x 컨스텔레이션, Calvert Cliffs 원전 20년·690MW 전력구매계약 — Constellation and Amazon Sign 20-Year PPA for 190 MW of Nuclear Power at Calvert Cliffs (The Energy Mag)
+o 링크: <https://www.theenergymag.com/news/market-news/constellation-amazon-sign-20-year-ppa-190-mw|theenergymag.com/news/market-news/constellation-amazon-sign-20-year-ppa-190-mw>
+6. Anthropic Makes Claude for Government Generally Available to Agencies (Unite.AI)
+o 링크: <https://www.unite.ai/anthropic-makes-claude-for-government-generally-available-to-agencies/|unite.ai/anthropic-makes-claude-for-government-generally-available-to-agencies>
+7. SpaceXAI weighs one Grok and X plan, from free to $100, Bloomberg reports (The Next Web)
+o 링크: <https://thenextweb.com/news/spacexai-grok-x-subscription-tiers-ultra-lite|thenextweb.com/news/spacexai-grok-x-subscription-tiers-ultra-lite>
+8. 일레븐랩스, 기업가치 220억 달러…반년 만에 '몸값 2배' (ZDNet Korea)
+o 링크: <https://zdnet.co.kr/view/?no=20261001090434|zdnet.co.kr/view?no=20261001090434>
+9. GMI Cloud Secures $668 Million Funding to Expand AI Capabilities (GuruFocus)
+o 링크: <https://www.gurufocus.com/news/9103191/gmi-cloud-secures-668-million-funding-to-expand-ai-capabilities|gurufocus.com/news/9103191/gmi-cloud-secures-668-million-funding-to-expand-ai-capabilities>
+10. AIB Signs 12-Year Deal to Supply Nebius With 50 MW of AI Capacity (The Energy Mag)
+o 링크: <https://www.theenergymag.com/news/market-news/aib-nebius-ai-data-center|theenergymag.com/news/market-news/aib-nebius-ai-data-center>
+11. Cognition Becomes First Customer for NVIDIA Vera Rubin NVL72 on CoreWeave Cloud (CoreWeave 공식 블로그)
+o 링크: <https://www.coreweave.com/blog/cognition-becomes-first-customer-for-nvidia-vera-rubin-nvl72-on-coreweave-cloud|coreweave.com/blog/cognition-becomes-first-customer-for-nvidia-vera-rubin-nvl72-on-coreweave-cloud>
+_링크 미확보_
+• 그렉 브록만, 친 AI Super PAC 'Leading the Future'에 대규모 정치자금 투입 지속
+• Societe Generale·SMBC·MUFG, 신규 데이터센터 프로젝트 대출 선별 집행 보도
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-01 09:41:03 KST === 
+Message TS: 1790815263.923879
+_(이어서 3/3)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.segye.com/newsView/20260930515832|‘휴머노이드 특화단지’ 품은 대구... 완결형 AI로봇 생태계 본격 구축>
+ㄴ세계일보 2026.10.01
+<https://www.etnews.com/20261001000023|대구.경북, 휴머노이드 로봇 국가첨단전략산업 특화단지 통합 지정>
+ㄴ전자신문 2026.10.01
+<https://www.news1.kr/local/daegu-gyeongbuk/6306387|구미시, '휴머노이드 로봇 국가첨단전략산업 특화단지' 지정>
+ㄴ뉴스1 2026.09.30 관련뉴스 3건
+<https://www.sedaily.com/article/20096613|춤추는 휴머노이드부터 착용형 로봇까지...서울AI로봇쇼 개최>
+ㄴ서울경제 2026.09.30 관련뉴스 2건
+<https://www.kukinews.com/article/view/kuk202609300214|“반도체 이어 로봇까지”...구미시, 대한민국 ‘휴머노이드 심장’ 된다>
+ㄴ쿠키뉴스 2026.09.30
+<https://www.news1.kr/realestate/general/6307053|현대차·도공, 고속도로 점검·충전에 피지컬 AI 로봇 도입 맞손>
+ㄴ뉴스1 2026.10.01 관련뉴스 1건
+<https://www.news1.kr/industry/distribution/6307008|현대백화점·현대홈쇼핑, 2026 KCSI 1위...고객 서비스 경쟁력 인정>
+ㄴ뉴스1 2026.10.01
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100109093587643|로보락, 플래그십 로청 'S10 맥스V 울트라 스팀' 사전예약 실시>
+ㄴ아시아경제 2026.10.01
+<https://www.etnews.com/20261001000046|어드밴텍, DDR5.M.2 SSD 앞세워 로봇용 산업 메모리 시장 공략>
+ㄴ전자신문 2026.10.01
+<https://biz.chosun.com/industry/business_info/2026/10/01/WSW2U2PYIVGQLBM7Z4WHX264ZU/|산악형 골프장 자율 추종 추진... 세나테크놀로지-CNPS, AI 골프 트롤리 공동개발>
+ㄴ조선비즈 2026.10.01 관련뉴스 1건
+
+
+
+*AI기술현황*
+신규 10건
+<https://biz.heraldcorp.com/article/10889846|“차창 밖 풍경이 동화로”...현대차, 생성형 AI 앱 아이디어 발굴>
+ㄴ헤럴드경제 2026.10.01 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10889815|SK AX, ‘AI 부트캠프 바이브’ 출시...비개발자도 AI 에이전트 만든다>
+ㄴ헤럴드경제 2026.10.01 관련뉴스 1건
+<https://www.etnews.com/20261001000026|오픈AI, '불량 AI 에이전트 해킹' 첫 피소...FTC 조사도 본격화>
+ㄴ전자신문 2026.10.01
+<https://www.segye.com/newsView/20260930516522|글로벌 공급망 주도권 쥔 삼성... 韓 ‘AI 반도체’ 격전지 부상>
+ㄴ세계일보 2026.10.01
+<https://www.news1.kr/world/usa-canada/6306798|美, 통제 벗어난 AI 에이전트 조사...오픈AI.앤트로픽 겨냥>
+ㄴ뉴스1 2026.10.01 관련뉴스 4건
+<https://biz.chosun.com/it-science/ict/2026/10/01/EV6XT7RJTFDNJDKDQRYIE6OPJU/|업스테이지, 소형 LLM ‘솔라 미니 4’ 공개...“추론시 30억 파라미터 활성”>
+ㄴ조선비즈 2026.10.01
+<https://www.fnnews.com/news/202610010840535423|현대차, 고객 아이디어로 車앱 만든다...생성형 AI '창밖동화' 대상>
+ㄴ파이낸셜뉴스 2026.10.01
+<https://www.etoday.co.kr/news/view/2630830|테일러 키우고 오스틴 손보고?삼성 美 반도체 재편 [AI 투자 속도조절론의 허실]>
+ㄴ이투데이 2026.10.01 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/IT/2026/10/01/20261001032001|24시간 ''안 쉬는 AI 비서''... 상시형 에이전트 내놓은 오픈AI>
+ㄴ서울신문 2026.09.30 관련뉴스 1건
+<https://www.segye.com/newsView/20260930510396|''시키는 AI''에서 ''알아서 하는 AI''로...오픈AI, AI 에이전트 ''닷츠'' 공개>
+ㄴ세계일보 2026.09.30 관련뉴스 3건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-01 09:40:51 KST === 
+Message TS: 1790815251.790559
+_(이어서 2/3)_
+
+*AI에이전트*
+신규 10건
+<https://biz.heraldcorp.com/article/10889815|SK AX, ‘AI 부트캠프 바이브’ 출시...비개발자도 AI 에이전트 만든다>
+ㄴ헤럴드경제 2026.10.01 관련뉴스 1건
+<https://www.etnews.com/20261001000026|오픈AI, '불량 AI 에이전트 해킹' 첫 피소...FTC 조사도 본격화>
+ㄴ전자신문 2026.10.01
+<https://www.news1.kr/world/usa-canada/6306798|美, 통제 벗어난 AI 에이전트 조사...오픈AI.앤트로픽 겨냥>
+ㄴ뉴스1 2026.10.01 관련뉴스 4건
+<https://www.seoul.co.kr/news/economy/IT/2026/10/01/20261001032001|24시간 ''안 쉬는 AI 비서''... 상시형 에이전트 내놓은 오픈AI>
+ㄴ서울신문 2026.09.30 관련뉴스 1건
+<https://www.fnnews.com/news/202609301808182151|전영현 "에이전틱AI로 업무.조직 대혁신">
+ㄴ파이낸셜뉴스 2026.09.30
+<https://www.segye.com/newsView/20260930510396|''시키는 AI''에서 ''알아서 하는 AI''로...오픈AI, AI 에이전트 ''닷츠'' 공개>
+ㄴ세계일보 2026.09.30 관련뉴스 4건
+<https://www.khan.co.kr/article/202609301649001|오픈AI, 24시간 쉼없이 일하는 AI 에이전트 ‘닷’ 공개...‘안전성 확보’ 숙제로>
+ㄴ경향신문 2026.09.30 관련뉴스 3건
+<https://www.fnnews.com/news/202609301625267718|테더 미국 CEO "스테이블코인 다음 무대는 AI 에이전트 거래"[KBW2026]>
+ㄴ파이낸셜뉴스 2026.09.30 관련뉴스 1건
+<https://www.fnnews.com/news/202609301342229452|AI가 예약·결제하는 시대...정부, ''에이전트 데이터 룰'' 만든다>
+ㄴ파이낸셜뉴스 2026.09.30 관련뉴스 1건
+<https://www.fnnews.com/news/202609301445086038|"AI에도 신원 부여해야" 라온시큐어, 에이전틱AI 보안 5종 공개>
+ㄴ파이낸셜뉴스 2026.09.30 관련뉴스 2건
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.sedaily.com/article/20096891|LG전자, 美 버지니아에 칠러 공장 신설...AI 데이터센터 공략 가속>
+ㄴ서울경제 2026.10.01 관련뉴스 4건
+<https://biz.chosun.com/stock/stock_general/2026/10/01/IPATFTWPTBCJBCXFJ2NXPEAJN4/|다올證 “GS건설, 데이터센터 수주 본격화...목표가 4만8000원 상향">
+ㄴ조선비즈 2026.10.01
+<https://www.etoday.co.kr/news/view/2631186|다올證 "데이터센터, 건설업 새 먹거리?연 9.7조~17.4조 발주">
+ㄴ이투데이 2026.10.01
+<https://www.sedaily.com/article/20096692|“100MW급 AI데이터센터 경제효과 최대 3.5조”>
+ㄴ서울경제 2026.10.01
+<https://www.news1.kr/world/international-economy/6306816|마이크론 실적.전망 예상 상회...AI 데이터센터 매출 11배 폭증(종합)>
+ㄴ뉴스1 2026.10.01 관련뉴스 2건
+<https://www.sedaily.com/article/20096728|美 국민 75% “내 동네 데이터센터 반대”...주민들 출마 러시>
+ㄴ서울경제 2026.10.01
+<https://www.khan.co.kr/article/202609302059055|[방위산업 특집]한화에어로스페이스, 창원 데이터센터·디펜스 OS, ''국방 AI'' 중심에 우뚝>
+ㄴ경향신문 2026.09.30
+<https://www.sedaily.com/article/20096802|“데이터센터 냉각에 최적”...수열에너지 2030년까지 18배 늘린다>
+ㄴ서울경제 2026.09.30
+<https://biz.heraldcorp.com/article/10888779|메가특구 반도체 공장·데이터센터 지을 숙련인력 키운다>
+ㄴ헤럴드경제 2026.09.30 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10889179|한신공영, 정도·직스테크놀로지와 MOU...데이터센터·스마트건설 사업 강화>
+ㄴ헤럴드경제 2026.09.30 관련뉴스 3건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-01 09:40:39 KST === 
+Message TS: 1790815239.375639
+_[텔레그램 로그 2026-10-01] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 1일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://biz.chosun.com/it-science/ict/2026/10/01/EV6XT7RJTFDNJDKDQRYIE6OPJU/|업스테이지, 소형 LLM ‘솔라 미니 4’ 공개...“추론시 30억 파라미터 활성”>
+ㄴ조선비즈 2026.10.01 관련뉴스 1건
+<https://www.kukinews.com/article/view/kuk202609300082|뇌영상·뇌파로 노인 정신건강 예측...딥노이드, AI 모델 개발>
+ㄴ쿠키뉴스 2026.09.30 관련뉴스 1건
+<https://www.news1.kr/it-science/general-science/6306345|GPU·모델만으론 안 된다...AI 경쟁, 통신망까지 '풀스택'으로>
+ㄴ뉴스1 2026.09.30
+<https://www.news1.kr/industry/general-industry/6306208|"LLM 방식, 로봇에 그대로 적용 힘들어...피지컬AI, 계층형 구조 필요">
+ㄴ뉴스1 2026.09.30
+<https://www.asiae.co.kr/news/view.htm?idxno=2026093009263191655|코스맥스, AI 기반 원형탈모 예측 모델 특허 출원>
+ㄴ아시아경제 2026.09.30
+<https://www.asiae.co.kr/news/view.htm?idxno=2026100109255418069|가톨릭의대, 수술 전 급성신손상 예측 AI 특허 등록>
+ㄴ아시아경제 2026.10.01 관련뉴스 1건
+<https://www.etoday.co.kr/news/view/2631182|"이미지 속 한글·문화유산도 척척"...KETI, 한국 특화 AI ''해치'' 개발>
+ㄴ이투데이 2026.10.01
+<https://www.etnews.com/20261001000025|구글, '제미나이 4 아르곤' 공개...100만 토큰.사이버보안 강화>
+ㄴ전자신문 2026.10.01 관련뉴스 3건
+<https://www.etnews.com/20260929000286|전남대 SW중심대학사업단, 韓.美 쌍방향 SW.AI 글로벌 공동교육 모델 구축>
+ㄴ전자신문 2026.09.30
+<https://www.kukinews.com/article/view/kuk202610010028|청년 AI역량, 지역사회와 잇다...경과원, ‘AI교육 촉진자’ 양성>
+ㄴ쿠키뉴스 2026.10.01 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-01 09:27:15 KST === 
+Message TS: 1790814435.489099
+
+Files: [2026년 10월 1일] 조간 뉴스 클리핑 (ID: F0C5N5VQE8K, text/html, 42.4 KB)

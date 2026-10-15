@@ -1,0 +1,13 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-03 09:00:00 KST === 
+Message TS: 1788393600.275719
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMHBTa014Y09Ca0EwelRLUDF5eTN4amZONXE5T3g1eVJjRzMzTWRVeVo2bi1Sa2U5X0tVSGFZakZxRGhZNlpBV1FLWXdHZVl5dm9MUndtUndPT0J5NDR5TXpvXzBtX3B3Zjc1VXlEcWc?oc=5|[에이전틱 AI 맵 2026] 마인드에이아이, 실패 원인 찾아 검증된 수정안 제시… AI 에이전트 운영 자동화 - IT조선> 
+- <https://news.nate.com/view/20260902n27611|유경상 SKT AI CIC장 "2030년 아시아 최초 '풀스택 AI'..."> 
+- <https://news.nate.com/view/20260902n23734|'보안 특화 AI' 발표 임박…SKT "에이전틱 보안" vs 네이버...> 
+- <https://news.nate.com/view/20260903n01989|구글, 보안 특화 신규 AI모델 선보여…취약점 탐지와 자동 패치 강점> 
+- <https://news.nate.com/view/20260902n20754|매출·날씨·고객 수 한꺼번에 본다…구글, '미래 예측 AI' 공개> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE82aG90eTkza0JRS2VXOUZVRXFGazNyUUZ1NlpORDdFbnpSd3BMYkduUllnMWVQTlRGTGtrZEZrVGlTRWxnYU9HVnNZeUhOcU1MWmNTeFpCNHd2QjQ?oc=5|“AI 인프라 붐, 철도·인터넷보다 크다”…PwC, 2050년까지 4경원 전망｜Global Money Club - 중앙일보> 
+- <https://news.google.com/rss/articles/CBMic0FVX3lxTFA4NHVUaEtYVXB5TDF2TDVidzNlU2VOeXF2Z0JTeFVzcTNVcXk5aGNNZ29iaktVeVZ3czk1c1hQamlhaDhwbG5iOEE5RmNyMEp1eXREQ256T0xlb3p0WHUzMFpHQzBDNUtUNWFmT05oUXBNOEk?oc=5|애플, 다시 ＇잡스 DNA＇로…터너스 ＂상상 못한 제품 만든다＂ - 한국경제TV> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUWFTR2NLdXQtR2NMMzFVQ1Nla0xjeWYxYlFOaEhjZ3ZCaE01UlF1aXZuTGs1dWpRQ2YtTkJjQ0RxZTJvQTRxaGE0QzM2QQ?oc=5|크롤링 막았더니 반쪽짜리 된 챗GPT…'데이터 가치' 논의 불지펴 - 전자신문> 
+- <https://news.google.com/rss/articles/CBMitwFBVV95cUxQalA4cjZfODdITEUyU1hnbGdlRjFsRG52akhqQTg4WmZ3Y20tUjN0TjhpVEU4bzN0UmNrR2dnZXRoaUlRZEdKWUtpX1JCRTExNVFqUUgzUHI5aGEyWHVPYzFxQzY5UDh1VTZ5UzZXMkZicUVBRVZPeVVSbXlQS3BOQ0JXNGRVaW1JMWlGdkVGWUtJRkNtcjhCS1BKRmFMM0hNV2RCb3lOQ1NuSFZ6Y3JEdE51SGxxTWs?oc=5|앤트로픽, 소매업체를 위한 AI 쇼핑 에이전트 청사진 제공 - PYMNTS.com>

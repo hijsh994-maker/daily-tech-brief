@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-13 09:00:24 KST === 
+Message TS: 1791849624.294659
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-13 · 10건)
+*1. [:rocket: BigTech Release] <https://www.etnews.com/20261012000304|KISA, SKT '에이닷 전화'에 음성 스팸 신고 기능 탑재>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261013000011|영국 AI 장관, 사이버 침해 위험 경고…“안전 검증 강화”>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.etnews.com/20261012000266|비즈크러시, '오프라인 음성 AI'로 실시간 통번역 시장 공략>* (전자신문 (AI))
+*4. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/|태국, 말레이시아, 싱가포르, 인도네시아 및 대만에서 글로벌 지역 간 추론을 통해 Amazon Bedrock에서 OpenAI GPT 모델에 액세스>* (AWS Machine Learning Blog)
+*5. [:robot_face: AI Agent] <https://about.fb.com/news/2026/10/introducing-muse-wonder-models/|Muse Wonder 및 Muse Wonder Full 소개: 에이전트를 위한 프론티어 모델>* (Meta Newsroom)
+*6. [:shield: Agent Infra] <https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date|아이폰과 아이패드에 사람의 하늘이 오지 않는다>* (The Verge)
+*7. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/|Amazon SageMaker AI에 llama.cpp로 의사 결정 모델 배포>* (AWS Machine Learning Blog)
+*8. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/|Ray LLM 딥 러닝 컨테이너를 사용하여 다중 노드 추론 워크로드 실행>* (AWS Machine Learning Blog)
+*9. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/|TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings>* (TechCrunch)
+*10. [:robot_face: AI Agent] <https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model|메타에는 Wonder Full의 새로운 AI 모델이 있습니다.>* (The Verge)

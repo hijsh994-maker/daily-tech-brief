@@ -1,0 +1,26 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 12개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 오픈AI, IPO 앞두고 1.2조달러 몸값으로 추가 자금조달 검토 [마켓핫] (이투데이)
+o 링크: [etoday.co.kr/news/view/2626038](https://www.etoday.co.kr/news/view/2626038)
+2. "AI 속도 조절은 잘못된 전략"…트럼프 주장에 힘 실은 젠슨 황 (서울경제)
+o 링크: [sedaily.com/article/20091289](https://www.sedaily.com/article/20091289)
+3. Cognition and AWS Sign Multi-Year Strategic Collaboration Agreement (AWS 공식 보도자료)
+o 링크: [press.aboutamazon.com/aws/2026/9/cognition-and-aws-sign-multi-year-collaboration-agreement](https://press.aboutamazon.com/aws/2026/9/cognition-and-aws-sign-multi-year-collaboration-agreement)
+4. Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out (Meta 뉴스룸)
+o 링크: [about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai](https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai)
+5. Meta (META) Stock Climbs on Custom AI Chip Deployment Strategy (Blockonomi)
+o 링크: [blockonomi.com/meta-meta-stock-climbs-on-custom-ai-chip-deployment-strategy](https://blockonomi.com/meta-meta-stock-climbs-on-custom-ai-chip-deployment-strategy/)
+6. Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking (Google 공식 블로그)
+o 링크: [blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+7. Crusoe signs multiyear cloud deal with Perplexity for AI models (Crypto Briefing)
+o 링크: [cryptobriefing.com/crusoe-perplexity-multiyear-cloud-deal](https://cryptobriefing.com/crusoe-perplexity-multiyear-cloud-deal/)
+8. Japan: SB Energy to sell up to $500 mln in shares to investors as part of US IPO (UA.NEWS)
+o 링크: [ua.news/en/money/iaponiia-sb-energy-prodast-investoram-aktsiyi-na-sumu-do-500-mln-u-mezhakh-ipo-u-ssha](https://ua.news/en/money/iaponiia-sb-energy-prodast-investoram-aktsiyi-na-sumu-do-500-mln-u-mezhakh-ipo-u-ssha)
+■ 링크 미확보 (4건 — 당일 보도 검색 색인 미반영 또는 원문 접근 불가)
+· 오픈AI, 풍부한 전력 및 토지와 AI 육성 정책을 갖춘 캐나다를 데이터센터 투자 후보지로 공식 검토
+· 오픈AI, AI 바이오 융합 지원을 위한 3개 법안 신규 지지
+· 다리오 아모데이, 현재 AI가 창출할 수 있는 경제적 가치 중 실제 실현 비중은 5~10% 수준에 불과하다고 평가
+· 오라클, 텍사스에서 1.7GW+ 풍력 프로젝트 투자. 신규 발전량을 ERCOT에 추가해 데이터센터 전력 소비 매칭 구조
+
+## 텔레그램 - 에이닷비즈뉴스레터

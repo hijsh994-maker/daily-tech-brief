@@ -1,0 +1,174 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-21 09:46:22 KST === 
+Message TS: 1789951582.088359
+_[텔레그램 로그 2026-09-21] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 12개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. [Anthropic's IPO Delayed to November as Price War and Safety Fears Cloud $2 Trillion Ambitions] (BigGo)
+o 링크: <https://finance.biggo.com/news/4131449f-1bb1-4954-93f7-ff12865609d8|finance.biggo.com/news/…>
+2. [Anthropic Projected to Exceed $100 Billion in Annualized Revenue, Eyes IPO in Coming Weeks] (KuCoin)
+o 링크: <https://www.kucoin.com/news/flash/anthropic-projected-to-exceed-100b-annualized-revenue-eyes-ipo-in-coming-weeks|kucoin.com/news/flash/anthropic-projected-to-exceed-100b-annualized-revenue-eyes-ipo-in-coming-weeks>
+3. [Partnering with Accenture on embedded evaluation] (Anthropic 공식)
+o 링크: <https://www.anthropic.com/news/accenture-embedded-evaluation|anthropic.com/news/accenture-embedded-evaluation>
+4. [Anthropic builds wet lab for AI-driven drug discovery] (Quartz via Yahoo Finance)
+o 링크: <https://finance.yahoo.com/healthcare/articles/anthropic-builds-wet-lab-ai-130141303.html|finance.yahoo.com/healthcare/articles/anthropic-builds-wet-lab-ai…>
+5. [OpenAI expects to burn $278 billion over five years, targets $350 billion revenue by 2030] (BigGo)
+o 링크: <https://finance.biggo.com/news/8d593126-9f8d-454f-89ed-1ce5371ce80a|finance.biggo.com/news/…>
+6. [오픈AI 올트먼, 유엔 안보리 출석…AI 안보 관련 브리핑 예정] (뉴스1)
+o 링크: <https://v.daum.net/v/20260919103245557|v.daum.net/v/20260919103245557>
+7. [Oracle's $18B Project Jupiter Loan Is Flashing a Warning From the Credit Market] (Coinpaper)
+o 링크: <https://coinpaper.com/35997/oracles-18b-project-jupiter-loan-is-flashing-a-warning-from-the-credit-market|coinpaper.com/35997/oracles-18b-project-jupiter-loan-is-flashing-a-warning-from-the-credit-market>
+8. [구글 제미나이도 외부기관 해킹...기업 3곳 시스템 무단 침입] (SBS Biz)
+o 링크: <https://v.daum.net/v/20260921043600744|v.daum.net/v/20260921043600744>
+9. [SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour] (MarkTechPost)
+o 링크: <https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/|marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0>
+10. [Microsoft AI chief Mustafa Suleyman urges US to prioritize AI safety over China rivalry] (Crypto Briefing)
+o 링크: <https://cryptobriefing.com/microsoft-suleyman-ai-safety-regulation/|cryptobriefing.com/microsoft-suleyman-ai-safety-regulation>
+11. [Zhipu AI Announces Zero Data Retention for Its MaaS Platform] (KuCoin)
+o 링크: <https://www.kucoin.com/news/flash/zhipu-ai-announces-zero-data-retention-for-maas-platform|kucoin.com/news/flash/zhipu-ai-announces-zero-data-retention-for-maas-platform>
+12. [AWS and SAP Expand Collaboration for SAP Business AI Platform] (AWS 공식 블로그)
+o 링크: <https://aws.amazon.com/blogs/awsforsap/aws-and-sap-expand-collaboration-for-sap-business-ai-platform/|aws.amazon.com/blogs/awsforsap/aws-and-sap-expand-collaboration-for-sap-business-ai-platform>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-21 09:43:35 KST === 
+Message TS: 1789951415.074639
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.news1.kr/society/education/6296869|웅진, 모빌리티 플랫폼에 생성형 AI 탑재...고객 맞춤형 서비스 강화>
+ㄴ뉴스1 2026.09.21
+<https://biz.heraldcorp.com/article/10879830|생성형 AI로 더 스마트하게!... ‘생성형 AI를 지휘하는 서초구민의 스마트 라이프’ 특강>
+ㄴ헤럴드경제 2026.09.21
+<https://www.news1.kr/industry/general-industry/6296979|한미반도체, 故 김정기 작품 AI로 재해석...2040년 미래 비전 공개>
+ㄴ뉴스1 2026.09.21 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10879794|AI 속도조절은 ‘안돼’라더니...트럼프 父子, 반도체·데이터센터에 거액 베팅>
+ㄴ헤럴드경제 2026.09.21
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092109135244337|예탁원, '직원 참여형 AI 혁신' 우수작 선정...공용 에이전트로 탑재>
+ㄴ아시아경제 2026.09.21
+<https://www.sedaily.com/article/20093163|[단독] DS운용 ‘액티브 2호’는 AI 반도체...소부장·전력망 기업도 담는다>
+ㄴ서울경제 2026.09.20
+<https://www.etnews.com/20260920000021|[CAIO 포럼 2차 세미나] “AI 에이전트 시대, '토큰 거버넌스'가 AX 성과 가른다”>
+ㄴ전자신문 2026.09.20
+<https://www.etnews.com/20260914000437|[창간기획] AI가 바꾸는 현장 - 전자신문 기자들이 직접 만든 AI 뉴스 에이전트 'ETA 2.0' 고도화>
+ㄴ전자신문 2026.09.20
+<https://www.etnews.com/20260918000266|[CAIO 서밋 2026] “모델보다 실행”...AI 에이전트 운영체계가 AX 성패 가른다>
+ㄴ전자신문 2026.09.20 관련뉴스 1건
+<https://www.sedaily.com/article/20093060|‘AI 속도조절론’에도 끄떡없는 반도체...“올해 시장 규모 2200조원”>
+ㄴ서울경제 2026.09.20
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-21 09:43:20 KST === 
+Message TS: 1789951400.202199
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.news1.kr/world/usa-canada/6296794|트럼프 일가, AI·데이터센터 투자 확대...'이해충돌' 재가열>
+ㄴ뉴스1 2026.09.21 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10879794|AI 속도조절은 ‘안돼’라더니...트럼프 父子, 반도체·데이터센터에 거액 베팅>
+ㄴ헤럴드경제 2026.09.21
+<https://www.sedaily.com/article/20093155|美 AI 인프라 ‘돈줄’로 부상한 日 생보사...데이터센터에 17조 대출>
+ㄴ서울경제 2026.09.21
+<https://www.sedaily.com/article/20093189|“데이터센터, 주된 전력 수요 아냐”...AI 배출 우려에 선 그은 월가>
+ㄴ서울경제 2026.09.21
+<https://www.hani.co.kr/arti/area/yeongnam/1278705.html|[현장] 중소기업에 AI 지원하는 공공 데이터센터 가보니>
+ㄴ한겨레 2026.09.20
+<https://www.fnnews.com/news/202609201249122445|일본생명, 美 AI 데이터센터 대출 2배 확대...日금융 'AI 돈줄' 부상>
+ㄴ파이낸셜뉴스 2026.09.20 관련뉴스 2건
+<https://www.etnews.com/20260920000063|LG전자, 'AI 데이터센터' 특화 터보 칠러 출시...“전력 소비량 30% 절감”>
+ㄴ전자신문 2026.09.20 관련뉴스 7건
+<https://www.etnews.com/20260919000041|[AINEX 2026] 시스코 “AI 데이터센터 확장, 멀티플레인 네트워크가 핵심”>
+ㄴ전자신문 2026.09.20
+<https://biz.heraldcorp.com/article/10878740|AI 데이터센터 올라탄 통신株...‘최선호는 SKT’ KT·LGU+도 증설 [투자360]>
+ㄴ헤럴드경제 2026.09.19
+<https://www.fnnews.com/news/202609181415313397|다들 최고라는데... "AI 데이터센터株 진짜 대장은 나">
+ㄴ파이낸셜뉴스 2026.09.19
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.sedaily.com/article/20092866|휴머노이드 힘주는 머스크, 로봇 기가팩토리 속도낸다 [김기혁의 테슬라우드]>
+ㄴ서울경제 2026.09.19
+<https://www.etnews.com/20260918000293|사람이 진짜 날았다...제트엔진 5개 단 '비행 배낭'>
+ㄴ전자신문 2026.09.21
+<https://www.news1.kr/industry/general-industry/6296960|CJ대한통운, 택배 분류·피킹까지...물류 피지컬AI 고도화>
+ㄴ뉴스1 2026.09.21
+<https://biz.heraldcorp.com/article/10879855|“AI가 두뇌면, 배터리는 심장”...삼성SDI, 전고체 배터리 로봇 시장 공략 [미리보는 헤럴드 기업포럼 2026]>
+ㄴ헤럴드경제 2026.09.21
+<https://biz.heraldcorp.com/article/10879961|CJ대한통운, 리얼월드와 물류 특화 피지컬AI 개발 맞손>
+ㄴ헤럴드경제 2026.09.21 관련뉴스 1건
+<https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/21/20260921019010|AI가 노인.장기요양.만성질환자 돌본다>
+ㄴ서울신문 2026.09.21 관련뉴스 1건
+<https://www.sedaily.com/article/20093152|[사설] 도요타 로봇 40만 대 투입...현대차 노조는 “1대도 안 돼”>
+ㄴ서울경제 2026.09.21
+<https://biz.heraldcorp.com/article/10880009|한미반도체, 故 김정기 작가 작품 AI로 재해석...2040 미래 비전 공개>
+ㄴ헤럴드경제 2026.09.21 관련뉴스 1건
+<https://www.etnews.com/20260921000012|안종배 국제미래학회장, 'AI 인류혁명 시대 피지컬 AI 로봇' 출간>
+ㄴ전자신문 2026.09.21
+<https://www.etnews.com/20260918000196|디티앤씨, 뉴빌리티와 로봇 시험.인증 협력...피지컬 AI 신뢰성 높인다>
+ㄴ전자신문 2026.09.21
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-21 09:42:51 KST === 
+Message TS: 1789951371.621159
+_[텔레그램 로그 2026-09-21] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 21일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.segye.com/newsView/20260920509478|힘 잃는 ‘AI 개발 감속론’... 앤트로픽, 새 모델 출시 검토>
+ㄴ세계일보 2026.09.21
+<https://biz.chosun.com/it-science/ict/2026/09/20/ZMZ6QCP3CVDQJMVFQKD5VHZJZY/|MS AI 수장, 오픈AI 모델 이상행동에 “심각한 상황” 경고>
+ㄴ조선비즈 2026.09.20
+<https://www.etnews.com/20260920000015|[CAIO 서밋 2026] AI 경쟁축, 모델 선택에서 운영 전략으로 이동>
+ㄴ전자신문 2026.09.20 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/09/18/4KLAGECN2RDMBO6ZP7W2COXZXY/|아마존 “AI 모델, 속도 늦추기보다 철저한 안전 검증 필요”>
+ㄴ조선비즈 2026.09.18 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/09/18/ALO3GLYD7JBVBN5XS2FRWSEZS4/|네이버, 국방 AI 시장 출사표... “우리 軍이 데이터.모델 직접 통제”>
+ㄴ조선비즈 2026.09.18
+<https://www.news1.kr/world/usa-canada/6295328|앤트로픽 "클로드, 새 모델 R&D 26% 주도"...AI 자기개선 가시화>
+ㄴ뉴스1 2026.09.18
+<https://biz.chosun.com/it-science/ict/2026/09/18/KBKZ53WFGBAOTP645VBFBXSHSA/|“AI가 스스로 후속모델 개발 주도”...앤트로픽, R&D 업무 26% AI가 수행>
+ㄴ조선비즈 2026.09.18
+<https://biz.heraldcorp.com/article/10880080|KT, AI 사이버보안 국제표준화 주도...‘디지털 신뢰’ 기준 만든다>
+ㄴ헤럴드경제 2026.09.21
+<https://www.sedaily.com/article/20093261|리얼월드.CJ대한통운, 물류 특화 피지컬 AI 공동 개발>
+ㄴ서울경제 2026.09.21 관련뉴스 1건
+<https://www.etnews.com/20260921000035|한국공학대, AI.런케이션 창업교육 결실...학생팀 이사장상>
+ㄴ전자신문 2026.09.21
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092109135244337|예탁원, '직원 참여형 AI 혁신' 우수작 선정...공용 에이전트로 탑재>
+ㄴ아시아경제 2026.09.21
+<https://www.etnews.com/20260920000021|[CAIO 포럼 2차 세미나] “AI 에이전트 시대, '토큰 거버넌스'가 AX 성과 가른다”>
+ㄴ전자신문 2026.09.20
+<https://www.etnews.com/20260914000437|[창간기획] AI가 바꾸는 현장 - 전자신문 기자들이 직접 만든 AI 뉴스 에이전트 'ETA 2.0' 고도화>
+ㄴ전자신문 2026.09.20
+<https://www.etnews.com/20260918000266|[CAIO 서밋 2026] “모델보다 실행”...AI 에이전트 운영체계가 AX 성패 가른다>
+ㄴ전자신문 2026.09.20 관련뉴스 5건
+<https://www.etnews.com/20260919000038|[AINEX 2026] LGU+ “AI 시대 통신망 운영, 에이전트 중심 전환 필요”>
+ㄴ전자신문 2026.09.20
+<https://www.fnnews.com/news/202609200318550749|"제미나이도 탈옥했다"...구글, AI 에이전트 외부 기업 해킹 시인>
+ㄴ파이낸셜뉴스 2026.09.20
+<https://www.sedaily.com/article/20092761|UNIST, 에이전틱 AI 보안 원천 기술 개발한다...정부 110억원 지원>
+ㄴ서울경제 2026.09.19
+<https://www.etnews.com/20260918000256|AI 에이전트의 다음 병목은 '맥락'... 기업 AX, 온톨로지 다시 본다>
+ㄴ전자신문 2026.09.18
+<https://www.etnews.com/20260918000154|한국탄소산업진흥원, 지역과 함께 AI 에이전트 활용 공공업무 혁신 해법 모색>
+ㄴ전자신문 2026.09.18
+<https://www.sedaily.com/article/20092543|“스스로 일하는 AI 안전하게”...UNIST, ‘에이전틱 AI’ 보안 기술 개발 착수>
+ㄴ서울경제 2026.09.18 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-09-21 09:14:45 KST === 
+Message TS: 1789949685.784119
+
+Files: [2026년 9월 21일] 조간 뉴스 클리핑 (ID: F0C32HU9V29, text/html, 32.4 KB)

@@ -1,0 +1,107 @@
+{
+ "date": "2026-06-23",
+ "items": [
+  {
+   "title": "SK, 초대형 AI 데이터센터 전국 5곳에 구축",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260622174813574?f=p",
+   "category": "AI DC"
+  },
+  {
+   "title": "셰브론, MS과 공급 계약…천연가스로 AI 데이터센터 돌려",
+   "outlet": "이데일리 마켓in",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02538726645484672",
+   "category": "AI DC"
+  },
+  {
+   "title": "전기먹는 하마 'AI 데이터센터'…전력소모·데이터 병목 난제 해결",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10784566",
+   "category": "AI DC"
+  },
+  {
+   "title": "[단독]네이버 차세대 AI 모델, '사용량 1위' 中 넘어 글로벌 주도권 잡는다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260622000361",
+   "category": "AI Model"
+  },
+  {
+   "title": "[단독]네이버 서비스에 구글·오픈AI 기술 '쏙'…\"투트랙 전략\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/it-science/general-it/6204747",
+   "category": "AI Model"
+  },
+  {
+   "title": "구글 딥마인드, A24와 파트너십…할리우드 AI 영화 도구 개발한다",
+   "outlet": "알파경제",
+   "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=160883",
+   "category": "AI Model"
+  },
+  {
+   "title": "AWS, AI 에이전트 '두뇌' 데이터 통합 서비스 'AWS 컨텍스트' 발표",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260622000236",
+   "category": "AI Agent"
+  },
+  {
+   "title": "OpenAI launches full-scale effort to patch open source bugs as it takes on Anthropic's Mythos",
+   "outlet": "Wired",
+   "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "Nvidia debuts AI humanoid software (휴머노이드 안전 시스템)",
+   "outlet": "Axios",
+   "url": "https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics",
+   "category": "Physical AI"
+  },
+  {
+   "title": "팔란티어 테크, 미 육군 지휘 통제 데이터 계층 지원",
+   "outlet": "Investing.com[[Investing.com]]",
+   "url": "https://kr.investing.com/news/company-news/article-93CH-1991712",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260623000049",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "스페이스X, 리플렉션AI와 컴퓨팅 계약…최대 63억 달러",
+   "outlet": "SBS Biz",
+   "url": "https://biz.sbs.co.kr/article/20000318107",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "Micron, Anthropic sign AI infrastructure supply agreement",
+   "outlet": "Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/micron-anthropic-sign-ai-infrastructure-supply-agreement-4753491",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "[미국 특징주] \"퀄컴, AI 칩 스타트업 모듈러 인수 임박\"",
+   "outlet": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20260623000068",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "LG 자회사 베어로보틱스, 英 휴머노이드 스타트업 키니시 로보틱스 인수",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260622171257",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "스페이스X, 상장 열흘 만에 첫 회사채 발행",
+   "outlet": "SBS Biz",
+   "url": "https://biz.sbs.co.kr/article/20000318106",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "엔비디아가 점찍은 피지컬AI 로봇… 디든로보틱스 몸값 5000억원 정조준",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260623060251245",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "date": "2026-08-31",
+ "mapping": {
+  "https://www.sedaily.com/article/20084362": "https://n.news.naver.com/mnews/article/011/0004656116",
+  "https://www.news1.kr/it-science/cc-newmedia/6272346": "https://n.news.naver.com/mnews/article/421/0009137516",
+  "https://www.newsis.com/view/NISX20260828_0003766577": "https://n.news.naver.com/mnews/article/003/0014154163",
+  "https://www.hankyung.com/article/2026082801011": "https://n.news.naver.com/mnews/article/015/0005326044",
+  "https://www.edaily.co.kr/News/Read?newsId=03644086645551912": "https://n.news.naver.com/mnews/article/018/0006359676",
+  "https://www.sedaily.com/article/20085089": "https://n.news.naver.com/mnews/article/011/0004656787",
+  "https://www.news1.kr/it-science/cc-newmedia/6272917": "https://n.news.naver.com/mnews/article/421/0009139633",
+  "https://biz.heraldcorp.com/article/10857004": "https://n.news.naver.com/mnews/article/016/0002690427",
+  "https://www.sedaily.com/article/20084914": "https://n.news.naver.com/mnews/article/011/0004656600",
+  "https://www.news1.kr/world/usa-canada/6273939": "https://n.news.naver.com/mnews/article/421/0009140234",
+  "https://www.etnews.com/20260828000219": "https://n.news.naver.com/mnews/article/030/0003461568",
+  "https://zdnet.co.kr/view/?no=20260831093951": "https://n.news.naver.com/mnews/article/092/0002435593",
+  "https://www.newsis.com/view/NISX20260828_0003766449": "https://n.news.naver.com/mnews/article/003/0014154094",
+  "https://www.chosun.com/economy/tech_it/2026/08/28/35CLJDEQ5ZGTTOXUFW5BVLOQVY/": "https://n.news.naver.com/mnews/article/023/0003995446",
+  "https://www.chosun.com/economy/tech_it/2026/08/31/MM3WCOBZG4YTEYJZGM2GIYJQGA/": "https://n.news.naver.com/mnews/article/366/0001189220",
+  "https://www.etnews.com/20260828000256": "https://n.news.naver.com/mnews/article/030/0003461370",
+  "https://www.newsis.com/view/NISX20260830_0003768386": "https://n.news.naver.com/mnews/article/003/0014157035"
+ }
+}

@@ -1,0 +1,20 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-06 09:00:34 KST === 
+Message TS: 1791244834.399769
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-06 · 15건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261006000002|오픈AI 에이전트, 또 통제 벗어나…'위키백과' 무단 침해>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261002000051|더존비즈온, '원 AI PE'로 서울시 행정지원 AI 에이전트 구현>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage|위키백과 운영자는 OpenAI의 ‘불량‘ 봇이 5월 중단과 연결될 수 있다고 말합니다.>* (The Verge)
+*4. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act|OpenAI는 ChatGPT 및 Codex에 텍스트 워터마킹을 추가하고 있습니다.>* (The Verge)
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/|LangChain 및 Amazon 기반 암반 지식 기반을 사용한 에이전트 검색>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/|Instinct brings its AI agent to group chats, even for friends without an account>* (TechCrunch)
+*7. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/|Amazon Bedrock의 GLM 5.3 소개>* (AWS Machine Learning Blog)
+*8. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/|Claude Code 및 Amazon Bedrock으로 규제 대상 워크로드 강화>* (AWS Machine Learning Blog)
+*9. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution|AI의 수학 장악을 둘러싼 모든 드라마>* (The Verge)
+*10. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/|OpenAI will start watermarking ChatGPT’s text in the EU>* (TechCrunch)
+*11. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/|OpenAI launches visual ads that appear alongside image generation results>* (TechCrunch)
+*12. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr|OpenAI PR은 저널리스트에게 Sam Altman에게 ChatGPT 사용자의 자살에 대해 묻는 동안 ‘계속 진행’ 하도록 지시합니다.>* (The Verge)
+*13. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/|Amazon Quick 엔터프라이즈 지원: 감사가 가능한 자동화된 계정 간 리소스 프로모션>* (AWS Machine Learning Blog)
+*14. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/|Amazon Quick 및 심사 쿼리 패턴을 사용하여 규정 준수를 위해 수천 건의 리스 스윕>* (AWS Machine Learning Blog)
+*15. [:rocket: BigTech Release] <https://openai.com/index/eu-text-provenance|EU 텍스트 출처 규칙에 대한 당사의 접근 방식>* (OpenAI News &amp; Research)

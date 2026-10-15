@@ -1,0 +1,499 @@
+{
+ "date": "2026-10-07",
+ "terms": [
+  {
+   "term": "Kolibri",
+   "norm": "kolibri",
+   "n_outlets": 18,
+   "n_today": 2,
+   "outlets": [
+    "Crypto Briefing",
+    "Cybernews",
+    "Dealroom",
+    "EU-Startups",
+    "HuggingFace",
+    "MarkTechPost",
+    "OfficeChai",
+    "Online Tech Tips"
+   ],
+   "days": 2,
+   "first": "2026-10-06",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "EU-Startups(10-06) | Germany's Aleph Alpha releases Kolibri, a sovereign AI model for mission-critica",
+    "Cybernews(10-06) | Germany’s sovereign AI model Kolibri challenges US and Chinese rivals",
+    "Startup Fortune(10-06) | Aleph Alpha launches Kolibri, a sovereign German AI model for government use",
+    "https://streamlinefeed.co.ke/ | Kolibri's Open Weights Put AI Sovereignty to Test",
+    "The Decoder | Aleph Alpha releases Kolibri, an open-weight model that makes the case for Europ"
+   ],
+   "score": 17
+  },
+  {
+   "term": "미국AI전력인프라액티브",
+   "norm": "미국ai전력인프라액티브",
+   "n_outlets": 3,
+   "n_today": 3,
+   "outlets": [
+    "비즈월드",
+    "오늘경제",
+    "현대경제신문"
+   ],
+   "days": 1,
+   "first": "2026-10-07",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "비즈월드 | KB자산운용, 'RISE 미국AI전력인프라액티브' ETF 주목",
+    "오늘경제 | KB자산운용 ‘RISE 미국AI전력인프라액티브’ 테마상품 주목",
+    "현대경제신문 | KB운용, '미국AI전력인프라액티브' 주목···AI 전력 수요 공략"
+   ],
+   "score": 16
+  },
+  {
+   "term": "닷츠",
+   "norm": "닷츠",
+   "n_outlets": 46,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "ER 이코노믹리뷰",
+    "JTBC",
+    "KBS 뉴스",
+    "MTN 머니투데이방송",
+    "M이코노미뉴스",
+    "The Miilk",
+    "TradingView"
+   ],
+   "days": 5,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(09-30) | 오픈AI, 가성비 모델 'GPT-6.1 솔'·AI 에이전트 '닷츠' 공개",
+    "연합뉴스(09-30) | 오픈AI, AI에이전트 '닷츠' 공개…월 500달러 요금제도 신설(종합)",
+    "오피니언뉴스(09-30) | 오픈AI, AI 에이전트 '닷츠' 공개",
+    "뉴닉 | 메타 ‘뮤즈’부터 오픈AI ‘닷츠’까지, 24시간 일하는 AI 에이전트 경쟁 현황·전망 총정리 🤖⚔️"
+   ],
+   "score": 14
+  },
+  {
+   "term": "딥카스",
+   "norm": "딥카스",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "DealSite경제TV",
+    "IT비즈뉴스",
+    "MEDI:GATE NEWS",
+    "catchnews.kr",
+    "daily.hankooki.com",
+    "뉴시스",
+    "머니투데이",
+    "비즈니스포스트"
+   ],
+   "days": 4,
+   "first": "2026-09-28",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "청년의사(09-28) | 뷰노, 중국 시장 진출…하이난성서 ‘딥카스’ 독점 판매",
+    "비즈니스포스트(09-29) | 뷰노, 중국 기업과 AI 기반 심정지 예측 의료기기 '딥카스' 하이난성 독점 판매계약 체결",
+    "팜이데일리(09-29) | 뷰노 '딥카스' 中 하이난 진입…현지 병원서 PoC 추진",
+    "한스경제 | 뷰노, ‘딥카스’ 성장판 다시 연다…4분기 승부처 주목"
+   ],
+   "score": 14
+  },
+  {
+   "term": "SEDEX",
+   "norm": "sedex",
+   "n_outlets": 9,
+   "n_today": 6,
+   "outlets": [
+    "AI타임스",
+    "KIPOST",
+    "diarypoint.com",
+    "e4ds news",
+    "디지털데일리",
+    "로봇신문",
+    "민주신문",
+    "올포칩"
+   ],
+   "days": 4,
+   "first": "2026-10-01",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "로봇신문(10-01) | 인아그룹, 14일 개막하는 'SEDEX 2026' 참가…자동화 솔루션 선보인다",
+    "diarypoint.com(10-02) | 삼성전자와 SK하이닉스, 10월 SEDEX서 차세대 HBM 기술 공개한다",
+    "민주신문(10-02) | 삼성·SK, 이달 'SEDEX'서 맞붙는다…차세대 HBM 공개 주목",
+    "올포칩 | 헨켈, SEDEX 2026서 AI·HBM 시대 위한 첨단 패키징 소재 솔루션 선보여",
+    "헬로티 | 헨켈, SEDEX 2026 참가…AI·HBM 패키징 소재 기술 공개",
+    "헬로티 | 헨켈, SEDEX 2026서 AI·HBM 시대 첨단 패키징 소재 솔루션 선보여"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Boost Run",
+   "norm": "boostrun",
+   "n_outlets": 5,
+   "n_today": 5,
+   "outlets": [
+    "Benzinga",
+    "BigGo Finance",
+    "Business Wire",
+    "TIKR.com",
+    "Yahoo Finance UK"
+   ],
+   "days": 1,
+   "first": "2026-10-07",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "TIKR.com | Boost Run Soars 11% on $526 Million Sovereign AI Cloud Deal: “An Important Step”",
+    "BigGo Finance | Boost Run Surges 9.5% After $525.6 Million Sovereign AI Cloud Contract",
+    "Benzinga | Nvidia Partner Boost Run Tops $2.6B in Contracts with New AI Deal",
+    "Yahoo Finance UK | Boost Run stock surges 9.5% on $525.6M AI cloud deal",
+    "Business Wire | Boost Run Announces Five-Year, $525.6 Million AI Cloud Services Compute Agreemen"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Reflection",
+   "norm": "reflection",
+   "n_outlets": 65,
+   "n_today": 38,
+   "outlets": [
+    "AI Magazine",
+    "Axios",
+    "Belaaz",
+    "Benzinga",
+    "BigGo Finance",
+    "Bloomberg.com",
+    "Breakingthenews.net",
+    "Business Standard"
+   ],
+   "days": 2,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "techflowpost.com(10-06) | TechFlow 인텔리전스: OKX, NYSE 모회사와 제휴해 토큰화 주식 거래 출시… NVIDIA 지원 Reflection이 오픈소스 모델로 ",
+    "Kingy AI(10-06) | Reflection AI Factory: Sovereign Clouds & Compute",
+    "TIKR.com | Nvidia Backed Reflection AI Launches Its New Beam Model To Compete With Chinese ",
+    "매일신문 | Reflection AI, 5010억 파라미터 오픈 모델 `Beam` 공개…DeepSeek·Qwen에 도전",
+    "Konsulteer | Reflection AI Unveils Beam Open-Weight Model for Efficient Frontier AI"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Beam",
+   "norm": "beam",
+   "n_outlets": 40,
+   "n_today": 31,
+   "outlets": [
+    "BigGo Finance",
+    "Business Insider",
+    "CNBC",
+    "CXO Digitalpulse",
+    "Chosunbiz",
+    "Crypto Briefing",
+    "Cryptopolitan",
+    "FindArticles"
+   ],
+   "days": 2,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "TechCrunch(10-06) | Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower",
+    "shattered.io(10-06) | Reflection AI’s Beam Claims 4x Less Compute [2026]",
+    "TIKR.com | Nvidia Backed Reflection AI Launches Its New Beam Model To Compete With Chinese ",
+    "매일신문 | Reflection AI, 5010억 파라미터 오픈 모델 `Beam` 공개…DeepSeek·Qwen에 도전",
+    "Konsulteer | Reflection AI Unveils Beam Open-Weight Model for Efficient Frontier AI"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Wikimedia",
+   "norm": "wikimedia",
+   "n_outlets": 16,
+   "n_today": 11,
+   "outlets": [
+    "BleepingComputer",
+    "Bloomberg.com",
+    "Engadget",
+    "Gizmodo",
+    "HN",
+    "Help Net Security",
+    "Inc42",
+    "Quartz"
+   ],
+   "days": 2,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Wikimedia Foundation(10-06) | OpenAI “rogue” agent activities found on Wikimedia projects",
+    "Engadget(10-06) | Wikimedia Links OpenAI Agents To An Outage And Unauthorized Activity",
+    "The Record from Recorded Future News(10-06) | Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes too",
+    "Bloomberg.com | Wikimedia’s OpenAI Rebuke Points to Costs of AI Data Scraping",
+    "The Register | Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
+    "Gizmodo | Wikimedia Detected Activity From OpenAI’s ‘Rogue’ Agents Across Its Platforms"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Mistral Large",
+   "norm": "mistrallarge",
+   "n_outlets": 13,
+   "n_today": 12,
+   "outlets": [
+    "Forkast News",
+    "HN",
+    "Kingy AI",
+    "MarkTechPost",
+    "NewsCord",
+    "Pasquale Pillitteri",
+    "SiliconANGLE",
+    "The Decoder"
+   ],
+   "days": 2,
+   "first": "2026-09-28",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "tech-insider.org(09-28) | IBM Granite vs Mistral Large 3 vs Falcon H1 [2026]",
+    "Unite.AI | 벤치마크 업체가 Mistral Large 4 Preview에 38점 인텔리전스 점수를 부여",
+    "디지털투데이 | Mistral unveils 1-trillion-parameter open-weight model Mistral Large 4",
+    "shattered.io | Mistral Large 4 'Le Chonk': 675B-Param MoE Model",
+    "Forkast News | Mistral Large 4 Doesn’t Just Compete With Chinese Open-Weights – It Undercuts th",
+    "Kingy AI | Mistral Large 4 (Le Chonk): Specs, Benchmarks, Pricing and the Open-Weight Promi"
+   ],
+   "score": 13
+  },
+  {
+   "term": "LeCun",
+   "norm": "lecun",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "The Decoder",
+    "forkast.news",
+    "fortune.com",
+    "startupfortune.com"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "fortune.com(10-02) | AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthr",
+    "fortune.com(10-02) | AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and",
+    "forkast.news(10-02) | The Competitive Calculus Behind Yann LeCun’s Attack on Anthropic",
+    "The Decoder | Researchers stretch LeCun's JEPA AI into a universal world model that works from"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Chonk",
+   "norm": "chonk",
+   "n_outlets": 18,
+   "n_today": 18,
+   "outlets": [
+    "Briefs Finance",
+    "CNET",
+    "DW.com",
+    "HN",
+    "Kingy AI",
+    "MarkTechPost",
+    "NDTV Profit",
+    "News of Bahrain"
+   ],
+   "days": 1,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The Register | European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "VentureBeat | Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with",
+    "WIRED | Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outsid",
+    "shattered.io | Mistral Large 4 'Le Chonk': 675B-Param MoE Model",
+    "Kingy AI | Mistral Large 4 (Le Chonk): Specs, Benchmarks, Pricing and the Open-Weight Promi",
+    "ZDNET | Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you "
+   ],
+   "score": 12
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "FESTA",
+   "norm": "festa",
+   "n_outlets": 20,
+   "n_today": 13,
+   "outlets": [
+    "BigGo Finance",
+    "ER 이코노믹리뷰",
+    "beSUCCESS",
+    "edaily.co.kr",
+    "finance.biggo.com",
+    "https://www.kmjournal.net/",
+    "kmjournal.net",
+    "mt.co.kr"
+   ],
+   "days": 5,
+   "first": "2026-09-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "아이뉴스24(09-28) | 코난테크놀로지, 'AI FESTA 26' 국방AI 특별관 참가",
+    "kmjournal.net(09-29) | [마이스] AI 에이전트·피지컬 AI 한자리에…‘AI FESTA 26’ 10월 6일 개막",
+    "헬로티(09-29) | 코난테크놀로지, AI FESTA 26 참가…국방 AI 로드맵 제시",
+    "전기신문 | 롯데이노베이트, ‘AI Festa 2026’서 피지컬 AI 전시",
+    "스트레이트뉴스 | 남부발전, ‘AI FESTA 2026’ 참가…피지컬AI 기반 혁신 기술 출품",
+    "서울경제TV | 롯데이노베이트, ‘AI Festa 2026’서 피지컬 AI 로봇 서비스 선봬"
+   ],
+   "score": 10
+  },
+  {
+   "term": "K-문샷",
+   "norm": "k문샷",
+   "n_outlets": 19,
+   "n_today": 3,
+   "outlets": [
+    "BRIC",
+    "CBC뉴스",
+    "DongA Science",
+    "SBS Biz",
+    "news.jkn.co.kr",
+    "뉴스토마토",
+    "데일리안",
+    "디지털투데이"
+   ],
+   "days": 5,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "인사이트N파워(09-30) | “2035년 SMR 선박 건조”…K-문샷, ‘공공→민간’ 산업화 시동",
+    "뉴스토마토(09-30) | 해상 SMR 선점전…규제·조선·금융 묶은 'K-문샷' 띄운다",
+    "연합뉴스(10-01) | [AI픽] AI로 과학 난제 푼다…K-문샷 내년 1.3조 투입 목표",
+    "CBC뉴스 | 에이비엘바이오 5만1800원 마감…정부, AI 신약개발 ‘K-문샷’ 본격화",
+    "신아일보 | [2026 국감-과기정통부] '독파모·보안·K-문샷' AI사업 미비…배경훈 진땀",
+    "BRIC | 사람의 신체·인지 한계를 극복하는 꿈의 기술, K-문샷 「뇌-컴퓨터 인터페이스(BCI)」 임무 본격 추진"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI DevDay",
+   "norm": "openaidevday",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "CNET",
+    "Memeburn",
+    "Tech Times",
+    "The Futurum Group",
+    "The Tech Buzz",
+    "The Verge",
+    "TradingKey",
+    "Wccftech"
+   ],
+   "days": 6,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(09-29) | OpenAI DevDay 2026 — The Agent Platform Race Arrives at OpenAI’s Doorstep",
+    "TradingKey(09-29) | OpenAI DevDay Approaches: Will Cybersecurity, Enterprise Agents, and Creator Too",
+    "rswebsols.com(09-29) | OpenAI DevDay Preview: Cybersecurity, Enterprise Agents, Creator Tools",
+    "The Futurum Group | Adobe Embeds CX Intelligence Into ChatGPT at OpenAI DevDay"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenShell",
+   "norm": "openshell",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "Android Headlines",
+    "CBS News",
+    "NVIDIA Developer",
+    "Quantum Zeitgeist",
+    "SecurityBrief UK",
+    "TradingView",
+    "Unite.AI",
+    "VentureBeat"
+   ],
+   "days": 4,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Unite.AI(09-29) | Anthropic, NVIDIA OpenShell 제어 기능을 Claude Managed Agents에 추가",
+    "NVIDIA Developer(09-29) | Add Runtime Controls to AI Agents with NVIDIA OpenShell | NVIDIA Technical Blog",
+    "CBS News(09-29) | Nvidia says its new OpenShell platform can stop AI agents from going rogue",
+    "SecurityBrief UK | Nvidia outlines AI agent security framework with OpenShell"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Chinese Psyop",
+   "norm": "chinesepsyop",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "Asia Times",
+    "Benzinga",
+    "Common Dreams",
+    "Popular Information | Judd Legum",
+    "The Nerd Stash",
+    "Truthout",
+    "Yahoo",
+    "primetimer.com"
+   ],
+   "days": 6,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Nerd Stash(09-29) | Louisiana's Mike Johnson Slammed After Claiming Opposition to Data Centers is a ",
+    "Truthout(09-30) | Opposition to AI Data Centers Is Actually a “Chinese Psyop,” Mike Johnson Says",
+    "Asia Times(09-30) | US House speaker sees AI data center worries as ‘Chinese psyop’",
+    "Popular Information | Judd Legum | Republicans insist data center opponents are victims of a “Chinese psyop”"
+   ],
+   "score": 10
+  },
+  {
+   "term": "NDAs",
+   "norm": "ndas",
+   "n_outlets": 7,
+   "n_today": 2,
+   "outlets": [
+    "AI Insider",
+    "KOCO",
+    "Konsulteer",
+    "PolitiFact",
+    "Seeking Alpha",
+    "TechCrunch",
+    "TechRadar"
+   ],
+   "days": 5,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "PolitiFact(09-29) | AI data centers, explained: Why do tech companies request NDAs? What’s a morator",
+    "KOCO(09-30) | AI data centers, explained: Why do tech companies request NDAs? What's a morator",
+    "Seeking Alpha(10-01) | House Dem questions Big Tech over secret AI data center NDAs: WSJ (META:NASDAQ)",
+    "Konsulteer | Amazon Drops Government NDAs as Data Center Transparency Comes Under Pressure",
+    "TechRadar | AWS CEO says it no longer uses NDAs with government agencies"
+   ],
+   "score": 10
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "date": "2026-09-16",
+ "items": [
+  {
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "outlet": "Google 공식 블로그",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+   "category": "AI Model"
+  },
+  {
+   "title": "세일즈포스, 엔비디아 네모트론 기반 CRM 특화 AI ‘코아’ 공개",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/09/16/BIUOWF7AA5HLVNZXSGBTSRSOPA/",
+   "category": "AI Model"
+  },
+  {
+   "title": "[단독]'모두의 AI' 데이터 이동 기준 만든다…정부, 유권해석 추진",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/it-science/internet-platform/6291482",
+   "category": "AI Agent"
+  },
+  {
+   "title": "페북·인스타도 유료구독 서비스…메타, AI 강화 통합구독 출시",
+   "outlet": "연합뉴스",
+   "url": "https://v.daum.net/v/20260916095345021",
+   "category": "AI Agent"
+  },
+  {
+   "title": "독립앱 '카나나' 종료… 카톡 중심 AI 고도화",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://v.daum.net/v/20260915180647834",
+   "category": "AI Agent"
+  },
+  {
+   "title": "네이버-거린에너지, 216MW 규모 태양광 프로젝트 기반 데이터센터 재생에너지 공급 협력 MOU 체결",
+   "outlet": "인공지능신문",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=41942",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "삼성SDS 구미 AI 데이터센터 착공…지역 건설업체 참여 확대 '상생' 시동",
+   "outlet": "미디어디펜스",
+   "url": "https://thepeoplemagazine.co.kr/detail.php?number=21273",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "리벨리온, 日 ai&와 파트너십…도쿄 데이터센터에 '리벨랙' 100대 이상 공급",
+   "outlet": "아이뉴스24",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724432",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "엑스페릭스, 공공 AX 사업에 퓨리오사 AI NPU 기반 AI풀스택 구축",
+   "outlet": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026091510020168754",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "공장 전체를 AI로 가동…정부, 전북·경남서 '피지컬AI' 기술 개발",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/tech/2026/09/16/2026091517494144964",
+   "category": "Physical AI"
+  },
+  {
+   "title": "앤트로픽, 금융 시장 본격 공략…'클로드 포 파이낸셜 어드바이저스' 출시",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215289",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "SK이노 '62세 정유공장'에 AI 두뇌 심었다… 그룹 AX 실험무대",
+   "outlet": "한국일보",
+   "url": "https://v.daum.net/v/20260915142007207",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "\"독점 정보 유출 막아라\"...엔비디아·팔란티어, 첨단 AI 모델 도입 축소",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215294",
+   "category": "AI 보안&정책"
+  },
+  {
+   "title": "LGU+ 익시오 통화내용, 해외로 이전… \"AI 학습용 제한\"",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://v.daum.net/v/20260915182320486",
+   "category": "AI 보안&정책"
+  },
+  {
+   "title": "오픈AI, IPO 앞두고 1.2조달러 몸값으로 추가 자금조달 검토 [마켓핫]",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2626038",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "삼성, 네덜란드 AI 칩 스타트업 투자…엔비디아 대항마 찾나",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/202609154978i",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "보스턴다이내믹스 2027년 IPO '불투명'…5년 적자 1.7조 원",
+   "outlet": "글로벌이코노믹",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091420064941662bd56fbc3c_1",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

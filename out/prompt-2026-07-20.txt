@@ -1,0 +1,199 @@
+당신은 SKT AI전략 조직의 'Daily Tech Brief' 편집자입니다.
+아래 후보 50건 중 **30건을 직접 선별**해 텔레그램 브리프를 작성하세요.
+(사람이 발송 전 최종 검토하며 더 줄입니다. 애매하면 버리지 말고 넣으세요.)
+
+[불변 규칙 - 반드시 지킬 것]
+- 링크·매체·발행일·헤드라인은 이미 검증·확정된 값입니다.
+  절대 바꾸거나 새로 만들지 마세요. 아래 목록에 없는 기사를 추가하지 마세요.
+- 각 기사는 '주요 내용'(1문장, 팩트) + '시사점'(1문장, 산업 함의).
+- 주요 내용은 헤드라인 재진술이 아니라 핵심 사실(수치·주체·규모)을 압축.
+- 시사점은 'AI 업계/SKT에 무엇을 의미하는가'. 과장·추측 금지.
+- 관련 조직은 다음 중에서만 0~2개: AI Tech센터, AI DC사업본부, AI DC개발본부, Enterprise AI본부, AI사업본부, AI전략기획실
+  확신이 없으면 비워두세요.
+
+[선별 기준 - 이 브리프의 편집 방침]
+1. AI 산업에 실제 파급이 큰 사건을 우선. (대형 투자·M&A·프런티어 모델
+   출시·인프라 계약·보안 사고·규제 변화)
+2. score/signals 는 기계가 매긴 참고값입니다. **절대적 기준이 아닙니다.**
+   헤드라인이 은유적이거나 키워드가 없어 점수가 낮아도, 사안이 중요하면
+   올려 실으세요. (예: 미중 AI 갈등을 비유로 쓴 제목은 점수가 낮게 나옴)
+3. **같은 사건은 한 번만.** 여러 후보가 같은 사건의 다른 각도/언어면
+   가장 정보량이 많은 것 하나만 고르세요.
+4. **순수 실적 기사는 제외.** 단 'AI 투자가 현금흐름·자본지출을 압박한다'
+   또는 'AI 거품·순환금융 우려' 각도면 실으세요.
+   (제외 예: OO사 2분기 영업익 사상 최대 / 채택 예: 잉여현금흐름 91% 급감)
+5. **같은 사건에 국문·영문이 다 있으면 국문을 대표로 씁니다.**
+   단 두 가지는 예외로 영문을 그대로 씁니다.
+     (가) 출처가 **그 회사의 공식 블로그·뉴스룸**인 경우.
+          (openai.com, blog.google, blogs.nvidia.com, anthropic.com,
+           about.fb.com, aws.amazon.com, 기업 newsroom 등)
+          1차 발표문이 국내 재보도보다 정확하므로 이쪽을 우선합니다.
+     (나) 국내에 보도가 아예 없는 글로벌 이슈.
+   실측(30일 454건)상 영문이 29%(하루 4~5건)입니다. 영문이라고 빼지 마세요.
+   영문을 실을 때 **헤드라인을 번역하지 마세요.** 원문 그대로 씁니다.
+6. 홍보성 보도자료·행사 안내·증시 시황은 제외합니다. 다만 **지자체 건이라도**
+   대형 AI 인프라 투자는 싣습니다(예: 2조원 260MW 데이터센터 클러스터).
+   '지방기획' 태그가 붙었다는 이유로 빼지 마세요. 규모로 판단합니다.
+7. **국내 건을 과소평가하지 마세요.** 실측상 이 브리프의 71%가 국문 기사이고,
+   글로벌 빅테크 뉴스만 고르면 사람 브리프와 크게 어긋납니다. 특히 다음은
+   기계 점수가 낮게 나오지만 사람은 꾸준히 싣습니다:
+     - 국내 연구성과(KAIST·ETRI 등의 모델·반도체 기술)
+     - 국책과제 선정·공고(과기정통부·IITP·중기부)
+     - 국내 보안 통계·침해사고 동향
+     - 국내 AI 스타트업 투자·제품 동향
+8. **인물·인사도 대상입니다.** 프런티어 기업·국내 대기업의 AI 조직 리더십
+   변화(영입·선임·이탈)는 하루 0.5건꼴로 실립니다. '단순 인사'라고 빼지 마세요.
+9. 카테고리 균형은 아래 실측 분포를 기준으로 잡으세요(하루 평균 건수).
+   억지로 채우지는 말되, 특정 카테고리가 0인 날은 이유가 있는지 다시 보세요.
+     AI DC & 인프라      2.7건
+     AI 투자&시장         2.2건
+     AI Model         2.1건
+     정책·국책과제          1.6건
+     Enterprise AI    1.4건
+     Physical AI      1.4건
+     AI 보안            1.3건
+     AI Agent         1.2건
+     인물·인사            0.5건
+     독파모(소버린AI)       0.3건
+   (사람 최종 발송은 하루 평균 15건입니다. 아래 30건은 검토용 여유분입니다.)
+
+[출력 형식] 텔레그램에 붙여넣을 마크다운. 카테고리별로 묶어서:
+[7/20(월), Daily Tech Brief]
+■ <카테고리>
+1. <헤드라인>  (<매체>, 원문보기)
+📌 주요 내용: ...
+📌 시사점: ... (관련 조직: ...)
+
+카테고리 표시 순서: AI Model > 독파모(소버린AI) > AI Agent > Enterprise AI > AI DC & 인프라 > Physical AI > AI 보안 > AI 투자&시장 > 국가정책 > 국책과제 > 인물·인사 > 기타
+자사·그룹(SKT/SK하이닉스 등) 관련은 맨 끝에 '■ SKT/그룹 관련' 섹션으로.
+
+[주 후보] - JSONL. 기계 점수 상위. idx 로 참조하세요.
+{"idx": 1, "category": "AI 투자&시장", "headline": "앤트로픽, 메타와 15조원 규모 데이터센터 연산 자원 임대 계약 논의", "outlet": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10812778", "pub_date": "2026-07-19", "n_outlets": 5, "score": 15, "signals": ["high+3(조원)", "low+1(논의)", "수치규모+3(조단위)", "프런티어+2(앤트로픽)", "보도수+1(5)", "교차소스+4(adot+gnews+slack)", "AI큐레이션+1"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 2, "category": "AI DC & 인프라", "headline": "삼성SDS, 퓨리오사AI 레니게이드 기반 NPUaaS 출시", "outlet": "아이뉴스24", "url": "https://www.inews24.com/view/1986789", "pub_date": "2026-07-20", "n_outlets": 21, "score": 12, "signals": ["medium+2(출시)", "보도수+3(21)", "교차소스+2(gnews+rss)", "복수쿼리+1", "경쟁사+2", "소버린+2(소버린 AI)"], "orgs_guess": []}
+{"idx": 3, "category": "국가정책", "headline": "배경훈 부총리, 유네스코 사무총장과 'AI 윤리·거버넌스 협력안' 논의", "outlet": "아이뉴스24", "url": "https://www.inews24.com/view/1986688", "pub_date": "2026-07-20", "n_outlets": 12, "score": 11, "signals": ["medium+2(공개)", "low+1(논의)", "보도수+3(12)", "교차소스+2(gnews+rss)", "경쟁사+2", "VIP+1(배경훈)"], "orgs_guess": []}
+{"idx": 4, "category": "국가정책", "headline": "확산 속도 중요한 ‘모두의 AI’...카카오·네이버·SKT가 유력한 이유", "outlet": null, "url": "https://www.chosun.com/economy/tech_it/2026/07/20/NPTWUP5RIVHLJJXX5SLDQR3V5A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news", "pub_date": null, "n_outlets": 2, "score": 10, "signals": ["교차소스+2(gnews+slack)", "AI큐레이션+1", "복수쿼리+2(5)", "경쟁사+2", "자사관련+3(SKT)"], "orgs_guess": []}
+{"idx": 5, "category": "기타", "headline": "Tempus to Acquire Personalis, More Tightly Integrating Molecular Residual Disease (MRD) into Its AI-Enabled Precision Oncology Platform", "outlet": "Business Wire", "url": "https://www.businesswire.com/news/home/20260720857328/en/Tempus-to-Acquire-Personalis-More-Tightly-Integrating-Molecular-Residual-Disease-MRD-into-Its-AI-Enabled-Precision-Oncology-Platform", "pub_date": "2026-07-20", "n_outlets": 10, "score": 10, "signals": ["high+3((?i)\\bacquir(?:e|es|ed|ing)\\b)", "medium+2((?i)\\bexpand(?:s|ed|ing)?\\b)", "수치규모+3($1B+)", "보도수+2(10)"], "orgs_guess": []}
+{"idx": 6, "category": "AI Model", "headline": "중국, 딥시크 이어 ‘키미 쇼크’…“미국 AI와 격차 단 2~3개월”", "outlet": null, "url": "https://www.joongang.co.kr/article/25446232", "pub_date": null, "n_outlets": 7, "score": 8, "signals": ["low+1(검토)", "프런티어+2(딥시크)", "보도수+2(7)", "교차소스+2(gnews+slack)", "AI큐레이션+1"], "orgs_guess": []}
+{"idx": 7, "category": "AI Model", "headline": "中 AI '키미 K3'의 역습... 지능지표 현존 AI 모델 중 4위", "outlet": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202607191820109170", "pub_date": "2026-07-19", "n_outlets": 2, "score": 8, "signals": ["medium+2(공개)", "프런티어+2(알리바바)", "보도수+1(5)", "교차소스+2(adot+gnews)", "AI큐레이션+1"], "orgs_guess": ["AI Tech센터"]}
+{"idx": 8, "category": "AI 투자&시장", "headline": "Moonshot AI의 기업공개(IPO) 추진은 비트코인을 흔든 Kimi와 알리바바의 인공지능(AI) 발표에 이어진 것입니다", "outlet": "CoinDesk", "url": "https://www.coindesk.com/ko/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin", "pub_date": "2026-07-19", "n_outlets": 1, "score": 8, "signals": ["high+3(IPO)", "medium+2(공개)", "low+1(추진)", "프런티어+2(알리바바)"], "orgs_guess": []}
+{"idx": 9, "category": "AI 투자&시장", "headline": "TSMC, 美 투자 397조원까지 확대…\"AI 반도체 수요 수년간 이어질 것\"", "outlet": "녹색경제신문", "url": "https://www.greened.kr/news/articleView.html?idxno=345421", "pub_date": "2026-07-20", "n_outlets": 1, "score": 8, "signals": ["high+3(조원)", "수치규모+3(조단위)", "프런티어+2(TSMC)"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 10, "category": "AI 투자&시장", "headline": "문샷 AI, 6개월 내 홍콩 상장 추진...'키미 K3' 흥행으로 동력", "outlet": "전자신문", "url": "https://www.etnews.com/20260720000002", "pub_date": "2026-07-20", "n_outlets": 1, "score": 7, "signals": ["high+3(상장)", "low+1(추진)", "프런티어+2(문샷)", "AI큐레이션+1"], "orgs_guess": []}
+{"idx": 11, "category": "국가정책", "headline": "배경훈 부총리 \"독자 AI 확보 못하면 글로벌 기업에 종속...피지컬AI 3년 내 성과\"", "outlet": "아이뉴스24", "url": "https://www.inews24.com/view/1986989", "pub_date": "2026-07-20", "n_outlets": 2, "score": 7, "signals": ["medium+2(확보)", "수치규모+2(GPU장수)", "교차소스+2(gnews+rss)", "VIP+1(배경훈)"], "orgs_guess": []}
+{"idx": 12, "category": "독파모(소버린AI)", "headline": "엔비디아, 일본에 9조 원짜리 ‘국가 AI 공장’ 짓는다…44개사 뭉친 소버린 AI 프로젝트", "outlet": "AI 매터스", "url": "https://gall.dcinside.com/board/view/?id=aimatters&no=3545", "pub_date": "2026-07-20", "n_outlets": 1, "score": 7, "signals": ["수치규모+3(조단위)", "프런티어+2(엔비디아)", "소버린+2(소버린 AI)"], "orgs_guess": []}
+{"idx": 13, "category": "AI DC & 인프라", "headline": "알리바바, AI칩 소프트웨어 무료 공개...엔비디아 쿠다 겨냥 [마켓핫]", "outlet": "이투데이", "url": "https://www.etoday.co.kr/news/view/2604943", "pub_date": "2026-07-19", "n_outlets": 9, "score": 7, "signals": ["medium+2(공개)", "프런티어+2(엔비디아)", "보도수+2(9)", "복수쿼리+1"], "orgs_guess": []}
+{"idx": 14, "category": "AI DC & 인프라", "headline": "엔비디아 독주 깨진다…AMD 헬리오스, 메타·오픈AI·오라클에 이어 마이크로소프트 확보", "outlet": "위키트리", "url": "https://www.wikitree.co.kr/articles/1147474", "pub_date": "2026-07-20", "n_outlets": 3, "score": 6, "signals": ["medium+2(확보)", "프런티어+2(오픈AI)", "보도수+1(3)", "복수쿼리+1"], "orgs_guess": []}
+{"idx": 15, "category": "AI Model", "headline": "문샷 키미 이어 알리바바 큐원까지 '동시다발 반란' … \"中, AI 추격자 아닌 경쟁자 됐다\"", "outlet": "뉴데일리", "url": "https://www.newdaily.co.kr/site/data/html/2026/07/20/2026072000052.html", "pub_date": "2026-07-20", "n_outlets": 6, "score": 6, "signals": ["medium+2(공개)", "프런티어+2(알리바바)", "보도수+2(6)"], "orgs_guess": []}
+{"idx": 16, "category": "AI 투자&시장", "headline": "정의선 1200억원 추가 투자, 보스턴다이내믹스 지분율 25% 확보…완전 자회사 눈앞", "outlet": "디지털데일리", "url": "https://www.ddaily.co.kr/page/view/2026071910515927218", "pub_date": "2026-07-19", "n_outlets": 7, "score": 6, "signals": ["medium+2(확보)", "low+1(검토)", "보도수+2(7)", "VIP+1(정의선)"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 17, "category": "AI 투자&시장", "headline": "SK텔레콤, 주가 상승 앤트로픽 지분가치 부각 기인…본업 한계 명확 - 유진", "outlet": "인포스탁데일리", "url": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=216971", "pub_date": "2026-07-20", "n_outlets": 2, "score": 6, "signals": ["프런티어+2(앤트로픽)", "복수쿼리+1", "자사관련+3(SK텔레콤)"], "orgs_guess": []}
+{"idx": 18, "category": "기타", "headline": "Netflix acquires Ben Affleck's AI company InterPositive for $587 million", "outlet": "jawlah.co", "url": "https://www.coinlive.com/news/netflix-acquires-ben-affleck-s-ai-filmmaking-startup-interpositive-for-587", "pub_date": "2026-07-20", "n_outlets": 3, "score": 6, "signals": ["high+3((?i)\\bacquir(?:e|es|ed|ing)\\b)", "수치규모+2($100M+)", "보도수+1(3)"], "orgs_guess": []}
+{"idx": 19, "category": "기타", "headline": "화장품신문 (Beautynury.com) :: 아마존 물류 경영진, 에이피알 평택 스마트팩토리 방문", "outlet": "뷰티누리", "url": "https://www.beautynury.com/news/view/111804/cat/10/cat2/10800", "pub_date": "2026-07-20", "n_outlets": 6, "score": 6, "signals": ["medium+2(공개)", "프런티어+2(아마존)", "보도수+2(6)"], "orgs_guess": []}
+{"idx": 20, "category": "기타", "headline": "China's Moonshot Launches World's Largest Open AI Model, Nears US Rivals", "outlet": "Vocal", "url": "https://tech.yahoo.com/ai/gemini/articles/chinas-moonshot-unveils-worlds-largest-020622494.html", "pub_date": "2026-07-20", "n_outlets": 1, "score": 6, "signals": ["medium+2((?i)\\blaunch(?:es|ed|ing)?\\b)", "규모어휘+2((?i)\\b(?:largest|biggest)\\b)", "프런티어+2(Moonshot)"], "orgs_guess": []}
+{"idx": 21, "category": "AI 투자&시장", "headline": "SK텔레콤이 지분투자한 엔트로픽 상장 예정…\"오버슈팅 가능성\"-신한 - 머니투데이", "outlet": "머니투데이", "url": "https://www.mt.co.kr/stock/2026/07/20/2026072008250219869", "pub_date": "2026-07-19", "n_outlets": 1, "score": 6, "signals": ["high+3(상장)", "자사관련+3(SK텔레콤)"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 22, "category": "기타", "headline": "Medical AI Startup OpenEvidence Weighs $200 Million Funding Round", "outlet": "PYMNTS.com", "url": "https://www.pymnts.com/news/artificial-intelligence/2026/medical-ai-startup-openevidence-weighs-200-million-funding-round/", "pub_date": "2026-07-20", "n_outlets": 1, "score": 6, "signals": ["high+3((?i)\\bfunding round\\b)", "low+1((?i)\\bweigh(?:s|ing)?\\b)", "수치규모+2($100M+)"], "orgs_guess": []}
+{"idx": 23, "category": "AI 투자&시장", "headline": "스페이스X 주가 추락, 오픈AI·앤트로픽 IPO에도 불똥…투자 심리 급랭", "outlet": "연합인포맥스", "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425714", "pub_date": "2026-07-19", "n_outlets": 1, "score": 6, "signals": ["high+3(IPO)", "프런티어+2(오픈AI)", "복수쿼리+1"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 24, "category": "AI Model", "headline": "알리바바, 초대형 AI '큐원3.8' 공개 예고…매개변수 2.4조개", "outlet": "네이트", "url": "http://www.joseilbo.com/news/news_read.php?uid=572181&class=78&grp=", "pub_date": "2026-07-20", "n_outlets": 1, "score": 6, "signals": ["medium+2(공개)", "규모어휘+2(초대형)", "프런티어+2(알리바바)"], "orgs_guess": []}
+{"idx": 25, "category": "AI 투자&시장", "headline": "TSMC, 265억 달러 규모 애리조나 확장 위해 채권 발행 검토", "outlet": "Investing.com 한국어", "url": "https://kr.investing.com/news/stock-market-news/article-2020398", "pub_date": "2026-07-20", "n_outlets": 1, "score": 6, "signals": ["high+3(억 달러)", "low+1(검토)", "프런티어+2(TSMC)"], "orgs_guess": []}
+
+[자사·그룹 관련 후보 - 임계 미달이나 검토 대상]
+{"idx": 26, "category": "기타", "headline": "SKT·소프트뱅크 MOU 보도자료: ‘한일 협력·AI 측정’을 연결한 뉴스의 힘", "outlet": "뉴스와이어", "url": "https://blog.newswire.co.kr/?p=18982", "pub_date": "2026-07-20", "n_outlets": 1, "score": 5, "signals": ["medium+2(MOU)", "자사관련+3(SKT)"], "orgs_guess": []}
+{"idx": 27, "category": "기타", "headline": "코스피 짓누르는 SK하이닉스 ADR 프리미엄…\"TSMC 전철 밟을라\"", "outlet": "인베스트조선", "url": "https://www.investchosun.com/site/data/html_dir/2026/07/20/2026072080139.html", "pub_date": "2026-07-20", "n_outlets": 1, "score": 5, "signals": ["프런티어+2(TSMC)", "자사관련+3(SK하이닉스)"], "orgs_guess": []}
+{"idx": 28, "category": "AI 투자&시장", "headline": "갈림길 선 SKT, 앤트로픽 투자 잭팟 계속될까", "outlet": "네이버 프리미엄콘텐츠", "url": "https://contents.premium.naver.com/thebell/stock/contents/260720172736613af", "pub_date": "2026-07-20", "n_outlets": 1, "score": 5, "signals": ["프런티어+2(앤트로픽)", "자사관련+3(SKT)"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 29, "category": "기타", "headline": "AI 시대를 읽다 — SK텔레콤 경영진 추천 여름 휴가 도서", "outlet": "SK텔레콤 뉴스룸", "url": "https://news.sktelecom.com/228085", "pub_date": "2026-07-20", "n_outlets": 1, "score": 4, "signals": ["복수쿼리+1", "자사관련+3(SK텔레콤)"], "orgs_guess": []}
+{"idx": 30, "category": "AI 투자&시장", "headline": "[통신사 AI 인프라전] ②SKT, 투자금 '외부 조달'로 자체 부담 줄이나", "outlet": "fetv.co.kr", "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306524", "pub_date": "2026-07-20", "n_outlets": 1, "score": 4, "signals": ["복수쿼리+1", "자사관련+3(SKT)"], "orgs_guess": ["AI DC사업본부"]}
+{"idx": 31, "category": "기타", "headline": "SKT, 하나금융과 AI로 사회적 약자 돕는 '테크포굿' 해커톤 진행", "outlet": "AI타임스", "url": "https://www.aitimes.com/news/articleView.html?idxno=212940", "pub_date": "2026-07-20", "n_outlets": 3, "score": 4, "signals": ["보도수+1(3)", "자사관련+3(SKT)"], "orgs_guess": ["Enterprise AI본부"]}
+
+[구제 후보] - 기계 점수는 낮지만 중요할 수 있는 기사입니다.
+점수가 낮은 이유는 대개 '제목에 키워드가 없어서'이지 '안 중요해서'가
+아닙니다. 위 주 후보에 빠진 중요한 사건이 여기 있는지 반드시 훑고,
+있으면 올려 실으세요. (예: 은유적 제목의 정책 기사, 국내 미보도 글로벌 이슈)
+{"idx": 32, "headline": "네이버.구글.다음 AI검색 경쟁...잘하는 분야 달랐다", "outlet": "뉴스1", "url": "https://www.news1.kr/it-science/internet-platform/6219107", "pub_date": "2026-07-20", "score": 5}
+{"idx": 33, "headline": "삼성SDS, K-반도체 탑재한 AI 인프라 서비스 개시", "outlet": "뉴스1", "url": "https://www.news1.kr/it-science/general-it/6232356", "pub_date": "2026-07-20", "score": 5}
+{"idx": 34, "headline": "신한금융, AI로 비상장사 IPO 원스톱 서비스", "outlet": "서울경제", "url": "https://www.sedaily.com/article/20068626", "pub_date": "2026-07-19", "score": 4}
+{"idx": 35, "headline": "엔비디아, 차세대 로봇용 AI 컴퓨터 공개…휴머노이드 시장 공략", "outlet": "아이뉴스24", "url": "https://www.inews24.com/view/1986781", "pub_date": "2026-07-20", "score": 4}
+{"idx": 36, "headline": "\"韓이 만든 로봇 손 뜬다\"...K-스타트업, 엔비디아 밸류체인 진입 가속", "outlet": "뉴스1", "url": "https://www.news1.kr/industry/sb-founded/6230741", "pub_date": "2026-07-20", "score": 3}
+{"idx": 37, "headline": "경기도, 지자체 첫 온라인 데이터센터 가동...민간데이터 104종 제공", "outlet": "전자신문", "url": "https://www.etnews.com/20260720000009", "pub_date": "2026-07-20", "score": 3}
+{"idx": 38, "headline": "구글 AI 글라스에 K-디자인 더하다…젠틀몬스터의 미래 승부수", "outlet": null, "url": "https://www.newsis.com/view/NISX20260716_0003712260", "pub_date": null, "score": 3}
+{"idx": 39, "headline": "포시에스, AI 에이전트 플랫폼 'AIOZ EKA' 출시...기업 지식 데이터 시장 공략", "outlet": "전자신문", "url": "https://www.etnews.com/20260720000015", "pub_date": "2026-07-20", "score": 3}
+{"idx": 40, "headline": "월가, 중국 ''문샷AI 쇼크'' 우려...美반도체주 약세장", "outlet": "이투데이", "url": "https://www.etoday.co.kr/news/view/2604909", "pub_date": "2026-07-19", "score": 3}
+{"idx": 41, "headline": "삼성, 22일 언팩…’폴드8 울트라’·AI 글래스 공개", "outlet": null, "url": "https://www.yna.co.kr/view/AKR20260717034200017?input=1195m", "pub_date": null, "score": 3}
+{"idx": 42, "headline": "버핏 \"구글, AI 시대 승자될 확률 높아\"", "outlet": null, "url": "https://www.chosun.com/economy/money/2026/07/19/TQFR5HAYFNHIROYASFSAPWBCY4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news", "pub_date": null, "score": 3}
+{"idx": 43, "headline": "AI 못해 AI 안한 애플…AI고점론에 돈 붙는다", "outlet": null, "url": "https://www.joongang.co.kr/article/25446287", "pub_date": null, "score": 3}
+{"idx": 44, "headline": "정부, 유상 ODA로 개도국에 'K-AI 패키지'...데이터센터.전력까지 지원", "outlet": "뉴스1", "url": "https://www.news1.kr/economy/trend/6232305", "pub_date": "2026-07-20", "score": 2}
+{"idx": 45, "headline": "NH농협금융, Amundi와 AI 자산운용.선진 연금 모델 도입 논의", "outlet": "전자신문", "url": "https://www.etnews.com/20260719000013", "pub_date": "2026-07-19", "score": 2}
+{"idx": 46, "headline": "군, AI 기반 임무 수행 평가 도입 추진...美 사례 벤치마킹", "outlet": "뉴스1", "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6232121", "pub_date": "2026-07-20", "score": 2}
+{"idx": 47, "headline": "최태원 “내년 AI반도체 수요 최대 100% 늘어...미국 투자도 고려”", "outlet": "한겨레", "url": "https://www.hani.co.kr/arti/economy/economy_general/1268851.html", "pub_date": "2026-07-19", "score": 2}
+{"idx": 48, "headline": "AI데이터센터 힘주는 삼성SDS “5년 후 매출 6.6조 목표”", "outlet": "서울경제", "url": "https://www.sedaily.com/article/20069159", "pub_date": "2026-07-19", "score": 2}
+{"idx": 49, "headline": "카카오 AI가 반려동물 사진 분석해 속마음 편지⋯8월 14일까지", "outlet": "아이뉴스24", "url": "https://www.inews24.com/view/1986771", "pub_date": "2026-07-20", "score": 2}
+{"idx": 50, "headline": "네이버 이해진·최수연, 브룩필드行⋯AI 인프라 논의할 듯", "outlet": "아이뉴스24", "url": "https://www.inews24.com/view/1986913", "pub_date": "2026-07-20", "score": 2}
+
+[링크 미확보 후보] - **여기에 오늘 브리프의 핵심이 섞여 있을 수 있습니다.**
+이 항목들은 기계가 원문 링크를 못 찾아 위 후보 목록에서 빠진 것입니다.
+중요하지 않아서가 아닙니다. 실측상 사람이 실제로 발송한 브리프 기사의 29%가
+바로 이 사유로 사라졌고, 그중에는 27위·54위·70위처럼 상위권도 있었습니다.
+영문 기사와 자사(SKT) 기사가 특히 많이 걸립니다.
+
+실을 가치가 있다고 판단되면 **WebSearch 로 원문 URL 을 찾아** 브리프에 넣으세요.
+찾은 URL 은 반드시 실제로 열어 확인하고(mcp__workspace__web_fetch),
+제목·매체·날짜가 아래 값과 같은 기사인지 대조한 뒤 쓰세요.
+URL 을 못 찾으면 그 항목은 버립니다. 링크 없는 기사는 브리프에 싣지 않습니다.
+
+{"nolink_idx": 1, "category": "기타", "headline": "AI Materials Startup CuspAI Lands Bezos Investment, Raises $450 Million in Series B with Nvidia Partnership", "outlet_guess": "finance.biggo.com", "pub_date": "2026-07-20", "score": 13, "n_outlets": 14, "signals": ["high+3((?i)\\braise[sd]?\\s+\\$)", "medium+2((?i)\\bpartnership\\b)", "수치규모+2($100M+)", "프런티어+2(Nvidia)", "보도수+3(14)", "복수쿼리+1"]}
+{"nolink_idx": 2, "category": "AI DC & 인프라", "headline": "[반도체] 삼성전자·SK하이닉스, 'HBM 이후' AI 메모리 경쟁 본격화…차세대 CXL 상용화 속도", "outlet_guess": "굿모닝베트남미디어", "pub_date": "2026-07-20", "score": 13, "n_outlets": 7, "signals": ["high+3(상장)", "medium+2(중단)", "프런티어+2(엔비디아)", "보도수+2(7)", "복수쿼리+1", "자사관련+3(SK하이닉스)"]}
+{"nolink_idx": 3, "category": "기타", "headline": "It's true that it's too hard to keep up with the best-performing U.S. frontier artificial intellige..", "outlet_guess": "매일경제", "pub_date": "2026-07-20", "score": 12, "n_outlets": 10, "signals": ["high+3((?i)\\braise[sd]?\\s+\\$)", "medium+2((?i)\\blaunch(?:es|ed|ing)?\\b)", "수치규모+3($1B+)", "프런티어+2(Microsoft)", "보도수+2(10)"]}
+{"nolink_idx": 4, "category": "기타", "headline": "Sovereign Lending Group Deploys Custom AI Agents to Supercharge Loan Officers and Expand Homeownership Opportunities", "outlet_guess": "Tehachapi News", "pub_date": "2026-07-20", "score": 11, "n_outlets": 6, "signals": ["high+3((?i)\\bacquir(?:e|es|ed|ing)\\b)", "medium+2((?i)\\blaunch(?:es|ed|ing)?\\b)", "수치규모+2($100M+)", "프런티어+2(Anthropic)", "보도수+2(6)"]}
+{"nolink_idx": 5, "category": "기타", "headline": "알리바바 T-Head, WAIC 2026에서 자체 개발 AI 소프트웨어 스택 T-Head SAIL을 오픈소스로 공개", "outlet_guess": null, "pub_date": null, "score": 10, "n_outlets": 3, "signals": ["medium+2(공개)", "프런티어+2(알리바바)", "보도수+1(3)", "교차소스+2(gnews+samsung)", "사람큐레이션+3"]}
+{"nolink_idx": 6, "category": "Enterprise AI", "headline": "RedBear AI Secures Hundreds of Millions Yuan Series A+ Financing: Expands from B2B Services to B2C Applications Driven by AI \"Memory Science\" | 36Kr Exclusive", "outlet_guess": "36Kr", "pub_date": "2026-07-20", "score": 9, "n_outlets": 4, "signals": ["high+3((?i)\\bseries [A-E]\\b)", "medium+2((?i)\\bexpand(?:s|ed|ing)?\\b)", "수치규모+3($1B+)", "보도수+1(4)"]}
+{"nolink_idx": 7, "category": "AI Model", "headline": "[The Editors' Verdict] The Sense of Crisis Highlighted by Kimi K3...How Korea Can Pursue Both Independent and Frontier-Level AI Models", "outlet_guess": "아시아경제", "pub_date": "2026-07-20", "score": 9, "n_outlets": 7, "signals": ["high+3(IPO)", "medium+2((?i)\\blaunch(?:es|ed|ing)?\\b)", "프런티어+2(OpenAI)", "보도수+2(7)"]}
+{"nolink_idx": 8, "category": "AI Model", "headline": "알리바바, Qwen3.8 Max 프리뷰 출시, 성능은 앤스로픽 Fable 5에 이어 2위라고 주장, 개장 전 3% 이상 상승", "outlet_guess": "TradingKey", "pub_date": "2026-07-19", "score": 9, "n_outlets": 3, "signals": ["medium+2(출시)", "수치규모+1(주가변동)", "프런티어+2(알리바바)", "보도수+1(3)", "자사관련+3(SK하이닉스)"]}
+{"nolink_idx": 9, "category": "AI Model", "headline": "알리바바, 2.4조 파라미터 ‘Qwen 3.8’ 공개…Kimi K3에 맞불", "outlet_guess": "이코노미트리뷴", "pub_date": "2026-07-20", "score": 9, "n_outlets": 2, "signals": ["medium+2(출시)", "규모어휘+2(조 파라미터)", "수치규모+3(조단위)", "프런티어+2(알리바바)"]}
+{"nolink_idx": 10, "category": "기타", "headline": "Enterprise hits and misses - CIOs respond to the looming EU AI Act, while enterprises break away from frontier model addiction - but there are caveats", "outlet_guess": "diginomica", "pub_date": "2026-07-20", "score": 8, "n_outlets": 4, "signals": ["high+3((?i)\\binvest(?:s|ed|ing|ment)?\\b)", "medium+2((?i)\\bopen[- ]?(?:source|weight)s?\\b)", "보도수+1(4)", "지정학+2((?i)\\bAI Act\\b)"]}
+{"nolink_idx": 11, "category": "AI 투자&시장", "headline": "[블룸버그 단독 인터뷰] TSMC, 美에 2650억 달러 투자 승부수…“시장 한 조각도 못 내준다”│Global Money Club", "outlet_guess": "중앙일보", "pub_date": "2026-07-20", "score": 8, "n_outlets": 3, "signals": ["high+3(억 달러)", "medium+2(공개)", "프런티어+2(알리바바)", "보도수+1(3)"]}
+{"nolink_idx": 12, "category": "AI Model", "headline": "알리바바, 2조 4천억 매개변수 ‘큐원 3.8’ 프리뷰 공개…”페이블 5 다음은 우리”", "outlet_guess": "AI 매터스", "pub_date": "2026-07-20", "score": 8, "n_outlets": 4, "signals": ["medium+2(공개)", "수치규모+3(파라미터)", "프런티어+2(알리바바)", "보도수+1(4)"]}
+{"nolink_idx": 13, "category": "기타", "headline": "Databricks Raises $188 Billion to Accelerate AI Platform Development", "outlet_guess": "Indiatimes", "pub_date": "2026-07-19", "score": 8, "n_outlets": 1, "signals": ["high+3((?i)\\braise[sd]?\\s+\\$)", "수치규모+5($100B+)"]}
+{"nolink_idx": 14, "category": "AI Agent", "headline": "알리바바 클라우드, Agent Native Cloud와 AgentTeams와 Agentic Computer 등 기업용 AI 에이전트 도구 공개", "outlet_guess": null, "pub_date": null, "score": 7, "n_outlets": 1, "signals": ["medium+2(공개)", "프런티어+2(알리바바)", "사람큐레이션+3"]}
+{"nolink_idx": 15, "category": "기타", "headline": "OpenEvidence Reportedly Seeks $200M Funding at $20B Valuation Amid Rapid AI Healthcare Growth", "outlet_guess": "Digital Health News", "pub_date": "2026-07-20", "score": 7, "n_outlets": 1, "signals": ["high+3((?i)\\bvaluation\\b)", "수치규모+4($10B+)"]}
+{"nolink_idx": 16, "category": "국가정책", "headline": "[AI기본법 가동上] 공공 IT시장서 AI가 주인공 될까…‘AI 확산’ 개정안 오늘부터 시행", "outlet_guess": "디지털데일리", "pub_date": "2026-07-20", "score": 7, "n_outlets": 8, "signals": ["medium+2(규제)", "보도수+2(8)", "복수쿼리+1", "지정학+2(AI 기본법)"]}
+{"nolink_idx": 17, "category": "Physical AI", "headline": "AI 기능 탑재 웨어러블 확산…SKT, '레이밴 메타' 국내 출시", "outlet_guess": "열린뉴스통신", "pub_date": "2026-07-20", "score": 7, "n_outlets": 1, "signals": ["medium+2(출시)", "프런티어+2(메타)", "자사관련+3(SKT)"]}
+{"nolink_idx": 18, "category": "기타", "headline": "How Premji Invest Built $43 Billion AI Empire", "outlet_guess": "Rediff", "pub_date": "2026-07-20", "score": 7, "n_outlets": 1, "signals": ["high+3((?i)\\binvest(?:s|ed|ing|ment)?\\b)", "수치규모+4($10B+)"]}
+{"nolink_idx": 19, "category": "기타", "headline": "메타, 앤스로픽과 AI 컴퓨팅 인프라 공급 계약 논의 보도. 약 100억달러 규모의 계약 가능성. 계약은 2년간 월별 사용료를 지급하는 구조 검토", "outlet_guess": null, "pub_date": null, "score": 6, "n_outlets": 1, "signals": ["low+1(검토)", "프런티어+2(메타)", "사람큐레이션+3"]}
+{"nolink_idx": 20, "category": "국가정책", "headline": "스페이스X, 미국 국방부에 AI 모델 구동을 위한 데이터센터 캐파 제공 협상. 계약 규모는 수십억 달러 수준", "outlet_guess": null, "pub_date": null, "score": 6, "n_outlets": 1, "signals": ["high+3(억 달러)", "사람큐레이션+3"]}
+{"nolink_idx": 21, "category": "기타", "headline": "Z AI, GLM-5.2 흥행 기반으로 ARR 10억 달러 돌파 가능성", "outlet_guess": null, "pub_date": null, "score": 6, "n_outlets": 1, "signals": ["high+3(억 달러)", "사람큐레이션+3"]}
+{"nolink_idx": 22, "category": "기타", "headline": "'We do not want this. Humans are artists': Netflix's $600 million investment in AI filmmaking startup InterPositive has ruffled feathers among movie lovers — and I’m just one of them", "outlet_guess": "TechRadar", "pub_date": "2026-07-20", "score": 6, "n_outlets": 3, "signals": ["high+3((?i)\\binvest(?:s|ed|ing|ment)?\\b)", "수치규모+2($100M+)", "보도수+1(3)"]}
+{"nolink_idx": 23, "category": "기타", "headline": "Big Digital Energy, 10NetZero Close Texas Site Acquisition for 300 MW AI Data Center Campus", "outlet_guess": "citybiz", "pub_date": "2026-07-20", "score": 6, "n_outlets": 2, "signals": ["high+3((?i)\\bacquisition\\b)", "수치규모+3($1B+)"]}
+{"nolink_idx": 24, "category": "기타", "headline": "JetZero eyes $3B for blended-wing aircraft factory built around digital twin tech", "outlet_guess": "Interesting Engineering", "pub_date": "2026-07-20", "score": 6, "n_outlets": 3, "signals": ["medium+2((?i)\\blaunch(?:es|ed|ing)?\\b)", "수치규모+3($1B+)", "보도수+1(3)"]}
+{"nolink_idx": 25, "category": "국가정책", "headline": "카카오, '모두의 AI' 승부수…'5000만' 카톡 경쟁력", "outlet_guess": "딜사이트", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["경쟁사+2", "자사관련+3(모두의 AI)"]}
+{"nolink_idx": 26, "category": "기타", "headline": "Deputy PM Paek Kyung-hoon: “South Korea to Challenge for World’s Best AI” — Unveils Two-Track Strategy Worth approximately $2.4 Billion", "outlet_guess": "finance.biggo.com", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["medium+2((?i)\\bunveil(?:s|ed|ing)?\\b)", "수치규모+3($1B+)"]}
+{"nolink_idx": 27, "category": "기타", "headline": "Moritz Johner: The Blast Radius of an AI Coding Agent Is an Architecture Decision, Not a Prompt Engineering Problem", "outlet_guess": "finance.biggo.com", "pub_date": "2026-07-20", "score": 5, "n_outlets": 3, "signals": ["medium+2((?i)\\bopen[- ]?(?:source|weight)s?\\b)", "프런티어+2(OpenAI)", "보도수+1(3)"]}
+{"nolink_idx": 28, "category": "기타", "headline": "마이크로소프트(MS), AMD와의 협력 강화로 엔비디아 독주에 제동거나", "outlet_guess": "비욘드포스트", "pub_date": "2026-07-20", "score": 5, "n_outlets": 4, "signals": ["medium+2(출시)", "프런티어+2(엔비디아)", "보도수+1(4)"]}
+{"nolink_idx": 29, "category": "기타", "headline": "Eva Live Announces LOI to Acquire Airbeam Wireless Technologies to Advance AI-Powered Autonomous and Millimeter-Wave Communications", "outlet_guess": "Quiver Quantitative", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["high+3((?i)\\bacquir(?:e|es|ed|ing)\\b)", "medium+2((?i)\\blaunch(?:es|ed|ing)?\\b)"]}
+{"nolink_idx": 30, "category": "기타", "headline": "Helport AI Limited Announces Commercial Validation of AI Labor Customer Acquisition Capabilities in Mexico Consumer Lending Market", "outlet_guess": "Quiver Quantitative", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["high+3((?i)\\bacquisition\\b)", "medium+2((?i)\\bannounce[sd]?\\b)"]}
+{"nolink_idx": 31, "category": "AI 투자&시장", "headline": "Baichuan Intelligence pushes toward 2027 IPO after raising $700M as China's AI race heats up", "outlet_guess": "Crypto Briefing", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["high+3(IPO)", "수치규모+2($100M+)"]}
+{"nolink_idx": 32, "category": "AI DC & 인프라", "headline": "마이크론, 퀄컴·하만 등 주요 공급사와 AI 차량용 메모리 장기 계약 체결", "outlet_guess": "다나와 자동차", "pub_date": "2026-07-20", "score": 5, "n_outlets": 3, "signals": ["high+3(IPO)", "low+1(추진)", "보도수+1(3)"]}
+{"nolink_idx": 33, "category": "기타", "headline": "Zalando joins Sereact's $116M Series B to accelerate AI-powered warehouse automation", "outlet_guess": "Tech.eu", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["high+3((?i)\\bseries [A-E]\\b)", "수치규모+2($100M+)"]}
+{"nolink_idx": 34, "category": "Physical AI", "headline": "테슬라 로보택시 원격조작 사고가 자율주행 상용화 시장에 던진 파장", "outlet_guess": "얼리어답터뉴스", "pub_date": "2026-07-20", "score": 5, "n_outlets": 3, "signals": ["medium+2(상용화)", "프런티어+2(테슬라)", "보도수+1(3)"]}
+{"nolink_idx": 35, "category": "독파모(소버린AI)", "headline": "\"미토스 수출 통제 봤지?\"…입법조사처, 소버린 AI 전략 다시 짜야 |", "outlet_guess": "하이테크정보", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["복수쿼리+1", "소버린+2(소버린 AI)", "지정학+2(수출 통제)"]}
+{"nolink_idx": 36, "category": "기타", "headline": "AI cloud startup General Compute raises $400m in debt financing", "outlet_guess": "Data Center Dynamics", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["high+3((?i)\\braise[sd]?\\s+\\$)", "수치규모+2($100M+)"]}
+{"nolink_idx": 37, "category": "독파모(소버린AI)", "headline": "소버린 AI 전략, 독자 모델 확보 넘어 주권적 통제력 강화해야", "outlet_guess": "2news.co.kr", "pub_date": "2026-07-19", "score": 5, "n_outlets": 1, "signals": ["medium+2(확보)", "복수쿼리+1", "소버린+2(소버린 AI)"]}
+{"nolink_idx": 38, "category": "기타", "headline": "퓨리오사AI ‘RNGD’, 시연에서 상용으로… 국산 AI 생태계 확산 신호탄", "outlet_guess": "IT조선", "pub_date": "2026-07-19", "score": 5, "n_outlets": 3, "signals": ["medium+2(출시)", "보도수+1(3)", "경쟁사+2"]}
+{"nolink_idx": 39, "category": "AI 투자&시장", "headline": "스페이스X \"중단된 스타십 시험비행 23일 진행\"‥상장 후 첫 발사", "outlet_guess": "MBC 뉴스", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["high+3(상장)", "medium+2(중단)"]}
+{"nolink_idx": 40, "category": "국가정책", "headline": "오라클 AI 데이터센터, 환경 규제로 수십억 달러 추가 비용 발생 가능성", "outlet_guess": "민심뉴스", "pub_date": "2026-07-19", "score": 5, "n_outlets": 1, "signals": ["high+3(억 달러)", "medium+2(규제)"]}
+{"nolink_idx": 41, "category": "국가정책", "headline": "문샷 AI 이어 알리바바 새 모델 공개…美, 中AI 규제 놓고 설전", "outlet_guess": "연합뉴스TV", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["medium+2(공개)", "프런티어+2(오픈AI)", "복수쿼리+1"]}
+{"nolink_idx": 42, "category": "AI 투자&시장", "headline": "오픈AI, 장외시장서 다시 인기몰이…기업가치 10% 프리미엄 거래", "outlet_guess": "연합뉴스", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["high+3(기업가치)", "프런티어+2(오픈AI)"]}
+{"nolink_idx": 43, "category": "AI 투자&시장", "headline": "[中 하드테크 IPO 빅뱅] ①AI 대표주자 '딥시크', 기업가치 7배 점프업 의미", "outlet_guess": "뉴스핌", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["high+3(기업가치)", "프런티어+2(딥시크)"]}
+{"nolink_idx": 44, "category": "AI Model", "headline": "알리바바 “세계 2위 성능” AI 공개… 이젠 일상이 된 中 ‘딥시크 쇼크’", "outlet_guess": "조선일보", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["medium+2(공개)", "프런티어+2(알리바바)", "복수쿼리+1"]}
+{"nolink_idx": 45, "category": "AI 투자&시장", "headline": "현대차그룹, 보스턴다이나믹스 지분 100% 확보…IPO 시나리오 세가지는", "outlet_guess": "네이버 프리미엄콘텐츠", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["high+3(IPO)", "medium+2(확보)"]}
+{"nolink_idx": 46, "category": "AI 투자&시장", "headline": "\"경쟁사에 파이 안 준다\"...TSMC, 미에 397조 원 역대급 투자", "outlet_guess": "YTN", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["수치규모+3(조단위)", "프런티어+2(TSMC)"]}
+{"nolink_idx": 47, "category": "AI 투자&시장", "headline": "오라클, 막대한 수주 잔고 확보에도 주가 급락하는 이유는?", "outlet_guess": "Benzinga", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["high+3(수주)", "medium+2(확보)"]}
+{"nolink_idx": 48, "category": "국가정책", "headline": "IEA\"중국 희토류 규제시 6.5조 달러 시장 위험 직면\"경고", "outlet_guess": "thecommoditiesnews.com", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["medium+2(규제)", "수치규모+3(조단위)"]}
+{"nolink_idx": 49, "category": "국가정책", "headline": "인도네시아, AI 규제 포함 저작권법 개정 추진…구글 반발", "outlet_guess": "씬짜오베트남", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["medium+2(규제)", "low+1(추진)", "프런티어+2(구글)"]}
+{"nolink_idx": 50, "category": "기타", "headline": "“1조달러 증발“…스페이스X, 미 시총 8위로 ’뚝’", "outlet_guess": "연합뉴스TV", "pub_date": "2026-07-20", "score": 5, "n_outlets": 2, "signals": ["수치규모+3(조단위)", "프런티어+2(메타)"]}
+{"nolink_idx": 51, "category": "AI 투자&시장", "headline": "AMD 주가 5% 급등, 마이크로소프트와 대규모 AI 인프라 계약 체결", "outlet_guess": "Investing.com 한국어", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["규모어휘+2(대규모)", "수치규모+1(주가변동)", "프런티어+2(마이크로소프트)"]}
+{"nolink_idx": 52, "category": "AI Model", "headline": "\"미국 나와\" 中 AI, 이틀새 2.8조 파라미터 '맞불\"", "outlet_guess": "한국신용신문", "pub_date": "2026-07-20", "score": 5, "n_outlets": 1, "signals": ["규모어휘+2(조 파라미터)", "수치규모+3(조단위)"]}
+{"nolink_idx": 53, "category": "기타", "headline": "SKT 정재헌, MWC서 빅테크 순회…\"샤오미 놀랍다\"", "outlet_guess": null, "pub_date": null, "score": 4, "n_outlets": 1, "signals": ["AI큐레이션+1", "자사관련+3(SKT)"]}
+{"nolink_idx": 54, "category": "기타", "headline": "DeepMind chief urges Washington to back global AI watchdog as frontier models raise security fears", "outlet_guess": "Los Angeles Times", "pub_date": "2026-07-20", "score": 4, "n_outlets": 2, "signals": ["medium+2((?i)\\bunveil(?:s|ed|ing)?\\b)", "프런티어+2(Microsoft)"]}
+{"nolink_idx": 55, "category": "기타", "headline": "This New York School Is Becoming a Humanoid Robot Company's Biggest Test. There's Just 1 Problem", "outlet_guess": "inc.com", "pub_date": "2026-07-20", "score": 4, "n_outlets": 8, "signals": ["규모어휘+2((?i)\\b(?:largest|biggest)\\b)", "보도수+2(8)"]}
+{"nolink_idx": 56, "category": "기타", "headline": "TradingKey 데일리 마켓 브리핑: AMD-마이크로소프트 파트너십이 반도체 섹터 견인, AMD·인텔·마이크론 일제히 반등", "outlet_guess": "TradingKey", "pub_date": "2026-07-20", "score": 4, "n_outlets": 1, "signals": ["medium+2(파트너십)", "프런티어+2(마이크로소프트)"]}
+{"nolink_idx": 57, "category": "AI Model", "headline": "GOOGL, MSFT, AMZN Stocks Rise Premarket: Analyst Says China’s Kimi K3 AI Fears ‘Misplaced’", "outlet_guess": "TradingView", "pub_date": "2026-07-20", "score": 4, "n_outlets": 2, "signals": ["medium+2((?i)\\bopen[- ]?(?:source|weight)s?\\b)", "프런티어+2(Kimi)"]}
+{"nolink_idx": 58, "category": "기타", "headline": "Trillion-Dollar Compute Ledger: Why Nvidia's Biggest Customers Are Defecting to Custom Chips", "outlet_guess": "finance.biggo.com", "pub_date": "2026-07-20", "score": 4, "n_outlets": 1, "signals": ["규모어휘+2((?i)\\b(?:largest|biggest)\\b)", "프런티어+2(Nvidia)"]}
+{"nolink_idx": 59, "category": "기타", "headline": "Cue secures $5M funding round co-led by Knife Capital and FAM Investments", "outlet_guess": "innovation-village.com", "pub_date": "2026-07-19", "score": 4, "n_outlets": 1, "signals": ["high+3((?i)\\bfunding round\\b)", "수치규모+1($M)"]}
+{"nolink_idx": 60, "category": "기타", "headline": "China's new AI model halts new subscriptions as demand swamps capacity", "outlet_guess": "ABC News - Breaking News, Latest News and Videos", "pub_date": "2026-07-20", "score": 4, "n_outlets": 4, "signals": ["low+1((?i)\\bconsider(?:s|ing)?\\b)", "보도수+1(4)", "지정학+2((?i)\\bexport control)"]}

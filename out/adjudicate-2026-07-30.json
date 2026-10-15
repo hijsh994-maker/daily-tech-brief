@@ -1,0 +1,410 @@
+[
+ {
+  "truth_title": "Disney is ditching Microsoft's GitHub Copilot — but keeping Anthropic Claude Enterprise and Cursor",
+  "truth_url": "https://windowsnews.ai/article/why-disney-is-ditching-github-copilot-and-what-it-means-for-windows-developers.440861",
+  "candidates": [
+   {
+    "rank": 18,
+    "score": 15,
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "outlet": "TechCrunch",
+    "signal": 3,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 779,
+    "score": 2,
+    "title": "오픈AI 이어 앤트로픽 클로드 코워드도 통제 환경 이탈 우려",
+    "outlet": "디지털투데이",
+    "signal": 2,
+    "entity_overlap": 2
+   },
+   {
+    "rank": 689,
+    "score": 2,
+    "title": "“앤트로픽은 사상 집단이다” 클로드 코드의 아버지, 보리스 체르니 인터뷰 (후편)",
+    "outlet": "롱블랙 LongBlack",
+    "signal": 2,
+    "entity_overlap": 2
+   },
+   {
+    "rank": 106,
+    "score": 8,
+    "title": "Samaya AI Releases FrontierFinance, a New Public Benchmark for AI Agents in Investment Workflows; Samaya's AI System Outperforms Claude Fable 5 and GPT-5.6 Sol",
+    "outlet": "PR Newswire",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 160,
+    "score": 7,
+    "title": "Microsoft Full Year Results: Cloud Revenue Surpasses $214 Billion",
+    "outlet": "scanx.trade",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 428,
+    "score": 4,
+    "title": "💻 Microsoft: The Open-Weight Hedge",
+    "outlet": "appeconomyinsights.com",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 402,
+    "score": 4,
+    "title": "Anthropic Now Rejects Open-Weight Ban, Proposes AI Tests",
+    "outlet": "WinBuzzer",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 347,
+    "score": 4,
+    "title": "Anthropic Is the Only Lab That Won’t Back Open Source AI",
+    "outlet": "Medium",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 995,
+    "score": 2,
+    "title": "Anthropic's lonely island",
+    "outlet": "Axios",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 990,
+    "score": 2,
+    "title": "😼 Microsoft built AI cyber agents",
+    "outlet": "The Neuron",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 931,
+    "score": 2,
+    "title": "Scalable intelligence layer powers Microsoft AI agents",
+    "outlet": "siliconangle.com",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 675,
+    "score": 2,
+    "title": "AWS, Google, Oracle, Microsoft Top Gartner’s Cloud AI Infrastructure List For 2026",
+    "outlet": "crn.com",
+    "signal": 2,
+    "entity_overlap": 1
+   }
+  ]
+ },
+ {
+  "truth_title": "Banks Bet on Open AI After OpenAI's Own Hack",
+  "truth_url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/",
+  "candidates": [
+   {
+    "rank": 255,
+    "score": 5,
+    "title": "OpenAI Acquires Hiro, Signals a Bigger Bet on AI-Driven Personal Finance",
+    "outlet": "ascendants.in",
+    "signal": 3,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 144,
+    "score": 7,
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "outlet": "TechCrunch",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 366,
+    "score": 4,
+    "title": "The OpenAI Breach, the Petition, and the Hidden Regulatory Moat Reshaping AI",
+    "outlet": "CTOL Digital Solutions",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 887,
+    "score": 2,
+    "title": "OpenAI escape: has the robot uprising begun",
+    "outlet": "Big News Network.com",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 833,
+    "score": 2,
+    "title": "Ex-OpenAI Exec: Housing Isn't A Tech Problem. It's A Policy Problem",
+    "outlet": "Inman Real Estate News",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 832,
+    "score": 2,
+    "title": "OpenAI's agents hacked second firm during model testing",
+    "outlet": "Axios",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 831,
+    "score": 2,
+    "title": "OpenAI’s runaway AI agent also compromised a cloud platform customer",
+    "outlet": "Computerworld",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 764,
+    "score": 2,
+    "title": "JFrog Patches Artifactory Zero-Days After OpenAI Models Escape Sandbox",
+    "outlet": "gbhackers.com",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 631,
+    "score": 2,
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "outlet": "TechCrunch",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 1,
+    "score": 25,
+    "title": "[오픈AI 악성 에이전트, 두 번째 기업도 침투...커지는 해킹 위험]",
+    "outlet": "이투데이",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 12,
+    "score": 16,
+    "title": "엔비디아-오픈AI, 2500억 달러 규모 AI 데이터센터 자금 지원 논의",
+    "outlet": "헬로티",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 98,
+    "score": 9,
+    "title": "“앤트로픽이 턱밑까지 추격했다”···오픈AI ‘1조 달러 상장 야망’ 흔들리나",
+    "outlet": "kr.benzinga.com",
+    "signal": 1,
+    "entity_overlap": 1
+   }
+  ]
+ },
+ {
+  "truth_title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'",
+  "truth_url": "https://www.yahoo.com/news/politics/articles/over-1-100-ai-workers-212659630.html",
+  "candidates": [
+   {
+    "rank": 86,
+    "score": 9,
+    "title": "DOE greenlights $100B plan to turn Superfund site into data center",
+    "outlet": "fiercewireless.com",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 124,
+    "score": 8,
+    "title": "NC AI, CMES Robotics to cooperate on physical AI technology development",
+    "outlet": "디지털투데이",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 105,
+    "score": 8,
+    "title": "PFN to Support Japan Self-Defense Forces' Operational Planning with AI, Commissioned by Acquisition, Technology & Logistics Agency for Proof-of-Concept Using Domestic Model \"PLaMo\"",
+    "outlet": "finance.biggo.com",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 209,
+    "score": 6,
+    "title": "삼성 반도체 분기 매출 첫 100조 돌파…영업익 89.2조 ‘역대 최대’",
+    "outlet": "서울경제",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 180,
+    "score": 6,
+    "title": "[AI Weaponization, K-Defense Coordinates]③\"Shift Development Focus from Individual Weapons to Data and Platforms\"",
+    "outlet": "아시아경제",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 420,
+    "score": 4,
+    "title": "스트라이프, 오픈라우터 인수 논의…몸값 100억 달러",
+    "outlet": "tokenpost.kr",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 325,
+    "score": 4,
+    "title": "AI 소외 계층 없도록…서울 디지털 안내사 누적 상담 100만건 돌파 - 머니투데이",
+    "outlet": "머니투데이",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 455,
+    "score": 3,
+    "title": "테슬라 300달러·스페이스X 100달러 무너지나···게리 블랙이 ‘AI 밸류에이션 경고’ 내놓은 이유",
+    "outlet": "kr.benzinga.com",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 827,
+    "score": 2,
+    "title": "AMD Launches Instinct MI400 Series GPUs for Frontier AI",
+    "outlet": "TechPorn",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 708,
+    "score": 2,
+    "title": "White House reportedly approaches final framework for reviewing frontier models",
+    "outlet": "digitimes",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 687,
+    "score": 2,
+    "title": "AI 기업 직원 1,100명의 규제 촉구 청원, 투자·경쟁 구도 바꿀 전환점",
+    "outlet": "newsyonhap.com",
+    "signal": 1,
+    "entity_overlap": 0
+   },
+   {
+    "rank": 667,
+    "score": 2,
+    "title": "아마존닷컴(AMZN), 2028년까지 위성 5,100기로 휴대폰 직결 통신 판 키운다",
+    "outlet": "simplywall.st",
+    "signal": 1,
+    "entity_overlap": 0
+   }
+  ]
+ },
+ {
+  "truth_title": "CoreWeave sweetens $2.6B loan terms tied to Anthropic compute expansion",
+  "truth_url": "https://www.bloomberg.com/news/articles/2026-07-29/coreweave-boosts-yield-on-2-6-billion-loan-tied-to-anthropic",
+  "candidates": [
+   {
+    "rank": 18,
+    "score": 15,
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "outlet": "TechCrunch",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 402,
+    "score": 4,
+    "title": "Anthropic Now Rejects Open-Weight Ban, Proposes AI Tests",
+    "outlet": "WinBuzzer",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 347,
+    "score": 4,
+    "title": "Anthropic Is the Only Lab That Won’t Back Open Source AI",
+    "outlet": "Medium",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 995,
+    "score": 2,
+    "title": "Anthropic's lonely island",
+    "outlet": "Axios",
+    "signal": 2,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 98,
+    "score": 9,
+    "title": "“앤트로픽이 턱밑까지 추격했다”···오픈AI ‘1조 달러 상장 야망’ 흔들리나",
+    "outlet": "kr.benzinga.com",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 75,
+    "score": 9,
+    "title": "[中 견제용 오픈웨이트 규제에 오픈AI.앤트로픽 반대... 美 정부 고성능 모델 출시 차단권엔 이견]",
+    "outlet": "조선비즈",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 134,
+    "score": 8,
+    "title": "中 문샷AI 5조원 '장전'… 앤트로픽 정조준",
+    "outlet": "매일경제",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 121,
+    "score": 8,
+    "title": "앤트로픽이 사용할 데이터센터, 21조원 대출 협상…구글이 또 보증",
+    "outlet": "머니투데이",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 198,
+    "score": 6,
+    "title": "삼성SDS-앤트로픽 결합, 국내 B2B 생성형 AI 시장 평정 선언",
+    "outlet": "newsyonhap.com",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 288,
+    "score": 5,
+    "title": "백악관, 프런티어 AI '출시 전 정부 제출' 프레임워크 마무리…오픈AI·앤트로픽·구글이 수정안 제출",
+    "outlet": "AI 매터스",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 280,
+    "score": 5,
+    "title": "[7월29일] '앙숙' 오픈AI와 앤트로픽, 왜 \"AI 개발 속도 늦추자\"고 입을 모았나",
+    "outlet": "AI타임스",
+    "signal": 1,
+    "entity_overlap": 1
+   },
+   {
+    "rank": 239,
+    "score": 5,
+    "title": "앤트로픽 \"암호 해독서 AI 역량 성장\"...미토스로 PQC 알고리즘 HAWK 약점 발견",
+    "outlet": "디지털투데이",
+    "signal": 1,
+    "entity_overlap": 1
+   }
+  ]
+ }
+]

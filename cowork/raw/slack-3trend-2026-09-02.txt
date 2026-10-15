@@ -1,0 +1,14 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-02 09:00:00 KST === 
+Message TS: 1788307200.249269
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lcU1IX19CS2dweEJ3aFgtV2R1ZHFLV3JVX2w4cFBFSkoyQTBIalJla3lQb2o4Uy1sY1lBV3QyWDg5TWpIMkxnMVhEYTF0VGkyRHBRWkNRQXFkUQ?oc=5|"한국 없으면 AI도 없다"…미·중 무역전쟁 판 뒤집을 'HBM의 힘' - 한국경제> 
+- <https://news.nate.com/view/20260901n33569|"실시간 위험 감지"…SKT, AI 카메라 첫 선 [뉴스+현장]> 
+- <https://news.nate.com/view/20260901n34805|[위클리AI] 구글, 생성형 영상에 집중···광고 수익 본격화 나선...> 
+- <https://news.nate.com/view/20260901n01012|학생-교직원 33만명, 구글-AI 한 계정으로 쓴다> 
+- <https://news.nate.com/view/20260901n10918|지오영, 에이닷큐어와 디지털 헬스케어 MOU> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eFFnMFNmXzZBSEZnY3JjNzFtWnpYUHIwYXQtcHZ2WG5aVkNMcGVubE4tWmNxTkVVbkpvWUdGaGk5U3RtUHhaR2VqVUt1d3Q0dXloMUZn?oc=5|EU, 챗GPT에 최고 강도 규제…생성형 AI로는 처음 - 지디넷코리아> 
+- <https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVhlanBSb0pWTER1TTMxaDFKalFtTXNyandUTFY2OEdxRWVZMV9FU0dKd0FQbzlsRnlNZkU0VldBVTRXeml3Z3NiN3ozVnFiUEFTenBmUGdVaC1uNFV0R3Y1UVFKS3VRZGZrZFlUd21tdUFBM1M3X2NpMjA1QVpGTlk1SG1UWVcxVU0xRmJKb1AwLUtVTHoyeXc1T1FuNDJoaVZPVEcyMjlJWUVlY0NCWHdtRDQ?oc=5|'Sonos 27', 앱의 UI를 새롭게 하고 AI 에이전트가 시스템을 제어하도록 함 - Engadget> 
+- <https://news.google.com/rss/articles/CBMioAFBVV95cUxORHViNDlHOXE4a3NsVkJTc1MwSUdfcDdsWmFiSWhnQW93bHVINGJ2ZzM2bUZLT1dwV1Z6WmF2bjlwTjQ3ZnpOR055dm5sYUpwT1dwOFp0TmdHN2Rfd3lXemktZXo4RzdfdXJfY2xSQkpHbEl6b2htXzF3azRMNVZzRGxfdWRYTXpmZm1vUEpmczBJbEZNdXc2X3BLa2NBS2F5?oc=5|AI '문명'의 부상과 기업 책임의 붕괴 - The Verge> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNTBpWF9qV2ctZzBmaUQ0WVR5cjh5YkducUNUM0dZbXNndlk2clVZQjBUV2NDc1FzMXVMZFIxQ1RoUXRPcE9IVi1qUHNDb0lKblJYTmlLVjdZVEE?oc=5|챗GPT, 로그인 세부정보를 보지 않고도 당신을 대신해 일을 할 수 있게 됨 - Mashable> 
+- <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5|Perplexity의 하이브리드 컴퓨트, 민감한 작업을 클라우드와 로컬 AI 간에 분할 - Engadget>

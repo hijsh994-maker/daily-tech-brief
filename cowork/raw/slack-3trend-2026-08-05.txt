@@ -1,0 +1,12 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News (U04M2AC692P) at 2026-08-05 09:00:00 KST ===
+Message TS: 1785888000.259879
+- <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4dlh4NUo0amFUREk4V0tsbGkyVDdyZ01vb3gyQU9qS1B4c0NILXdzbHJaNy1WZUx6NHBDYWlLRTBUa1ZSdmJfVEtfMGltT1FYMXVZ?oc=5|M7 엇갈린 운명…MS·아마존 날고 구글·메타는 주춤>
+- <https://news.nate.com/view/20260804n34013|독파모 2차 모델 공개 SKT…김태윤 개발 총괄 "일하는 AI 본격화">
+- <https://news.nate.com/view/20260804n24833|제프 딘 구글 수석과학자, 8년 만에 한국 찾는다…AI 기술 전망>
+- <https://news.nate.com/view/20260804n27621|AI가 고객 찾는 시대…메타 "광고 소재가 성과 가른다">
+- <https://news.nate.com/view/20260804n09536|애플, AI 시리 드디어 공개했지만…"완성도 높아도 늦었다">
+- <https://news.google.com/rss/articles/CBMiUkFVX3lxTE80aVhWWFljUTdrQ0hVemlqNU9xMnowcTZ4aGR4RURGbGhzUUs4eDFtRWdkekcxYVZPNVp4aDZCNk5tcXIyQW5CeDZ3RTFhaDkydmc?oc=5|국가대표 AI '두번째 생존 게임' 시작…에이전트 역량에 걸렸다>
+- <https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG9RUm9TdENzOENVSklibmJrQ1FjM2dqR2RTRTJfTnhacXd1eHdvREtXTG81RllxUzV5RkY3a0pEZ3k0YnBxWi1vVkZ4bXB6TlA0SG9qQXNOMDBtcmtRVDlXVFJLUUhHcmJQVWRNSFdwZHc4WEJQcW5yeHRaS1F6VThwelVReWhaMnFOdnZ0bDU2dWwtUEljR1hrRDdxenh5RGV3eERPQkpNTWt3VFNiYm1GM3FrX2lPc0RvSElvZ3VRUU5SZWpvaThfMVM?oc=5|엔비디아, 오픈 AI 산업 그룹 결성 일주일 만에 진전을 보여주다>
+- <https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5|제미니 3.5 프로는 어디에? 구글 I/O에서 발표된 AI 모델이 여전히 실종 상태>

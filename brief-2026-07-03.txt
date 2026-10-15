@@ -1,0 +1,14 @@
+정부, 초과세수로 '미토스'급 소버린 AI 개발 검토
+Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped
+Anthropic is discussing a new custom chip with Samsung
+"애플, 中 창신·양쯔 메모리와 칩 구매 협상 중"
+비싼 GPU 부담 낮춘다…엔비디아, AI 스타트업에 '매출 나눠 갖기' 모델 도입
+The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem
+세일즈포스, 고객 서비스 AI 에이전트 공개…"상담 해결해야 과금"
+포밸류소프트, NH농협은행에 AI 에이전트 통합 제어 플랫폼 'Sunstone AI Hub' 도입
+행안부, 'AI 정부 실험실' 시범 운영…"공무원이 직접 AI에이전트 개발"
+AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
+오픈AI, 美 정부에 지분 5% 제공 논의…앤트로픽·구글 참여도 언급
+Trump administration and Anthropic have not discussed government taking stakes in firm, source says
+'금융 AI 에이전트' 링크알파, 340억 규모 신규 투자 유치
+구글, EU '7조원 과징금' 소송 최종 패소…안드로이드 반독점 제재 확정

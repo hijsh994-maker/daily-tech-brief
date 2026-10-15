@@ -1,0 +1,337 @@
+[
+ {
+  "headline": "오픈AI, 위험등급 AI '아스트라' 공개…\"AGI시대 온 것 환영\"",
+  "url": "https://v.daum.net/v/20260904080038463",
+  "src": "samsung",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "오픈AI, 위험등급 AI '아스트라' 공개…\"AGI시대 온 것 환영\"",
+  "unreached": false
+ },
+ {
+  "headline": "네이버 컨소시엄, '사이버 보안 특화 AI 모델' 개발 사업 선정",
+  "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026090309414035661",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "네이버 컨소시엄, '사이버 보안 특화 AI 모델' 개발 사업 선정(종합)",
+  "unreached": false
+ },
+ {
+  "headline": "[2027 AI예산 해부③] 독파모 다음은 프런티어AI…'모델·서비스·피지컬' 3축 본 궤도",
+  "url": "https://www.ddaily.co.kr/page/view/2026090317271043722",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "[2027 AI예산 해부 ③] 독파모 다음은 프런티어AI&amp;hellip;&amp;lsquo;모델&amp;middot;서비스&amp;middot;피지컬&amp;rsquo; 3축 본 궤도",
+  "unreached": false
+ },
+ {
+  "headline": "\"민원·결제도 AI가 알아서\"…SKT·KT·카카오 '모두의 AI' 연내 뜬다",
+  "url": "https://www.newsis.com/view/NISX20260904_0003776084",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "&quot;민원·결제도 AI가 알아서&quot;…SKT·KT·카카오 &#039;모두의 AI&#039; 연내 뜬다 :: 공감언론 뉴시스 ::",
+  "unreached": false
+ },
+ {
+  "headline": "에임인텔리전스, SKT '모두의 AI' 컨소시엄 합류…보안 고도화 담당",
+  "url": "https://www.mt.co.kr/future/2026/09/03/2026090314061885832",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "에임인텔리전스, SKT &#039;모두의 AI&#039; 컨소시엄 합류…보안 고도화 담당 - 머니투데이",
+  "unreached": false
+ },
+ {
+  "headline": "\"美 AI 인프라에 1조弗 투자\"...데이터센터 확대 힘실은 젠슨 황",
+  "url": "https://www.sedaily.com/article/20086932",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "“美 AI 인프라에 1조弗 투자”…데이터센터 확대 힘실은 젠슨 황",
+  "unreached": false
+ },
+ {
+  "headline": "크루소, 제인 스트리트와 130억 달러 규모 클라우드 계약",
+  "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2083965",
+  "src": "samsung",
+  "verdict": "미확인",
+  "reason": "403 봇 차단(정상 취급)",
+  "status": 403,
+  "ratio": null,
+  "page_title": "",
+  "unreached": false
+ },
+ {
+  "headline": "센트럴파크 2배 규모 美 데이터센터...주민 반대에 5년만에 백지화",
+  "url": "https://www.sedaily.com/article/20086913",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "센트럴파크 2배 규모 美 데이터센터…주민 반대에 5년만에 백지화",
+  "unreached": false
+ },
+ {
+  "headline": "한전, 삼성·SK에 전기료 25조 선납 제안…반도체 전력망에 투입",
+  "url": "https://www.sedaily.com/article/20086619",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "한전, 삼성·SK에 전기료 25조 선납 제안…반도체 전력망에 투입",
+  "unreached": false
+ },
+ {
+  "headline": "구글, 대만 손잡고 자체 TPU 박차… 엔디비아 독주 견제",
+  "url": "https://v.daum.net/v/20260904003008271",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "구글, 대만 손잡고 자체 TPU 박차… 엔디비아 독주 견제",
+  "unreached": false
+ },
+ {
+  "headline": "Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI",
+  "url": "https://www.prnewswire.com/news-releases/nscale-and-figure-sign-strategic-partnership-to-power-the-next-generation-of-physical-ai-302868918.html",
+  "src": "samsung",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI",
+  "unreached": false
+ },
+ {
+  "headline": "테슬라 '사이버캡' 공개 운행 시작…일론 머스크식 자율주행 전략, 성공할까",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697995",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "테슬라 '사이버캡' 공개 운행 시작…일론 머스크식 자율주행 전략, 성공할까 - 디지털투데이 (DigitalToday)",
+  "unreached": false
+ },
+ {
+  "headline": "사우디 휴메인과 어플라이드 인튜이션, 자율주행 트럭 피지컬 AI 전략적 파트너십 발표",
+  "url": "https://www.betanews.net/article/view/beta202609030116",
+  "verdict": "OK",
+  "reason": "제목 일치 73%",
+  "status": 200,
+  "ratio": 0.7272727272727273,
+  "page_title": "어플라이드 인튜이션, 사우디 휴메인과 피지컬 AI 협력&hellip;자율주행 트럭 수천 대 투입",
+  "unreached": false
+ },
+ {
+  "headline": "Daybreak for Frontline Defenders: $1B to protect essential services",
+  "url": "https://openai.com/index/daybreak-for-frontline-defenders/",
+  "src": "samsung",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+  "unreached": false
+ },
+ {
+  "headline": "“미국서 생산 안 하면 대가 각오” 러트닉, 삼전·닉스 콕 찍어 경고",
+  "url": "https://v.daum.net/v/20260904002909260",
+  "src": "newsclips",
+  "verdict": "OK",
+  "reason": "제목 일치 70%",
+  "status": 200,
+  "ratio": 0.7,
+  "page_title": "“미국서 생산 안 하면 대가 각오”…러트닉, 삼전·닉스 콕 찍어 경고",
+  "unreached": false
+ },
+ {
+  "headline": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
+  "url": "https://www.yahoo.com/news/politics/articles/lawmakers-unveil-bill-secure-ai-110007776.html",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "Lawmakers unveil new bill to secure AI agents after OpenAI&#x27;s Hugging Face breach",
+  "unreached": false
+ },
+ {
+  "headline": "금융위, 2차 망분리 규제 완화…중소 금융·전금업자 75곳 대상 확대",
+  "url": "https://www.etnews.com/20260903000046",
+  "verdict": "OK",
+  "reason": "제목 일치 64%",
+  "status": 200,
+  "ratio": 0.6363636363636364,
+  "page_title": "금융위, 2차 망분리 규제 완화…중소 금융·전금업자 75곳 대상 확대",
+  "unreached": false
+ },
+ {
+  "headline": "2027년 국방예산 73조원 돌파, 역대 최대… AI·유무인체계에 7,727억원 투입",
+  "url": "https://www.aitimes.kr/news/articleView.html?idxno=41743",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "2027년 국방예산 73조원 돌파, 역대 최대… AI·유무인체계에 7,727억원 투입 < 정책 < FOCUS < 기사본문 - 인공지능신문",
+  "unreached": false
+ },
+ {
+  "headline": "GPU 넘어 AI 모델 유통망까지...엔비디아, 허깅페이스 18조원에 품어",
+  "url": "https://www.fnnews.com/news/202609032116488415",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "GPU 넘어 AI 모델 유통망까지…엔비디아, 허깅페이스 18조원에 품어",
+  "unreached": false
+ },
+ {
+  "headline": "\"IPO 앞둔 앤트로픽, 마통 20조원 확보 마무리\"",
+  "url": "https://www.yna.co.kr/view/AKR20260904042300009?input=1195m",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "&quot;IPO 앞둔 앤트로픽, 마통 20조원 확보 마무리&quot; | 연합뉴스",
+  "unreached": false
+ },
+ {
+  "headline": "대어 또 온다...中 문샷AI 홍콩 상장신청서 비공개 제출",
+  "url": "https://v.daum.net/v/20260904042100055",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "대어 또 온다...中 문샷AI 홍콩 상장신청서 비공개 제출",
+  "unreached": false
+ },
+ {
+  "headline": "2026년 아태 AI 특화지구(AHAP) 조성 사업 공고",
+  "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=311&mPid=121&bbsSeqNo=100&nttSeqNo=3186873",
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "사업공고 - 과학기술정보통신부",
+  "unreached": false
+ },
+ {
+  "headline": "네이버 컨소시엄, '사이버 보안 특화 AI 모델' 개발 사업 선정(종합)",
+  "url": "https://n.news.naver.com/mnews/article/277/0005811271",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "네이버 컨소시엄, '사이버 보안 특화 AI 모델' 개발 사업 선정(종합)",
+  "unreached": false
+ },
+ {
+  "headline": "[2027 AI예산 해부③] 독파모 다음은 프런티어AI…'모델·서비스·피지컬' 3축 본 궤도",
+  "url": "https://n.news.naver.com/mnews/article/138/0002240162",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "[2027 AI예산 해부 ③] 독파모 다음은 프런티어AI…‘모델·서비스·피지컬’ 3축 본 궤도",
+  "unreached": false
+ },
+ {
+  "headline": "\"민원·결제도 AI가 알아서\"…SKT·KT·카카오 '모두의 AI' 연내 뜬다",
+  "url": "https://n.news.naver.com/mnews/article/003/0014168897",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "&quot;민원·결제도 AI가 알아서&quot;…SKT·KT·카카오",
+  "unreached": false
+ },
+ {
+  "headline": "에임인텔리전스, SKT '모두의 AI' 컨소시엄 합류…보안 고도화 담당",
+  "url": "https://n.news.naver.com/mnews/article/008/0005409214",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "에임인텔리전스, SKT '모두의 AI' 컨소시엄 합류…보안 고도화 담당",
+  "unreached": false
+ },
+ {
+  "headline": "\"美 AI 인프라에 1조弗 투자\"...데이터센터 확대 힘실은 젠슨 황",
+  "url": "https://n.news.naver.com/mnews/article/011/0004658361",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "“美 AI 인프라에 1조弗 투자”…데이터센터 확대 힘실은 젠슨 황",
+  "unreached": false
+ },
+ {
+  "headline": "센트럴파크 2배 규모 美 데이터센터...주민 반대에 5년만에 백지화",
+  "url": "https://n.news.naver.com/mnews/article/011/0004658464",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "센트럴파크 2배 규모 美 데이터센터…주민 반대에 5년만에 백지화",
+  "unreached": false
+ },
+ {
+  "headline": "한전, 삼성·SK에 전기료 25조 선납 제안…반도체 전력망에 투입",
+  "url": "https://n.news.naver.com/mnews/article/011/0004658118",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "한전, 삼성·SK에 전기료 25조 선납 제안…반도체 전력망에 투입",
+  "unreached": false
+ },
+ {
+  "headline": "금융위, 2차 망분리 규제 완화…중소 금융·전금업자 75곳 대상 확대",
+  "url": "https://n.news.naver.com/mnews/article/030/0003463305",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "금융위, 2차 망분리 규제 완화…중소 금융·전금업자 75곳 대상 확대",
+  "unreached": false
+ },
+ {
+  "headline": "GPU 넘어 AI 모델 유통망까지...엔비디아, 허깅페이스 18조원에 품어",
+  "url": "https://n.news.naver.com/mnews/article/014/0005570907",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "GPU 넘어 AI 모델 유통망까지…엔비디아, 허깅페이스 18조원에 품어",
+  "unreached": false
+ },
+ {
+  "headline": "\"IPO 앞둔 앤트로픽, 마통 20조원 확보 마무리\"",
+  "url": "https://n.news.naver.com/mnews/article/001/0016289549",
+  "src": "portalize",
+  "verdict": "OK",
+  "reason": "포털 정적링크 교체",
+  "status": 200,
+  "ratio": null,
+  "page_title": "&quot;IPO 앞둔 앤트로픽, 마통 20조원 확보 마무리&quot;",
+  "unreached": false
+ }
+]

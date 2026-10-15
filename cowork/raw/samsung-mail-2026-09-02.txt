@@ -1,0 +1,46 @@
+[삼성 이영진] 글로벌 AI/SW 뉴스 🤖 (26/9/2)
+
+1. "'엔지니어도 포기' 희귀 난제 해결"…앤스로픽, '페이블·미토스 5.1' 공개 (이데일리 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260902084036862
+
+2. [미국 특징주] 오픈AI "아스트라, '위험(Critical)' 사이버보안 역량 기준 도달" (뉴스핌)
+o 링크: https://www.newspim.com/news/view/20260902000053
+
+3. 구글, AI 코딩 격차 좁히기 위해 제미나이 3.8 플래시 준비 (Investing.com)
+o 링크: https://kr.investing.com/news/stock-market-news/article-2081302
+
+4. Introducing agentic video understanding with Gemini (Google 공식 블로그)
+o 링크: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/
+
+5. Fervo Energy, 구글과 396MW 지열 발전 계약 체결 (Investing.com)
+o 링크: https://kr.investing.com/news/company-news/article-93CH-2080753
+
+6. 메타, 사내 메신저 구글 챗서 슬랙으로 전환…"AI 에이전트에 적합" (디지털투데이)
+o 링크: https://www.digitaltoday.co.kr/news/articleView.html?idxno=697438
+
+7. Introducing Muse Voice Transcribe (Meta AI Research)
+o 링크: https://research.meta.ai/blog/introducing-muse-voice-transcribe
+
+8. Meta CEO Zuckerberg urges G20 not to restrict open-weight AI models (ScanX)
+o 링크: https://scanx.trade/stock-market-news/global/meta-ceo-zuckerberg-urges-g20-not-restrict-open-weight-ai-models/49833950
+
+9. 머스크 "구글·앤스로픽, 스페이스X AI 연산 임대" (토큰포스트)
+o 링크: https://www.tokenpost.kr/news/ai/401648
+
+10. SpaceX Shakes Up AI Data Center Leadership After Reliability Failures (The Information / BigGo Finance)
+o 링크: https://finance.biggo.com/news/598184df-1a3e-4b4f-81e0-0f0a0d9f4bab
+
+11. Army's TITAN platform moving into production phase with $192M delivery award for Palantir, Anduril (DefenseScoop)
+o 링크: https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/
+
+12. Palo Alto Networks Acquires Console to Agentify Security (PR Newswire)
+o 링크: https://www.prnewswire.com/news-releases/palo-alto-networks-acquires-console-to-agentify-security-302866763.html
+
+13. GLM 編碼計劃一週年，向所有訂閱用戶贈送一張重置卡 (鉅亨網)
+o 링크: https://news.cnyes.com/news/id/6594466
+
+14. EU, 챗GPT '초대형 검색엔진' 지정…AI까지 플랫폼 규제 (연합뉴스 / Daum뉴스)
+o 링크: https://v.daum.net/v/20260901100929902
+
+15. SB Energy, Integrated Data Center And Power Infrastructure Company, Files For Nasdaq Global Select Market IPO Under Ticker "SBE" (TradingView)
+o 링크: https://www.tradingview.com/news/tradingview:a08359181f136:0-sb-energy-integrated-data-center-and-power-infrastructure-company-files-for-nasdaq-global-select-market-and-nasdaq-texas-ipo/

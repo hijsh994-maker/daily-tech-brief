@@ -1,0 +1,1277 @@
+{
+ "date": "2026-07-20",
+ "min_score": 6,
+ "count": 39,
+ "total_clusters": 532,
+ "items": [
+  {
+   "title": "앤트로픽, 메타와 15조원 규모 데이터센터 연산 자원 임대 계약 논의",
+   "summary": null,
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10812778",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 15,
+   "must_review": false,
+   "why": [
+    "high+3(조원)",
+    "low+1(논의)",
+    "수치규모+3(조단위)",
+    "프런티어+2(앤트로픽)",
+    "보도수+1(5)",
+    "교차소스+4(adot+gnews+slack)",
+    "AI큐레이션+1"
+   ],
+   "size": 5,
+   "sources": [
+    "adot",
+    "gnews",
+    "slack"
+   ],
+   "outlets": [
+    "koreasprint.com",
+    "전자신문",
+    "한국경제",
+    "헤럴드경제"
+   ]
+  },
+  {
+   "title": "[반도체] 삼성전자·SK하이닉스, 'HBM 이후' AI 메모리 경쟁 본격화…차세대 CXL 상용화 속도",
+   "summary": null,
+   "outlet": "굿모닝베트남미디어",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "AI DC & 인프라",
+   "orgs": [],
+   "score": 13,
+   "must_review": true,
+   "why": [
+    "high+3(상장)",
+    "medium+2(중단)",
+    "프런티어+2(엔비디아)",
+    "보도수+2(7)",
+    "복수쿼리+1",
+    "자사관련+3(SK하이닉스)"
+   ],
+   "size": 7,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "AI 매터스",
+    "Chosunbiz",
+    "TradingKey",
+    "굿모닝베트남미디어",
+    "글로벌이코노믹",
+    "네이버 프리미엄콘텐츠"
+   ]
+  },
+  {
+   "title": "[블룸버그 단독 인터뷰] TSMC, 美에 2650억 달러 투자 승부수…“시장 한 조각도 못 내준다”│Global Money Club",
+   "summary": null,
+   "outlet": "중앙일보",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 11,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "medium+2(공개)",
+    "수치규모+3(억달러)",
+    "프런티어+2(알리바바)",
+    "보도수+1(3)"
+   ],
+   "size": 3,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "중앙일보"
+   ]
+  },
+  {
+   "title": "배경훈 부총리, 유네스코 사무총장과 &apos;AI 윤리·거버넌스 협력안&apos; 논의",
+   "summary": null,
+   "outlet": "아이뉴스24",
+   "url": "https://www.inews24.com/view/1986688",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "국가정책",
+   "orgs": [],
+   "score": 11,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "low+1(논의)",
+    "보도수+3(12)",
+    "교차소스+2(gnews+rss)",
+    "경쟁사+2",
+    "VIP+1(배경훈)"
+   ],
+   "size": 12,
+   "sources": [
+    "gnews",
+    "rss"
+   ],
+   "outlets": [
+    "PRESS9",
+    "edaily.co.kr",
+    "네이트",
+    "디지털투데이",
+    "스트레이트뉴스",
+    "아시아투데이"
+   ]
+  },
+  {
+   "title": null,
+   "summary": "알리바바 T-Head, WAIC 2026에서 자체 개발 AI 소프트웨어 스택 T-Head SAIL을 오픈소스로 공개",
+   "outlet": null,
+   "url": null,
+   "pub_date": null,
+   "confidence": "drop",
+   "category": "기타",
+   "orgs": [],
+   "score": 10,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "프런티어+2(알리바바)",
+    "보도수+1(3)",
+    "교차소스+2(gnews+samsung)",
+    "사람큐레이션+3"
+   ],
+   "size": 3,
+   "sources": [
+    "gnews",
+    "samsung"
+   ],
+   "outlets": [
+    "디지털투데이",
+    "오피니언뉴스"
+   ]
+  },
+  {
+   "title": "확산 속도 중요한 ‘모두의 AI’...카카오·네이버·SKT가 유력한 이유",
+   "summary": null,
+   "outlet": null,
+   "url": "https://www.chosun.com/economy/tech_it/2026/07/20/NPTWUP5RIVHLJJXX5SLDQR3V5A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "pub_date": null,
+   "confidence": "auto",
+   "category": "국가정책",
+   "orgs": [],
+   "score": 10,
+   "must_review": true,
+   "why": [
+    "교차소스+2(gnews+slack)",
+    "AI큐레이션+1",
+    "복수쿼리+2(5)",
+    "경쟁사+2",
+    "자사관련+3(SKT)"
+   ],
+   "size": 2,
+   "sources": [
+    "gnews",
+    "slack"
+   ],
+   "outlets": [
+    "조선일보"
+   ]
+  },
+  {
+   "title": "삼성SDS, 퓨리오사AI 레니게이드 기반 NPUaaS 출시",
+   "summary": null,
+   "outlet": "아이뉴스24",
+   "url": "https://www.inews24.com/view/1986789",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI DC & 인프라",
+   "orgs": [],
+   "score": 10,
+   "must_review": false,
+   "why": [
+    "medium+2(출시)",
+    "보도수+3(21)",
+    "교차소스+2(gnews+rss)",
+    "복수쿼리+1",
+    "경쟁사+2"
+   ],
+   "size": 21,
+   "sources": [
+    "gnews",
+    "rss"
+   ],
+   "outlets": [
+    "AI포스트",
+    "IT비즈뉴스",
+    "SR타임스",
+    "네이트",
+    "뉴스저널리즘",
+    "뉴시스"
+   ]
+  },
+  {
+   "title": null,
+   "summary": "메타, 앤스로픽과 AI 컴퓨팅 인프라 공급 계약 논의 보도. 약 100억달러 규모의 계약 가능성. 계약은 2년간 월별 사용료를 지급하는 구조 검토",
+   "outlet": null,
+   "url": null,
+   "pub_date": null,
+   "confidence": "unresolved",
+   "category": "기타",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 9,
+   "must_review": false,
+   "why": [
+    "low+1(검토)",
+    "수치규모+3(억달러)",
+    "프런티어+2(메타)",
+    "사람큐레이션+3"
+   ],
+   "size": 1,
+   "sources": [
+    "samsung"
+   ],
+   "outlets": [],
+   "url_via": null
+  },
+  {
+   "title": null,
+   "summary": "Z AI, GLM-5.2 흥행 기반으로 ARR 10억 달러 돌파 가능성",
+   "outlet": null,
+   "url": null,
+   "pub_date": null,
+   "confidence": "drop",
+   "category": "기타",
+   "orgs": [],
+   "score": 9,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "수치규모+3(억달러)",
+    "사람큐레이션+3"
+   ],
+   "size": 1,
+   "sources": [
+    "samsung"
+   ],
+   "outlets": []
+  },
+  {
+   "title": "알리바바, Qwen3.8 Max 프리뷰 출시, 성능은 앤스로픽 Fable 5에 이어 2위라고 주장, 개장 전 3% 이상 상승",
+   "summary": null,
+   "outlet": "TradingKey",
+   "url": null,
+   "pub_date": "2026-07-19",
+   "confidence": "unresolved",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 9,
+   "must_review": true,
+   "why": [
+    "medium+2(출시)",
+    "수치규모+1(주가변동)",
+    "프런티어+2(알리바바)",
+    "보도수+1(3)",
+    "자사관련+3(SK하이닉스)"
+   ],
+   "size": 3,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "TradingKey"
+   ]
+  },
+  {
+   "title": "알리바바, 2.4조 파라미터 ‘Qwen 3.8’ 공개…Kimi K3에 맞불",
+   "summary": null,
+   "outlet": "이코노미트리뷴",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 9,
+   "must_review": false,
+   "why": [
+    "medium+2(출시)",
+    "규모어휘+2(조 파라미터)",
+    "수치규모+3(조단위)",
+    "프런티어+2(알리바바)"
+   ],
+   "size": 2,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "BeInCrypto",
+    "이코노미트리뷴"
+   ]
+  },
+  {
+   "title": "TSMC, 265억 달러 규모 애리조나 확장 위해 채권 발행 검토",
+   "summary": null,
+   "outlet": "Investing.com 한국어",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "AI 투자&시장",
+   "orgs": [],
+   "score": 9,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "low+1(검토)",
+    "수치규모+3(억달러)",
+    "프런티어+2(TSMC)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "Investing.com 한국어"
+   ]
+  },
+  {
+   "title": "중국, 딥시크 이어 ‘키미 쇼크’…“미국 AI와 격차 단 2~3개월”",
+   "summary": null,
+   "outlet": null,
+   "url": "https://www.joongang.co.kr/article/25446232",
+   "pub_date": null,
+   "confidence": "auto",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "low+1(검토)",
+    "프런티어+2(딥시크)",
+    "보도수+2(7)",
+    "교차소스+2(gnews+slack)",
+    "AI큐레이션+1"
+   ],
+   "size": 7,
+   "sources": [
+    "gnews",
+    "slack"
+   ],
+   "outlets": [
+    "경향신문",
+    "매일경제",
+    "연합뉴스",
+    "중앙일보",
+    "티제이비",
+    "한국경제"
+   ]
+  },
+  {
+   "title": "中 AI '키미 K3'의 역습... 지능지표 현존 AI 모델 중 4위",
+   "summary": null,
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202607191820109170",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI Model",
+   "orgs": [
+    "AI Tech센터"
+   ],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "프런티어+2(알리바바)",
+    "보도수+1(5)",
+    "교차소스+2(adot+gnews)",
+    "AI큐레이션+1"
+   ],
+   "size": 2,
+   "sources": [
+    "adot",
+    "gnews"
+   ],
+   "outlets": [
+    "뉴시스",
+    "파이낸셜뉴스"
+   ]
+  },
+  {
+   "title": "Moonshot AI의 기업공개(IPO) 추진은 비트코인을 흔든 Kimi와 알리바바의 인공지능(AI) 발표에 이어진 것입니다",
+   "summary": null,
+   "outlet": "CoinDesk",
+   "url": "https://www.coindesk.com/ko/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "high+3(IPO)",
+    "medium+2(공개)",
+    "low+1(추진)",
+    "프런티어+2(알리바바)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "CoinDesk"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "[시총 10대기업] 아마존 순익 303억 달러의 함정···절반이 '장부 위 이익'",
+   "summary": null,
+   "outlet": "자본시장뉴스",
+   "url": null,
+   "pub_date": "2026-07-19",
+   "confidence": "unresolved",
+   "category": "AI 투자&시장",
+   "orgs": [],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "수치규모+3(억달러)",
+    "프런티어+2(아마존)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "자본시장뉴스"
+   ]
+  },
+  {
+   "title": "마이크론, 퀄컴·하만 등 주요 공급사와 AI 차량용 메모리 장기 계약 체결",
+   "summary": null,
+   "outlet": "다나와 자동차",
+   "url": "https://dpg.danawa.com/mobile/news/view?boardSeq=60&listSeq=6036782",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI DC & 인프라",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "high+3(IPO)",
+    "low+1(추진)",
+    "수치규모+3(억달러)",
+    "보도수+1(3)"
+   ],
+   "size": 3,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "simplywall.st",
+    "다나와 자동차"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "알리바바, 2조 4천억 매개변수 ‘큐원 3.8’ 프리뷰 공개…”페이블 5 다음은 우리”",
+   "summary": null,
+   "outlet": "AI 매터스",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "수치규모+3(파라미터)",
+    "프런티어+2(알리바바)",
+    "보도수+1(4)"
+   ],
+   "size": 4,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "AI 매터스",
+    "AI타임스",
+    "디지털투데이",
+    "위키트리"
+   ]
+  },
+  {
+   "title": "TSMC, 美 투자 397조원까지 확대…\"AI 반도체 수요 수년간 이어질 것\"",
+   "summary": null,
+   "outlet": "녹색경제신문",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=345421",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 8,
+   "must_review": false,
+   "why": [
+    "high+3(조원)",
+    "수치규모+3(조단위)",
+    "프런티어+2(TSMC)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "녹색경제신문"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": null,
+   "summary": "알리바바 클라우드, Agent Native Cloud와 AgentTeams와 Agentic Computer 등 기업용 AI 에이전트 도구 공개",
+   "outlet": null,
+   "url": null,
+   "pub_date": null,
+   "confidence": "drop",
+   "category": "AI Agent",
+   "orgs": [],
+   "score": 7,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "프런티어+2(알리바바)",
+    "사람큐레이션+3"
+   ],
+   "size": 1,
+   "sources": [
+    "samsung"
+   ],
+   "outlets": []
+  },
+  {
+   "title": "문샷 AI, 6개월 내 홍콩 상장 추진...'키미 K3' 흥행으로 동력",
+   "summary": null,
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260720000002",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [],
+   "score": 7,
+   "must_review": false,
+   "why": [
+    "high+3(상장)",
+    "low+1(추진)",
+    "프런티어+2(문샷)",
+    "AI큐레이션+1"
+   ],
+   "size": 1,
+   "sources": [
+    "adot"
+   ],
+   "outlets": [
+    "전자신문"
+   ]
+  },
+  {
+   "title": "배경훈 부총리 &quot;독자 AI 확보 못하면 글로벌 기업에 종속...피지컬AI 3년 내 성과&quot;",
+   "summary": null,
+   "outlet": "아이뉴스24",
+   "url": "https://www.inews24.com/view/1986989",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "국가정책",
+   "orgs": [],
+   "score": 7,
+   "must_review": false,
+   "why": [
+    "medium+2(확보)",
+    "수치규모+2(GPU장수)",
+    "교차소스+2(gnews+rss)",
+    "VIP+1(배경훈)"
+   ],
+   "size": 2,
+   "sources": [
+    "gnews",
+    "rss"
+   ],
+   "outlets": [
+    "아이뉴스24",
+    "전자신문"
+   ]
+  },
+  {
+   "title": "알리바바, AI칩 소프트웨어 무료 공개...엔비디아 쿠다 겨냥 [마켓핫]",
+   "summary": null,
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2604943",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI DC & 인프라",
+   "orgs": [],
+   "score": 7,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "프런티어+2(엔비디아)",
+    "보도수+2(9)",
+    "복수쿼리+1"
+   ],
+   "size": 9,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "OBC 뉴스",
+    "OBS경인TV",
+    "SBS Biz",
+    "edaily.co.kr",
+    "mstoday.co.kr",
+    "서울경제TV"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "AI 기능 탑재 웨어러블 확산…SKT, '레이밴 메타' 국내 출시",
+   "summary": null,
+   "outlet": "열린뉴스통신",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "Physical AI",
+   "orgs": [],
+   "score": 7,
+   "must_review": true,
+   "why": [
+    "medium+2(출시)",
+    "프런티어+2(메타)",
+    "자사관련+3(SKT)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "열린뉴스통신"
+   ]
+  },
+  {
+   "title": null,
+   "summary": "스페이스X, 미국 국방부에 AI 모델 구동을 위한 데이터센터 캐파 제공 협상. 계약 규모는 수십억 달러 수준",
+   "outlet": null,
+   "url": null,
+   "pub_date": null,
+   "confidence": "drop",
+   "category": "국가정책",
+   "orgs": [
+    "AI Tech센터",
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "사람큐레이션+3"
+   ],
+   "size": 1,
+   "sources": [
+    "samsung"
+   ],
+   "outlets": []
+  },
+  {
+   "title": "OpenAI Chair Downplays Lower Token Costs Of Open-Weight Models After Kimi K3 Buzz: 'Frontier Models Are Much More Token Efficient'",
+   "summary": null,
+   "outlet": "TradingView",
+   "url": "https://stocktwits.com/news-articles/markets/equity/openai-chair-bret-taylor-downplays-token-costs-open-models-kimi-k3-launch/cZZiPFWR7ul",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(IPO)",
+    "프런티어+2(OpenAI)",
+    "보도수+1(5)"
+   ],
+   "size": 5,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "MarkTechPost",
+    "Tech Times",
+    "TradingView",
+    "Yahoo Finance",
+    "finance.biggo.com"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "엔비디아 독주 깨진다…AMD 헬리오스, 메타·오픈AI·오라클에 이어 마이크로소프트 확보",
+   "summary": null,
+   "outlet": "위키트리",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "AI DC & 인프라",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "medium+2(확보)",
+    "프런티어+2(오픈AI)",
+    "보도수+1(3)",
+    "복수쿼리+1"
+   ],
+   "size": 3,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "TradingKey",
+    "위키트리"
+   ]
+  },
+  {
+   "title": "문샷 키미 이어 알리바바 큐원까지 '동시다발 반란' … \"中, AI 추격자 아닌 경쟁자 됐다\"",
+   "summary": null,
+   "outlet": "뉴데일리",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/07/20/2026072000052.html",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "프런티어+2(알리바바)",
+    "보도수+2(6)"
+   ],
+   "size": 6,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "edaily.co.kr",
+    "강원도민일보",
+    "뉴데일리",
+    "아주경제",
+    "연합뉴스",
+    "지디넷코리아"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "정의선 1200억원 추가 투자, 보스턴다이내믹스 지분율 25% 확보…완전 자회사 눈앞",
+   "summary": null,
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026071910515927218",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "medium+2(확보)",
+    "low+1(검토)",
+    "보도수+2(7)",
+    "VIP+1(정의선)"
+   ],
+   "size": 7,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "Chosunbiz",
+    "edaily.co.kr",
+    "디지털데일리",
+    "미디어펜",
+    "서울경제TV",
+    "아시아투데이"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "SK텔레콤, 주가 상승 앤트로픽 지분가치 부각 기인…본업 한계 명확 - 유진",
+   "summary": null,
+   "outlet": "인포스탁데일리",
+   "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=216971",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [],
+   "score": 6,
+   "must_review": true,
+   "why": [
+    "프런티어+2(앤트로픽)",
+    "복수쿼리+1",
+    "자사관련+3(SK텔레콤)"
+   ],
+   "size": 2,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "머니투데이",
+    "인포스탁데일리"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "화장품신문 (Beautynury.com) :: 아마존 물류 경영진, 에이피알 평택 스마트팩토리 방문",
+   "summary": null,
+   "outlet": "뷰티누리",
+   "url": "https://www.beautynury.com/news/view/111804/cat/10/cat2/10800",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "프런티어+2(아마존)",
+    "보도수+2(6)"
+   ],
+   "size": 6,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "대한경제",
+    "머니투데이",
+    "뷰티누리",
+    "스포츠한국",
+    "코스인코리아닷컴",
+    "패션비즈"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "텐센트 2025년 게임 매출 52조원, 해외 33% 성장",
+   "summary": null,
+   "outlet": "인벤",
+   "url": "https://m.sports.naver.com/esports/article/442/0000190601?sid3=79e",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(조원)",
+    "수치규모+3(조단위)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "인벤"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "SK텔레콤이 지분투자한 엔트로픽 상장 예정…\"오버슈팅 가능성\"-신한 - 머니투데이",
+   "summary": null,
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/stock/2026/07/20/2026072008250219869",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": true,
+   "why": [
+    "high+3(상장)",
+    "자사관련+3(SK텔레콤)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "머니투데이"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "스페이스X 주가 추락, 오픈AI·앤트로픽 IPO에도 불똥…투자 심리 급랭",
+   "summary": null,
+   "outlet": "연합인포맥스",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425714",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(IPO)",
+    "프런티어+2(오픈AI)",
+    "복수쿼리+1"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "연합인포맥스"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "반도체 증설 경쟁에 TSMC도 가세…美 투자 397조로 키운다",
+   "summary": null,
+   "outlet": "자본시장뉴스",
+   "url": "https://www.jabon.co.kr/news/articleView.html?idxno=5100",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "수치규모+3(억달러)",
+    "프런티어+2(TSMC)",
+    "보도수+1(4)"
+   ],
+   "size": 4,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "동아일보",
+    "서울파이낸스",
+    "자본시장뉴스",
+    "한국경제"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "알리바바, 초대형 AI '큐원3.8' 공개 예고…매개변수 2.4조개",
+   "summary": null,
+   "outlet": "네이트",
+   "url": "http://www.joseilbo.com/news/news_read.php?uid=572181&class=78&grp=",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI Model",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "medium+2(공개)",
+    "규모어휘+2(초대형)",
+    "프런티어+2(알리바바)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "네이트"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "플레이티카, 슈퍼플레이 텐센트에 최대 15억 달러 매각 협상 중",
+   "summary": null,
+   "outlet": "Investing.com 한국어",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "기타",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "수치규모+3(억달러)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "Investing.com 한국어"
+   ]
+  },
+  {
+   "title": "\"스페이스X 공매도 투자자들, 50억 달러 수익\"",
+   "summary": null,
+   "outlet": "연합인포맥스",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425701",
+   "pub_date": "2026-07-19",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "수치규모+3(억달러)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "연합인포맥스"
+   ],
+   "url_via": "naver"
+  },
+  {
+   "title": "베트남 억만장자 5명, 470억 달러 자산 보유",
+   "summary": null,
+   "outlet": "Laodong.vn",
+   "url": "https://ko.laodong.vn/doanh-nghiep-doanh-nhan/tong-tai-san-5-ti-phu-viet-vuot-nguong-47-ti-usd-1723366.ldo",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [],
+   "score": 6,
+   "must_review": false,
+   "why": [
+    "high+3(억 달러)",
+    "수치규모+3(억달러)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "Laodong.vn"
+   ],
+   "url_via": "webkr"
+  }
+ ],
+ "own_track": [
+  {
+   "title": "SKT·소프트뱅크 MOU 보도자료: ‘한일 협력·AI 측정’을 연결한 뉴스의 힘",
+   "summary": null,
+   "outlet": "뉴스와이어",
+   "url": "https://blog.newswire.co.kr/?p=18982",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [],
+   "score": 5,
+   "must_review": true,
+   "why": [
+    "medium+2(MOU)",
+    "자사관련+3(SKT)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "뉴스와이어"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "코스피 짓누르는 SK하이닉스 ADR 프리미엄…\"TSMC 전철 밟을라\"",
+   "summary": null,
+   "outlet": "인베스트조선",
+   "url": "https://www.investchosun.com/m/article.html?contid=2026072080139",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [],
+   "score": 5,
+   "must_review": true,
+   "why": [
+    "프런티어+2(TSMC)",
+    "자사관련+3(SK하이닉스)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "인베스트조선"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "카카오, '모두의 AI' 승부수…'5000만' 카톡 경쟁력",
+   "summary": null,
+   "outlet": "딜사이트",
+   "url": null,
+   "pub_date": "2026-07-20",
+   "confidence": "unresolved",
+   "category": "국가정책",
+   "orgs": [],
+   "score": 5,
+   "must_review": true,
+   "why": [
+    "경쟁사+2",
+    "자사관련+3(모두의 AI)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "딜사이트"
+   ]
+  },
+  {
+   "title": "갈림길 선 SKT, 앤트로픽 투자 잭팟 계속될까",
+   "summary": null,
+   "outlet": "네이버 프리미엄콘텐츠",
+   "url": "https://contents.premium.naver.com/thebell/stock/contents/260720172736613af",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 5,
+   "must_review": true,
+   "why": [
+    "프런티어+2(앤트로픽)",
+    "자사관련+3(SKT)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "네이버 프리미엄콘텐츠"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "SKT 정재헌, MWC서 빅테크 순회…\"샤오미 놀랍다\"",
+   "summary": null,
+   "outlet": null,
+   "url": null,
+   "pub_date": null,
+   "confidence": "unresolved",
+   "category": "기타",
+   "orgs": [],
+   "score": 4,
+   "must_review": true,
+   "why": [
+    "AI큐레이션+1",
+    "자사관련+3(SKT)"
+   ],
+   "size": 1,
+   "sources": [
+    "slack"
+   ],
+   "outlets": [],
+   "url_via": null
+  },
+  {
+   "title": "AI 시대를 읽다 — SK텔레콤 경영진 추천 여름 휴가 도서",
+   "summary": null,
+   "outlet": "SK텔레콤 뉴스룸",
+   "url": "https://news.sktelecom.com/228085",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [],
+   "score": 4,
+   "must_review": true,
+   "why": [
+    "복수쿼리+1",
+    "자사관련+3(SK텔레콤)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "SK텔레콤 뉴스룸"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "[통신사 AI 인프라전] ②SKT, 투자금 '외부 조달'로 자체 부담 줄이나",
+   "summary": null,
+   "outlet": "fetv.co.kr",
+   "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306524",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "AI 투자&시장",
+   "orgs": [
+    "AI DC사업본부"
+   ],
+   "score": 4,
+   "must_review": true,
+   "why": [
+    "복수쿼리+1",
+    "자사관련+3(SKT)"
+   ],
+   "size": 1,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "fetv.co.kr"
+   ],
+   "url_via": "webkr"
+  },
+  {
+   "title": "SKT, 하나금융과 AI로 사회적 약자 돕는 '테크포굿' 해커톤 진행",
+   "summary": null,
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212940",
+   "pub_date": "2026-07-20",
+   "confidence": "auto",
+   "category": "기타",
+   "orgs": [
+    "Enterprise AI본부"
+   ],
+   "score": 4,
+   "must_review": true,
+   "why": [
+    "보도수+1(3)",
+    "자사관련+3(SKT)"
+   ],
+   "size": 3,
+   "sources": [
+    "gnews"
+   ],
+   "outlets": [
+    "AI타임스",
+    "e4ds news",
+    "디지털투데이"
+   ],
+   "url_via": "naver"
+  }
+ ]
+}

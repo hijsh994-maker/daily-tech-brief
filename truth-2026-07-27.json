@@ -1,0 +1,95 @@
+{
+ "date": "2026-07-27",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "Kimi K3's open weights arrive July 27. The catch is 1.4TB",
+   "outlet": "TECHi",
+   "url": "https://www.techi.com/kimi-k3-open-weights-inference-economics/"
+  },
+  {
+   "category": "AI Model",
+   "title": "미국이 분노한 '키미 K3' 쇼크…중국과 전방위 AI 격돌",
+   "outlet": "KBS",
+   "url": "https://v.daum.net/v/20260727065048827"
+  },
+  {
+   "category": "AI DC&Infra",
+   "title": "NAVER, NVIDIA and Brookfield to Expand Korea's National AI Factory Infrastructure Buildout",
+   "outlet": "NVIDIA newsroom",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/NAVER-NVIDIA-and-Brookfield-to-Expand-Koreas-National-AI-Factory-Infrastructure-Buildout/default.aspx"
+  },
+  {
+   "category": "AI DC&Infra",
+   "title": "LG전자, 국내 최초 엔비디아 AI 데이터센터 액체냉각 인증",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20072144"
+  },
+  {
+   "category": "AI DC&Infra",
+   "title": "구글, 전력 효율 10배 '프로즌 v2' 개발 시동",
+   "outlet": "블로터",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=669009"
+  },
+  {
+   "category": "Physical AI",
+   "title": "현대차, '도시 지능화' 담은 피지컬 AI 비전 공개…엔비디아·구글 등과 결속 강화",
+   "outlet": "경향신문",
+   "url": "https://www.khan.co.kr/article/202607261043001"
+  },
+  {
+   "category": "AI 보안",
+   "title": "Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI hack",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "What OpenAI CEO Sam Altman will tell the White House this week",
+   "outlet": "Axios",
+   "url": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic",
+   "outlet": "Forbes",
+   "url": "https://www.forbes.com/sites/sandycarter/2026/07/25/huangs-open-weights-letter-doubled-to-50-without-amazon-and-anthropic/"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "SKT, 스타트업 3곳에 독자 AI 모델 지원",
+   "outlet": "세계비즈",
+   "url": "https://www.segyebiz.com/newsView/20260726509325"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
+   "outlet": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-openai-guarantee-250-233930971.html"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Samsung Electronics, SK Group seal $950B deals",
+   "outlet": "Manila Times",
+   "url": "https://www.manilatimes.net/2026/07/27/business/foreign-business/samsung-electronics-sk-group-seal-950b-deals/2391673"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Palantir's Karp bashes token-based AI model as 'completely wrong'",
+   "outlet": "eciks.org",
+   "url": "https://eciks.org/15756-alex-karp-ai-industry-criticism"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "\"키미 쇼크? 삼전닉스 더 띄울 것\" AI기업 임원이 주목한 7곳",
+   "outlet": "중앙일보",
+   "url": "https://v.daum.net/v/20260727050258437"
+  }
+ ]
+}

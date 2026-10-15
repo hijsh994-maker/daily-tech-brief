@@ -1,0 +1,95 @@
+{
+ "date": "2026-09-09",
+ "items": [
+  {
+   "title": "삼성전자, 미스트랄과 '반도체 특화 AI' 공동 개발하기로",
+   "outlet": "조선일보",
+   "url": "https://v.daum.net/v/20260909010318942",
+   "category": "AI Model"
+  },
+  {
+   "title": "오픈AI, 7대 수학 난제 '나비에-스토크스 방정식' 풀었다",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2623365",
+   "category": "AI Model"
+  },
+  {
+   "title": "Introducing ChatGPT Images 2.5",
+   "outlet": "OpenAI blog",
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+   "category": "AI Model"
+  },
+  {
+   "title": "메타, 소비자용 '쉬운' AI 에이전트 '뮤즈' 공개...대부분 기능 '무료'",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202609090419066714",
+   "category": "AI Agent"
+  },
+  {
+   "title": "구글·블랙스톤 AI 합작사, 데이터센터 부지 확보 차질",
+   "outlet": "EBN",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723503",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "\"서버에서 데이터센터 전체로\" AI 데이터센터 설계 단위 확장",
+   "outlet": "아시아경제",
+   "url": "https://v.daum.net/v/20260909082651544",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "\"'AI수도' 속도\"...충남 당진에 1.2조 AI데이터센터 선다",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202609090829398750",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "[인터뷰] 정석근 SK하이퍼 대표 \"AI 데이터센터, 용량 확보가 최우선… 미국 떠나는 빅테크 잡는다\"",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260909060225679",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "삼성서울병원, 16일 '휴머노이드형 수술보조 로봇' 첫 공개",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260909000031",
+   "category": "Physical AI"
+  },
+  {
+   "title": "[단독] \"AI로 진료 학습하고 병원 예약\"…네이버, 의료 사업 본격 시동",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026090819651",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260908180626647",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "국가AI전략위 2기, 기술·의제 등 글로벌 AI 핵심 공급망 박차",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260908180509587",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "퀄컴, 아마존과 80조원 차세대 AI칩 동맹…5.4조원 신주인수권도",
+   "outlet": "연합뉴스",
+   "url": "https://v.daum.net/v/20260909023238444",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "\"앤트로픽·오픈AI IPO 이후 투자적격 등급 확보 추진\"",
+   "outlet": "연합뉴스",
+   "url": "https://v.daum.net/v/20260908154842011",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "런웨이, 연간 반복 매출 2억달러 달성",
+   "outlet": "Bloomberg",
+   "url": "https://arca.live/b/stock/182428164",
+   "category": "AI 투자&시장"
+  }
+ ]
+}

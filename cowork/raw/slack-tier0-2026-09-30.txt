@@ -1,0 +1,141 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-30 09:42:23 KST === 
+Message TS: 1790728943.117279
+_(이어서 3/3)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20260928000382|벽.천장 기어 다니며 일하는 산업용 '거미 로봇'>
+ㄴ전자신문 2026.09.30
+<https://www.hani.co.kr/arti/science/technology/1279900.html|전세계 ‘로봇 일꾼’ 500만대...산업용도 휴머노이드도 중국이 장악>
+ㄴ한겨레 2026.09.29
+<https://www.news1.kr/local/daejeon-chungnam/6304248|ETRI, 의료용 휴머노이드 로봇 '나미.아이'로 국제 디자인상 수상>
+ㄴ뉴스1 2026.09.29 관련뉴스 4건
+<https://www.etnews.com/20260930000039|경기 스타트업 서밋 내달 개막...156개사 전시.투자상담 총 480회>
+ㄴ전자신문 2026.09.30 관련뉴스 3건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026093008011825520|[클릭 e종목]"알체라, LG전자 컨소시엄 참여로 로봇 모멘텀 확보">
+ㄴ아시아경제 2026.09.30
+<https://biz.chosun.com/industry/company/2026/09/29/V36AO3M76VBT3BBCDYM4HWZJPU/|뉴빌리티, 바퀴 달린 적재함 몸체에 팔 단 휴머노이드 ‘빌리’ 시연... 하반기 현장 투입>
+ㄴ조선비즈 2026.09.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092913430490367|[비즈리더]미켈로로보틱스 "사람처럼 판단하는 로봇...제조 피지컬 AI 만든다">
+ㄴ아시아경제 2026.09.30
+<https://www.asiae.co.kr/news/view.htm?idxno=2026093009281435688|다이나믹솔루션, 울산 실리카슬러리 신공장 첫삽...반도체·광케이블 소재 시장 정조준>
+ㄴ아시아경제 2026.09.30
+<https://www.sedaily.com/article/20096206|2cm 자석·땜질 청테이프... 7명의 사망은 부주의가 아니었다 [양종곤의 노동 톺아보기]>
+ㄴ서울경제 2026.09.30
+<https://biz.heraldcorp.com/article/10888421|전영현 “에이전틱 AI, 업무·조직문화 근본적으로 바꿀 것”>
+ㄴ헤럴드경제 2026.09.30
+
+*AI기술현황*
+신규 10건
+<https://www.news1.kr/finance/market-exr/6305359|NH證 "AI에이전트 시대 본격 도래...삼성전자 중장기 실적 안정세">
+ㄴ뉴스1 2026.09.30
+<https://biz.chosun.com/stock/stock_general/2026/09/30/QMIQASROKJE2DE257JWFBUBX3U/|한화證 “피에스케이홀딩스, AI 반도체 후공정 투자 수혜... 목표가 27만원”>
+ㄴ조선비즈 2026.09.30
+<https://biz.heraldcorp.com/article/10888291|HSAD, 자체 개발 AI 에이전트 20여개 기업 공급>
+ㄴ헤럴드경제 2026.09.30
+<https://www.etnews.com/20260930000004|오픈AI, 가성비 모델 'GPT-6.1 솔'.AI 에이전트 '닷츠' 공개>
+ㄴ전자신문 2026.09.30 관련뉴스 2건
+<https://biz.heraldcorp.com/article/10888440|“AI 올라탄 우주산업, 성장 본격화...우주용 반도체 시장도 열릴 것”[헤럴드 기업포럼 2026]>
+ㄴ헤럴드경제 2026.09.30
+<https://biz.chosun.com/industry/business-venture/2026/09/30/W7SCCNWL5NAPVJZIUZV5Q4H33Y/|HS애드, AI 에이전트로 AX 강화...“조사 기간 절반 단축, 비용 70% 절감">
+ㄴ조선비즈 2026.09.30 관련뉴스 1건
+<https://biz.chosun.com/stock/stock_general/2026/09/30/GU3TIZRRME3TEMJVHA4TQNBRGQ/|오픈AI 훈련 중단... 美 반도체주 휘청, 보안주는 강세>
+ㄴ조선비즈 2026.09.30
+<https://www.khan.co.kr/article/202609292145015|“AI 에이전트 돌발 행동 땐 격리” 엔비디아, ‘0.001초 단위’로 통제>
+ㄴ경향신문 2026.09.29 관련뉴스 1건
+<https://www.sedaily.com/article/20096286|KT 앱 열면 맞춤 혜택 ‘척척’...AI 에이전트 14종 전면 배치>
+ㄴ서울경제 2026.09.29 관련뉴스 2건
+<https://www.sedaily.com/article/20096284|“2㎜ 유리기판 무결점 가공...AI 반도체 장비 선점할 것”>
+ㄴ서울경제 2026.09.29
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-30 09:42:06 KST === 
+Message TS: 1790728926.851529
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026093008542174107|"AI 경쟁력은 데이터센터에"...데이터인공지능법정책학회, 추계학술대회 개최>
+ㄴ아시아경제 2026.09.30
+<https://www.news1.kr/finance/general-stock/6305398|대신證 "가온전선, AI 데이터센터 전력 수요 성장 초기"...목표가 36만원>
+ㄴ뉴스1 2026.09.30 관련뉴스 3건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026093008161816342|오텍캐리어, 싱가포르서 글로벌 캐리어와 AI 데이터센터 냉각 솔루션 협력 확대>
+ㄴ아시아경제 2026.09.30
+<https://www.news1.kr/society/incident-accident/6305319|금천구 가산동 AI 데이터센터에서 불...2억원 규모 재산피해>
+ㄴ뉴스1 2026.09.30
+<https://www.etoday.co.kr/news/view/2630621|삼성전자, AI 데이터센터 수요 최상단으로...KB證 "전략적 가치 재평가">
+ㄴ이투데이 2026.09.30
+<https://www.sedaily.com/article/20096348|MS 데이터센터 추가 투자 촉각...부산진해경자청, 전력.인프라 지원 논의>
+ㄴ서울경제 2026.09.30
+<https://biz.heraldcorp.com/article/10888149|동해시 신산업 메카로 급부상..수소 클러스터, AI데이터센터 연쇄 착공>
+ㄴ헤럴드경제 2026.09.30
+<https://www.hani.co.kr/arti/society/environment/1280079.html|[단독] 데이터센터로 늘어난 ‘원전 29기’ 규모 도심 비상발전기... 관리는 사각>
+ㄴ한겨레 2026.09.30
+<https://biz.heraldcorp.com/article/10888137|우상호, 강원 ‘120조 메가프로젝트’ 동해 AI데이터센터 현장 점검..연내 착공 확인>
+ㄴ헤럴드경제 2026.09.29 관련뉴스 2건
+<https://www.khan.co.kr/article/202609292004025|[특집]네이버, 춘천·세종 데이터센터, 친환경 건축 ''최고 등급''>
+ㄴ경향신문 2026.09.29
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-30 09:41:56 KST === 
+Message TS: 1790728916.324039
+_[텔레그램 로그 2026-09-30] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 30일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.news1.kr/industry/distribution/6305507|코스맥스, AI 원형탈모 예측 모델 개발...헤어케어도 초개인화>
+ㄴ뉴스1 2026.09.30
+<https://www.etnews.com/20260930000004|오픈AI, 가성비 모델 'GPT-6.1 솔'.AI 에이전트 '닷츠' 공개>
+ㄴ전자신문 2026.09.30 관련뉴스 3건
+<https://www.sedaily.com/article/20096193|AI 잣대, 성능에서 통제력으로...오픈AI 신모델 출시 취소>
+ㄴ서울경제 2026.09.29 관련뉴스 3건
+<https://www.etnews.com/20260929000313|쿠도커뮤니케이션, 국내 최초 AI 에이전트 기반 AI CITY 선도 모델 구축>
+ㄴ전자신문 2026.09.29 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092916225749779|[포토] 이상민 삼일PwC 파트너, 'AI는 어떻게 기업 수익 모델과 가치를 바꾸는가'>
+ㄴ아시아경제 2026.09.29
+<https://www.fnnews.com/news/202609291122180990|AMD, '월드 모델' 주도 AI 스타트업 월드랩스 82억달러에 인수>
+ㄴ파이낸셜뉴스 2026.09.29
+<https://www.news1.kr/it-science/internet-platform/6304495|앤트로픽, '소넷5.5' 공개...오픈AI '아스트라' 신모델은 출시 철회>
+ㄴ뉴스1 2026.09.29
+<https://www.khan.co.kr/article/202609291114011|오픈AI, 안전성 우려에 신모델 출시 철회...사용자 허락 없이 작업하고, 기만적 성향도 강해져>
+ㄴ경향신문 2026.09.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092911022938320|카카오, AI 모델·에이전트 안전성 사전 검증한다...AI안전연과 MOU>
+ㄴ아시아경제 2026.09.29
+<https://www.etnews.com/20260929000114|독파모, '프런티어 AI'로 재편 전망...정부 “최상위 모델 재원 집중 필요”>
+ㄴ전자신문 2026.09.29
+
+*AI에이전트*
+신규 10건
+<https://biz.heraldcorp.com/article/10888421|전영현 “에이전틱 AI, 업무·조직문화 근본적으로 바꿀 것”>
+ㄴ헤럴드경제 2026.09.30
+<https://www.news1.kr/industry/general-industry/6305376|"에이전틱 AI, 조직 문화 혁신...차세대 아키텍처 혁신 방안 공개">
+ㄴ뉴스1 2026.09.30
+<https://www.news1.kr/finance/market-exr/6305359|NH證 "AI에이전트 시대 본격 도래...삼성전자 중장기 실적 안정세">
+ㄴ뉴스1 2026.09.30
+<https://www.fnnews.com/news/202609300816411953|전영현 "에이전틱 AI로 일하는 방식 혁신"...삼성, AI 석학 한자리에>
+ㄴ파이낸셜뉴스 2026.09.30 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026093008531640088|엔비디아, 11월 서울서 'AI 데이'...피지컬 AI·에이전틱 AI 총집결>
+ㄴ아시아경제 2026.09.30
+<https://biz.heraldcorp.com/article/10888291|HSAD, 자체 개발 AI 에이전트 20여개 기업 공급>
+ㄴ헤럴드경제 2026.09.30
+<https://www.etnews.com/20260930000004|오픈AI, 가성비 모델 'GPT-6.1 솔'.AI 에이전트 '닷츠' 공개>
+ㄴ전자신문 2026.09.30 관련뉴스 2건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092913550351378|[클릭 e종목]티씨케이, '뮤즈'발 에이전틱 AI 확산...수혜 기대>
+ㄴ아시아경제 2026.09.30
+<https://biz.chosun.com/industry/business-venture/2026/09/30/W7SCCNWL5NAPVJZIUZV5Q4H33Y/|HS애드, AI 에이전트로 AX 강화...“조사 기간 절반 단축, 비용 70% 절감">
+ㄴ조선비즈 2026.09.30 관련뉴스 1건
+<https://www.khan.co.kr/article/202609292145015|“AI 에이전트 돌발 행동 땐 격리” 엔비디아, ‘0.001초 단위’로 통제>
+ㄴ경향신문 2026.09.29 관련뉴스 1건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-09-30 08:46:18 KST === 
+Message TS: 1790725578.898869
+
+Files: [2026년 9월 30일] 조간 뉴스 클리핑 (ID: F0C50NDQ48P, text/html, 51.1 KB)

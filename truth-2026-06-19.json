@@ -1,0 +1,101 @@
+{
+ "date": "2026-06-19",
+ "items": [
+  {
+   "title": "OpenAI, ChatGPT '건강 인텔리전스' 강화…GPT-5.5 Instant 적용",
+   "outlet": "OpenAI",
+   "url": "https://openai.com/ko-KR/index/improving-health-intelligence-in-chatgpt/",
+   "category": "AI Model"
+  },
+  {
+   "title": "서울대, '정답 없는 연구' 6대 난제에 1000억 지원",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20057600",
+   "category": "AI Model"
+  },
+  {
+   "title": "Anthropic, Claude Code에 'Artifacts' 추가",
+   "outlet": "Anthropic blog",
+   "url": "https://claude.com/blog/artifacts-in-claude-code",
+   "category": "AI Agent"
+  },
+  {
+   "title": "네이버, 7월 첫 'AI 브리핑 광고' 출시",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260618000242",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "메타, 크루소와 1.6GW AI 컴퓨팅 계약 체결",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260619000008",
+   "category": "AI DC & AI Infraㅤ"
+  },
+  {
+   "title": "'AI 심장' 韓 데이터센터 27곳…22% 침수 고위험",
+   "outlet": "임팩트온",
+   "url": "http://www.impacton.net/news/articleView.html?idxno=19286",
+   "category": "AI DC & AI Infraㅤ"
+  },
+  {
+   "title": "아마존, 자체 AI칩 '트레이니엄' 외부 판매 추진",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+   "category": "AI DC & AI Infraㅤ"
+  },
+  {
+   "title": "트럼프 \"애플, 인텔과 美 칩 생산 합의\"",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10780648",
+   "category": "AI DC & AI Infraㅤ"
+  },
+  {
+   "title": "구글 웨이모, 로보택시 약 3,900대 리콜",
+   "outlet": "CBS News",
+   "url": "https://www.cbsnews.com/news/waymo-recall-robotaxi-closed-freeway-construction-zone/",
+   "category": "Physical AI"
+  },
+  {
+   "title": "AI 추론 스타트업 Baseten, 15억 달러 투자 유치 추진",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/06/18/ai-inference-provider-baseten-reportedly-raising-1-5b-funding/",
+   "category": "AI 투자 & 정책ㅤ"
+  },
+  {
+   "title": "스페이스X, 200억 달러 회사채 발행 추진",
+   "outlet": "futunn",
+   "url": "https://news.futunn.com/en/post/74808202/report-spacex-raises-at-least-20-billion-in-its-first",
+   "category": "AI 투자 & 정책ㅤ"
+  },
+  {
+   "title": "앤스로픽, 백악관 수출통제 해제 위해 제안서 제출",
+   "outlet": "iapp",
+   "url": "https://iapp.org/news/a/the-global-implications-of-the-white-houses-export-controls-on-anthropic",
+   "category": "AI 투자 & 정책ㅤ"
+  },
+  {
+   "title": "앤트로픽, 한국 정부와 AI 안전·보안 MOU 체결",
+   "outlet": "CBCI",
+   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=583044",
+   "category": "AI 투자 & 정책ㅤ"
+  },
+  {
+   "title": "정부, 국가전략기술 'NEXT 프로젝트' 추진",
+   "outlet": "이데일리",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=04391926645483032&mediaCodeNo=257",
+   "category": "AI 투자 & 정책ㅤ"
+  },
+  {
+   "title": "최태원, 이달말 머스크 美 전격 회동… 스페이스X 겨냥 '풀스택 동맹' 승부수",
+   "outlet": "디지털데일리",
+   "url": "https://n.news.naver.com/article/138/0002231348?cds=news_my",
+   "category": "인플루언서"
+  },
+  {
+   "title": "SK하이닉스 사장 출신 이석희, 인텔에 합류",
+   "outlet": "데일리한국",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1378068",
+   "category": "인플루언서"
+  }
+ ]
+}

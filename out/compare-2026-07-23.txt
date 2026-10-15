@@ -1,0 +1,56 @@
+실제 브리프 14건 vs 파이프라인 2030클러스터 (정답지 링크 14건, 후보 링크 838개)
+======================================================================
+미달 [ 4점 / 333위] <구제> Arcee, a US open source AI lab, says Chinese m
+        매칭: Arcee, a US open source AI lab, says Chinese (링크확정, 포함도 1.00, 엔티티 0)
+        근거: medium+2((?i)\bopen[- ]?(?:source|weight)s?\b) 교차소스+2(gnews+rss)
+PASS [ 6점 / 229위] <미노출> [AI픽] 업스테이지, ‘솔라 오픈2’ 공개…글로벌 AI 정면 승부
+        매칭: [AI픽] 업스테이지, '솔라 오픈2' 공개…글로벌 AI 정면 승부 (어휘, 포함도 1.00, 엔티티 0)
+        근거: medium+2(공개) 복수쿼리+2(4) 소버린+2(솔라 오픈)
+PASS [13점 /  32위] <주후보> 업스테이지-두레시닝, ‘부동산 AI 플랫폼 고도화’ 협약
+        매칭: [업스테이지.두레시닝, 부동산 플랫폼에 솔라 LLM 적용 추진] (어휘, 포함도 0.60, 엔티티 0)
+        근거: medium+2(공개) low+1(추진) 보도수+1(4) 교차소스+4(adot+gnews+rss) AI큐레이션+1 복수쿼리+2(3) 소버린+2(솔라 오픈)
+없음                    팀 마켓플레이스의 MCP 및 조직 그룹
+PASS [ 7점 / 134위] <미노출> Treasury threatens sanctions after White House
+        매칭: Trump tech official accuses China’s Moonshot (엔티티, 포함도 0.20, 엔티티 2)
+        근거: 프런티어+2(Anthropic) 보도수+1(3) 복수쿼리+1 지정학+2((?i)\bkill switch\b) VIP+1((?i)\bTrump\b)
+미달 [ 3점 / 493위] <미노출> OpenAI plans to spend over $30 billion on Geor
+        매칭: OpenAI, SpaceX AI Push AI Infrastructure Exp (어휘, 포함도 0.75, 엔티티 0)
+        근거: 프런티어+2(OpenAI) 보도수+1(5)
+PASS [19점 /   5위] <주후보> 오픈AI, 44조원 투입 ‘프로젝트 카멜리아’ 가동…스페이스XAI와 데이터센터 구축
+        매칭: [오픈AI, 美 조지아에 44조원 AI 데이터센터 짓는다] (어휘, 포함도 1.00, 엔티티 0)
+        근거: high+3(조원) medium+2(가동) 수치규모+3(조단위) 프런티어+2(오픈AI) 보도수+2(6) 교차소스+4(adot+gnews+rss) AI큐레이션+1 복수쿼리+2(4)
+없음                    AMD to invest up to $5 billion in Anthropic as
+미달 [ 4점 / 330위] <미노출> Tesla (TSLA) Q2 2026 earnings report
+        매칭: Tesla Q2 2026 Earnings: Record 480K Deliveri (어휘, 포함도 0.80, 엔티티 0)
+        근거: 수치규모+3($1B+) 보도수+1(3)
+PASS [ 6점 / 203위] <미노출> Travis Kalanick’s robotics company raises $1.7
+        매칭: Travis Kalanick’s robotics company raises $1 (어휘, 포함도 1.00, 엔티티 0)
+        근거: high+3((?i)\braise[sd]?\s+\$) 수치규모+3($1B+)
+PASS [24점 /   3위] <주후보> Humanoid raises $152 million at $1.35 billion 
+        매칭: Humanoid raises $152 million at $1.35 billio (링크확정, 포함도 1.00, 엔티티 0)
+        근거: high+3((?i)\braise[sd]?\s+\$) medium+2((?i)\blaunch(?:es|ed|ing)?\b) low+1((?i)\bin talks\b) 규모어휘+2(대규모) 수치규모+4($10B+) 프런티어+2(미스트랄) 보도수+2(9) 교차소스+2(curated+gnews) 임팩트4/5+4 복수쿼리+2(3)
+PASS [18점 /   8위] <주후보> How OpenAI’s human mistake led to the AI-power
+        매칭: How OpenAI's human mistake led to the AI-pow (링크확정, 포함도 1.00, 엔티티 0)
+        근거: low+1(검토) 규모어휘+2((?i)\bunprecedented\b) 프런티어+2(OpenAI) 보도수+3(16) 교차소스+4(curated+gnews+rss) 임팩트5/5+5 VIP+1(샘 올트먼)
+PASS [ 9점 /  86위] <주후보> OpenAI’s AI spending spree has ballooned to $7
+        매칭: OpenAI’s AI spending spree has ballooned to  (링크확정, 포함도 1.00, 엔티티 0)
+        근거: 수치규모+5($100B+) 프런티어+2(OpenAI) 교차소스+2(gnews+rss)
+미달 [ 4점 / 360위] <구제> Google justifies its massive AI spending with 
+        매칭: Google justifies its massive AI spending wit (링크확정, 포함도 1.00, 엔티티 0)
+        근거: 규모어휘+2((?i)\bmassive\b) 프런티어+2(Google)
+
+----------------------------------------------------------------------
+수집 재현율   12/14 (86%)
+임계 통과율   8/14 (57%)  (min-score=6)
+링크 확정     5/14 (36%)  (나머지 9건은 어휘·엔티티 추정)
+LLM 가시성    7/14 (50%)  (주후보+자사+구제 = 프롬프트에 실제로 실린 것)
+실린 기사 점수: 최저 3 / 중앙 7 / 최고 24
+   임계  3점이면 12/14 통과 (86%)
+   임계  4점이면 11/14 통과 (79%)
+   임계  5점이면 8/14 통과 (57%)
+   임계  6점이면 8/14 통과 (57%)
+   임계  7점이면 6/14 통과 (43%)
+   임계  8점이면 5/14 통과 (36%)
+   임계  9점이면 5/14 통과 (36%)
+   임계 10점이면 4/14 통과 (29%)
+   임계 11점이면 4/14 통과 (29%)

@@ -1,0 +1,171 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-29 09:43:08 KST === 
+Message TS: 1790642588.734779
+_[텔레그램 로그 2026-09-29] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 11개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 앤트로픽, 속도조절론 이후 또 새 모델 '소네트 5.5' 공개 (전자신문)
+o 링크: <https://www.etnews.com/20260929000006|etnews.com/20260929000006>
+2. 오픈AI 야심작, 안전성 우려로 출시 철회…"적절한 균형점 찾아야" (헤럴드경제)
+o 링크: <https://biz.heraldcorp.com/article/10887047|biz.heraldcorp.com/article/10887047>
+3. AMD, AI 스타트업 '월드랩스' 82억달러에 인수 (전자신문)
+o 링크: <https://www.etnews.com/20260929000012|etnews.com/20260929000012>
+4. 트럼프, AI 기업 수장들과 회동…속도조절론 이견 봉합하나 (파이낸셜뉴스)
+o 링크: <https://www.fnnews.com/news/202609290517565531|fnnews.com/news/202609290517565531>
+5. Launching Meta Enterprise Platform (Meta 공식 발표)
+o 링크: <https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/|about.fb.com/news/2026/09/launching-meta-enterprise-platform>
+6. Nvidia揭Anthropic共有1800億美元算力大單 AI行情點火能否力挽狂瀾？ (世界新聞網)
+o 링크: <https://www.worldjournal.com/wj/story/121208/9782353|worldjournal.com/wj/story/121208/9782353>
+7. 통제 벗어난 AI 에이전트...엔비디아, 밀리초 단위로 가둔다 (서울경제)
+o 링크: <https://www.sedaily.com/article/20095814|sedaily.com/article/20095814>
+8. 샌더스, 공화당 플로리다 법무장관의 OpenAI 제동에 동조…"고급 AI 개발 일시중단해야" (파이낸스투데이)
+o 링크: <https://www.fntoday.co.kr/news/articleView.html?idxno=394028|fntoday.co.kr/news/articleView.html?idxno=394028>
+9. "AI가 AI 만드는 속도 인간이 못 따라가"...빅테크 연구진, 정책 감독 촉구 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=703389|digitaltoday.co.kr/disclosure/articleView.html?idxno=703389>
+10. SpaceXAI Launches Team Bots That Learn Alongside Your Workforce (TeslaNorth)
+o 링크: <https://teslanorth.com/2026/09/28/spacexai-team-bots-launch/|teslanorth.com/2026/09/28/spacexai-team-bots-launch>
+11. Viral AI agent Instinct raises $1B Series C at a $10B valuation (TechCrunch)
+o 링크: <https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/|techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-29 09:41:42 KST === 
+Message TS: 1790642502.783909
+_(이어서 2/2)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.news1.kr/industry/sb-founded/6303632|"스마트폰처럼 로봇 앱 선택"...로보티즈, 'K-휴머노이드 플랫폼' 시동>
+ㄴ뉴스1 2026.09.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092909251534449|외국인 '팔자'에 코스피·코스닥 동반 약세>
+ㄴ아시아경제 2026.09.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092908422073545|BISTEP, AI·로봇부터 제조 AX까지... 부산 연구산업 교류회>
+ㄴ아시아경제 2026.09.29
+<https://www.kukinews.com/article/view/kuk202609290015|‘의료진 돕는 로봇’... ETRI ‘나미.아이’, 세계 3대 디자인상 ‘IDEA 본상’ 수상>
+ㄴ쿠키뉴스 2026.09.29
+<https://www.news1.kr/local/sejong-chungbuk/6303935|증평군, 스마트도시 조성 속도...건널목.CCTV부터 관광.농업.AI까지>
+ㄴ뉴스1 2026.09.29
+<https://www.etnews.com/20260929000012|AMD, AI 스타트업 '월드랩스' 82억달러에 인수>
+ㄴ전자신문 2026.09.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092217062885902|IPARK현대산업개발, 입주민 맞춤형 AI 플랫폼 구축...그룹 차원 역량 집결>
+ㄴ아시아경제 2026.09.29
+<https://www.seoul.co.kr/news/economy/industry/2026/09/29/20260929020002|삼성, AI 앞세워 미래 성장동력 키운다>
+ㄴ서울신문 2026.09.29
+<https://biz.heraldcorp.com/article/10887015|현대차그룹, ‘HMG 테크 탤런트 포럼’ 성료...주요 경영진 미래 기술 비전 소개>
+ㄴ헤럴드경제 2026.09.29 관련뉴스 1건
+<https://www.fnnews.com/news/202609290837242576|무뇨스 "현대차, 피지컬 AI 기업으로 진화"...실리콘밸리 인재 확보 나서>
+ㄴ파이낸셜뉴스 2026.09.29
+
+
+
+*AI기술현황*
+신규 10건
+<https://www.fnnews.com/news/202609290917483576|현대차, 인도 시장에 SUV '바이욘' 투입...생성형 AI로 승부>
+ㄴ파이낸셜뉴스 2026.09.29
+<https://www.fnnews.com/news/202609290843087749|KB손보, 직원 주도 AI 혁신...업무용 에이전트 직접 개발>
+ㄴ파이낸셜뉴스 2026.09.29 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092908152998523|KAIST "소자 반응 속도 차이로 '시간' 읽는 AI 반도체 개발">
+ㄴ아시아경제 2026.09.29 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10886897|계명대 앵커추진단, 캡스톤디자인 성과 공유.생성형 AI 체험 행사 개최>
+ㄴ헤럴드경제 2026.09.29
+<https://www.news1.kr/finance/general-finance/6303235|상반기 금융 민원 8만건 육박...'생성형 AI' 활용해 민원 처리>
+ㄴ뉴스1 2026.09.29
+<https://www.sedaily.com/article/20095814|통제 벗어난 AI 에이전트...엔비디아, 밀리초 단위로 가둔다>
+ㄴ서울경제 2026.09.29 관련뉴스 4건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092908533588466|한달 수익률 13%...KB운용 'RISE 글로벌AI낸드메모리반도체' 주목>
+ㄴ아시아경제 2026.09.29
+<https://www.etoday.co.kr/news/view/2630125|[오늘의 투자전략] AI 속도조절 우려에 코스피 7000 이탈...반도체 저가매수 주목>
+ㄴ이투데이 2026.09.29
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092907343800647|용인시, 민선 9기 첫 조직개편...AI·반도체 전담팀 신설·정원 131명 증원>
+ㄴ아시아경제 2026.09.29 관련뉴스 2건
+<https://www.khan.co.kr/article/202609282210005|한국인 10명 중 4명 생성형 AI 이용한다 MS 보고서...1년 새 15%P 증가>
+ㄴ경향신문 2026.09.28 관련뉴스 2건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-29 09:41:27 KST === 
+Message TS: 1790642487.506089
+_[텔레그램 로그 2026-09-29] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 29일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.sedaily.com/article/20095633|부산 제조업 AI 전환 속도 낸다...특화 LLM부터 현장 실증까지>
+ㄴ서울경제 2026.09.28
+<https://www.etoday.co.kr/news/view/2629988|개방형 AI 모델 채택 러시?실리콘밸리 넘어 美 산업계까지 파고든다>
+ㄴ이투데이 2026.09.28
+<https://biz.chosun.com/it-science/ict/2026/09/28/WCB4QYFHXFBKHKH2TJFFMB7LLQ/|메타 AI 글래스 신제품 韓 상륙...신세계I&C, 9개 모델 국내 판매 시작>
+ㄴ조선비즈 2026.09.28 관련뉴스 1건
+<https://biz.chosun.com/it-science/ict/2026/09/28/5YPSMSMZYRC2RFBGSDRP3RTGUM/|Arm, AI 모델 최적화 포털 마련... “2200만 개발자 겨냥”>
+ㄴ조선비즈 2026.09.28
+<https://www.fnnews.com/news/202609281020010390|오픈AI, 최신 모델 학습 전격 중단... AI 에이전트 오작동 우려>
+ㄴ파이낸셜뉴스 2026.09.28
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092809121054123|훔친 AI 계정 다크웹서 헐값 거래 'LLM 재킹' 확산>
+ㄴ아시아경제 2026.09.28 관련뉴스 2건
+<https://www.fnnews.com/news/202609281035598851|생성형 AI 썼다면 모델.버전 공개해야... 국가R&D 책임은 연구자>
+ㄴ파이낸셜뉴스 2026.09.28
+<https://www.fnnews.com/news/202609280957348349|"미 기업들, 비용 줄이려 개방형 AI모델로 돌아서">
+ㄴ파이낸셜뉴스 2026.09.28
+<https://www.news1.kr/world/international-economy/6302773|美기업 AI 비용 절감 나섰다...저렴한 '中 오픈웨이트' 모델 급부상>
+ㄴ뉴스1 2026.09.28
+<https://www.etnews.com/20260929000006|앤트로픽, 속도조절론 이후 또 새 모델 '소네트 5.5' 공개>
+ㄴ전자신문 2026.09.29
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.fnnews.com/news/202609290843087749|KB손보, 직원 주도 AI 혁신...업무용 에이전트 직접 개발>
+ㄴ파이낸셜뉴스 2026.09.29 관련뉴스 1건
+<https://www.sedaily.com/article/20095814|통제 벗어난 AI 에이전트...엔비디아, 밀리초 단위로 가둔다>
+ㄴ서울경제 2026.09.29 관련뉴스 4건
+<https://www.etnews.com/20260928000361|정재헌 SKT 대표 “AI 에이전트 윤리 기준, 정부가 명확히 해줘야”>
+ㄴ전자신문 2026.09.28
+<https://www.khan.co.kr/article/202609281600001|AI가 결제하다가 사고나면 누가 책임지나···AI 에이전트 확산에 커지는 ''회색지대''>
+ㄴ경향신문 2026.09.28
+<https://www.etnews.com/20260928000150|아스가르 퀄컴 수석부사장 “차세대 인터페이스는 AI 에이전트...웨어러블 기기로 확장”>
+ㄴ전자신문 2026.09.28
+<https://www.fnnews.com/news/202609281020010390|오픈AI, 최신 모델 학습 전격 중단... AI 에이전트 오작동 우려>
+ㄴ파이낸셜뉴스 2026.09.28
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092809314525891|호주 보건부부터 美 증권거래국까지...정부까지 턴 AI 에이전트에 대책 마련 목소리>
+ㄴ아시아경제 2026.09.28
+<https://www.etnews.com/20260928000136|금솔커뮤니케이션, 자체 개발 '에이전트Q'로 업종별 AI 검색 마케팅 차별화>
+ㄴ전자신문 2026.09.28
+<https://www.etnews.com/20260929000021|[ICT 시사용어] AI 가드레일>
+ㄴ전자신문 2026.09.29
+<https://www.news1.kr/it-science/internet-platform/6303382|AI가 상품 추천 넘어 결제까지 하는데...자사우대.정보유출 우려>
+ㄴ뉴스1 2026.09.29
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.sedaily.com/article/20095876|삼성, 美 AI 인프라 기업에 1.4조 투자...데이터센터 글로벌 동맹>
+ㄴ서울경제 2026.09.29 관련뉴스 1건
+<https://www.fnnews.com/news/202609282036034256|"LG전자, 하반기 AI데이터센터 공조 최대 3조원 수주" 대신證>
+ㄴ파이낸셜뉴스 2026.09.29
+<https://biz.chosun.com/stock/stock_general/2026/09/29/3WOMUR4ZBZBWRBW2BLCUVYE77I/|대신證 “LG전자, 로봇.AI 데이터센터 냉각 솔루션 수주 확대... 목표가 27만원으로↑”>
+ㄴ조선비즈 2026.09.29 관련뉴스 1건
+<https://www.segye.com/newsView/20260928514968|[단독] 2026년 데이터센터 신청 88건 ‘역대 최대’>
+ㄴ세계일보 2026.09.28
+<https://www.segye.com/newsView/20260928514686|데이터센터 18.4GW 짓는다는 정부... “수요 절반은 뻥튀기” [심층기획-수도권 AI데이터센터 난립 논란]>
+ㄴ세계일보 2026.09.28 관련뉴스 1건
+<https://www.sedaily.com/article/20095709|[만화경] 데이터센터의 전기요금 청구서>
+ㄴ서울경제 2026.09.28
+<https://www.etnews.com/20260928000342|[사설] 수도권 데이터센터 난개발은 막아야>
+ㄴ전자신문 2026.09.28
+<https://biz.chosun.com/real_estate/real_estate_general/2026/09/28/COGWMKVE6VFA5OYHNEY4NG6AKU/|아파트 밖으로 눈 돌리는 건설사들... 원전.데이터센터 인재 뽑는다>
+ㄴ조선비즈 2026.09.28
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092814522634412|"집집마다 1400만원 드립니다"...데이터센터 개발업체의 파격 제안, 주민 반응은>
+ㄴ아시아경제 2026.09.28
+<https://www.kukinews.com/article/view/kuk202609280138|KT클라우드, 군산에 AI 데이터센터 짓는다...엔비디아 액체냉각 설계 전체 ‘첫 적용’>
+ㄴ쿠키뉴스 2026.09.28 관련뉴스 3건
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-09-29 08:53:15 KST === 
+Message TS: 1790639595.025869
+
+Files: [2026년 9월 29일] 조간 뉴스 클리핑 (ID: F0C4P9JAVPH, text/html, 58.8 KB)

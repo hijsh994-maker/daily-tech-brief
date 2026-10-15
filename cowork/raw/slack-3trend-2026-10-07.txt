@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-07 09:00:20 KST === 
+Message TS: 1791331220.493709
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-07 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261006000322|인간 통제 벗어난 AI 에이전트…오픈AI·앤트로픽 등 사례 지속 확인>* (전자신문 (AI))
+*2. [:rocket: BigTech Release] <https://www.etnews.com/20261006000347|인핸스, SK텔레콤과 온톨로지 기반 '국방 AI 작전지원체계' 선보여>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://openai.com/index/advancing-computer-use-with-ironclad|Ironclad로 컴퓨터 사용 개선>* (OpenAI News &amp; Research)
+*4. [:rocket: BigTech Release] <https://openai.com/index/atlassian-partnership|Atlassian과 OpenAI는 파트너십을 확대하여 전사적 지식을 행동으로 옮깁니다.>* (OpenAI News &amp; Research)
+*5. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/|The next hurdle for AI agents: getting websites to let them in>* (TechCrunch)
+*6. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/|Hark releases an AI personal assistant with a focus on privacy>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/|Anthropic is giving startups a free year of Claude Team and $1,000 in credits>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/|Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github|OpenAI는 또 다른 수학 혁신 배치를 삭제합니다>* (The Verge)
+*10. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/|Amazon Bedrock AgentCore, Managed Knowledge Base 및 Nova Sonic으로 음성 여행 컨시어지 구축>* (AWS Machine Learning Blog)

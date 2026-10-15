@@ -1,0 +1,186 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-17 09:54:04 KST === 
+Message TS: 1789606444.993389
+_[텔레그램 로그 2026-09-17] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 21개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 9th Circuit issues major AI ruling, affirming dismissal of CMI removal claim related to AI outputs. Doe 1 v. Github is 1st circuit precedent. (Chat GPT Is Eating the World)
+o 링크: <https://chatgptiseatingtheworld.com/2026/09/16/9th-circuit-issues-major-ai-ruling-affirming-dismissal-of-cmi-removal-claim-related-to-ai-outputs-doe-1-v-github-is-1st-circuit-precedent/|chatgptiseatingtheworld.com/…/9th-circuit-issues-major-ai-ruling-affirming-dismissal-of-cmi-removal-claim-related-to-ai-outputs-doe-1-v-github-is-1st-circuit-precedent>
+2. OpenAI Tests Sponsored Agents and Rolls Out AI Tools for ChatGPT Ads (Unite.AI)
+o 링크: <https://www.unite.ai/openai-tests-sponsored-agents-and-rolls-out-ai-tools-for-chatgpt-ads/|unite.ai/openai-tests-sponsored-agents-and-rolls-out-ai-tools-for-chatgpt-ads>
+3. Google DeepMind launches the DeepMind Institute to debate AGI (The Next Web)
+o 링크: <https://thenextweb.com/news/deepmind-institute-legg-hassabis-agi-essays|thenextweb.com/news/deepmind-institute-legg-hassabis-agi-essays>
+4. [미국 특징주] 블랙스톤·알파벳 합작사 크럭스AI, 220억달러 칩 대출 확보 (뉴스핌)
+o 링크: <https://www.newspim.com/news/view/20260917000076|newspim.com/news/view/20260917000076>
+5. Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers (NVIDIA 공식 블로그)
+o 링크: <https://blogs.nvidia.com/blog/ai-energy-management-alliance/|blogs.nvidia.com/blog/ai-energy-management-alliance>
+6. Novo will test Anthropic's Claude Science to speed up drug discovery (The Next Web)
+o 링크: <https://thenextweb.com/news/novo-anthropic-claude-science-drug-discovery|thenextweb.com/news/novo-anthropic-claude-science-drug-discovery>
+7. Anthropic merges Claude chat and Cowork in one interface (TechCrunch)
+o 링크: <https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/|techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface>
+8. Anthropic to set up fifth APAC office in Singapore, hiring for multiple roles (AsiaOne)
+o 링크: <https://www.asiaone.com/singapore/anthropic-open-fifth-apac-office-singapore-hiring|asiaone.com/singapore/anthropic-open-fifth-apac-office-singapore-hiring>
+9. Anthropic signs first Australian data centre lease (The Next Web)
+o 링크: <https://thenextweb.com/news/anthropic-first-australia-data-centre-lease|thenextweb.com/news/anthropic-first-australia-data-centre-lease>
+10. Anthropic urged to delay $2T IPO over AI safety and regulatory concerns (Crypto Briefing)
+o 링크: <https://cryptobriefing.com/anthropic-urged-to-delay-2t-ipo-over-ai-safety-and-regulatory-concerns/|cryptobriefing.com/anthropic-urged-to-delay-2t-ipo-over-ai-safety-and-regulatory-concerns>
+11. AWS' Peter DeSantis says next Trainium chip will be 'very differentiated' (Crypto Briefing)
+o 링크: <https://cryptobriefing.com/aws-peter-desantis-trainium-next-chip-differentiated/|cryptobriefing.com/aws-peter-desantis-trainium-next-chip-differentiated>
+12. [미국 특징주] 제네락 시간 외 45% 폭등...아마존 발전기 공급 계약 (뉴스핌)
+o 링크: <https://www.newspim.com/news/view/20260917000078|newspim.com/news/view/20260917000078>
+13. xAI Adds Cross-Session Memory to Grok Build Coding Agent (Unite.AI)
+o 링크: <https://www.unite.ai/xai-adds-cross-session-memory-to-grok-build-coding-agent/|unite.ai/xai-adds-cross-session-memory-to-grok-build-coding-agent>
+14. CoreWeave Connects Hundreds of Rubin GPUs in One Multi-Rack Cluster (Unite.AI)
+o 링크: <https://www.unite.ai/coreweave-connects-hundreds-of-rubin-gpus-in-one-multi-rack-cluster/|unite.ai/coreweave-connects-hundreds-of-rubin-gpus-in-one-multi-rack-cluster>
+15. Cipher Details Conditional Texas Grid Status for 3.2 GW of Projects (TheEnergyMag)
+o 링크: <https://www.theenergymag.com/news/market-news/cipher-texas-ercot-batch-zero|theenergymag.com/news/market-news/cipher-texas-ercot-batch-zero>
+16. Cohere and Aleph Alpha agree to merge in reported $20B deal (SiliconANGLE)
+o 링크: <https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/|siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal>
+17. Salesforce Partners with OpenAI to Expand Missionforce Government AI (Unite.AI)
+o 링크: <https://www.unite.ai/salesforce-partners-with-openai-to-expand-missionforce-government-ai/|unite.ai/salesforce-partners-with-openai-to-expand-missionforce-government-ai>
+18. Chipotle Enlists Palantir on Food Safety Risks After Salmonella Outbreak (Newsweek)
+o 링크: <https://www.newsweek.com/chipotle-enlists-palantir-on-food-safety-risks-after-salmonella-outbreak-12452867|newsweek.com/chipotle-enlists-palantir-on-food-safety-risks-after-salmonella-outbreak…>
+19. Zhipu Raises Year-End ARR Guidance by 25% to $3 Billion (PANews)
+o 링크: <https://panews.io/articles/01a0a975-3506-7327-95a4-c9910f716826|panews.io/articles/…>
+■ 링크 미확보 (2건 — 언론 보도 없이 자사 채널 공지로만 확인되어 검증 가능한 원문 미발견)
+· 네비우스, 10/1일부터 온디맨드 엔비디아 GPU 가격 인상 발표
+· 네비우스, B300과 RTX PRO 6000을 탑재한 마드리드 데이터센터 실제 가동 발표
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-17 09:44:21 KST === 
+Message TS: 1789605861.868009
+_(이어서 3/3)_
+
+*AI기술현황*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091708324292373|"초당 1000토큰 시대 연다"...삼성전자, zHBM으로 AI 반도체 혁신>
+ㄴ아시아경제 2026.09.17 관련뉴스 1건
+<https://www.etnews.com/20260917000097|기업 AI 성과 가르는 3대 기술...데이터 인프라.에이전트 자동화.신뢰 운영>
+ㄴ전자신문 2026.09.17
+<https://www.sedaily.com/article/20091851|“1만개 에이전트가 초단위로 방어...AI공격 막을 수 있는 건 AI”>
+ㄴ서울경제 2026.09.16
+<https://www.seoul.co.kr/news/society/2026/09/16/20260916500291|GIST, AI반도체 서남권 허브 ‘GIANTS’ 승부수>
+ㄴ서울신문 2026.09.16
+<https://www.etnews.com/20260916000379|카카오, 2030년 매출 6조 목표...내달 AI 에이전트 시연>
+ㄴ전자신문 2026.09.16 관련뉴스 5건
+<https://www.etnews.com/20260916000014|[IT메가비전 2026] 홍진배 IITP 원장 “AI 에이전트 시대, 보안 R&D 적극 지원”>
+ㄴ전자신문 2026.09.16
+<https://www.kukinews.com/article/view/kuk202609160220|AI 속도조절론에 반도체 업계 촉각...삼전·닉스 투자 변수되나>
+ㄴ쿠키뉴스 2026.09.16
+<https://www.sedaily.com/article/20091810|소뇌 닮은 뉴로모픽 반도체...피지컬AI ‘섬세한 몸짓’ 해결사로>
+ㄴ서울경제 2026.09.16
+<https://biz.chosun.com/it-science/ict/2026/09/16/VCBCURYK6NABBHHGYPVGSNH6TU/|삼성, 네덜란드 AI 반도체 스타트업 ‘유클리드’에 공동 투자>
+ㄴ조선비즈 2026.09.16 관련뉴스 1건
+<https://www.etnews.com/20260916000198|딥노이드, 생성형 AI X-ray 판독보조 솔루션 영상의학센터 첫 공급>
+ㄴ전자신문 2026.09.16
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-17 09:44:05 KST === 
+Message TS: 1789605845.653239
+_(이어서 2/3)_
+
+*데이터센터시장*
+신규 10건
+<https://biz.chosun.com/stock/stock_general/2026/09/17/HUXEHH6TD5C4DAWLK72C6G4BVI/|SK證 “삼성중공업, 부유식 데이터센터 ‘초읽기’... 목표가 4만원”>
+ㄴ조선비즈 2026.09.17
+<https://www.sedaily.com/article/20091919|MS 데이터센터 인재 키우는 부산...‘교육.인턴.취업’ 선순환 가동>
+ㄴ서울경제 2026.09.17
+<https://www.news1.kr/world/usa-canada/6293147|트럼프 AI 데이터센터 가속론에 지지자도 악플..."당신 별장에나 지어라">
+ㄴ뉴스1 2026.09.17 관련뉴스 2건
+<https://www.kukinews.com/article/view/kuk202609160227|동해시 인공지능위원회 출범...AI 데이터센터 미래 준비 ‘첫 발 ’>
+ㄴ쿠키뉴스 2026.09.16 관련뉴스 4건
+<https://www.fnnews.com/news/202609161827278251|GS, AI 데이터센터 기술 생태계 확대...스타트업 7곳과 협력 모색>
+ㄴ파이낸셜뉴스 2026.09.16 관련뉴스 1건
+<https://www.sedaily.com/article/20091725|“대규모 데이터센터 개발할 한국 투자 파트너 찾는다”...아부다비, 韓 기업 7곳과 MOU [시그널]>
+ㄴ서울경제 2026.09.16
+<https://www.khan.co.kr/article/202609161710001|“데이터센터, ‘지역사회 비용’ 분담하라”...뉴욕, ‘1 당 100만달러 투자’ 권고>
+ㄴ경향신문 2026.09.16 관련뉴스 1건
+<https://www.etnews.com/20260916000339|모레 “AI 데이터센터, '토큰 팩토리 OS'로 효율 높여야”>
+ㄴ전자신문 2026.09.16 관련뉴스 1건
+<https://www.seoul.co.kr/news/economy/industry/2026/09/16/20260916500201|네이버, 진도 216MW 태양광에 투자...데이터센터 재생에너지 확보>
+ㄴ서울신문 2026.09.16
+<https://www.etnews.com/20260916000381|베슬AI, 네오AI와 포항 AI데이터센터 GPU 플랫폼 구축>
+ㄴ전자신문 2026.09.16
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091708465861753|로봇 AI, 손잡이·버튼의 역할까지 이해한다[과학을읽다]>
+ㄴ아시아경제 2026.09.17
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091708311054080|"추석 집안일 덜었다"...NS홈쇼핑, 로보락 60만원 할인 판매>
+ㄴ아시아경제 2026.09.17
+<https://www.news1.kr/industry/distribution/6293311|NS홈쇼핑, 추석 앞두고 로봇청소기 '로보락' 론칭 방송>
+ㄴ뉴스1 2026.09.17
+<https://www.fnnews.com/news/202609170837512123|현대글로비스, 삼성물산과 스마트빌딩 물류자동화 맞손>
+ㄴ파이낸셜뉴스 2026.09.17 관련뉴스 2건
+<https://www.sedaily.com/article/20091920|신상진 성남시장, 지속가능교통 정책 유엔 무대서 소개>
+ㄴ서울경제 2026.09.17 관련뉴스 1건
+<https://www.sedaily.com/article/20091745|디캠프 ‘배치 8기’ 출범...딥테크 스타트업 10개사 스케일업 지원>
+ㄴ서울경제 2026.09.17 관련뉴스 1건
+<https://www.etnews.com/20260916000342|[테크 차이나] 라이펑로봇, 골프장 잔디관리 자동화 정조준...상업용 로봇 시장 공략>
+ㄴ전자신문 2026.09.17
+<https://www.sedaily.com/article/20091895|‘지방감소 주사제 개발’ 아미팜, 205억 원 투자 유치 [투자 ABC]>
+ㄴ서울경제 2026.09.16
+<https://www.etnews.com/20260917000096|경남도, 중국서 AI.로봇 기반 제조 혁신 협력방안 모색>
+ㄴ전자신문 2026.09.17
+<https://www.news1.kr/entertain/broadcast-tv/6293046|'유퀴즈' 유재석 "난 젠슨 황 만나서 사진 찍어" 자랑>
+ㄴ뉴스1 2026.09.16
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-17 09:43:36 KST === 
+Message TS: 1789605816.576389
+_[텔레그램 로그 2026-09-17] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 17일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://biz.chosun.com/it-science/ict/2026/09/17/5CEJ3NNDFBDVRC5I6LKYH4AL3A/|세일즈포스 AI 최고과학자 “기업 실무에 범용 AI 필요 없어”... 엔비디아와 특화 모델 개발>
+ㄴ조선비즈 2026.09.17
+<https://biz.chosun.com/industry/business_info/2026/09/17/YIMPEHJMPJDAZE7XXKXZHNF3RQ/|아스트노바, 스카이워스 AI 라이선스 9개 모델로 확대>
+ㄴ조선비즈 2026.09.17
+<https://www.etnews.com/20260916000331|경남도, 정밀 제조 특화 피지컬 AI 모델 개발.실증 착수>
+ㄴ전자신문 2026.09.16
+<https://www.etnews.com/20260916000060|시큐웨이브, AI 기반 디지털 워크플레이스 운영 모델 'DWOC' 공개>
+ㄴ전자신문 2026.09.16
+<https://biz.chosun.com/industry/company/2026/09/17/AWTPV2SEURAURMGFDMPMTQPUXY/|CJ대한통운, 하반기 신입사원 공채 실시... ‘직무 세분화 채용’>
+ㄴ조선비즈 2026.09.17 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10876247|카카오, 내달 ‘모두의 AI’ 챗봇 공개...“3년 뒤 챗GPT 국내 이용자 추월 목표”>
+ㄴ헤럴드경제 2026.09.17
+<https://www.asiae.co.kr/news/view.htm?idxno=2026091505012755466|오디세이 TRTL 퍼터, 흔들림 없는 스트로크>
+ㄴ아시아경제 2026.09.17 관련뉴스 1건
+<https://www.news1.kr/industry/distribution/6293311|NS홈쇼핑, 추석 앞두고 로봇청소기 '로보락' 론칭 방송>
+ㄴ뉴스1 2026.09.17
+<https://www.news1.kr/it-science/internet-platform/6293297|NC AI, 1.4조 전북·경남 피지컬 AI 프로젝트 참여>
+ㄴ뉴스1 2026.09.17
+<https://www.etnews.com/20260917000084|강원대병원, '인공지능 암 치유센터' 문 열었다...진단부터 회복까지 AI로 연결>
+ㄴ전자신문 2026.09.17
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.sedaily.com/article/20091955|에이전틱 AI 기업 인핸스, 512억 시리즈C 투자 유치>
+ㄴ서울경제 2026.09.17
+<https://www.fnnews.com/news/202609170740063164|삼성전자 "zHBM으로 초당 1000토큰 연다...AI에이전트 메모리 승부">
+ㄴ파이낸셜뉴스 2026.09.17 관련뉴스 1건
+<https://www.etnews.com/20260917000097|기업 AI 성과 가르는 3대 기술...데이터 인프라.에이전트 자동화.신뢰 운영>
+ㄴ전자신문 2026.09.17
+<https://www.sedaily.com/article/20091851|“1만개 에이전트가 초단위로 방어...AI공격 막을 수 있는 건 AI”>
+ㄴ서울경제 2026.09.16
+<https://www.etnews.com/20260916000379|카카오, 2030년 매출 6조 목표...내달 AI 에이전트 시연>
+ㄴ전자신문 2026.09.16 관련뉴스 5건
+<https://www.etnews.com/20260916000173|[IT메가비전 2026] 에이전틱 AI 시대, 검증보다 '행동 통제'가 보안 핵심>
+ㄴ전자신문 2026.09.16
+<https://www.etnews.com/20260916000014|[IT메가비전 2026] 홍진배 IITP 원장 “AI 에이전트 시대, 보안 R&D 적극 지원”>
+ㄴ전자신문 2026.09.16
+<https://www.etnews.com/20260916000247|빔 소프트웨어, “에이전트 AI 시대, 데이터 복원력 확보해야”>
+ㄴ전자신문 2026.09.16
+<https://biz.heraldcorp.com/article/10876455|“통제력 잃어간다” 인류 파멸까지 언급...‘AI 3대 대부’ 요슈아 벤지오도 경고>
+ㄴ헤럴드경제 2026.09.17
+<https://www.fnnews.com/news/202609170719268175|'AI대부' 요슈아 벤지오..."인류, AI 통제력 잃고 있다">
+ㄴ파이낸셜뉴스 2026.09.17
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

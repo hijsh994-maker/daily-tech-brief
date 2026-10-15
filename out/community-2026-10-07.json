@@ -1,0 +1,122 @@
+{
+ "date": "2026-10-07",
+ "items": [
+  {
+   "src": "community",
+   "title": "Mistral Large 4",
+   "outlet": "HN",
+   "url": "https://mistral.ai/news/mistral-large-4/\\",
+   "pub_date": "2026-10-06",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 1579pt·960댓글",
+   "weight": 1579
+  },
+  {
+   "src": "community",
+   "title": "Mistral Large 4: \"Le Chonk\"",
+   "outlet": "HN",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "pub_date": "2026-10-06",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 518pt·5댓글",
+   "weight": 518
+  },
+  {
+   "src": "community",
+   "title": "Sharing AI progress in mathematics",
+   "outlet": "HN",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "pub_date": "2026-10-06",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 351pt·294댓글",
+   "weight": 351
+  },
+  {
+   "src": "community",
+   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+   "outlet": "HN",
+   "url": "https://github.com/FeSens/openTPU",
+   "pub_date": "2026-10-06",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 222pt·288댓글",
+   "weight": 222
+  },
+  {
+   "src": "community",
+   "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+   "outlet": "HN",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+   "pub_date": "2026-10-06",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 207pt·28댓글",
+   "weight": 207
+  },
+  {
+   "src": "community",
+   "title": "storytold/photocraft — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+   "outlet": "GitHub",
+   "url": "https://github.com/storytold/photocraft",
+   "pub_date": "2026-09-30",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★6803·7일·972/일",
+   "weight": 971.8571428571429
+  },
+  {
+   "src": "community",
+   "title": "yetone/magpie — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+   "outlet": "GitHub",
+   "url": "https://github.com/yetone/magpie",
+   "pub_date": "2026-09-23",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★5482·14일·392/일",
+   "weight": 391.57142857142856
+  },
+  {
+   "src": "community",
+   "title": "HF trending: autotrust/JEV-27B-VL",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+   "pub_date": "2026-09-30",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥976·↓1525286",
+   "weight": 976
+  },
+  {
+   "src": "community",
+   "title": "HF trending: autotrust/GEV-26B-Decide",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+   "pub_date": "2026-10-02",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥685·↓854574",
+   "weight": 685
+  }
+ ]
+}

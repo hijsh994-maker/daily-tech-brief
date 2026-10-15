@@ -1,0 +1,17 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-10 09:00:02 KST === 
+Message TS: 1788998402.162249
+- <https://news.nate.com/view/20260909n22050|구글 크롬, 이제 2주마다 업데이트…AI가 바꾼 보안 환경> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfNEg2eVhrd1lNLXhXeXAwUTQ1MnFXNnVEcFAxWkVBQXBYTFdSdEsxei1YUTNCaXZrS19kbkV5NVVOZFp4c082M0Vudkc0Zw?oc=5|애플 '에어팟5'…ANC 강화·시리 AI·실시간 번역 지원 - 전자신문> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pWnE0TTlWdTF1ck5IOTdCRjV2MkVhb09zOUVyR0w5OHVlMEJ6Z3hLZ3NzaFA0Vm1DZ1F0NDlLXzFKa0pMMTBjX3JUWk1INWJBZ0psblllUkFsaDg?oc=5|하루 대화 듣고 핵심 요약…애플, AI 기능 얹은 신형 워치 공개｜Global Money Club - 중앙일보> 
+- <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sblh6WUtqa2RJUnhXWWFHZ1pBR2ZoR0J5TTJqeHBncDJBNWtUS2EwQ0NESEloUTFvUkNCcjJPMVIyVXNhdU5VckJMV1FZWHdNZTNkQUxMOTNYYk9OTGc?oc=5|보안 AI 따로 만드는 이유는?..."독파모 보안 튜닝은 오래 걸려" - YTN> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVGlMRTBxSVBZdkdzSW14NzlVZV9IYXVUdVV6SGZGMm8yWGRUNmVLbWo2RGVfc0d0cXZWZ0lHTzZ1MF81QmdaZ2c2Qk1IYlBMQ1QyczRhNWM4dw?oc=5|애플만 살까, 애플만 죽을까 [박신영의 월가 아나토미] - 한국경제> 
+- <https://news.nate.com/view/20260909n31218|"구글까지 가세한 AI 자체칩…FC-BGA 수급 더 타이트해질 것"> 
+- <https://news.nate.com/view/20260910n03716|메타, 스웨덴 AI 스타트업 스틸라 인수…왓츠앱·인스타 커머스 AI...> 
+- <https://news.nate.com/view/20260910n01032|애플워치, 내 몸 상태 알려준다···AI 건강 코치에 '15초 대화 복기'까지> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YMnpkdENnejVGczkyck10dE1qck1BcnZ2OWdrMzQzcVFkNV9rTDMtMXg0Z2lLNFBGS3lvOGx1Z0xFTWRlb0FOaGZheWFXQQ?oc=5|블라디슬라브 미로넨코 전 메타 AI 인프라 엔지니어 “제조 기반 한국, 피지컬 AI 전환에 유리” - 전자신문> 
+- <https://news.nate.com/view/20260910n05548|[미국 특징주] 애플워치에 대화 요약 기능…AI 웨어러블 시장 대응> 
+- <https://news.nate.com/view/20260910n00733|구글, 유럽 최대 151억달러 AI 베팅…원전 전력까지 직접 확보> 
+- <https://news.nate.com/view/20260910n02432|애플 iOS 27·차세대 시리AI 14일 출격…한국어는 10월 지원> 
+- <https://news.nate.com/view/20260910n03820|손목엔 '회복 점수', 귀엔 AI 번역…애플워치12·에어팟5 출격>

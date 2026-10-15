@@ -1,0 +1,78 @@
+{
+ "date": "2026-10-07",
+ "gates": {},
+ "hist": {
+  "153": {
+   "star": 0,
+   "overlap": false
+  },
+  "4": {
+   "star": 1,
+   "overlap": false
+  },
+  "138": {
+   "star": 6,
+   "overlap": false
+  },
+  "32": {
+   "star": 1,
+   "overlap": false
+  },
+  "2": {
+   "star": 0,
+   "overlap": false
+  },
+  "9": {
+   "star": 0,
+   "overlap": false
+  },
+  "1": {
+   "star": 0,
+   "overlap": true
+  },
+  "238": {
+   "star": 0,
+   "overlap": false
+  },
+  "91": {
+   "star": 3,
+   "overlap": false
+  },
+  "29": {
+   "star": 0,
+   "overlap": false
+  },
+  "70": {
+   "star": 0,
+   "overlap": false
+  },
+  "162": {
+   "star": 0,
+   "overlap": false
+  },
+  "381": {
+   "star": 0,
+   "overlap": false
+  },
+  "8": {
+   "star": 0,
+   "overlap": false
+  },
+  "54": {
+   "star": 0,
+   "overlap": false
+  },
+  "304": {
+   "star": 0,
+   "overlap": false
+  },
+  "116": {
+   "star": 5,
+   "overlap": false
+  },
+  "151": {
+   "star": 0,
+   "overlap": false
+  }
+ }
+}

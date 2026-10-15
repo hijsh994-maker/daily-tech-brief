@@ -1,0 +1,142 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-28 09:41:24 KST === 
+Message TS: 1790556084.091619
+_(이어서 2/2)_
+
+[09:30]
+*로봇동향*
+신규 10건
+<https://www.sedaily.com/article/20094188|“휴머노이드 개발서 확보 피지컬AI 기술, 산업용·협동 로봇에도 확대 적용”>
+ㄴ서울경제 2026.09.27
+<https://biz.heraldcorp.com/article/10885730|‘인천지창’ 가을호 발간... 인천 중문소식지>
+ㄴ헤럴드경제 2026.09.28
+<https://www.news1.kr/industry/general-industry/6301873|최종석 "로봇 강국, 투자 규모보다 R&D부터 투입까지 생태계 조성">
+ㄴ뉴스1 2026.09.28
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092309323824431|"휴머노이드 백날 춤춰봐야"...돈 되는 '진짜 로봇주' 따로 있다[주末머니]>
+ㄴ아시아경제 2026.09.26 관련뉴스 1건
+<https://www.news1.kr/industry/general-industry/6301947|'휴보·마루'의 교훈 되새겨야..."현장형 피지컬 AI로 승부해야"[문답]>
+ㄴ뉴스1 2026.09.28
+<https://www.kukinews.com/article/view/kuk202609280018|"쿠팡 로봇이 강의실로"...영남이공대 ''AI물류자동화과'' 신설>
+ㄴ쿠키뉴스 2026.09.28 관련뉴스 1건
+<https://www.etnews.com/20260928000037|영남이공대, AI기반 미래 물류산업 이끌 현장 전문기술자 양성 본격 착수...내년도부터 신입생 50명 모집>
+ㄴ전자신문 2026.09.28
+<https://www.seoul.co.kr/news/plan/founder-secret-notebook/2026/09/28/20260928500012|외산 라디오에 도전한 구인회...‘금성사’, 70년 뒤 피지컬 AI 만드는 ‘LG’로[창업주의 비밀노트]>
+ㄴ서울신문 2026.09.28
+<https://www.sedaily.com/article/20095332|0.001초만 늦어도 목숨이 왔다갔다...로컬 AI의 반전[김창영의 실리콘밸리 룩]>
+ㄴ서울경제 2026.09.28
+<https://www.news1.kr/local/sejong-chungbuk/6302610|인삼에 한우.K-POP.AI까지...증평인삼골축제 한층 풍성해진다>
+ㄴ뉴스1 2026.09.28
+
+
+
+*AI기술현황*
+신규 10건
+<https://biz.heraldcorp.com/article/10885720|충남도, 생성형 AI로 농업 분야 업무 지원 개시>
+ㄴ헤럴드경제 2026.09.28
+<https://www.etoday.co.kr/news/view/2628584|AI·반도체 뛰는데 전력망은 ''거북이''?''블랙아웃''보다 무서운 ''병목'' [AI 시대, 꽉 막힌 전력망]>
+ㄴ이투데이 2026.09.28
+<https://www.segye.com/newsView/20260928503549|벤처정신으로 48년, 이제 AI.반도체로...호서대의 도전은 계속된다>
+ㄴ세계일보 2026.09.28
+<https://www.news1.kr/finance/general-stock/6302655|삼성證 "미중 '미니딜'에도 AI 패권전쟁 지속...반도체 공급난 이어질 것">
+ㄴ뉴스1 2026.09.28
+<https://www.fnnews.com/news/202609272206533288|"반도체 강세 이어질까"...전문가가 꼽은 10월 증시 변수 금리.AI>
+ㄴ파이낸셜뉴스 2026.09.28
+<https://www.segye.com/newsView/20260927508199|환율 하락.AI 속도조절론 뚫고... K반도체, 3Q 성적표도 ‘A+’>
+ㄴ세계일보 2026.09.27
+<https://biz.chosun.com/it-science/ict/2026/09/27/MUNUABG3CFD3VOGVX7KQQRS7JY/|호주 상원, ‘AI 에이전트’ 잇단 사고에 오픈AI.앤트로픽 CEO 출석 요구>
+ㄴ조선비즈 2026.09.27
+<https://www.sedaily.com/article/20095183|AI반도체 1200조 시장 열린다...“공급망 진입 서둘러야”>
+ㄴ서울경제 2026.09.27 관련뉴스 3건
+<https://www.fnnews.com/news/202609271317414139|메타 AI에이전트 '뮤즈'에 취약점 드러나..."경고 강화">
+ㄴ파이낸셜뉴스 2026.09.27
+<https://www.etnews.com/20260927000063|기획처, 내부 업무망에 국산 LLM 도입...공무원 AI 활용 확대>
+ㄴ전자신문 2026.09.27
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-09-28 09:41:08 KST === 
+Message TS: 1790556068.462199
+_[텔레그램 로그 2026-09-28] 에이닷비즈뉴스레터_
+
+[09:30]
+*9월 28일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.hani.co.kr/arti/international/america/1279692.html|오픈AI.앤트로픽, AI 보안사고 수만 건 조사...최고 성능 모델 훈련 중단>
+ㄴ한겨레 2026.09.28
+<https://www.sedaily.com/article/20095197|“업무마다 최적 AI 골라준다”...KT 모델 라우팅 기술 글로벌 2위>
+ㄴ서울경제 2026.09.28
+<https://www.etoday.co.kr/news/view/2629064|가격 반값에 ''토큰 다이어트''까지...AI 모델 가성비 경쟁>
+ㄴ이투데이 2026.09.27
+<https://www.news1.kr/it-science/internet-platform/6302355|AI 속도조절론에도 최상위급 AI 모델 속속[뉴스잇(IT)쥬]>
+ㄴ뉴스1 2026.09.27
+<https://www.etnews.com/20260926000046|[AI 세이프가드] AI 공격해 더 안전하게 만든다...프런티어 모델 시험하는 FAR.AI>
+ㄴ전자신문 2026.09.27
+<https://www.etnews.com/20260927000063|기획처, 내부 업무망에 국산 LLM 도입...공무원 AI 활용 확대>
+ㄴ전자신문 2026.09.27
+<https://www.etnews.com/20260927000073|KT, AI 모델 라우팅 기술력 입증...토큰 팩토리에 활용>
+ㄴ전자신문 2026.09.27 관련뉴스 3건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092520290056127|백악관, 오픈AI·앤트로픽에 "英보다 美가 AI 모델 먼저 검증해야">
+ㄴ아시아경제 2026.09.25
+<https://biz.heraldcorp.com/article/10885727|현대엔지니어링, 8700억원 ‘군산 AI 데이터센터 신축 사업’ 수주>
+ㄴ헤럴드경제 2026.09.28
+<https://www.kukinews.com/article/view/kuk202609280018|"쿠팡 로봇이 강의실로"...영남이공대 ''AI물류자동화과'' 신설>
+ㄴ쿠키뉴스 2026.09.28 관련뉴스 1건
+
+
+
+*AI에이전트*
+신규 10건
+<https://www.segye.com/newsView/20260927508202|여러 AI가 협업... KT ‘에이전틱 온’ 출시>
+ㄴ세계일보 2026.09.28
+<https://biz.chosun.com/it-science/ict/2026/09/27/MUNUABG3CFD3VOGVX7KQQRS7JY/|호주 상원, ‘AI 에이전트’ 잇단 사고에 오픈AI.앤트로픽 CEO 출석 요구>
+ㄴ조선비즈 2026.09.27
+<https://www.sedaily.com/article/20095215|여러 AI 역할 나눠 업무...KT ‘에이전틱 온’ 공개>
+ㄴ서울경제 2026.09.27
+<https://www.fnnews.com/news/202609271317414139|메타 AI에이전트 '뮤즈'에 취약점 드러나..."경고 강화">
+ㄴ파이낸셜뉴스 2026.09.27 관련뉴스 2건
+<https://www.hani.co.kr/arti/economy/it/1279606.html|오픈AI 에이전트 이상행동, 호주.미국 정부 사이트에 ‘지시 없이 접근’>
+ㄴ한겨레 2026.09.27
+<https://biz.chosun.com/it-science/ict/2026/09/27/WGE4XAFVS5AI5JAH2OU6NNFRIY/|[인터뷰] 퀄컴 모바일 수장 “에이전틱 AI, 스마트폰 교체 수요 자극할 것”>
+ㄴ조선비즈 2026.09.27
+<https://www.news1.kr/world/usa-canada/6302142|오픈AI 에이전트 또 사고...챗GPT 이용자 이미지 53장 외부 유출>
+ㄴ뉴스1 2026.09.27 관련뉴스 1건
+<https://www.etnews.com/20260926000056|“오픈AI AI 에이전트, 美 정부 사이트 비정상 접근”>
+ㄴ전자신문 2026.09.26 관련뉴스 2건
+<https://www.fnnews.com/news/202609261459498654|오픈AI 에이전트 '해킹' 일파만파...호주정부 웹사이트 곳곳 침투 시도>
+ㄴ파이낸셜뉴스 2026.09.26 관련뉴스 4건
+<https://www.sedaily.com/article/20095039|오픈AI 에이전트, 정부 등 수십 곳 보안 침해...이미지 50여장 유출도>
+ㄴ서울경제 2026.09.26
+
+
+
+*데이터센터시장*
+신규 10건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026092808435937013|"대성하이텍, 방산·로봇·데이터센터 수주 증가로 실적 개선 기대">
+ㄴ아시아경제 2026.09.28 관련뉴스 1건
+<https://www.kukinews.com/article/view/kuk202609230135|건설업계 채용도 ‘탈주택’...데이터센터·원전 인재 확보 나선다>
+ㄴ쿠키뉴스 2026.09.28
+<https://biz.heraldcorp.com/article/10885727|현대엔지니어링, 8700억원 ‘군산 AI 데이터센터 신축 사업’ 수주>
+ㄴ헤럴드경제 2026.09.28
+<https://biz.heraldcorp.com/article/10885618|LS일렉, 亞 최대 데이터센터 전시회서 전력 통합 설루션 전시>
+ㄴ헤럴드경제 2026.09.28 관련뉴스 2건
+<https://www.seoul.co.kr/news/economy/industry/2026/09/28/20260928031003|LG전자, 엔비디아 공식 파트너 선정... AI 데이터센터 냉각 시장 공략 속도>
+ㄴ서울신문 2026.09.28 관련뉴스 1건
+<https://www.khan.co.kr/article/202609272002005|엔비디아의 AI 데이터센터 생태계에 LG전자 냉각 장치 들어갈 기회 열렸다>
+ㄴ경향신문 2026.09.27
+<https://www.segye.com/newsView/20260927509189|“현대차 새만금 투자 발판으로...” 전북도, ‘피지컬AI.수소.AI데이터센터’ 키운다>
+ㄴ세계일보 2026.09.27 관련뉴스 1건
+<https://www.etnews.com/20260927000043|[ET단상] 액체냉각 AI 데이터센터 구축을 가로막는 5가지 장벽>
+ㄴ전자신문 2026.09.27 관련뉴스 4건
+<https://biz.chosun.com/it-science/ict/2026/09/27/ONS4QW5DEZHKRPVS7AZ6NYDSLA/|구글, AI 칩 실은 위성 발사 임박... 우주 데이터센터 실험 본격화>
+ㄴ조선비즈 2026.09.27
+<https://www.fnnews.com/news/202609271211206955|"데이터센터 이어 전력까지..." ESR, 1.6GW 아퀼라 품는다 [fn마켓워치]>
+ㄴ파이낸셜뉴스 2026.09.27
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-09-28 08:48:50 KST === 
+Message TS: 1790552930.963119
+
+Files: [2026년 9월 28일] 조간 뉴스 클리핑 (ID: F0C4Y5M7A5A, text/html, 48.3 KB)

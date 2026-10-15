@@ -1,0 +1,481 @@
+{
+ "date": "2026-10-12",
+ "terms": [
+  {
+   "term": "Kolibri",
+   "norm": "kolibri",
+   "n_outlets": 21,
+   "n_today": 1,
+   "outlets": [
+    "Crypto Briefing",
+    "Cybernews",
+    "Dealroom",
+    "EU-Startups",
+    "European Business Magazine",
+    "HuggingFace",
+    "MarkTechPost",
+    "OfficeChai"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "EU-Startups(10-06) | Germany's Aleph Alpha releases Kolibri, a sovereign AI model for mission-critica",
+    "Cybernews(10-06) | Germany’s sovereign AI model Kolibri challenges US and Chinese rivals",
+    "Startup Fortune(10-06) | Aleph Alpha launches Kolibri, a sovereign German AI model for government use",
+    "European Business Magazine | Le Chonk and Kolibri: Europe’s Answer to OpenAI, Built in Europe on Nvidia Chips"
+   ],
+   "score": 19
+  },
+  {
+   "term": "Reflection",
+   "norm": "reflection",
+   "n_outlets": 86,
+   "n_today": 34,
+   "outlets": [
+    "AI Business",
+    "AI Magazine",
+    "ASHARQ AL-AWSAT English",
+    "Analytics Insight",
+    "Axios",
+    "Belaaz",
+    "Benzinga",
+    "BigGo Finance"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "techflowpost.com(10-06) | TechFlow 인텔리전스: OKX, NYSE 모회사와 제휴해 토큰화 주식 거래 출시… NVIDIA 지원 Reflection이 오픈소스 모델로 ",
+    "Kingy AI(10-06) | Reflection AI Factory: Sovereign Clouds & Compute",
+    "TIKR.com | Nvidia Weighs Buying Reflection AI, the $25 Billion Open-Weight Model Startup It",
+    "深潮TechFlow | TechFlow 정보국: 엔비디아, Reflection AI 인수 협상, 메타 개인 에이전트 다운로드 수 ChatGPT 및 Gemini 상회",
+    "深潮TechFlow | TechFlow Intelligence: NVIDIA in talks to acquire Reflection AI, Meta Personal A"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Beam",
+   "norm": "beam",
+   "n_outlets": 43,
+   "n_today": 4,
+   "outlets": [
+    "AI Business",
+    "BigGo Finance",
+    "Business Insider",
+    "CNBC",
+    "CXO Digitalpulse",
+    "Chosunbiz",
+    "Crypto Briefing",
+    "Cryptopolitan"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "TechCrunch(10-06) | Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower",
+    "shattered.io(10-06) | Reflection AI’s Beam Claims 4x Less Compute [2026]",
+    "Dealroom | Beam and the Open Frontier: Misha Laskin on Why Open Models Will Win",
+    "finance.biggo.com | Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha L",
+    "shattered.io | AI Open-Source Bet Hits 86% as Beam, Mistral Ship [2026]"
+   ],
+   "score": 15
+  },
+  {
+   "term": "ARTEX",
+   "norm": "artex",
+   "n_outlets": 30,
+   "n_today": 6,
+   "outlets": [
+    "BBS불교방송",
+    "BleepingComputer",
+    "Chosunbiz",
+    "Crypto Briefing",
+    "Cyber Kendra",
+    "Daum",
+    "GitHub",
+    "OBS경인TV"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "edaily.co.kr(10-06) | 금융권 해킹 추정 서버서 발견된 AI 도구 ‘ARTEX’는 무엇인가",
+    "데일리시큐(10-06) | [이슈 분석] 금융권 공격서 포착된 ‘ARTEX AI’… 분석 결과 14개 국가·지역서 ARTEX 관련 고유 IP 359개 발견돼",
+    "BBS불교방송(10-07) | 한국 금융사 해킹에 중국 AI 에이전트 'ARTEX' 악용 정황",
+    "한국일보 | 쉽게 구해서 싸게 굴린다...무기된 오픈소스 AI 보안도구, ARTEX만 있는 게 아니다",
+    "Reuters | Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+    "shattered.io | CrowdStrike Ties ARTEX AI Agent to Korea Bank Hack [2026]"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Chonk",
+   "norm": "chonk",
+   "n_outlets": 32,
+   "n_today": 4,
+   "outlets": [
+    "Briefs Finance",
+    "CNET",
+    "DW.com",
+    "Dealroom",
+    "European Business Magazine",
+    "GIGAZINE",
+    "HN",
+    "IT Pro"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The Register(10-07) | European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "VentureBeat(10-07) | Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with",
+    "WIRED(10-07) | Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outsid",
+    "European Business Magazine | Le Chonk and Kolibri: Europe’s Answer to OpenAI, Built in Europe on Nvidia Chips",
+    "Medium | Mistral Large 4 (Le Chonk): A Review of Europe’s Trillion-Parameter Model and It",
+    "The Rundown AI | Mistral’s Large 4 ‘Le Chonk’ joins the West’s open model push"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Le Chonk",
+   "norm": "lechonk",
+   "n_outlets": 28,
+   "n_today": 4,
+   "outlets": [
+    "Briefs Finance",
+    "CNET",
+    "DW.com",
+    "Dealroom",
+    "European Business Magazine",
+    "GIGAZINE",
+    "HN",
+    "IT Pro"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The Register(10-07) | European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "VentureBeat(10-07) | Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with",
+    "WIRED(10-07) | Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outsid",
+    "European Business Magazine | Le Chonk and Kolibri: Europe’s Answer to OpenAI, Built in Europe on Nvidia Chips",
+    "Medium | Mistral Large 4 (Le Chonk): A Review of Europe’s Trillion-Parameter Model and It",
+    "The Rundown AI | Mistral’s Large 4 ‘Le Chonk’ joins the West’s open model push"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Claude Haiku",
+   "norm": "claudehaiku",
+   "n_outlets": 23,
+   "n_today": 3,
+   "outlets": [
+    "Benzinga",
+    "Brand Icon Image",
+    "Breakingthenews.net",
+    "CoinGape",
+    "Firstpost",
+    "GIGAZINE",
+    "HN",
+    "ISSUE ON (이슈온)"
+   ],
+   "days": 2,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-08) | Anthropic, Claude Haiku 5.5 출시, 소형 모델 API 가격 인하",
+    "Kingy AI(10-08) | Claude Haiku 5.5: Benchmarks, Specs, Pricing and How It Compares with GPT-6 Sol ",
+    "Benzinga(10-08) | Anthropic Takes Aim At AI Costs With Claude Haiku 5.5",
+    "ISSUE ON (이슈온) | Claude Haiku 5.5 출시…AI 경쟁, ‘최고 성능’에서 ‘한 건당 비용’으로",
+    "GIGAZINE | The 'Claude Haiku 5.5' has been released, offering higher performance than the G",
+    "Konsulteer | Anthropic Launches Claude Haiku 5.5 With Lower Costs for Enterprise AI Workloads"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Intelligent UI",
+   "norm": "intelligentui",
+   "n_outlets": 12,
+   "n_today": 4,
+   "outlets": [
+    "9to5Mac",
+    "AI Insider",
+    "ContentGrip",
+    "Gulf Times",
+    "HN",
+    "Neowin",
+    "NewsCord",
+    "Technobezz"
+   ],
+   "days": 2,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "9to5Mac(10-08) | OpenAI brings GPT-6 to ChatGPT and debuts Intelligent UI",
+    "Unite.AI(10-08) | OpenAI Brings GPT-6 With Intelligent UI to All ChatGPT Tiers",
+    "TestingCatalog AI News(10-08) | OpenAI rolls out GPT-6 with Intelligent UI in ChatGPT",
+    "AI Insider | OpenAI Brings Interactive Intelligent UI to ChatGPT With GPT-6 as Common Sense M",
+    "ContentGrip | ChatGPT Intelligent UI makes answers interactive",
+    "NewsCord | OpenAI Rolls Out GPT-6 Intelligent UI With Clickable Tools, Charts, and Faster W"
+   ],
+   "score": 13
+  },
+  {
+   "term": "204안타",
+   "norm": "204안타",
+   "n_outlets": 17,
+   "n_today": 4,
+   "outlets": [
+    "KBS 뉴스",
+    "SBS 뉴스",
+    "TopStarNews",
+    "경기일보",
+    "네이트",
+    "뉴스1",
+    "뉴스핌",
+    "뉴시스"
+   ],
+   "days": 2,
+   "first": "2026-10-08",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "SBS 뉴스(10-08) | KT 최원준, 역대 한 시즌 최다 '204안타'",
+    "경기일보(10-08) | ‘204안타’ 최원준, KBO 새 역사…KT 위즈 8연승 질주",
+    "뉴스1(10-08) | 3위 KIA·4위 LG 나란히 승리…KT 최원준 '204안타' 신기록(종합)",
+    "조선일보 | KIA 승리, LG 침몰! '2안타' 물타선 → 문보경 결정적 실책까지…'김민성 은퇴식+전민재 쐐기포+레이예스 204안타' 롯데, 알뜰했던 고춧",
+    "머니투데이 | '레이예스 204안타' 롯데 고춧가루에 KIA가 웃었다! LG는 1-9 충격패→이제 다 이겨도 3위 모른다 [부산 현장리뷰] - 머니투데이",
+    "스타뉴스 | '레이예스 204안타' 롯데 고춧가루에 KIA가 웃었다! LG는 1-9 충격패→이제 다 이겨도 3위 모른다 [부산 현장리뷰]"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Turbo",
+   "norm": "turbo",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "HuggingFace",
+    "MarkTechPost"
+   ],
+   "days": 1,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "MarkTechPost | Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+    "HuggingFace | HF trending: Qwen/Qwen-Image-2.1-Turbo"
+   ],
+   "score": 12
+  },
+  {
+   "term": "시장 예상치",
+   "norm": "시장예상치",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "머니투데이",
+    "서울경제"
+   ],
+   "days": 1,
+   "first": "2026-10-12",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "서울경제 | TSMC, 3분기 매출 51% 급증…시장 예상치 웃돌아",
+    "머니투데이 | TSMC, 3분기 매출 63조 '시장 예상치' 상회…AI 훈풍에 51% 급증 - 머니투데이"
+   ],
+   "score": 11
+  },
+  {
+   "term": "BetterWispr",
+   "norm": "betterwispr",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: BetterWispr – Free, open-source dictation for Mac"
+   ],
+   "score": 11
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Certik",
+   "norm": "certik",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "CertiK",
+    "CoinNess",
+    "Crypto News",
+    "CryptoPotato",
+    "KuCoin",
+    "TOKENPOST",
+    "데일리시큐"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "CertiK(10-06) | CertiK Intel3D The Rise of the AI Security Workforce: How Agentic AI Is Redefini",
+    "Crypto News(10-06) | Agentic AI is becoming part of the crypto security workforce: Certik",
+    "CryptoPotato(10-06) | AI Agents Take on Bigger Role in Cybersecurity, CertiK Says",
+    "KuCoin | CertiK Report: How Agentic AI Is Reshaping Cybersecurity, AML and Web3 Complianc"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Wikipedia",
+   "norm": "wikipedia",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "Ars Technica",
+    "Bitdefender",
+    "BleepingComputer",
+    "Help Net Security",
+    "NEWS.am TECH",
+    "Reuters",
+    "The Verge"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Reuters(10-06) | Wikipedia operator says OpenAI's rogue agents possibly tied to data service disr",
+    "The Verge(10-06) | Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+    "Ars Technica(10-07) | OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "Bitdefender | Rogue AI agents caught tampering with Wikipedia, probing for vulnerabilities"
+   ],
+   "score": 10
+  },
+  {
+   "term": "말모이체",
+   "norm": "말모이체",
+   "n_outlets": 15,
+   "n_today": 1,
+   "outlets": [
+    "Daum",
+    "JTBC",
+    "나눔경제뉴스",
+    "뉴스락",
+    "리드경제",
+    "메트로신문",
+    "서울경제TV",
+    "시사캐스트"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "이투데이(10-07) | SKT, 자체 AI 모델로 100년 전 우리말 되살렸다…'말모이체' 제작",
+    "리드경제(10-07) | SKT, 100년 전 ‘말모이’ AI로 되살렸다…‘말모이체’로 재탄생",
+    "아이티비즈(10-07) | SKT, AI가 100년 전 우리말 잇는다…글꼴 '말모이체' 재탄생",
+    "JTBC | 100년전 한글이 AI 만나 ‘말모이체’로 탄생...SKT, 한글날 100주년 캠페인"
+   ],
+   "score": 9
+  },
+  {
+   "term": "2026 말모이",
+   "norm": "2026말모이",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "SK텔레콤 뉴스룸",
+    "글로벌뉴스통신GNA",
+    "뉴스퀘스트",
+    "데일리한국",
+    "디지틀조선TV",
+    "매일산업뉴스",
+    "브릿지경제",
+    "아이뉴스24"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "데일리한국(10-07) | SKT, '2026 말모이' 캠페인 전개 '우리말 기록 일상에서 다시 쓰기'",
+    "디지틀조선TV(10-07) | SKT ‘2026 말모이’ 공개...100년 전 손글씨가 AI 만나 글꼴로",
+    "이코노뉴스(10-07) | SKT, AI로 100년 전 우리말 되살린다…‘2026 말모이’ 캠페인",
+    "SK텔레콤 뉴스룸 | 100년 전 손으로 모은 말, 인공지능이 이어 적다… SKT 한글날 캠페인 영상 ‘2026 말모이’ 공개"
+   ],
+   "score": 9
+  },
+  {
+   "term": "MICE",
+   "norm": "mice",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "AI 매터스",
+    "ER 이코노믹리뷰",
+    "IT조선",
+    "경북일보",
+    "뉴스컬처",
+    "뉴스탭",
+    "더에이아이",
+    "디지털데일리"
+   ],
+   "days": 3,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "매드타임스(10-07) | “영업 경험을 데이터 자산으로… AI 기반 차세대 B2B 영업 모델 구축” 세일즈포스-인스파이어, 전략적 협력 통해 MICE 산업 혁신 정조준하",
+    "ER 이코노믹리뷰(10-07) | 세일즈포스가 인스파이어 MICE 영업을 AI로 바꾼다 \"연회 데이터가 수주 예측으로\"",
+    "뉴스탭(10-08) | 세일즈포스-인스파이어, MICE 영업에 AI 접목…‘에이전틱 세일즈’로 확장",
+    "경북일보 | ‘AX·DX·MICE’ 무슨 뜻?…한글날 100돌에도 어려운 대구·경북 행정언어"
+   ],
+   "score": 9
+  },
+  {
+   "term": "파쿠마 2026",
+   "norm": "파쿠마2026",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "ngonews.kr",
+    "pinpointnews.co.kr",
+    "글로벌에픽",
+    "데이터뉴스",
+    "디일렉",
+    "아시아경제",
+    "중앙뉴스",
+    "직썰"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "직썰(10-06) | LG화학, ‘파쿠마 2026’ 참가…AI·로봇 차세대 엔지니어링 소재 공개",
+    "ngonews.kr(10-06) | LG화학, 독일 ‘파쿠마 2026’ 참가…미래 산업용 소재 공개",
+    "pinpointnews.co.kr(10-06) | LG화학, ‘파쿠마 2026’ 참가…미래 산업용 소재 솔루션 선보인다",
+    "아시아경제 | 효성화학, 독일 '파쿠마 2026' 참가…전기차·로봇 소재 선봬"
+   ],
+   "score": 9
+  }
+ ]
+}

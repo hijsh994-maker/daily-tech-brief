@@ -1,0 +1,17 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-04 09:00:01 KST === 
+Message TS: 1788480001.502349
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JX25oOGdocml3cU9DcEpheGFjWUlYbV9VdllLZWxBempuOU1iWjhqbzdlRm56Wk01dUpReEtFRnk5WTJaUG1MUVhSUmtqdw?oc=5|[IFA2026]삼성전자, '삼성 크리에이터 허브' 열어…“삼성 AI 생태계 체험”> 
+- <https://news.nate.com/view/20260903n32775|에임인텔리전스, SKT '모두의 AI' 컨소시엄 합류…보안 고도화...> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LaUFzWF9Yd3h2Rlk4OVNOQ2pBRXFhLW1TWldKVEl3UlRVd2NDYjZ5QWYtX2hNNkVEWHRZZFdIZWJrU1FIUnpKWk5FWWVjSzJVQjg0OU1HdTBwQQ?oc=5|AI칩 매출 3배 뛰었는데…브로드컴, '구글 이탈' 우려에 시간외 3%↓> 
+- <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NWGNZSm9LbFNCR3pjb01xbm9DRm9wVjhZTjZfa212Wm85ZVJvTi1Mb056X1pRLXo1NGcwMkxWMjdFZXZUMXpWVkZtcUdWY2U4d2JHQmxR?oc=5|“제미나이가 누구?”...신규 모델 내놔도 경쟁력 물음표 떼지못한 구글 [팩플]> 
+- <https://news.nate.com/view/20260903n08397|3주만에 또 경량 AI모델 내놓은 구글…같은날 나온 메타에 뒤져> 
+- <https://news.nate.com/view/20260903n14131|구글, 국내 이용자수 네이버 두달 연속 앞서…AI 영향 주목> 
+- <https://news.nate.com/view/20260904n02977|구글, 지메일·독스·킵에 AI 음성 기능 도입> 
+- <https://news.nate.com/view/20260903n19245|기승전 '구글과 애플'…AI 에이전트가 앱 대체하는 순간 [IT+]> 
+- <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Qa3NUa0xCRVJxVW1MUXQ2MU8xWnY0TzRwa1JWQWhMSXUxNUs5bGQ5eWhiblAxaVlHajJfYnJrNmExTUJ2M3ExbF9NSDZFbklCLWNz0gFYQVVfeXFMUHY2SldTdDF3ZXJsNnZrRHI3ZWtoc3JpaURVYllvR1MyQWlMWkRxeGp1SmZfM1c3bXRNaVE4Vkl3eDltRHVYSkZoM1ZIVVdSblVKMzZMd1pxUg?oc=5|'제미나이의 굴욕' 구글 AI 새 모델, 메타에 성능 뒤져> 
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTTUxNGZnbEhzdE5sbF84U1hTZzlTVTRGSE0tN28wTXZsVFN3cTlaU0Q5eHJIbGVsa3FPdzBtVEJvcnc5Q1B6M0pJbTFTbFdaVm4yYnEwNTdWMjFseHFTbmt3azBIVjZvcHhTeHVCcFY?oc=5|브로드컴 "2027년 AI 칩 매출 2배"…엔비디아 독주 흔들까> 
+- <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnJ1NWxhb1NQTXhzSm9aaUxQLTBHNVpXLVRqbW1kcEo0ZzhsdkdXN1lkYWs1MVZ4REJubXNicXgzaEs4bVBTVUU5aGhwVVlQNDhVR0JkSlYxT2l0V0EtemFZbkl2c1lPOUJ0am5ST0hva0xKNlNpNUt4dzlwS3hweG5Ub1E1QQ?oc=5|"AI 덕분에 창업 문턱 낮아져… 더 빨리, 많이 시도하라"> 
+- <https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRldrOVJsbGtWTTZoTW0wOWFfbjJuS1FFaVM5VzNOOXplZVVFc0ZOZkF0bjcwVEJSRWJhS0tMMXQ4ZkhMMEE2VVBZQnJvUG9SbjBqT2Q2alp3REHSAWBBVV95cUxPQW0td3VOeXBKNnJPUHNmWnJYYUpMOFFVWFZBUDhlUkc0eHI3Nlc3N3NNNUtYVVJReEh5VXNjTzhiRmlYVDk0WXh2T1ZsYXpBbHdON0dRcERDak9HNHJEZFg?oc=5|챗GPT·클로드·그록, 한때 일제히 '먹통'…이례적 동시 장애> 
+- <https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5|OpenAI, 고급 사이버 능력 경고 후 Astra 모델 배포 시작>

@@ -1,0 +1,95 @@
+{
+ "date": "2026-07-29",
+ "items": [
+  {
+   "title": "Amazon winds down most flagship AI models in strategy overhaul",
+   "outlet": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html",
+   "category": "AI Model"
+  },
+  {
+   "title": "Elon Musk says Grok 4.6 is weeks away (~8/7), Grok 4.7 to follow",
+   "outlet": "crypto.news[[crypto.news]]",
+   "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Core Scientific and AMD Announce Infrastructure Partnership",
+   "outlet": "Core Scientific IR",
+   "url": "https://investors.corescientific.com/news-events/press-releases/detail/138/core-scientific-and-amd-announce-infrastructure-partnership",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "Meta, BlackRock partner on $14 billion El Paso data center venture",
+   "outlet": "Meta IR",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-New-Strategic-Venture-with-BlackRock-to-Develop-Data-Center-in-El-Paso/default.aspx",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "\"에이전틱 AI 시대 토큰 소비 136배…새로운 인프라 패러다임 필요\"",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260728000258",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "모빌린트, 'ISEC 2026' 참가… NPU 기반 엣지 AI 보안 솔루션 공개",
+   "outlet": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20260728092946",
+   "category": "AI DC&Infra"
+  },
+  {
+   "title": "삼성SDS·앤트로픽, 전략적 파트너십…'클로드' 기반 엔터프라이즈 AI 사업 확대",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260725000018",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "Banks Bet on Open AI After OpenAI's Own Hack",
+   "outlet": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "Exclusive: OpenAI's rogue agent compromised an account at a second tech firm",
+   "outlet": "Yahoo Finance",
+   "url": "https://ca.finance.yahoo.com/news/exclusive-openais-rogue-agent-compromised-213621730.html",
+   "category": "AI 보안"
+  },
+  {
+   "title": "MS, 에이전틱 보안 시스템 '프로젝트 퍼셉션' 공개",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260728000335",
+   "category": "AI 보안"
+  },
+  {
+   "title": "[긴급 공공 보안진단]〈하〉AI 활용 넓히고 보안은 강화…N2SF 전환 속도내야",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260728000240",
+   "category": "AI 보안"
+  },
+  {
+   "title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'",
+   "outlet": "Yahoo Finance",
+   "url": "https://www.yahoo.com/news/politics/articles/over-1-100-ai-workers-212659630.html",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "Exclusive: Trump administration to ban new Chinese robots and inverters",
+   "outlet": "US News",
+   "url": "https://www.usnews.com/news/top-news/articles/2026-07-28/exclusive-trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai-buildout",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "Jensen Huang has strong words for Washington on AI",
+   "outlet": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-strong-words-washington-110300737.html",
+   "category": "AI 정책&규제"
+  },
+  {
+   "title": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content",
+   "outlet": "Meta AI blog",
+   "url": "https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content/",
+   "category": "AI 정책&규제"
+  }
+ ]
+}

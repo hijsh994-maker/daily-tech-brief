@@ -1,0 +1,872 @@
+{
+ "1": [
+  {
+   "headline": "오픈AI \"2027년 상장 목표…앞당겨질 수도\"",
+   "outlet": "지디넷코리아",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "오픈AI, 상장 카운트다운 시작됐다…2027년 목표, 더 빨라질 수도",
+   "outlet": "디지털투데이",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "오픈AI \"내년에 IPO…앤트로픽이 먼저 상장해도 괜찮다\" - 머니투데이",
+   "outlet": "머니투데이",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "오픈AI 분기 매출, 2분기 손실 123억 달러로 확대되며 앤트로픽에 추월당해",
+   "outlet": "TradingKey",
+   "date": "2026-08-18",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "일본 연말 시총 1위를 AI에게 물었더니…일본 경제 시나리오 3가지로 갈렸다 [특파원 인사이트]",
+   "outlet": "매일경제",
+   "date": "2026-08-18",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "안트로픽, 연간 매출 런레이트 650억달러…오픈AI보다 250억달러 앞서",
+   "outlet": "yellow.com",
+   "date": "2026-08-18",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "95% 앤트로픽 선상장 가능성, 폴리마켓 반영",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "오픈AI \"2027년 상장 목표…앞당겨질 수도\"",
+   "outlet": "지디넷코리아",
+   "date": "2026-08-20",
+   "url": "https://zdnet.co.kr/view/?no=20260820085712",
+   "via": "naver",
+   "q": "오픈AI 2027년 상장 IPO 공식화"
+  },
+  {
+   "headline": "OpenAI CFO Tells Employees Public Debut Coming by 2027",
+   "outlet": "PYMNTS.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI IPO 2027 CFO public debut"
+  },
+  {
+   "headline": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+   "outlet": "CNBC",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI IPO 2027 CFO public debut"
+  },
+  {
+   "headline": "OpenAI Says It Will Be Public by Next Year As AI Battle Heats Up",
+   "outlet": "barrons.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI IPO 2027 CFO public debut"
+  },
+  {
+   "headline": "OpenAI targets 2027 IPO as CFO reassures staff on Anthropic race",
+   "outlet": "The Tech Buzz",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI IPO 2027 CFO public debut"
+  }
+ ],
+ "2": [
+  {
+   "headline": "오픈AI \"대화 보관 안한다\"…앤트로픽 정조준한 새 안전장치 공개",
+   "outlet": "디지털투데이",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI Private Safety Processing"
+  },
+  {
+   "headline": "오픈AI, 기업 데이터 안 남기는 안전점검 시험",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "오픈AI Private Safety Processing"
+  },
+  {
+   "headline": "오픈AI \"대화 보관 안한다\"…앤트로픽 정조준한 새 안전장치 공개",
+   "outlet": "디지털투데이",
+   "date": "2026-08-20",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694165",
+   "via": "naver",
+   "q": "오픈AI Private Safety Processing"
+  },
+  {
+   "headline": "Offering Zero Data Retention for frontier models",
+   "outlet": "OpenAI",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI says it doesn't need to store customer's business data to keep models safe",
+   "outlet": "Axios",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+   "outlet": "TechCrunch",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI reportedly set to roll out private safety processing in September",
+   "outlet": "Latest news from Azerbaijan",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI Unveils Privacy-First Safety System, Pauses Frontier Training Over Cyber Risks",
+   "outlet": "finance.biggo.com",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI Tests Private Safety Processing to Protect Enterprise Data",
+   "outlet": "Межа. Новини України.",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI to Launch Security Analysis System With Better Privacy Protections",
+   "outlet": "The Information",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI Commits to Zero Data Retention for Enterprise APIs",
+   "outlet": "The Tech Buzz",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  },
+  {
+   "headline": "OpenAI tests zero-retention safety system as Anthropic moves to 30-day data retention",
+   "outlet": "firstpost.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "OpenAI Private Safety Processing system"
+  }
+ ],
+ "3": [
+  {
+   "headline": "Stripe, AI 모델 게이트웨이 OpenRouter 인수",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, 오픈라우터 70억달러+ 인수…직전가 5배",
+   "outlet": "FinanceFeeds",
+   "date": "2026-08-18",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, ‘오픈라우터’ 인수로 AI 결제 관문 차지",
+   "outlet": "바이라인네트워크",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, 오픈라우터 인수하나",
+   "outlet": "스타트업레시피",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "[미국 특징주] 결제사 스트라이프, 오픈라우터 인수…AI 사업 확장",
+   "outlet": "네이트",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, 오픈라우터 70억달러대 인수 보도",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "[미국 특징주] 결제사 스트라이프, 오픈라우터 인수…AI 사업 확장",
+   "outlet": "https://www.newspim.com/news/view/20260820000206",
+   "date": "2026-08-20",
+   "url": "https://www.newspim.com/news/view/20260820000206",
+   "via": "naver",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, ‘오픈라우터’ 인수로 AI 결제 관문 차지",
+   "outlet": "https://byline.network/?p=9004111222615953",
+   "date": "2026-08-20",
+   "url": "https://byline.network/?p=9004111222615953",
+   "via": "naver",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, AI 게이트웨이 오픈라우터 9조9050억원에 인수…“AI용 스트...",
+   "outlet": "https://www.wikitree.co.kr/articles/1152932",
+   "date": "2026-08-18",
+   "url": "https://www.wikitree.co.kr/articles/1152932",
+   "via": "naver",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "스트라이프, AI 라우팅 스타트업 오픈라우터 70억달러에 인수",
+   "outlet": "https://www.tokenpost.kr/news/breaking/392156",
+   "date": "2026-08-18",
+   "url": "https://www.tokenpost.kr/news/breaking/392156",
+   "via": "naver",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "[김현철의 美증시] 30년물 금리 19년 만에 최고치 경신",
+   "outlet": "http://www.00news.co.kr/news/articleView.html?idxno=105906",
+   "date": "2026-08-18",
+   "url": "http://www.00news.co.kr/news/articleView.html?idxno=105906",
+   "via": "naver",
+   "q": "스트라이프 OpenRouter 인수"
+  },
+  {
+   "headline": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+   "outlet": "The New York Times",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Stripe acquires OpenRouter"
+  }
+ ],
+ "4": [
+  {
+   "headline": "미국 증시 마감: 다우 120포인트 이상 상승, SOX 2% 하락; 메모리주 하락 주도, 샌디스크 3.5% 하락, 모더나 177% 급등",
+   "outlet": "TradingKey",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "엔비디아 Mercor 투자 200억 달러"
+  },
+  {
+   "headline": "Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion",
+   "outlet": "PYMNTS.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation",
+   "outlet": "The Information",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "Nvidia Reportedly Explores Stake in AI Data Provider Mercor At $20B Valuation",
+   "outlet": "TradingView",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "Nvidia Mulls Mercor Investment at $20 Billion Valuation",
+   "outlet": "marketscreener.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "Mercor secures $20B valuation as Nvidia extends spending to its own AI data supplier",
+   "outlet": "CryptoRank",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "Nvidia considers investing in Mercor, valuing t...",
+   "outlet": "Pluang",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "NVDA Looks 42.9% Undervalued on GF Value™ Amid $20 Billion AI Da",
+   "outlet": "GuruFocus",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "IOVA Stock Hits New 52-Week High As Shares Jump 14% — What Drove The Rally?",
+   "outlet": "Stocktwits",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "NVDA Looks 42.8% Undervalued on GF Value™",
+   "outlet": "GuruFocus",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "US Stock Index Futures Climb As Yields Cool Off Amid Treasury Support — NVDA, MRNA, MRVL, LOWE In Focus",
+   "outlet": "TradingView",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  },
+  {
+   "headline": "US Stocks Close: Dow Rises Over 120 Points, SOX Drops 2%; Memory Stocks Lead Losses, SanDisk Falls 3.5%, Moderna Surges 177%",
+   "outlet": "TradingKey",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nvidia Mercor funding round 20 billion valuation"
+  }
+ ],
+ "5": [
+  {
+   "headline": "[유럽 특징주] 네비우스 13% 급락...데이터센터·AI 플랫폼 투자 위해 45억달러 전환사채 발행 계획",
+   "outlet": "뉴스핌",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "네비우스 그룹, 45억 달러 전환사채 발행 계획에 주가 하락",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "네비우스그룹, 45억 달러 전환사채 발행…주식 희석 우려에 급락",
+   "outlet": "매일경제 마켓",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "[美특징주]네비우스, 45억 달러 전환사채 발행…개장전 7% 하락",
+   "outlet": "edaily.co.kr",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "네비우스, 45억 달러 규모 전환사채 발행 계획",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "모더나, 머크, 아날로그 디바이스, 네비우스",
+   "outlet": "마켓인",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "오늘 네비우스 주가가 급락하는 이유?",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "네비우스 6% 하락, 45억달러 전환사채 계획",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "[유럽 특징주] 네비우스 13% 급락...데이터센터·AI 플랫폼 투자 위해 45...",
+   "outlet": "https://www.newspim.com/news/view/20260820000008",
+   "date": "2026-08-20",
+   "url": "https://www.newspim.com/news/view/20260820000008",
+   "via": "naver",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "세계 최초 'mRNA 암 백신' 3상 성공…176% 폭등한 회사-[美증시 특징주]",
+   "outlet": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608200212&t=NN",
+   "date": "2026-08-20",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608200212&t=NN",
+   "via": "naver",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "[마켓 브리핑] 美재무부 \"장기국채 바이백 규모 최소 두 배 확대\"",
+   "outlet": "https://biz.sbs.co.kr/article_hub/20000329602?division=NAVER",
+   "date": "2026-08-20",
+   "url": "https://biz.sbs.co.kr/article_hub/20000329602?division=NAVER",
+   "via": "naver",
+   "q": "네비우스 전환사채 45억 달러"
+  },
+  {
+   "headline": "Nebius plans $4.5 billion convertible debt sale to fund data centers, AI platform",
+   "outlet": "Reuters",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Nebius convertible notes 4.5 billion GPU"
+  }
+ ],
+ "6": [
+  {
+   "headline": "[미국 특징주] 마벨, 구글 AI 칩 전방위 개발 맡는다…주가 12%↑",
+   "outlet": "뉴스핌",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "마벨 구글 커스텀 칩 계약 지분 워런트"
+  },
+  {
+   "headline": "[미국 특징주] 마벨, 구글 AI 칩 전방위 개발 맡는다…주가 12%↑",
+   "outlet": "https://www.newspim.com/news/view/20260819001262",
+   "date": "2026-08-19",
+   "url": "https://www.newspim.com/news/view/20260819001262",
+   "via": "naver",
+   "q": "마벨 구글 커스텀 칩 계약 지분 워런트"
+  },
+  {
+   "headline": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal",
+   "outlet": "Yahoo Finance",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Marvell Google custom chip deal warrant 12.18 billion"
+  },
+  {
+   "headline": "Marvell Jumps 12% After Google Gets $12.2 Billion Warrant in Custom Chip Pact",
+   "outlet": "finance.biggo.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Marvell Google custom chip deal warrant 12.18 billion"
+  },
+  {
+   "headline": "Broadcom's Google Dilemma: When a Rival's Victory Becomes Your Headache",
+   "outlet": "Ad-hoc-news.de",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Marvell Google custom chip deal warrant 12.18 billion"
+  },
+  {
+   "headline": "Google Partners With Marvell to Expand Custom AI Chip Production",
+   "outlet": "sekbernews.id",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Marvell Google custom chip deal warrant 12.18 billion"
+  }
+ ],
+ "7": [
+  {
+   "headline": "Meta Launches Dedicated Mac App to Bring AI Tools to Businesses and Creators",
+   "outlet": "finance.biggo.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta adds AI-powered assistant for SMB owners",
+   "outlet": "Social Media Today",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta's new Mac app takes aim at creators, small businesses",
+   "outlet": "Yahoo Tech",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta AI gets new tools to analyse and optimise ad campaigns",
+   "outlet": "Marketing-Interactive",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta AI Adds Small Business Tools for Ads, Analytics and Reports",
+   "outlet": "smallbiztrends.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta introduces new AI features and Mac app for small businesses",
+   "outlet": "Mumbrella",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta's AI Payoff Has Already Begun (NASDAQ:META)",
+   "outlet": "Seeking Alpha",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "HoneyBook MCP Debuts as a Claude Connector for Client Pipelines, Invoices and Contracts",
+   "outlet": "markets.businessinsider.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta AI Lands on Mac With Screen Sharing and a Business Pitch",
+   "outlet": "Unite.AI",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Meta AI launches for Mac",
+   "outlet": "Social Media Today",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "Xero Announces New AI Innovations for Small Businesses and Accountants at Xerocon US",
+   "outlet": "01net.it",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  },
+  {
+   "headline": "OpenAI Is Taking Its Ad Business to 31 New European Markets",
+   "outlet": "ADWEEK",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Meta AI small business tools launch"
+  }
+ ],
+ "8": [
+  {
+   "headline": "Grok 4.6 on Amazon Bedrock",
+   "outlet": "x.ai",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "Amazon Adds Grok 4.6 to Bedrock",
+   "outlet": "TradingView",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "Grok 4.6 Is Now Generally Available on Amazon Bedrock",
+   "outlet": "Unite.AI",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "Grok 4.6 available now on Amazon Bedrock",
+   "outlet": "Breakingthenews.net",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "Midday Need to Know: Treasury boosts long-end buybacks, Grok 4.6 expands on AWS Bedrock, and more (SP500:)",
+   "outlet": "Seeking Alpha",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "SpaceXAI Launches Grok 4.6 On Amazon Bedrock",
+   "outlet": "TradingView",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "S&P 500 Closes at 7,705 as All Three Major Indexes Finish Higher",
+   "outlet": "24/7 Wall St.",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  },
+  {
+   "headline": "Sonic Fire Tech completes $15M seed financing for infrasound fire suppression",
+   "outlet": "Seeking Alpha",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Grok 4.6 Amazon Bedrock available"
+  }
+ ],
+ "9": [
+  {
+   "headline": "SpaceX, AI 코딩 스타트업 Cognition 인수 협상 진행했다",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스페이스X Cognition 인수 논의 Devin"
+  },
+  {
+   "headline": "90조 커서 인수 뒤…머스크, 39조 AI 기업 인수 불발",
+   "outlet": "리드경제",
+   "date": "2026-08-20",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스페이스X Cognition 인수 논의 Devin"
+  },
+  {
+   "headline": "[미국 특징주] 스페이스X, AI 코딩업체 코그니션 인수 타진…코그니션 \"매각 안 해\"",
+   "outlet": "네이트",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스페이스X Cognition 인수 논의 Devin"
+  },
+  {
+   "headline": "스페이스X, 데빈 개발사 코그니션 인수 접촉",
+   "outlet": "tokenpost.kr",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "스페이스X Cognition 인수 논의 Devin"
+  },
+  {
+   "headline": "[미국 특징주] 스페이스X, AI 코딩업체 코그니션 인수 타진…코그니션 ...",
+   "outlet": "https://www.newspim.com/news/view/20260820000025",
+   "date": "2026-08-20",
+   "url": "https://www.newspim.com/news/view/20260820000025",
+   "via": "naver",
+   "q": "스페이스X Cognition 인수 논의 Devin"
+  },
+  {
+   "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+   "outlet": "TechCrunch",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  },
+  {
+   "headline": "Five days after buying Cursor for $60bn, SpaceX tried to buy Cognition",
+   "outlet": "thenextweb.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  },
+  {
+   "headline": "Elon Musk’s AI Startup Acquisition Fails to Land as Cognition Rebuffs SpaceX Buyout",
+   "outlet": "BeInCrypto",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  },
+  {
+   "headline": "Cognition CEO Denies SpaceX Acquisition Talks as AI Competition Intensifies",
+   "outlet": "Межа. Новини України.",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  },
+  {
+   "headline": "SpaceX Fails to Acquire AI Startup Cognition AI Inc.",
+   "outlet": "KuCoin",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  },
+  {
+   "headline": "Cognition's CEO denied reports of negotiations regarding the sale of the startup to SpaceX",
+   "outlet": "UA.NEWS",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  },
+  {
+   "headline": "Cognition CEO Denies Bloomberg Report That SpaceX Tried To Acquire The AI Startup",
+   "outlet": "Bitcoin World",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "SpaceX Cognition acquisition talks Devin"
+  }
+ ],
+ "10": [
+  {
+   "headline": "Fractile targets $6.5B valuation with $600M raise after Anthropic chip deal",
+   "outlet": "Dealroom",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Fractile raises 600 million Anthropic inference chip"
+  },
+  {
+   "headline": "Fractile in talks for $6.5B valuation, a sixfold jump from its May round",
+   "outlet": "cryptobriefing.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Fractile raises 600 million Anthropic inference chip"
+  },
+  {
+   "headline": "OpenAI previews Private Safety Processing for Zero Data Retention customers",
+   "outlet": "cryptobriefing.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Fractile raises 600 million Anthropic inference chip"
+  }
+ ],
+ "11": [
+  {
+   "headline": "팔란티어, 30일 내 두 번째 주권 부트캠프 개최",
+   "outlet": "Investing.com 한국어",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-ko",
+   "q": "팔란티어 Sovereignty Bootcamp"
+  },
+  {
+   "headline": "Palantir's Sovereignty Bootcamps Draw Nearly 200 Organizations in",
+   "outlet": "Yahoo Finance",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Palantir Sovereignty Bootcamp AI sovereignty"
+  },
+  {
+   "headline": "Palantir (NASDAQ: PLTR) Sovereignty Bootcamps Attract Nearly 200 Organizations Across Two Events In Under 30 Days",
+   "outlet": "foreignpolicyjournal.com",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Palantir Sovereignty Bootcamp AI sovereignty"
+  },
+  {
+   "headline": "Palantir holds second AI sovereignty bootcamp within 30 days",
+   "outlet": "StreetInsider",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Palantir Sovereignty Bootcamp AI sovereignty"
+  },
+  {
+   "headline": "Palantir hosts second sovereignty bootcamp in under 30 days By Investing.com",
+   "outlet": "Investing.com India",
+   "date": "2026-08-19",
+   "url": null,
+   "via": "gnews-en",
+   "q": "Palantir Sovereignty Bootcamp AI sovereignty"
+  }
+ ]
+}

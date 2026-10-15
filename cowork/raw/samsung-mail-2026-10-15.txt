@@ -1,0 +1,23 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 9개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. [서학개미 안테나] 앤트로픽, 3분기 매출 168억달러…IPO 앞두고 수익성 입증 (EBN)
+o 링크: [ebn.co.kr/news/articleView.html?idxno=1727896](https://www.ebn.co.kr/news/articleView.html?idxno=1727896)
+2. Preparing for the 2026 US midterms (Anthropic 공식 발표)
+o 링크: [anthropic.com/news/2026-us-midterms](https://www.anthropic.com/news/2026-us-midterms)
+3. Anthropic Licenses Opaque Systems' Confidential AI Technology (토큰포스트)
+o 링크: [tokenpost.com/news/technology/32044](https://www.tokenpost.com/news/technology/32044)
+4. OpenAI hands its data centre and compute operation to a former xAI executive (The Next Web)
+o 링크: [thenextweb.com/news/openai-ruddarraju-compute-infrastructure](https://thenextweb.com/news/openai-ruddarraju-compute-infrastructure)
+5. 오픈AI, 애플에 맞소송 검토…"미공개 기기 기밀 100여건 유출" (핀포인트뉴스)
+o 링크: [pinpointnews.co.kr/news/articleView.html?idxno=495374](https://www.pinpointnews.co.kr/news/articleView.html?idxno=495374)
+6. "챗GPT는 청소년 유해물"…美 8개 주, 오픈AI 제소 (ZDNet Korea)
+o 링크: [zdnet.co.kr/view?no=20261015080659](https://zdnet.co.kr/view/?no=20261015080659)
+7. OpenAI reports eightfold rise in EU small-business agent users (Crypto Briefing)
+o 링크: [cryptobriefing.com/openai-eu-small-business-ai-agents-growth](https://cryptobriefing.com/openai-eu-small-business-ai-agents-growth/)
+8. xAI Introduces Grok Voice 3.0 Speech-to-Speech Model for Voice Agents (Unite.AI)
+o 링크: [unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents](https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/)
+9. 코어위브 채권 '부실' 수준 하락…CEO "시장이 비이성적으로 움직여" (ZDNet Korea)
+o 링크: [zdnet.co.kr/view?no=20261015090506](https://zdnet.co.kr/view/?no=20261015090506)
+
+## 텔레그램 - 에이닷비즈뉴스레터

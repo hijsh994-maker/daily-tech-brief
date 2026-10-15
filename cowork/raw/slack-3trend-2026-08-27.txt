@@ -1,0 +1,14 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-08-27 09:00:00 KST === 
+Message TS: 1787788800.264159
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSnZnTHBQMFJEcERCcTljcE1Fa1BadHI4WUpyYWt6VjFyRl94Wm5SZjIwMElfUlBTQVBkRUxFblhpWGE3cVBYUUJhOWNzZw?oc=5|엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대 매출 - 매일경제> 
+- <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNckh0Sng0a1B1UHEzTVN6VDBLdFduWXB3V1RZUnFaYXJvRUFCaUkxdktvcXRnR2FZTVJnZTJ0QmZMWEZ0TEt0V2UtanJWZw?oc=5|세일즈포스, 2분기 매출 11% 증가…앤트로픽과 AI 협력 확대 - 전자신문> 
+- <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuZmxWU05PTGJvampIUVo2VlFFdUlYNG9EdHNjZ0hpTHkzRkhrOEFkcmROY1VjSFcxQVdXMVFhbGN0NU1abnVpRUd0b3M1am9XSjNmVWd2NUsxQQ?oc=5|'모두의 AI' 선정, 이르면 이번주…5개팀이 그린 '국민 AI'는? - 파이낸셜뉴스> 
+- <https://news.nate.com/view/20260826n36414|'K-보안 AI' 국가대표는 누구…SKT vs 네이버클라우드 정면승부> 
+- <https://news.nate.com/view/20260826n32425|'오상욱·박혜정·황선우 출격'…SKT, 국가대표 훈련에 AI 입혔다> 
+- <https://news.nate.com/view/20260827n04886|구글, 85개 언어 알아듣는 '제미나이3.5' 음성 AI 공개…"말...> 
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRnhuSGpsOEtkVEFuS0FVdFc4Uy1lbENoa2kwTUN0MXpuTGxzbXdPZnhmYjhWaWxZYy1WMEdEN1h3SXlQX1JqcHFieUc3YnBXT3VOSnlLcGIwODJmUnhRMnVMcUNyM2dnVzh4UGVicm_SAXRBVV95cUxNQ2lpWHVldFdtSFRFNnFKSFNWQmg4OWM1dVF1SFJVeF9XUDdFQk1kQ3NoWUtwbHZYOVlGWll5MU03ZGpSVzBzSjdZMWZGRHZIdTRUMC1lbUt4WUNYZU1zWldHeklZR1J2ZEVjX3BwYkdYc09vUA?oc=5|저커버그의 장밋빛 ‘초지능 선언’이 비판받는 이유 [줌인IT] - IT조선> 
+- <https://news.nate.com/view/20260827n04880|메타, AI 중심 조직개편안 보류…수천명 추가 감원 계획 멈췄나> 
+- <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VmFEYXpHRS1ma2JLcUxtODhSSkVYMml0VWx0MlZLMlkxVVpPZTVyUzBwaTBra0VuVlVwRWhBaURfU1ZlN284YTRXZGMxS2V3bGc4SkdhTFpwYnFzOEtYUw?oc=5|의존 낮추고 AI 최적화…삼성·애플·샤오미 ‘자체 칩’ 승부 - 뉴스토마토> 
+- <https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWxWdXZ1TGFsdTBSX25jVFAxNFhzSHNyXzRqYlhkTllRNEpWajNMZ1FwV09XX1N3MTBqRU96ZnFUcUNvdWxMclhHNm1DUmxhS0NUZmhGbHA1NUpwMUdERWFiOXBsTFo0N0hvbDVwcjJKQjNWLXZibmdGQUVZRWdydzBHSlBQam5QOUxfcm9IYjQ3UHVGWGp4LVJ4Wjd5dkl1OGZobkhR?oc=5|오케스트레이션은 AI 에이전트 시대의 고객 경험(CX)에 대한 새로운 도전 과제입니다 - 벤처비트>

@@ -1,0 +1,26 @@
+{"messages":"Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from Slackbot (USLACKBOT) at 2026-09-14 09:50:01 KST === 
+Message TS: 1789347001.175279
+
+Files: [AQTR] A.(에이닷) - 나만의 AI 개인비서 (26.8월) - App Quality Trend Report (ID: F0C13LS61V5, text/html, 3.8 MB)
+
+=== Message from AI Daily News <botuser-T04L46M7STT-B04LMTE7UK1@slack-bots.com> (U04M2AC692P) at 2026-09-14 09:00:08 KST === 
+Message TS: 1789344008.428519
+- <https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTWtuOXFlVWQ4aVpjQkZIay1xSWpSS2dmX1ZXTWd1WU03N0FJVjMzdExwbWVoUWtWLVFFNWlQcld2Y294SUlWeGZKcGk2UWRqdE9EM3VJUnlfYnNOVHVFSWZWT2NiVDhIR2JuY1BB?oc=5|6년 공들인 코어라인소프트…日서 자체 폐결절 AI로 시장 공략 본격화 - 팜이데일리> 
+- <https://news.nate.com/view/20260914n00641|서북부 경남 4개 군-SKT, '찾아가는 서비스' 업무협약 체결> 
+- <https://news.nate.com/view/20260913n14611|SKT, 경남 4개군 고령층 디지털 격차 해소 앞장> 
+- <https://news.nate.com/view/20260913n08837|65세 이상 40% 넘는 지역서 SKT, 보이스피싱 예방 돕는다 등> 
+- <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CYmoxckVzWjZQcVFnaDBLQmdEOUppdkc0SXlDVFo1T2x3cDF2eTVaWFZjUFdMbWJ5N2t1OXdySjExd0JNekVvMWNnTjlFS0ZvUmMwQnEyeWZZdjZFM3hqbA?oc=5|실행형 AI VS 연결형 AI…'모두의 AI' 선점 나선 SKT·KT - 뉴스토마토> 
+- <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1td3ppT1lsUHd4QUtLVVpRVUFYaHk1VndvdWZFM0NVaGxVd1k1RWlHZmpGXzBnVEthYnJnckdnTG0zb0F0NHZpOW5UMGFMVGNzTkEtYmdRcXkzbEhmX2pPUDNVQmY3UQ?oc=5|금융권, 추석 연휴 앞두고 소상공인·중소기업에 102조 원 공급 - KBS 뉴스> 
+- <https://news.google.com/rss/articles/CBMijgFBVV95cUxNcTFMeUpNNk5SM2pWSlpXVkxUb1BIdVZrYkFPYllvN2c4VHFTTGNWcDk0LU5JS1Y0YWhEMExuWkZMOWZFandHdXlpWHlCZXA3RUtjNmxvSHRUb1pPeGZyYmZfRUlBUVMtSGxKY2J2d3dKQmNOYVQ0Z3BndzJKSlFTOFUyRnlLRGpURTlxNWh3?oc=5|AI 챗봇이 문의 93% 직접 처리… ‘에이닷’으로 시청 경험 혁신 - 조선일보> 
+- <https://news.google.com/rss/articles/CBMicEFVX3lxTE51TTZJUGwzaDVaUWJNUHRFb0R2LXQ3NFh3Rk95VFFZdXQ4TkRLNE9hN1RFMlduRnRMUXhiejVQVnJCNGE5RGFtSHVyRkJsaDFxaE5xYUhOZms4UUZyWTdDdzB6bEFwSWhDLUJwa3l0aEfSAXRBVV95cUxNX2lPTHE0VTNiQWJjTzRISnEzaGxYN2lhbnRSSUFZRXVWMWxyRDhWRmd0c3REckhGYVFESmhiNzhxSXNDdWpKMUlZdFY3MW42V0ZRR1BmOGdXSW54c3VkYm1uYTltMWNUMVJvOG5oczg2aUs4TQ?oc=5|AGI는 선언이 아니라 ‘위임’이다 [윤석빈의 Thinking] - IT조선> 
+- <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5md1d5X0MwZzRMVjBNOG5RaTd6bTFIWklvUVhOZUdKdi02bGJWdUZrSTljY0RYdHRwdVp3RnVKNFowN2FSS1NPTTJKTUJGTVB1SkE?oc=5|올트먼·아모데이, 머스크까지 “AI 속도 늦추자” 한목소리 … 반도체 시장도 긴장 - 매일경제> 
+- <https://news.google.com/rss/articles/CBMiekFVX3lxTE4tMFpRZFFfblRnNnkxcVlsd1JXNWRWbUVNaU80aXNMVF94QldPb1BWaXh0MjZ3UUVVNXVVMEFJZFZsb2hQWFYzX3B4SDdJOWp1ZWllZEJKMXJ4TlF0RGdQVkNDbzhzODc1bHNjTHRpWFVybUtiSHFqeUF30gF6QVVfeXFMTi0wWlFkUV9uVGc2eTFxWWx3Ulc1ZFZtRU1pTzRpc0xUX3hCV09vUFZpeHQyNndRRVU1dVUwQUlkVmxvaFBYVjNfcHhIN0k5anVlaWVkQkoxcnhOUXREZ1BWQ0NvOHM4NzVsc2NMdGlYVXJtS2JIcWp5QXc?oc=5|'AI 폭주' 공포‥빅테크 CEO들 "속도 늦추자" - MBC 뉴스> 
+- <https://news.google.com/rss/articles/CBMigAFBVV95cUxPMlR6VVRCYTBmYno0Z0pRX0c2WDZ1N3FMdERyS1hFRjNYQXZWbTBJVXNsR182ODJiaTcyeUw2NlFhYXFlTTNuMkRITS1oVHFxcWhKTFhkV3ZFS2pfd1NYRmFad20ycl9fYURubTU4dGstTzB4S3BObXZlV2hGQlNyMw?oc=5|"AI가 인류 죽일 확률 10%"… 통제 불능 AI 앞 인류는 침팬지 신세 - 조선일보> 
+- <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gay1SaF9IX3YxbjZXRUJQaUw4QWhYNGJfM0ZXTXU2NkJVZWU4VERLeUFEcHpQVTUycGYtVFNia2kxcDZIUW5Bb0FwVTNVWldIcXc?oc=5|[AI프리즘] '속도'에서 '통제'로…AI 경쟁의 판이 바뀐다 - 매일경제 마켓> 
+- <https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGhlTzc5NDNLaEJwYk1GMmh0OF9UeTRLN2RQaGRaU0lSdWhqalREb0FHRFcyenFYclcweGE0ZXZBc2t3NEF1UzhldnpVZ3BwdjFuV3U4bURZWUh3ME9Ma1dMQm5NX2Y4MGZWdUZzcWV3LWpYOXNZZW5UWDJwbHdtR20wTTlMRThkZUVWTzZfak5jZw?oc=5|AI 산업의 최신 경고 뒤에 숨겨진 이유는? - TechCrunch> 
+- <https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWwzZ3VDNGd3Q3ZLYWNSakhCM0hrYlFpTm1uNWtnSC05Nm1CUjFwQTR5cnBqVEhhRXI5MlNfRVpJcFFoVXVPWnQ5Tjc4Mldpd1NBY25qcHNxY0gzZ2s2TXpsRnhPT0ZwbWhvZ0k1S3VhRHdSU1BZcUppV254Yjh2WVJmYXZaVnU1TTNpaC1kSzR3TG1OR2d1MTdFdm54Y1VPTFlBYlJWTGZjUHA4X1ZmdVNDZ1pUZw?oc=5|드로이클로우, 에이전틱 시대를 위한 AI 네이티브 운영 체제 구축 - TechCrunch> 
+- <https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5|앤트로픽 연구원 퇴사, AI를 인류의 존재적 위협으로 지목 - Mashable> 
+- <https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RJamhqX0hPWHh3Rng3dU9HQmhCZ0Y1TUd6SW5YOXBfRXA5MVhjenZrWnV1eU9kaVMxRGNvdUdZbW1Ic1dvNVNBNWhMNjY2WUYxWm8zeHdCQ1QzbGxrdy12VTdOUVNZZHp4YkcweU1pYnV0dkJJN3R4anhIakJ5dHp4N1d5Qlk?oc=5|오픈AI, AI 안전 우려로 IPO 계획 중단 - PYMNTS.com>","pagination_info":"There are no more messages available.
+"}

@@ -1,0 +1,23 @@
+# ---- 비밀키: 절대 커밋하지 않는다 (별도 비공개 저장소 dtb-secrets 에 둔다)
+cowork/secrets.env
+cowork/secrets.env.bak*
+
+# ---- 당일만 쓰는 큰 캐시 (매일 새로 받는다)
+out/bodycache-*.json
+out/t2cache-*.json
+out/preview-*.txt
+out/~$*
+
+# ---- 윈도우 예약작업(collect.py)의 사용자 DB. 클라우드는 cowork-articles.sqlite 만 쓴다
+index/articles.sqlite
+index/articles.sqlite-journal
+
+# ---- 이관 꾸러미·백업·임시
+_이관-꾸러미-*/
+_클라우드-꾸러미*.zip
+_to_delete*
+*.bak-*
+__pycache__/
+*.pyc
+ziNGioSs
+zieH8Xwz

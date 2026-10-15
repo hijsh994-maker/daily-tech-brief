@@ -1,0 +1,513 @@
+{
+ "date": "2026-10-08",
+ "terms": [
+  {
+   "term": "Kolibri",
+   "norm": "kolibri",
+   "n_outlets": 20,
+   "n_today": 2,
+   "outlets": [
+    "Crypto Briefing",
+    "Cybernews",
+    "Dealroom",
+    "EU-Startups",
+    "HuggingFace",
+    "MarkTechPost",
+    "OfficeChai",
+    "Online Tech Tips"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "EU-Startups(10-06) | Germany's Aleph Alpha releases Kolibri, a sovereign AI model for mission-critica",
+    "Cybernews(10-06) | Germany’s sovereign AI model Kolibri challenges US and Chinese rivals",
+    "Startup Fortune(10-06) | Aleph Alpha launches Kolibri, a sovereign German AI model for government use",
+    "디지털투데이 | German sovereign AI model Kolibri unveiled with 78.1 billion parameters",
+    "azat.tv | German AI Developer Releases Open-Weights Kolibri Model for On-Premises Security"
+   ],
+   "score": 18
+  },
+  {
+   "term": "Dots",
+   "norm": "dots",
+   "n_outlets": 102,
+   "n_today": 9,
+   "outlets": [
+    "ADWEEK",
+    "AI Insider",
+    "Adgully.com",
+    "Al Jazeera",
+    "Axios",
+    "BBC",
+    "BankInfoSecurity",
+    "Barron's"
+   ],
+   "days": 5,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Investing.com 한국어(09-30) | OpenAI, GPT-6 Astra 기반 AI 에이전트 ’Dots’ 출시",
+    "edaily.co.kr(09-30) | 오픈AI, 시키지 않아도 계속 일하는 AI 에이전트 ‘닷(dots)’ 공개",
+    "토큰포스트(09-30) | 오픈AI, Dots·GPT-6.1 Sol 공개…월 500달러 요금제",
+    "디지털비즈온 | 해킹 사고 다음날…오픈AI 새 AI 에이전트 '닷(Dots)' 공개",
+    "Campus Technology | OpenAI Introduces Dots, AI Agents that Continue Working Between User Conversatio",
+    "조선일보 | AI Agents Dots and Muse: Digital Avatars"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Ultrafast",
+   "norm": "ultrafast",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "GitHub",
+    "Investing.com",
+    "MIXED Reality News",
+    "NVIDIA Blog",
+    "OfficeChai",
+    "Quantum Zeitgeist",
+    "The Tech Buzz"
+   ],
+   "days": 5,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "VentureBeat(09-30) | OpenAI's GPT-6.1 Sol offers Astra-like performance at 1/5th price. A new Ultrafa",
+    "OfficeChai(10-01) | OpenAI's GPT 6.1 Sol Ultrafast Is Not Running On Cerebras But On NVIDIA GPUs, Sa",
+    "Investing.com(10-01) | Cerebras stock slides as Nvidia reportedly powers OpenAI’s ’Ultrafast’ tier",
+    "BigGo Finance | I love Ultrafast (it's unusable)｜Theo - t3.gg"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Reflection",
+   "norm": "reflection",
+   "n_outlets": 67,
+   "n_today": 4,
+   "outlets": [
+    "AI Business",
+    "AI Magazine",
+    "ASHARQ AL-AWSAT English",
+    "Axios",
+    "Belaaz",
+    "Benzinga",
+    "BigGo Finance",
+    "Bloomberg.com"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "techflowpost.com(10-06) | TechFlow 인텔리전스: OKX, NYSE 모회사와 제휴해 토큰화 주식 거래 출시… NVIDIA 지원 Reflection이 오픈소스 모델로 ",
+    "Kingy AI(10-06) | Reflection AI Factory: Sovereign Clouds & Compute",
+    "Silicon UK | Nvidia-Backed Reflection Enters Open-Weight AI Race",
+    "AI Business | Reflection Beam aims U.S. open-weight AI model at Chinese rivals",
+    "Dealroom | Reflection launches Beam, a 501B open-weight model to rival Chinese labs"
+   ],
+   "score": 14
+  },
+  {
+   "term": "닷츠",
+   "norm": "닷츠",
+   "n_outlets": 46,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "ER 이코노믹리뷰",
+    "JTBC",
+    "KBS 뉴스",
+    "MTN 머니투데이방송",
+    "M이코노미뉴스",
+    "The Miilk",
+    "TradingView"
+   ],
+   "days": 6,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(09-30) | 오픈AI, 가성비 모델 'GPT-6.1 솔'·AI 에이전트 '닷츠' 공개",
+    "연합뉴스(09-30) | 오픈AI, AI에이전트 '닷츠' 공개…월 500달러 요금제도 신설(종합)",
+    "오피니언뉴스(09-30) | 오픈AI, AI 에이전트 '닷츠' 공개",
+    "한국일보 | 오픈AI 새 에이전트 '닷츠' 써봤더니…\"인터뷰 연락해 봐\" 제안도"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Beam",
+   "norm": "beam",
+   "n_outlets": 41,
+   "n_today": 2,
+   "outlets": [
+    "AI Business",
+    "BigGo Finance",
+    "Business Insider",
+    "CNBC",
+    "CXO Digitalpulse",
+    "Chosunbiz",
+    "Crypto Briefing",
+    "Cryptopolitan"
+   ],
+   "days": 3,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(10-06) | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "TechCrunch(10-06) | Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower",
+    "shattered.io(10-06) | Reflection AI’s Beam Claims 4x Less Compute [2026]",
+    "AI Business | Reflection Beam aims U.S. open-weight AI model at Chinese rivals",
+    "Dealroom | Reflection launches Beam, a 501B open-weight model to rival Chinese labs"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Lisa Su",
+   "norm": "lisasu",
+   "n_outlets": 11,
+   "n_today": 6,
+   "outlets": [
+    "Benzinga",
+    "Chosunbiz",
+    "Seoul Economic Daily",
+    "Tech Times",
+    "TradingView",
+    "digitimes",
+    "electronics.economictimes.indiatimes.com",
+    "igor´sLAB"
+   ],
+   "days": 4,
+   "first": "2026-10-01",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Chosunbiz(10-01) | Lisa Su returns to Korea to cement AMD deals with Samsung and AI chipmakers - CH",
+    "digitimes(10-02) | Commentary: AMD challenges Nvidia in embodied AI as Lisa Su acquires Fei-Fei Li'",
+    "Benzinga(10-07) | AMD’s Monster 2026 Rally Gets Fresh Fuel From Lisa Su’s 2027 AI Supply Push",
+    "Seoul Economic Daily | AMD's Lisa Su Meets Samsung, Eyes Broader Tie-Up in Physical AI",
+    "디지털투데이 | South Korean AI chip firms look to expand 'sovereign AI' on AMD open ecosystem a",
+    "아시아경제 | Korean AI Companies Meet AMD for \"Open Ecosystem Cooperation\"... Lisa Su Says \"C"
+   ],
+   "score": 14
+  },
+  {
+   "term": "IROS",
+   "norm": "iros",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "AI넷",
+    "AndroidGuys",
+    "Gadget Review",
+    "PR Newswire",
+    "StreetInsider",
+    "The Malaysian Reserve",
+    "Yahoo Finance",
+    "english.kyodonews.net"
+   ],
+   "days": 4,
+   "first": "2026-10-01",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "로봇신문(10-01) | 中 다이몬 로보틱스,'IROS 2026'서 촉각 기반 피지컬 AI 기술 공개",
+    "PR Newswire(10-01) | Daimon Robotics Showcases Tactile Intelligence Infrastructure for Physical AI at",
+    "AndroidGuys(10-01) | Astribot Launches T1 Humanoid Robot at IROS 2026 Expo",
+    "로봇신문 | DGIST 김기섭 교수팀, 세계 최고 권위 로봇학회 ‘IROS 2026’ 최우수 논문상",
+    "로봇신문 | DGIST 김기섭 교수팀, 세계 최고 권위 로봇학회 ‘IROS 2026’ 최우수 논문상"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Chonk",
+   "norm": "chonk",
+   "n_outlets": 29,
+   "n_today": 11,
+   "outlets": [
+    "Ars Technica",
+    "Briefs Finance",
+    "CNET",
+    "DW.com",
+    "Dealroom",
+    "GIGAZINE",
+    "HN",
+    "IT Pro"
+   ],
+   "days": 2,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The Register(10-07) | European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "VentureBeat(10-07) | Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with",
+    "WIRED(10-07) | Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outsid",
+    "Konsulteer | Mistral Unveils \"Chonk\", Its Biggest Open-Weight Model, in Sovereign AI Push",
+    "Malay Mail | Mistral launches ‘Chonk’ to give clients full control over their data in soverei",
+    "Silicon UK | Mistral Steps Up Open-Weight Competition With ‘Le Chonk’"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Le Chonk",
+   "norm": "lechonk",
+   "n_outlets": 25,
+   "n_today": 9,
+   "outlets": [
+    "Ars Technica",
+    "Briefs Finance",
+    "CNET",
+    "DW.com",
+    "Dealroom",
+    "GIGAZINE",
+    "HN",
+    "IT Pro"
+   ],
+   "days": 2,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The Register(10-07) | European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "VentureBeat(10-07) | Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with",
+    "WIRED(10-07) | Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outsid",
+    "Silicon UK | Mistral Steps Up Open-Weight Competition With ‘Le Chonk’",
+    "News9live | Mistral unveils Le Chonk, a trillion-parameter open-weight AI model",
+    "IT Pro | Meet Le Chonk: Everything you need to know about Mistral's new open-weight AI mo"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Mistral Large",
+   "norm": "mistrallarge",
+   "n_outlets": 18,
+   "n_today": 7,
+   "outlets": [
+    "AI Insider",
+    "AI Magazine",
+    "Dataconomy",
+    "Forkast News",
+    "GIGAZINE",
+    "HN",
+    "Kingy AI",
+    "MarkTechPost"
+   ],
+   "days": 2,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Unite.AI(10-07) | 벤치마크 업체가 Mistral Large 4 Preview에 38점 인텔리전스 점수를 부여",
+    "디지털투데이(10-07) | Mistral unveils 1-trillion-parameter open-weight model Mistral Large 4",
+    "shattered.io(10-07) | Mistral Large 4 'Le Chonk': 675B-Param MoE Model",
+    "AI Insider | Mistral AI Releases Trillion-Parameter Mistral Large 4 as Europe’s Alternative t",
+    "ProPakistani | Mistral Large 4 Takes on GPT-6 Astra With 1 Trillion Parameters Model",
+    "XenoSpectrum | Mistral Large 4 Preview Launches With 1.05 Trillion Parameters: Pricing and Benc"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Claude Haiku",
+   "norm": "claudehaiku",
+   "n_outlets": 21,
+   "n_today": 21,
+   "outlets": [
+    "Benzinga",
+    "Brand Icon Image",
+    "Breakingthenews.net",
+    "CoinGape",
+    "Firstpost",
+    "HN",
+    "Kingy AI",
+    "Latest news from Azerbaijan"
+   ],
+   "days": 1,
+   "first": "2026-10-08",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI | Anthropic, Claude Haiku 5.5 출시, 소형 모델 API 가격 인하",
+    "Kingy AI | Claude Haiku 5.5: Benchmarks, Specs, Pricing and How It Compares with GPT-6 Sol ",
+    "Benzinga | Anthropic Takes Aim At AI Costs With Claude Haiku 5.5",
+    "The Tech Portal | Claude Haiku 5.5 is Anthropic’s most capable small model yet, and its far cheape",
+    "Brand Icon Image | Anthropic Unveils Claude Haiku 5.5 as AI Race Intensifies",
+    "VentureBeat | Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6"
+   ],
+   "score": 12
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "FESTA",
+   "norm": "festa",
+   "n_outlets": 23,
+   "n_today": 3,
+   "outlets": [
+    "BigGo Finance",
+    "ER 이코노믹리뷰",
+    "beSUCCESS",
+    "edaily.co.kr",
+    "finance.biggo.com",
+    "https://www.kmjournal.net/",
+    "kmjournal.net",
+    "mt.co.kr"
+   ],
+   "days": 5,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "kmjournal.net(09-29) | [마이스] AI 에이전트·피지컬 AI 한자리에…‘AI FESTA 26’ 10월 6일 개막",
+    "헬로티(09-29) | 코난테크놀로지, AI FESTA 26 참가…국방 AI 로드맵 제시",
+    "뉴스핌(09-29) | 코난테크놀로지, 'AI FESTA 26' 국방AI특별관 참가",
+    "부산일보 | 남부발전, ‘AI First’ 경영 결실…‘AI FESTA 2026’ 피지컬AI 기술 출품",
+    "데이터뉴스 | 위즈코어, ‘AI Festa 26’서 제조 현장 AI 기술 선보여",
+    "비즈트리뷴 | KT, AI Festa서 AX 청사진… 업무부터 제조 현장까지 연결"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI DevDay",
+   "norm": "openaidevday",
+   "n_outlets": 15,
+   "n_today": 1,
+   "outlets": [
+    "CNET",
+    "Memeburn",
+    "Tech Times",
+    "The Futurum Group",
+    "The Tech Buzz",
+    "The Verge",
+    "TradingKey",
+    "UC Today"
+   ],
+   "days": 7,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(09-29) | OpenAI DevDay 2026 — The Agent Platform Race Arrives at OpenAI’s Doorstep",
+    "TradingKey(09-29) | OpenAI DevDay Approaches: Will Cybersecurity, Enterprise Agents, and Creator Too",
+    "rswebsols.com(09-29) | OpenAI DevDay Preview: Cybersecurity, Enterprise Agents, Creator Tools",
+    "UC Today | OpenAI DevDay 2026 and the Agent Race in Task Management"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI Dots",
+   "norm": "openaidots",
+   "n_outlets": 15,
+   "n_today": 2,
+   "outlets": [
+    "BankInfoSecurity",
+    "Forbes",
+    "Geeky Gadgets",
+    "Hindustan Times",
+    "IndexBox",
+    "KDnuggets",
+    "LatestLY",
+    "Memeburn"
+   ],
+   "days": 5,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "shattered.io(09-30) | OpenAI dots vs Meta Muse: AI Agent Rivalry [2026]",
+    "tech-insider.org(09-30) | OpenAI Dots vs Meta Muse: 4,000-App Enterprise Agent",
+    "BankInfoSecurity(09-30) | OpenAI Dots Pushes Always-on Agents Into the Enterprise",
+    "The Register | OpenAI dots inspire open source imitators amid technical difficulties",
+    "KDnuggets | OpenAI Dots: The Data Scientist’s Reality Check"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Sierra",
+   "norm": "sierra",
+   "n_outlets": 11,
+   "n_today": 5,
+   "outlets": [
+    "Breakingthenews.net",
+    "CMSWire",
+    "Constellation Research",
+    "NeoTeo",
+    "Sierra AI Agents",
+    "SiliconANGLE",
+    "StreetInsider",
+    "The Futurum Group"
+   ],
+   "days": 4,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Sierra AI Agents(09-30) | Sierra joins the OpenAI Marketplace",
+    "The Futurum Group(10-01) | Sierra Joins OpenAI Marketplace: A Distribution Play for Enterprise AI Agents",
+    "The Next Web(10-07) | Sierra announces Personal Agent Protocol, an open standard for personal AI agent",
+    "Unite.AI | Sierra, 전화 통화에서 AI 에이전트 호출을 감지하는 Fleming-1을 출시",
+    "Constellation Research | Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal",
+    "NeoTeo | Meta and Sierra announced plans for an AI agent protocol"
+   ],
+   "score": 10
+  },
+  {
+   "term": "진트",
+   "norm": "진트",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "데일리시큐",
+    "디지털데일리",
+    "보안뉴스",
+    "서울경제",
+    "전자신문",
+    "지디넷코리아",
+    "지티티코리아"
+   ],
+   "days": 4,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털데일리(09-30) | 티오리 `진트`, 美 국방기관 `AI 통신 앱 보안` 연구사업 수행",
+    "데일리시큐(09-30) | 티오리 ‘진트’, 美 DARPA 연구 투입…AI로 국방 통신 앱 취약점 찾는다",
+    "지티티코리아(09-30) | 티오리, DARPA ‘AI 통신 앱 보안’ 연구 수행...진트로 취약점·공급망 위험 분석",
+    "서울경제 | 티오리, 컨설팅·교육 접고 ‘진트’ 올인…“AI 모의해킹 중심 재편”"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Infinite Uptime",
+   "norm": "infiniteuptime",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "ET Enterprise AI",
+    "Pulse 2.0",
+    "The Tribune",
+    "analyticsindiamag.com",
+    "crnasia.com",
+    "konsulteer.com",
+    "uniindia.com"
+   ],
+   "days": 4,
+   "first": "2026-10-01",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Pulse 2.0(09-30) | Infinite Uptime And Tech Mahindra Partner To Scale Physical AI In Manufacturing",
+    "konsulteer.com(10-01) | Infinite Uptime and Tech Mahindra Partner to Scale Physical AI in Manufacturing",
+    "analyticsindiamag.com(10-01) | Tech Mahindra, Infinite Uptime to Scale Physical AI in Manufacturing",
+    "ET Enterprise AI | Tech Mahindra ties up with Infinite Uptime to help manufacturers detect potentia"
+   ],
+   "score": 10
+  }
+ ]
+}

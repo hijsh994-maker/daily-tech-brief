@@ -1,0 +1,83 @@
+{
+ "date": "2026-06-16",
+ "items": [
+  {
+   "title": "New AI Tools to Help You Make Things Happen on Facebook",
+   "outlet": "Meta newsroom",
+   "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Anthropic Just Quietly Raised Claude Pro Bill",
+   "outlet": "levelup.gitconnected.com[[levelup.gitconnected.com]]",
+   "url": "https://levelup.gitconnected.com/anthropic-will-quietly-reprice-your-claude-pro-plan-on-june-15-the-free-20-credit-replacing-1ebd922a7786",
+   "category": "AI Model"
+  },
+  {
+   "title": "\"클로드 AI 사용한도 부풀려 판매\"… 앤트로픽, 美소비자에 피소",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/06/16/LGPIYT4CRRCG7GCXAHSPWAELLI/",
+   "category": "AI Model"
+  },
+  {
+   "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
+   "outlet": "marktechpost.com[[marktechpost.com]]",
+   "url": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "Microsoft Work IQ APIs go GA on June 16: what agent builders get",
+   "outlet": "LinkLoot",
+   "url": "https://linkloot.io/blog/microsoft-work-iq-apis-ga-june-2026",
+   "category": "AI Agent"
+  },
+  {
+   "title": "Introducing the OpenAI Partner Network",
+   "outlet": "OpenAI blog",
+   "url": "https://openai.com/index/introducing-openai-partner-network/",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "SK, 美 AI 데이터센터 구축 검토…하이닉스 앞세워 인프라 확장 추진",
+   "outlet": "ZDNet Korea",
+   "url": "https://n.news.naver.com/mnews/article/092/0002426776?sid=105",
+   "category": "AI DC"
+  },
+  {
+   "title": "엔비디아 빈자리 메운다… 바이트댄스, 중국산 AI칩 확대",
+   "outlet": "IT조선",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092163894",
+   "category": "AI DC"
+  },
+  {
+   "title": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first months of 2026",
+   "outlet": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs",
+   "category": "AI DC"
+  },
+  {
+   "title": "\"AI 모델 경쟁은 끝났다\"…전력·데이터·제도가 新전장",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260616000134",
+   "category": "AI DC"
+  },
+  {
+   "title": "AI 데이터센터 냉각 전력 10분의 1로…초고효율 액체 냉각 기술 개발",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/local/daejeon-chungnam/6198538",
+   "category": "AI DC"
+  },
+  {
+   "title": "엘리스그룹, 광주 '국가 AI데이터센터' 고도화 공급사 선정",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260616000070",
+   "category": "AI DC"
+  },
+  {
+   "title": "Google files lawsuit over AI-assisted phishing operation abusing Gemini",
+   "outlet": "Dataconomy",
+   "url": "https://dataconomy.com/2026/06/15/google-sues-china-group-gemini-ai-phishing-scheme/",
+   "category": "AI 보안"
+  }
+ ]
+}

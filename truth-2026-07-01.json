@@ -1,0 +1,113 @@
+{
+ "date": "2026-07-01",
+ "items": [
+  {
+   "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+   "category": "AI Model"
+  },
+  {
+   "title": "앤트로픽, 美 상무부 수출통제 해제…Claude Fable 5·Mythos 5 접근 복구 예정",
+   "outlet": "Anthropic 공식 X",
+   "url": "https://x.com/AnthropicAI/status/2072106151890809341",
+   "category": "AI Model"
+  },
+  {
+   "title": "앤트로픽, 과학자용 '클로드 사이언스' 공개…신약개발 프로그램 시동",
+   "outlet": "디지털타임스",
+   "url": "https://n.news.naver.com/mnews/article/029/0003034588?sid=104",
+   "category": "AI Model"
+  },
+  {
+   "title": "업스테이지, 포털 '다음'에 'AI 요약' 서비스 론칭…자체 LLM '솔라' 첫 적용",
+   "outlet": "아주경제",
+   "url": "https://www.ajunews.com/view/20260701084138868",
+   "category": "AI Model"
+  },
+  {
+   "title": "[미국 특징주] \"비싼 AI 모델 안 쓴다\"…기업들, 저가·오픈소스로 선회",
+   "outlet": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20260630000076",
+   "category": "AI Model"
+  },
+  {
+   "title": "NC AI, 3D 생성 AI '바르코 3D' 생산성 개선…시장 공략 본격화",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/it-science/general-it/6213678",
+   "category": "AI Model"
+  },
+  {
+   "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+   "category": "AI Agent"
+  },
+  {
+   "title": "대화하는 AI비서로 진화한 네이버 쇼핑앱",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10760778",
+   "category": "AI Agent"
+  },
+  {
+   "title": "\"내 손안의 에이전트\"…PC 이어 스마트폰도 AI 관제센터 된다",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/article/2026063016411756698",
+   "category": "AI Agent"
+  },
+  {
+   "title": "엔비디아·퍼머스, 인도네시아 바탐 360MW·최대 17만 GPU 데이터센터 구축",
+   "outlet": "techstartups.com[[techstartups.com]]",
+   "url": "https://techstartups.com/2026/06/30/top-tech-news-today-june-30-2026/",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "연결망까지 엔비디아 의존…AIDC '운영 자립' 시험대",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20062062",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "리벨리온, AI 최적화 소프트웨어 회사(스퀴즈비츠) 인수",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026063075371",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "삼성전자 \"AI 반도체 핵심 허브 도약, 차세대 2나노 기술 공개\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/industry/general-industry/6213676",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "LG전자, CEO 직속 '로보틱스' 조직 신설… 피지컬AI 육성 속도",
+   "outlet": "동아일보",
+   "url": "https://www.donga.com/news/Economy/article/all/20260630/134211474/2",
+   "category": "Physical AI"
+  },
+  {
+   "title": "피지컬 AI, 국가전략 전면 등장…'中 추격' 목표로 불붙은 한일전",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20062069",
+   "category": "Physical AI"
+  },
+  {
+   "title": "인공지능정책센터 출범…AI 정책·기술 지원 맡는다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260630000428",
+   "category": "국가 정책관련"
+  },
+  {
+   "title": "[단독] SKT 출신 AI 전문가 에릭 데이비스, 삼성디스플레이 합류",
+   "outlet": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009032594?sid=101",
+   "category": "인사"
+  }
+ ]
+}

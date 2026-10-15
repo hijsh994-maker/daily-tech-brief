@@ -1,0 +1,422 @@
+{
+ "date": "2026-09-30",
+ "terms": [
+  {
+   "term": "인스팅트",
+   "norm": "인스팅트",
+   "n_outlets": 5,
+   "n_today": 3,
+   "outlets": [
+    "AI타임스",
+    "numbers.co.kr",
+    "디지털투데이",
+    "비즈한국",
+    "토큰포스트"
+   ],
+   "days": 3,
+   "first": "2026-09-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "디지털투데이(09-21) | 퍼스널 AI 에이전트 인스팅트, 100억달러 가치에 10억달러 규모 투자 유치 추진",
+    "디지털투데이(09-29) | 퍼스널 AI 에이전트 스타트업 인스팅트, 10억달러 투자 유치...몸값 100억달러",
+    "토큰포스트(09-29) | AI 스타트업 인스팅트, 10억달러 조달 협의",
+    "numbers.co.kr | [AI 인프라 전쟁] 인스팅트, AI 에이전트 열풍에 10억달러 조달",
+    "비즈한국 | ‘카톡의 미래’라는 화제의 에이전틱 AI ‘인스팅트’ 직접 써보니",
+    "AI타임스 | ‘소비자용 에이전트’ 인스팅트, 한 달 만에 기업가치 4배 폭등"
+   ],
+   "score": 16
+  },
+  {
+   "term": "ZCode",
+   "norm": "zcode",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "Cryptopolitan",
+    "GitHub",
+    "KuCoin",
+    "Longbridge",
+    "MIXED Reality News",
+    "Pandaily",
+    "Pasquale Pillitteri",
+    "Silicon UK"
+   ],
+   "days": 8,
+   "first": "2026-09-21",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The News International(09-21) | ZCode tried uploading your files 564 times, researcher finds",
+    "finance.biggo.com(09-21) | China's Zhipu AI Faces Formal Legal Demand Over ZCode Data Upload Scandal",
+    "finance.biggo.com(09-21) | Zhipu's ZCode Accused of Silently Packaging and Uploading Complete Code History;",
+    "TechNode | Zhipu’s ZCode deletes data and announces compensation after data upload controve"
+   ],
+   "score": 15
+  },
+  {
+   "term": "르게다꼼",
+   "norm": "르게다꼼",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "ebn.co.kr",
+    "글로벌이코노믹",
+    "매드타임스",
+    "부산일보",
+    "인더뉴스",
+    "캠페인 인사이트",
+    "컨슈머타임스",
+    "키즈맘"
+   ],
+   "days": 3,
+   "first": "2026-09-21",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "ebn.co.kr(09-21) | LG전자, 공식몰 LGE닷컴 '르게다꼼' 캠페인 전개",
+    "글로벌이코노믹(09-21) | ‘LGE닷컴’을 ‘르게다꼼’으로…LG전자, 공식몰 알리기 나섰다",
+    "부산일보(09-21) | LG전자, 공식몰 ‘르게다꼼’ 캠페인 시작",
+    "핀포인트뉴스 | ‘르게다꼼’이 뭐길래…‘AI-DOL’까지 만든 LG전자, 파격 작명 잇따라"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Dots",
+   "norm": "dots",
+   "n_outlets": 58,
+   "n_today": 58,
+   "outlets": [
+    "ADWEEK",
+    "Axios",
+    "BBC",
+    "BankInfoSecurity",
+    "CBS News",
+    "CNBC",
+    "CNET",
+    "Cryptopolitan"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Investing.com 한국어 | OpenAI, GPT-6 Astra 기반 AI 에이전트 ’Dots’ 출시",
+    "edaily.co.kr | 오픈AI, 시키지 않아도 계속 일하는 AI 에이전트 ‘닷(dots)’ 공개",
+    "토큰포스트 | 오픈AI, Dots·GPT-6.1 Sol 공개…월 500달러 요금제",
+    "The New York Times | OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+    "CBS News | Sam Altman unveils \"dots,\" OpenAI's new AI personal agent",
+    "WIRED | OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Enterprise Sales Surge",
+   "norm": "enterprisesalessurge",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "Coinpaper",
+    "The Journal Record"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "The Journal Record | OpenAI revenue run rate nears $70B as enterprise sales surge",
+    "Coinpaper | OpenAI ARR Nears $70B as Enterprise Sales Surge, Closing Anthropic Gap"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Jeeves",
+   "norm": "jeeves",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Jeeves. Reasoning improves Jev-like decision models"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Startups Across",
+   "norm": "startupsacross",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Indian Startup Times",
+    "Quantum Zeitgeist"
+   ],
+   "days": 2,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Quantum Zeitgeist(09-22) | OpenAI And Creative Destruction Lab Will Boost AI Startups Across 17 Countries",
+    "Indian Startup Times | Peak XV Partners Unveils 12th Surge Cohort With 18 Startups Across AI, Robotics,"
+   ],
+   "score": 8
+  },
+  {
+   "term": "DraftKings",
+   "norm": "draftkings",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | DraftKings is using AI to behaviorally target chronic gamblers"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Privacy Analysis",
+   "norm": "privacyanalysis",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]"
+   ],
+   "score": 7
+  },
+  {
+   "term": "KKKKhazix",
+   "norm": "kkkkhazix",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GitHub | KKKKhazix/AIHOT — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+   ],
+   "score": 7
+  },
+  {
+   "term": "AIHOT",
+   "norm": "aihot",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GitHub | KKKKhazix/AIHOT — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+   ],
+   "score": 7
+  },
+  {
+   "term": "AIDC 수혜주",
+   "norm": "aidc수혜주",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "ebn.co.kr"
+   ],
+   "days": 1,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "ebn.co.kr | \"빅테크 3조 달러 쏟아붓는다\"…코스닥 'AIDC 수혜주' 주목"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Robotiq",
+   "norm": "robotiq",
+   "n_outlets": 17,
+   "n_today": 8,
+   "outlets": [
+    "AiThority",
+    "Business Standard",
+    "FourWeekMBA",
+    "Moneycontrol.com",
+    "PR Newswire",
+    "Rediff MoneyWiz",
+    "Robotics & Automation News",
+    "TradingView"
+   ],
+   "days": 4,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Robotics & Automation News(09-24) | Robotiq launches open-source software tools for physical AI and robot manipulati",
+    "Robotics & Automation News(09-25) | Robotiq launches open-source software tools for physical AI and robot manipulati",
+    "PR Newswire(09-29) | HCLSoftware to Acquire Robotiq.ai, Strengthening Enterprise Agentic Automation",
+    "TradingView | HCLTech To Acquire Croatia-Based RPA Firm Robotiq.ai For $10.2 Mn",
+    "AiThority | HCLSoftware to Acquire Robotiq.ai, Strengthening Enterprise Agentic Automation",
+    "FourWeekMBA | HCLTech Acquires Robotiq.ai to Close the Agentic Last Mile"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Project Jupiter",
+   "norm": "projectjupiter",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "Albuquerque Journal",
+    "Crypto Briefing",
+    "Investing.com",
+    "Investing.com 한국어",
+    "TIKR.com",
+    "Yahoo Finance",
+    "breitbart.com",
+    "konsulteer.com"
+   ],
+   "days": 6,
+   "first": "2026-09-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(09-21) | Oracle's Project Jupiter in New Mexico reportedly mothballed as $18B loan trades",
+    "tikr.com(09-24) | Oracle’s Project Jupiter Loans Are Trading at 90 Cents. Here’s What the Q1 Numbe",
+    "Albuquerque Journal(09-24) | County names committee to monitor Project Jupiter data center",
+    "pinonpost.com | Project Jupiter hits Wall Street — Oracle stock takes a beating"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 대모",
+   "norm": "ai대모",
+   "n_outlets": 9,
+   "n_today": 3,
+   "outlets": [
+    "chosun.com",
+    "ebn.co.kr",
+    "edaily.co.kr",
+    "매일경제 마켓",
+    "아이뉴스24",
+    "조선일보",
+    "테크M",
+    "포춘코리아"
+   ],
+   "days": 5,
+   "first": "2026-09-24",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "조선일보(09-24) | ‘AI 대모’ 페이페이 리 “AI 안전 평가, 공공 검증으로”",
+    "chosun.com(09-25) | ‘AI 대모’ 페이페이 리 “AI 안전 평가, 공공 검증으로”",
+    "chosun.com(09-28) | ‘AI 대모’ 페이페이 리 “AI 안전 평가, 공공 검증으로”",
+    "테크M | [글로벌] 엔비디아 추격법 바꾼 AMD.. 'AI 대모' 회사에 11조원 베팅한다",
+    "한국경제 | AI 대모 페이페이 리 교수, AMD에 합류",
+    "아이뉴스24 | AMD, 11조원에 &apos;AI 대모&apos; 품었다…칩 넘어 &apos;AI 두뇌&apos;까지"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Alibaba Cloud",
+   "norm": "alibabacloud",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "DataCenterDynamics",
+    "Indovizka.com",
+    "Media OutReach Newswire",
+    "MonitorRiau.com",
+    "Pasquale Pillitteri",
+    "Tech Times",
+    "blockchain.news",
+    "finance.biggo.com"
+   ],
+   "days": 6,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "blockchain.news(09-23) | Alibaba Cloud unveils AI chip, accelerates data centers",
+    "finance.biggo.com(09-23) | Chinese AI Firm Z.ai Apologizes After ZCode Uploaded Entire Developer Workspaces",
+    "Indovizka.com(09-24) | Alibaba Cloud Expands Global Infrastructure and AI Portfolio to Accelerate Enter",
+    "DataCenterDynamics | Alibaba Cloud plans new cloud regions in Turkey, Finland, the Netherlands"
+   ],
+   "score": 10
+  },
+  {
+   "term": "이음 얼라이언스",
+   "norm": "이음얼라이언스",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "metroseoul.co.kr",
+    "동아일보",
+    "라이센스뉴스",
+    "신아일보",
+    "아주경제",
+    "이투데이",
+    "콕스뉴스"
+   ],
+   "days": 4,
+   "first": "2026-09-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "콕스뉴스(09-22) | KT, '모두의 AI' 컨소시엄 출범…\"이음 얼라이언스\"로 협력 체계 가동",
+    "아주경제(09-22) | KT, 모두의 AI 협력 본격화…이음 얼라이언스 운영",
+    "metroseoul.co.kr(09-22) | KT, 모두의 AI 컨소시엄 출범식…'이음 얼라이언스' 본격 가동",
+    "동아일보 | AI 기업 16곳과 ‘이음 얼라이언스’ 구축"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Super Intelligence",
+   "norm": "superintelligence",
+   "n_outlets": 7,
+   "n_today": 4,
+   "outlets": [
+    "CNBC",
+    "The Economic Times",
+    "The Verge",
+    "Washington Examiner",
+    "Wccftech",
+    "finance.biggo.com",
+    "weny.com"
+   ],
+   "days": 4,
+   "first": "2026-09-23",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Economic Times(09-23) | Artificial sounds fake!': Trump claims he will rename AI to 'more accurate' term",
+    "Wccftech(09-23) | Anthropic’s Claude Opus 5.5 Appears In Claude Code, Indicating Imminent Release,",
+    "finance.biggo.com(09-25) | Trump Says 'Super Intelligence' Will Top Agenda in Talks With Xi",
+    "Washington Examiner | READ IN FULL: Trump and tech leaders’ White House Accord on Super Intelligence",
+    "weny.com | Trump Calls for “Self-Regulation” on “Super Intelligence” After Meeting with Tec",
+    "The Verge | Trump orders US government to call AI ‘Super Intelligence’"
+   ],
+   "score": 10
+  }
+ ]
+}

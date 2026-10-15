@@ -1,0 +1,495 @@
+{
+ "date": "2026-10-06",
+ "terms": [
+  {
+   "term": "Clef",
+   "norm": "clef",
+   "n_outlets": 9,
+   "n_today": 4,
+   "outlets": [
+    "Cloudflare Blog",
+    "Crypto Briefing",
+    "HN",
+    "HuggingFace",
+    "Kingy AI",
+    "Korben",
+    "The Register",
+    "startupfortune.com"
+   ],
+   "days": 2,
+   "first": "2026-10-02",
+   "reaction": 2,
+   "community": 3,
+   "titles": [
+    "startupfortune.com(10-02) | Cloudflare Open Sources Clef to Challenge OpenAI and Amazon on AI Agent Decision",
+    "The Register(10-02) | Cloudflare tries to outplay Jev with open-weight Clef models",
+    "Cloudflare Blog(10-02) | Introducing Clef: our open-source decision models, and new RL fine-tuning platfo",
+    "Kingy AI | Clef vs Clef-flash: Costs, Latency and How to Choose",
+    "Korben | Cloudflare launches Clef, its open-weight decision models, to take on Jev",
+    "streamlinefeed.co.ke | Cloudflare Clef Brings Open Weights to AI Decisions"
+   ],
+   "score": 24
+  },
+  {
+   "term": "IROS",
+   "norm": "iros",
+   "n_outlets": 10,
+   "n_today": 6,
+   "outlets": [
+    "AI넷",
+    "AndroidGuys",
+    "Gadget Review",
+    "PR Newswire",
+    "StreetInsider",
+    "The Malaysian Reserve",
+    "Yahoo Finance",
+    "english.kyodonews.net"
+   ],
+   "days": 3,
+   "first": "2026-10-01",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "로봇신문(10-01) | 中 다이몬 로보틱스,'IROS 2026'서 촉각 기반 피지컬 AI 기술 공개",
+    "PR Newswire(10-01) | Daimon Robotics Showcases Tactile Intelligence Infrastructure for Physical AI at",
+    "AndroidGuys(10-01) | Astribot Launches T1 Humanoid Robot at IROS 2026 Expo",
+    "지디넷코리아 | 로보파티, IROS에서 고성능 풀스택 오픈소스 휴머노이드 로봇 RP1 공개",
+    "로봇신문 | 中 아스트리봇, 美 'IROS 2026'서 휴머노이드 ‘T1’ 북미 첫 공개",
+    "로봇신문 | [화제의 동영상] IROS 2026에서 주목받은 샤르파의 로봇 핸드 기술"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Kolibri",
+   "norm": "kolibri",
+   "n_outlets": 17,
+   "n_today": 17,
+   "outlets": [
+    "Crypto Briefing",
+    "Cybernews",
+    "Dealroom",
+    "EU-Startups",
+    "HuggingFace",
+    "MarkTechPost",
+    "OfficeChai",
+    "Online Tech Tips"
+   ],
+   "days": 1,
+   "first": "2026-10-06",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "EU-Startups | Germany's Aleph Alpha releases Kolibri, a sovereign AI model for mission-critica",
+    "Cybernews | Germany’s sovereign AI model Kolibri challenges US and Chinese rivals",
+    "Startup Fortune | Aleph Alpha launches Kolibri, a sovereign German AI model for government use",
+    "Online Tech Tips | Aleph Alpha Kolibri: What Germany’s ‘Sovereign’ Open-Weight AI Model Means for Y",
+    "n24.com.tr | Aleph Alpha Launches Kolibri Sovereign AI Model",
+    "trendingtopics.eu | Aleph Alpha’s Sovereign A.I. Model Kolibri Is No Match for the Open-Weight Leade"
+   ],
+   "score": 16
+  },
+  {
+   "term": "Dots",
+   "norm": "dots",
+   "n_outlets": 97,
+   "n_today": 12,
+   "outlets": [
+    "ADWEEK",
+    "AI Insider",
+    "Adgully.com",
+    "Al Jazeera",
+    "Axios",
+    "BBC",
+    "BankInfoSecurity",
+    "Barron's"
+   ],
+   "days": 4,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Investing.com 한국어(09-30) | OpenAI, GPT-6 Astra 기반 AI 에이전트 ’Dots’ 출시",
+    "edaily.co.kr(09-30) | 오픈AI, 시키지 않아도 계속 일하는 AI 에이전트 ‘닷(dots)’ 공개",
+    "토큰포스트(09-30) | 오픈AI, Dots·GPT-6.1 Sol 공개…월 500달러 요금제",
+    "Investing.com 한국어 | 메타의 Muse, OpenAI의 Dots와 비교하면?",
+    "Mashable | OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026",
+    "Forbes | Meta Muse And ChatGPT Dots Can Shop For You — Now Brands Want In"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Argon",
+   "norm": "argon",
+   "n_outlets": 63,
+   "n_today": 7,
+   "outlets": [
+    "24/7 Wall St.",
+    "9to5Google",
+    "AI Insider",
+    "Anadolu Ajansı",
+    "Android Authority",
+    "Ars Technica",
+    "BBN Times",
+    "Benzinga"
+   ],
+   "days": 3,
+   "first": "2026-10-01",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "Unite.AI(10-01) | Google, 코딩 및 사이버 방어를 위한 Gemini 4 Argon 프론티어 모델 발표",
+    "토큰포스트(10-01) | 구글, Gemini 4 Argon 공개…내부 실무 평가는 엇갈려",
+    "토큰포스트(10-01) | 구글, Gemini 4 Argon 공개…사이버 방어자에 선제 제공",
+    "AI Insider | Google Bets on Gemini 4 Argon for Cyber Defense as AI Submissions Force Bug Boun",
+    "TechCentral.ie | Google unveils Gemini 4 Argon, its new frontier model",
+    "Parametric Architecture | Google's Bold Gemini 4 Argon Leads 14 of 19 AI Benchmarks"
+   ],
+   "score": 14
+  },
+  {
+   "term": "닷츠",
+   "norm": "닷츠",
+   "n_outlets": 46,
+   "n_today": 4,
+   "outlets": [
+    "AI타임스",
+    "ER 이코노믹리뷰",
+    "JTBC",
+    "KBS 뉴스",
+    "MTN 머니투데이방송",
+    "M이코노미뉴스",
+    "The Miilk",
+    "TradingView"
+   ],
+   "days": 4,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(09-30) | 오픈AI, 가성비 모델 'GPT-6.1 솔'·AI 에이전트 '닷츠' 공개",
+    "연합뉴스(09-30) | 오픈AI, AI에이전트 '닷츠' 공개…월 500달러 요금제도 신설(종합)",
+    "오피니언뉴스(09-30) | 오픈AI, AI 에이전트 '닷츠' 공개",
+    "플래텀(Platum) | 챗GPT, 질문 기다리지 않고 일한다…오픈AI ‘닷츠’",
+    "aipostkorea.com | '닷츠·뮤즈' AI 에이전트 도입 속…인터넷 쇼핑몰 사장님 지갑 사정, 어떻게 변할까?",
+    "The Miilk | 어떤 에이전트 쓸까?... ‘오픈AI 닷츠-메타 뮤즈’ 3대 차이점"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Jeeves",
+   "norm": "jeeves",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "Techloy"
+   ],
+   "days": 2,
+   "first": "2026-09-30",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN(09-30) | Jeeves. Reasoning improves Jev-like decision models",
+    "Techloy | Week 40: Latin America Startup Funding Led by Jeeves"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Reflection",
+   "norm": "reflection",
+   "n_outlets": 31,
+   "n_today": 31,
+   "outlets": [
+    "Axios",
+    "Belaaz",
+    "Bloomberg.com",
+    "Breakingthenews.net",
+    "Crypto Briefing",
+    "Dealroom",
+    "Financial Times",
+    "Finimize"
+   ],
+   "days": 1,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "techflowpost.com | TechFlow 인텔리전스: OKX, NYSE 모회사와 제휴해 토큰화 주식 거래 출시… NVIDIA 지원 Reflection이 오픈소스 모델로 ",
+    "Kingy AI | Reflection AI Factory: Sovereign Clouds & Compute",
+    "Axios | Scoop: A powerful new model from startup Reflection is set to shake up the AI ra",
+    "TechCrunch | Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower",
+    "shattered.io | Reflection AI’s Beam Claims 4x Less Compute [2026]"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Beam",
+   "norm": "beam",
+   "n_outlets": 13,
+   "n_today": 13,
+   "outlets": [
+    "Crypto Briefing",
+    "Finimize",
+    "Fortune",
+    "HN",
+    "MarkTechPost",
+    "SiliconANGLE",
+    "Startup Fortune",
+    "TechCrunch"
+   ],
+   "days": 1,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI | Reflection AI가 501B 파라미터 오픈-웨이트 모델인 Beam을 공개",
+    "TechCrunch | Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower",
+    "shattered.io | Reflection AI’s Beam Claims 4x Less Compute [2026]",
+    "Startup Fortune | Reflection AI launches Beam, an open model it says beats the West on efficiency",
+    "unite.ai | Reflection AI Unveils Beam, a 501B-Parameter Open-Weight Model",
+    "Fortune | Reflection AI unveils its first open model, Beam. Could it be America’s best cha"
+   ],
+   "score": 12
+  },
+  {
+   "term": "SEDEX",
+   "norm": "sedex",
+   "n_outlets": 5,
+   "n_today": 2,
+   "outlets": [
+    "diarypoint.com",
+    "디지털데일리",
+    "로봇신문",
+    "민주신문",
+    "아이뉴스24"
+   ],
+   "days": 3,
+   "first": "2026-10-01",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "로봇신문(10-01) | 인아그룹, 14일 개막하는 'SEDEX 2026' 참가…자동화 솔루션 선보인다",
+    "diarypoint.com(10-02) | 삼성전자와 SK하이닉스, 10월 SEDEX서 차세대 HBM 기술 공개한다",
+    "민주신문(10-02) | 삼성·SK, 이달 'SEDEX'서 맞붙는다…차세대 HBM 공개 주목",
+    "디지털데일리 | 헨켈, SEDEX 2026서 AI·HBM용 첨단 패키징 소재 공개",
+    "아이뉴스24 | 삼성·SK, SEDEX서 차세대 HBM 격돌…AI칩·소부장도 총출동",
+    "디지털데일리 | 헨켈, SEDEX 2026서 AI·HBM용 첨단 패키징 소재 공개"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Not Everyone Is Happy",
+   "norm": "noteveryoneishappy",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "IEEE Spectrum AI",
+    "TechCrunch"
+   ],
+   "days": 2,
+   "first": "2026-10-06",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "TechCrunch(09-29) | The AI boom took over Climate Week and not everyone is happy about it",
+    "IEEE Spectrum AI | AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Wikimedia",
+   "norm": "wikimedia",
+   "n_outlets": 5,
+   "n_today": 5,
+   "outlets": [
+    "Engadget",
+    "HN",
+    "The Next Web",
+    "The Record from Recorded Future News",
+    "Wikimedia Foundation"
+   ],
+   "days": 1,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Wikimedia Foundation | OpenAI “rogue” agent activities found on Wikimedia projects",
+    "Engadget | Wikimedia Links OpenAI Agents To An Outage And Unauthorized Activity",
+    "The Record from Recorded Future News | Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes too",
+    "The Next Web | ‘The open web is a public good’: Wikimedia on rogue OpenAI agents",
+    "HN | OpenAI \"rogue\" agent activities found on Wikimedia projects"
+   ],
+   "score": 11
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "MongoDB",
+   "norm": "mongodb",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "AI Magazine",
+    "Crowdfund Insider",
+    "CryptoRank",
+    "Gagadget.com",
+    "Investing.com 한국어",
+    "People Matters - HR News",
+    "TIKR.com"
+   ],
+   "days": 4,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Unite.AI(09-29) | Meta, Meta Enterprise Platform을 출시하고 MongoDB CEO를 이끌도록 영입",
+    "cryptopolitan.com(09-29) | Meta, 엔터프라이즈 플랫폼 출시 및 MongoDB의 CJ Desai를 책임자로 영입",
+    "Investing.com 한국어(09-29) | MongoDB 주가, 데사이 CEO 메타 이직에 20% 급락",
+    "AI Magazine | MongoDB: Deploying Production AI Agents Without a New Stack"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI DevDay",
+   "norm": "openaidevday",
+   "n_outlets": 14,
+   "n_today": 2,
+   "outlets": [
+    "CNET",
+    "Memeburn",
+    "Tech Times",
+    "The Futurum Group",
+    "The Tech Buzz",
+    "The Verge",
+    "TradingKey",
+    "Wccftech"
+   ],
+   "days": 5,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(09-29) | OpenAI DevDay 2026 — The Agent Platform Race Arrives at OpenAI’s Doorstep",
+    "TradingKey(09-29) | OpenAI DevDay Approaches: Will Cybersecurity, Enterprise Agents, and Creator Too",
+    "rswebsols.com(09-29) | OpenAI DevDay Preview: Cybersecurity, Enterprise Agents, Creator Tools",
+    "The Futurum Group | Adobe Embeds CX Intelligence Into ChatGPT at OpenAI DevDay",
+    "infoq.com | OpenAI DevDay 2026 Recap for Developers"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI Dots",
+   "norm": "openaidots",
+   "n_outlets": 13,
+   "n_today": 3,
+   "outlets": [
+    "BankInfoSecurity",
+    "Forbes",
+    "Geeky Gadgets",
+    "Hindustan Times",
+    "IndexBox",
+    "LatestLY",
+    "Memeburn",
+    "TechNave"
+   ],
+   "days": 4,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "shattered.io(09-30) | OpenAI dots vs Meta Muse: AI Agent Rivalry [2026]",
+    "tech-insider.org(09-30) | OpenAI Dots vs Meta Muse: 4,000-App Enterprise Agent",
+    "BankInfoSecurity(09-30) | OpenAI Dots Pushes Always-on Agents Into the Enterprise",
+    "Forbes | What Are OpenAI Dots And Do You Need Them?",
+    "Geeky Gadgets | OpenAI Dots vs Meta Muse: Why Dots Cost $100 a Month",
+    "TechNave | OpenAI dots are Always-On AI Agents powered by GPT-6 Astra"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AMD Acquires World Labs",
+   "norm": "amdacquiresworldlabs",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "Ars Technica",
+    "Basic Tutorials",
+    "Crypto Briefing",
+    "KuCoin",
+    "The Hans India",
+    "TradingKey",
+    "Wccftech",
+    "ababnews.com"
+   ],
+   "days": 4,
+   "first": "2026-09-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Wccftech(09-29) | AMD Acquires World Labs For $8.2 Billion In What Is Essentially A Talent Grab Fo",
+    "Crypto Briefing(09-29) | AMD acquires World Labs AI from Fei-Fei Li for $8B",
+    "news.futunn.com(09-29) | AMD acquires World Labs for $8.2 billion; Fei-Fei Li appointed Chief Scientist",
+    "KuCoin | AMD Acquires World Labs for $8.2 Billion to Advance AI and Spatial Intelligence"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Reco Raises",
+   "norm": "recoraises",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "Dealroom",
+    "Dealroom.co",
+    "Pulse 2.0",
+    "TechCrunch",
+    "Ynetnews",
+    "calcalistech.com",
+    "citybiz",
+    "finance.biggo.com"
+   ],
+   "days": 4,
+   "first": "2026-09-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TechCrunch(09-30) | Reco raises $55M as AI agent security startups crowd the market",
+    "citybiz(09-30) | Reco Raises $55M as Enterprises Confront AI Agent Security Risks",
+    "calcalistech.com(09-30) | Reco raises $50 million with AT&T backing to secure AI agents",
+    "citybiz | Reco Raises $55M to Enhance AI Agent Security, Enterprise Expansion"
+   ],
+   "score": 10
+  },
+  {
+   "term": "FESTA",
+   "norm": "festa",
+   "n_outlets": 8,
+   "n_today": 3,
+   "outlets": [
+    "edaily.co.kr",
+    "finance.biggo.com",
+    "kmjournal.net",
+    "mt.co.kr",
+    "내외경제TV",
+    "뉴스핌",
+    "아이뉴스24",
+    "헬로티"
+   ],
+   "days": 4,
+   "first": "2026-09-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "아이뉴스24(09-28) | 코난테크놀로지, 'AI FESTA 26' 국방AI 특별관 참가",
+    "kmjournal.net(09-29) | [마이스] AI 에이전트·피지컬 AI 한자리에…‘AI FESTA 26’ 10월 6일 개막",
+    "헬로티(09-29) | 코난테크놀로지, AI FESTA 26 참가…국방 AI 로드맵 제시",
+    "내외경제TV | [UP! START] 그래파이, ‘AI FESTA 2026’ 참가…엔터프라이즈 메모리 솔루션 공개",
+    "mt.co.kr | 그래파이, AI FESTA 2026서 AI 데이터 엔진 '아카식DB' 공개 - 머니투데이",
+    "mt.co.kr | [더벨]크라우드웍스, ‘AI Festa 2026’ 참가 - 머니투데이"
+   ],
+   "score": 10
+  }
+ ]
+}

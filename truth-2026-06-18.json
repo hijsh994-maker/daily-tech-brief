@@ -1,0 +1,95 @@
+{
+ "date": "2026-06-18",
+ "items": [
+  {
+   "title": "AI비서 시리에 눈 달아주는 애플…내년말 카메라 탑재 에어팟 준비",
+   "outlet": "이데일리",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05280806645482704",
+   "category": "AI Device"
+  },
+  {
+   "title": "Meet the new Google Home Speaker, built for Gemini",
+   "outlet": "Google blog",
+   "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/",
+   "category": "AI Device"
+  },
+  {
+   "title": "KT \"AI가 일하는 시대 온다\"…개인·산업 에이전트시장 공략",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026061726881",
+   "category": "AI Agent"
+  },
+  {
+   "title": "\"AI발 보안 위협 대응\"…K-글래스윙 '캐노피' 출범",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260617140054",
+   "category": "AI 보안"
+  },
+  {
+   "title": "美 '미토스5' 빗장 걸자 노 젓는 구글…韓 AI 보안 플랫폼 시장 '정조준'",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20260617_0003672644",
+   "category": "AI 보안"
+  },
+  {
+   "title": "막 오른 7세대 HBM 레이스…삼성·SK '속도·전력효율' 경쟁 더 치열해졌다",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10774471",
+   "category": "AI DC"
+  },
+  {
+   "title": "전 구글 CEO가 투자한 로봇기업, LG CNS와 산업용 AI 로봇 공략",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260617000158",
+   "category": "Physical AI"
+  },
+  {
+   "title": "LG AI연구원, 난치성 질환 신약 개발 나선다",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10773524",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "Databricks acquires cyberattack detection startup Panther",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/06/16/databricks-acquires-cyberattack-detection-startup-panther/",
+   "category": "AI 투자 & 정책"
+  },
+  {
+   "title": "[단독] AI 수석에 AWS 이기혁 내정…李정부 'AI G3' 새 판 짠다",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260617153724",
+   "category": "AI 투자 & 정책"
+  },
+  {
+   "title": "美, 유럽에 첨단 AI '우선 접근권' 검토…동맹국 줄 세우나",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20056959",
+   "category": "AI 투자 & 정책"
+  },
+  {
+   "title": "G7 정상회의, 트럼프·세계 정상에 AI 수장들 합류…글로벌 AI 규칙 논의",
+   "outlet": "VOA",
+   "url": "https://www.voakorea.com/a/president-trump-european-leaders-ai-ceos-discuss-global-ai-rules-at-g7-summit-061726/8161946.html",
+   "category": "AI 투자 & 정책"
+  },
+  {
+   "title": "US holds off blacklisting China's DeepSeek, CXMT and 100+ firms",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/06/17/us-deepseek-blacklist-cxmt-national-security-risks-.html",
+   "category": "AI 투자 & 정책"
+  },
+  {
+   "title": "AP Exclusive: Nvidia's Jensen Huang says society needs 'new social norms' in the age of AI",
+   "outlet": "AP",
+   "url": "https://apnews.com/article/nvidea-huang-artificial-intelligence-8334abcbc6ed8d3d7889b640ec6fa05b",
+   "category": "인플루언서"
+  },
+  {
+   "title": "Anthropic's Dario Amodei urges G7 to resist 'temptation to splinter' on AI",
+   "outlet": "New York Post",
+   "url": "https://nypost.com/2026/06/17/business/anthropics-dario-amodei-urges-g7-to-resist-to-temptation-to-splinter-on-ai/",
+   "category": "인플루언서"
+  }
+ ]
+}

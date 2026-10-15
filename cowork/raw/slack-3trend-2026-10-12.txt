@@ -1,0 +1,16 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-12 09:00:22 KST === 
+Message TS: 1791763222.393889
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-12 · 11건)
+*1. [:shield: Agent Infra] <https://www.etnews.com/20261011000094|뉴엔AI, 'AI FESTA 26'서 AI 인과추론부터 MCP까지 차세대 AI 기술 '총망라'>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261010000027|포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.etnews.com/20261008000158|STEG, 연례 컨퍼런스 'EBP NEW&amp;NOW!' 10월 28일 개최>* (전자신문 (AI))
+*4. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/|Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead>* (TechCrunch)
+*5. [:rocket: BigTech Release] <https://openai.com/index/sophos|Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축>* (OpenAI News &amp; Research)
+*6. [:rocket: BigTech Release] <https://openai.com/index/pollo-ai|OpenAI로 창의적인 아이디어를 캠페인으로 전환하는 Pollo AI>* (OpenAI News &amp; Research)
+*7. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/|인공지능 에이전트를 위한 Pay-per-inference: BlockRun과 Incarna가 Amazon Bedrock AgentCore 결제를 사용하는 방법>* (AWS Machine Learning Blog)
+*8. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/|Here are the top AI agents that can live in your text messages>* (TechCrunch)
+*9. [:robot_face: AI Agent] <https://openai.com/index/asana-browser-agent|Asana, GPT-6.1 SOL로 브라우저 테스트에서 모델 비용 76배 절감>* (OpenAI News &amp; Research)
+*10. [:rocket: BigTech Release] <https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/|Meta, 싱가포르 장애인 커뮤니티에 AI 안경 1,000개 기부>* (Meta Newsroom)
+*11. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/|Postman이 Amazon Bedrock에서 4천만 명의 개발자를 위해 에이전트 모드를 실행하는 방법>* (AWS Machine Learning Blog)

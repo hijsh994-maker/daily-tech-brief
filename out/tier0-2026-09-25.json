@@ -1,0 +1,715 @@
+{
+ "date": "2026-09-25",
+ "generated_at": "2026-09-25T09:56:10",
+ "counts": {
+  "slack": 0,
+  "samsung": 0,
+  "adot": 50
+ },
+ "warnings": [
+  "[포맷변경] 'slack' 헤더는 있으나 0건 파싱됨. 로그 포맷이 바뀌었을 수 있음 - 파서 점검 필요",
+  "[정상] 'samsung' 0건 - 신 형식은 `run.sh samsung-slack` 이 맡습니다(09-15 전환). tier0 뒤에 그 명령을 잊지 마세요"
+ ],
+ "items": [
+  {
+   "src": "adot",
+   "title": "[속도조절하자더니 이중 행보...앤트로픽.오픈AI, 새 모델 공개]",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260924000033",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[구글, 대규모 더빙용 AI까지...제미나이 TTS 모델 2종 출시]",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260924000040",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[오픈AI 모델, 정부 사이트 무단 접근...“두달 뒤 알아”]",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-24",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://www.sedaily.com/article/20094815",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[이란 전쟁은 최초의 AI 전쟁이다...“전장의 분석관 참모”]",
+   "outlet": "한겨레",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.hani.co.kr/arti/politics/defense/1279438.html",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[\"혼자서도 회사 차립니다\"...AI 열풍에 중국서 뜨는 '1인 기업'[세계는Z금]]",
+   "outlet": "아시아경제",
+   "pub_date": "2026-09-25",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026092215335610892",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[“기억도 하고 연산도 한다”...삼성·SK, 다음달 글로벌 반도체 학회서 차세대 메모리 기술 소개]",
+   "outlet": "헤럴드경제",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.heraldcorp.com/article/10883675",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상... 40억달러 베팅한 이유]",
+   "outlet": "조선비즈",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.chosun.com/it-science/ict/2026/09/25/ANLJSYAT2JEHBMOAPNFYQ4ZLKQ/",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[넷플 시청 기록으로 10년 뒤 미래도 점친다...MBTI 다음은 'AI 사주']",
+   "outlet": "파이낸셜뉴스",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.fnnews.com/news/202609222329246670",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[삼성전자우, 본주 두 배 속도로 뛴다...배당·소각 기대]",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.sedaily.com/article/20094792",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[“내가 말하기 전에 알아서”... 퀄컴이 그린 ‘에이전틱 AI폰’]",
+   "outlet": "조선비즈",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.chosun.com/it-science/ict/2026/09/25/PJV6E7Q5XFCOBPRXFETZHKVVNA/",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[“의도치 않은 행동” 오픈AI ‘불량 에이전트’, 호주 정부까지 침투...정부해킹 첫 사례]",
+   "outlet": "헤럴드경제",
+   "pub_date": "2026-09-24",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://biz.heraldcorp.com/article/10884298",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[中 딥시크 “AI 에이전트 결코 신뢰 못 해...통제 벗어나 시스템 파괴 위험”]",
+   "outlet": "헤럴드경제",
+   "pub_date": "2026-09-24",
+   "cluster": 3,
+   "topic": null,
+   "url": "https://biz.heraldcorp.com/article/10884258",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[오픈AI 에이전트, 호주 정부 웹사이트도 침입...세 달 뒤 통보]",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-24",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://www.etnews.com/20260924000034",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[AI 쇼핑 에이전트로 명절 선물 고민 졸업...“3살 조카 추석 선물 골라줘” 한마디에 교구.장난감 척척]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/24/20260924500064",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[오픈AI AI에이전트, 오스트레일리아 보건 통계 시스템 해킹...“정부 해킹 첫 사례”]",
+   "outlet": "한겨레",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.hani.co.kr/arti/international/international_general/1279391.html",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[망원경으로 들여다본 AI 문명...오비어스의 도자 회화 [fn 아트스냅]]",
+   "outlet": "파이낸셜뉴스",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.fnnews.com/news/202609241952566285",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[\"AI가 취약점 찾고 공격까지 준비\"...KISA가 제시한 기업 대응법]",
+   "outlet": "뉴스1",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.news1.kr/it-science/security-hacking/6300421",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[AI 수요 확장에 폭발 직전이라는데...\"장기금리 주춤, 삼전닉스 또 간다\"]",
+   "outlet": "파이낸셜뉴스",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.fnnews.com/news/202609231737116589",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[전북, 현대차 투자 지렛대로 '미래첨단산업 대전환' 꾀한다]",
+   "outlet": "뉴스1",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.news1.kr/local/jeonbuk/6300337",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[204조 수주잔고의 역설...건설업, ''장부상 일감''보다 ''돈 되는 현장'' 골라라]",
+   "outlet": "이투데이",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etoday.co.kr/news/view/2629128",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[2030년 메모리 시장 2700兆 된다는데...삼성.SK의 고민 두 가지 [갭 월드]]",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.sedaily.com/article/20094609",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[영업익 2배 뛰는데 주가는 뚝...''피크아웃'' 갇힌 조선주, 돌파구는?[추석에 미리보는 4분기 증시③]]",
+   "outlet": "이투데이",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etoday.co.kr/news/view/2629205",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[AI가 바꾼 '워시 연준' 금리 방정식...추가 인상 1번이냐 3번이냐]",
+   "outlet": "뉴스1",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.news1.kr/world/international-economy/6300025",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[“정권 바뀌면 책임질라”...‘1500조원’ 3대 메가·‘273조원’ 대미투자[세종백블]]",
+   "outlet": "헤럴드경제",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.heraldcorp.com/article/10884403",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[“AI가 무섭다”...美 10명 중 9명, 기술 발전에 ‘기대보다 우려’]",
+   "outlet": "세계일보",
+   "pub_date": "2026-09-24",
+   "cluster": 3,
+   "topic": null,
+   "url": "https://www.segye.com/newsView/20260924509030",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상... 40억달러 베팅한 이유]",
+   "outlet": "조선비즈",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.chosun.com/it-science/ict/2026/09/25/ANLJSYAT2JEHBMOAPNFYQ4ZLKQ/",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[뉴욕증시, 고유가·국채금리 급등에 혼조?다우 0.31%↓]",
+   "outlet": "이투데이",
+   "pub_date": "2026-09-25",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://www.etoday.co.kr/news/view/2629342",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[전북도, 피지컬AI 클러스터 육성 속도... 투자유치.금융지원 '투트랙']",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260922000454",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[전북, 현대차 투자 지렛대로 '미래첨단산업 대전환' 꾀한다]",
+   "outlet": "뉴스1",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.news1.kr/local/jeonbuk/6300337",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "['덩샤오핑 예언 적중' 희토류가 美 발목 잡았다...美.日 '산업의 비타민' 탈중국 가속]",
+   "outlet": "파이낸셜뉴스",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.fnnews.com/news/202609250359059431",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[AI가 버스 노선 짜고 어르신 말벗까지...강원 남부가 달라진다]",
+   "outlet": "뉴스1",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.news1.kr/local/kangwon/6300963",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[[테크 차이나] 스키부터 테니스까지...AI 하드웨어, 스포츠 훈련을 바꾼다]",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260922000447",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[국내 연구진 개발한 로봇, 충전 없이 마라톤 풀코스 뛰었다]",
+   "outlet": "아시아경제",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026092415465205262",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[AI와 결혼 1주년? 일본인 카노 \"제 남편은 몸이 없다는 것을 자각하고 있어요\"]",
+   "outlet": "조선비즈",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://biz.chosun.com/entertainment/tv/2026/09/24/MQYGINLBGA4TIZJYMQ3TCZJSHE/",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[한번 멈추면 시간당 2억 증발...산업현장, ‘AI 조기진단’에 눈 돌린다]",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.sedaily.com/article/20094130",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[‘결국 답은 바이오’...2조 뭉칫돈 쏠린 기업은]",
+   "outlet": "서울경제",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.sedaily.com/article/20094806",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[경북도, 지역 양자산업 육성 교두보 마련...글로벌 기업과 맞손]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/society/2026/09/24/20260924500056",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[‘뮤즈’로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[“의도치 않은 행동” 오픈AI ‘불량 에이전트’, 호주 정부까지 침투...정부해킹 첫 사례]",
+   "outlet": "헤럴드경제",
+   "pub_date": "2026-09-24",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://biz.heraldcorp.com/article/10884298",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[中 딥시크 “AI 에이전트 결코 신뢰 못 해...통제 벗어나 시스템 파괴 위험”]",
+   "outlet": "헤럴드경제",
+   "pub_date": "2026-09-24",
+   "cluster": 3,
+   "topic": null,
+   "url": "https://biz.heraldcorp.com/article/10884258",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[오픈AI 에이전트, 호주 정부 웹사이트도 침입...세 달 뒤 통보]",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-24",
+   "cluster": 2,
+   "topic": null,
+   "url": "https://www.etnews.com/20260924000034",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[AI 쇼핑 에이전트로 명절 선물 고민 졸업...“3살 조카 추석 선물 골라줘” 한마디에 교구.장난감 척척]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/24/20260924500064",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[오픈AI AI에이전트, 오스트레일리아 보건 통계 시스템 해킹...“정부 해킹 첫 사례”]",
+   "outlet": "한겨레",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.hani.co.kr/arti/international/international_general/1279391.html",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[오피스.물류 넘어 AI.반도체...글로벌 국부펀드 韓 투자 ‘진화’]",
+   "outlet": "서울신문",
+   "pub_date": "2026-09-24",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.seoul.co.kr/news/economy/2026/09/24/20260924500007",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[넷플 시청 기록으로 10년 뒤 미래도 점친다...MBTI 다음은 'AI 사주']",
+   "outlet": "파이낸셜뉴스",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.fnnews.com/news/202609222329246670",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "[전기차로 팝콘 만들고 AI로 캠핑사진...기업들 미래기술 체험 경쟁]",
+   "outlet": "세계일보",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.segye.com/newsView/20260925502251",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  },
+  {
+   "src": "adot",
+   "title": "['6억 성과급' 삼성 반도체의 클라스...300만원짜리 의자에 앉아 일한다]",
+   "outlet": "전자신문",
+   "pub_date": "2026-09-25",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20260925000004",
+   "url_via": "log",
+   "confidence": "auto",
+   "seen_in": [
+    "adot"
+   ]
+  }
+ ]
+}

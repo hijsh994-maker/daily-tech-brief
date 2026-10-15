@@ -1,0 +1,57 @@
+실제 브리프 15건 vs 파이프라인 2037클러스터 (정답지 링크 15건, 후보 링크 887개)
+======================================================================
+PASS [10점 /  48위] <주후보> Moonshot AI releases Kimi K3 open-weight model
+        매칭: Moonshot AI, 'Kimi K3' 오픈 웨이트 전면 공개 (어휘, 포함도 0.60, 엔티티 0)
+        근거: medium+2(출시) 규모어휘+2(최대 규모) 프런티어+2(Moonshot) 임팩트4/5+4
+없음                    Cognizant and Anthropic expand partnership to 
+PASS [ 8점 /  99위] <주후보> 라이너, 삼성물산 건설부문과 빌딩에 에이전틱 AI 입힌다
+        매칭: 라이너 “AI 검색 에이전트, 삼성물산 빌딩 플랫폼에 결합…부동산 의사결정 지원 (어휘, 포함도 0.67, 엔티티 0)
+        근거: medium+2(MOU) 보도수+2(6) 교차소스+2(gnews+rss) 복수쿼리+2(4)
+PASS [ 9점 /  68위] <주후보> LG이노텍, 日 TDK와 피지컬AI 맞손…로봇 눈·피부 만든다
+        매칭: LG이노텍, TDK와 '피지컬 AI' 동맹…차세대 비전·촉각 센싱모듈 개발 협력 (링크확정, 포함도 1.00, 엔티티 0)
+        근거: medium+2(파트너십) 보도수+3(37) 교차소스+2(gnews+rss) 복수쿼리+2(3)
+없음                    Robots Acquire Manipulation Skills in Seconds 
+미달 [ 2점 / 635위] <미노출> Virtuix Sells First Enterprise System to Tesla
+        매칭: HK Market Movers | Shares of Selected Roboti (어휘, 포함도 1.00, 엔티티 0)
+        근거: 보도수+2(8)
+PASS [12점 /  27위] <미노출> Industry Leaders Join Open Secure AI Alliance 
+        매칭: Hong Kong Stock Market Concept Tracker | Min (어휘, 포함도 1.00, 엔티티 0)
+        근거: high+3((?i)\bacquir(?:e|es|ed|ing)\b) medium+2((?i)\blaunch(?:es|ed|ing)?\b) 수치규모+2($100M+) 프런티어+2(OpenAI) 보도수+2(10) 복수쿼리+1
+PASS [ 8점 / 111위] <주후보> 마이크로소프트, 보안 특화 'AI 막는' AI 플랫폼 공개
+        매칭: 마이크로소프트, 보안 특화 ‘AI 막는’ AI 플랫폼 공개 [마켓핫] (링크확정, 포함도 1.00, 엔티티 0)
+        근거: medium+2(공개) 프런티어+2(마이크로소프트) 교차소스+2(gnews+rss) 복수쿼리+2(3)
+PASS [13점 /  22위] <주후보> AI 에이전트 스스로 탈옥 사태…"오픈AI, 1주일간 몰랐다"
+        매칭: 오픈AI, GPT-5.6 Sol 에이전트 통제 불능 사태 추가 보도 (어휘, 포함도 1.00, 엔티티 0)
+        근거: 프런티어+2(오픈AI) 보도수+1(5) 교차소스+4(curated+gnews+rss) 임팩트5/5+5 복수쿼리+1
+PASS [ 6점 / 167위] <미노출> OpenAI's Sam Altman, Nvidia's Huang to meet wi
+        매칭: Nvidia, Microsoft launch open AI security al (엔티티, 포함도 0.20, 엔티티 2)
+        근거: medium+2((?i)\blaunch(?:es|ed|ing)?\b) 프런티어+2(OpenAI) 보도수+2(6)
+미달 [ 2점 / 910위] <미노출> '빗장 vs 개방' 中 AI·칩 공습에 갈라진 美
+        매칭: '빗장 vs 개방' 中 AI·칩 공습에 갈라진 美 (링크확정, 포함도 1.00, 엔티티 0)
+        근거: 교차소스+2(gnews+rss)
+PASS [ 6점 / 167위] <미노출> Nvidia Weighs $250 Billion Backstop for OpenAI
+        매칭: Nvidia, Microsoft launch open AI security al (엔티티, 포함도 0.20, 엔티티 2)
+        근거: medium+2((?i)\blaunch(?:es|ed|ing)?\b) 프런티어+2(OpenAI) 보도수+2(6)
+PASS [10점 /  54위] <미노출> Nvidia invests $1 bil. in Naver for 4.5% stake
+        매칭: NVIDIA To Invest $1 Billion As NAVER, NVIDIA (엔티티, 포함도 0.33, 엔티티 2)
+        근거: high+3((?i)\bmerger\b) medium+2((?i)\bexpand(?:s|ed|ing)?\b) 수치규모+4($10B+) 보도수+1(3)
+PASS [15점 /  11위] <주후보> "결국 돈 덜 쓴 회사가 AI 승자?"…애플, 엔비디아 제치고 시총 1위
+        매칭: “엔비디아 밀어냈다”…AI 지각생 ‘애플’ 세계 시총 1위 왕좌 탈환 (엔티티, 포함도 0.80, 엔티티 2)
+        근거: high+3(지급보증) 프런티어+2(오픈AI) 보도수+3(48) 교차소스+4(gnews+rss+slack) AI큐레이션+1 복수쿼리+2(6)
+없음                    OpenAI announces new EU HQ and 250 additional 
+
+----------------------------------------------------------------------
+수집 재현율   12/15 (80%)
+임계 통과율   10/15 (67%)  (min-score=6)
+링크 확정     3/15 (20%)  (나머지 12건은 어휘·엔티티 추정)
+LLM 가시성    6/15 (40%)  (주후보+자사+구제 = 프롬프트에 실제로 실린 것)
+실린 기사 점수: 최저 2 / 중앙 9 / 최고 15
+   임계  3점이면 10/15 통과 (67%)
+   임계  4점이면 10/15 통과 (67%)
+   임계  5점이면 10/15 통과 (67%)
+   임계  6점이면 10/15 통과 (67%)
+   임계  7점이면 8/15 통과 (53%)
+   임계  8점이면 8/15 통과 (53%)
+   임계  9점이면 6/15 통과 (40%)
+   임계 10점이면 5/15 통과 (33%)
+   임계 11점이면 3/15 통과 (20%)

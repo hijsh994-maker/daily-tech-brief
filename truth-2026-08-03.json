@@ -1,0 +1,107 @@
+{
+ "date": "2026-08-03",
+ "items": [
+  {
+   "title": "오픈AI, 차세대 AI '아스트라' 출격 예고… 10년묵은 수학 난제 10개 풀었다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260803000008",
+   "category": "AI Model"
+  },
+  {
+   "title": "체급 깬 딥시크…8배 큰 AI 모델 성능 추월",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20074844",
+   "category": "AI Model"
+  },
+  {
+   "title": "구글, AI 이미지 생성 기능 하루 만에 철회…\"허위정보 우려\"",
+   "outlet": "아주경제",
+   "url": "https://www.ajunews.com/view/20260802102358946",
+   "category": "AI Model"
+  },
+  {
+   "title": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213447",
+   "category": "AI Agent"
+  },
+  {
+   "title": "대한약사회, 국가 바이오빅데이터 참여…AI 기반 정밀약료 추진",
+   "outlet": "뉴스1",
+   "url": "https://v.daum.net/v/20260803084840524",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "AI DC 완판 흥행 속 1.3조 추가 투자…LGU+, 시장 선점 속도",
+   "outlet": "뉴스1",
+   "url": "https://v.daum.net/v/20260803064151996",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "美선 폐공장이 데이터센터로 바뀌고 있다",
+   "outlet": "한국경제",
+   "url": "https://v.daum.net/v/20260802173338740",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "중국도 우주 AI 데이터센터 눈 돌려… \"컴퓨팅 격차 해소\"",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20260731508616",
+   "category": "AI DC & AI Infra"
+  },
+  {
+   "title": "공장과 로봇 묶는 'AI 두뇌'… IT서비스 업계, 공장 OS 선점 경쟁",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260803060252576",
+   "category": "Physical AI"
+  },
+  {
+   "title": "아마존, 오픈AI에 72조원 투자 완료…지분 5% 확보",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260802100202",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "'AI 메가프로젝트'에 로봇 스타트업 투자 몰린다…양산 속도 관건",
+   "outlet": "뉴스1",
+   "url": "https://v.daum.net/v/20260803060210506",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "오픈AI, GPT 모델 '통제이탈' 정황 추가 발견…해킹 조사 확대",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20260801505349",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "앤트로픽, 미토스로 양자컴도 못 뚫는 양자내성 암호 후보 뚫었다",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260803084627",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "보안특화 AI, 일정 재설계가 맞다",
+   "outlet": "전자신문",
+   "url": "https://v.daum.net/v/20260802160220136",
+   "category": "AI 보안 & 정책"
+  },
+  {
+   "title": "윤곽 드러나는 국가대표AI…독파모 2차 평가 '결전의 달'",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10828634",
+   "category": "독파모(소버린AI)"
+  },
+  {
+   "title": "中 AI 잡는다 … K오픈모델 잇따라 출격",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260802171215341",
+   "category": "독파모(소버린AI)"
+  },
+  {
+   "title": "242억원 국방 초거대 AI, 우선협상자에 한화시스템 컨소시엄",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260731183622",
+   "category": "국책과제"
+  }
+ ]
+}

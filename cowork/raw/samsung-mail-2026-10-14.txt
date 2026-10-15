@@ -1,0 +1,23 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 9개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 구글, 최상위 모델 '제미나이 4 아르곤' 확대 출시 (전자신문)
+o 링크: [etnews.com/20261014000003](https://www.etnews.com/20261014000003)
+2. 구글 플레이, 나만을 위한 비공개 바이브 코딩 앱 지원 시작 (디지털투데이)
+o 링크: [digitaltoday.co.kr/news/articleView.html?idxno=706908](https://www.digitaltoday.co.kr/news/articleView.html?idxno=706908)
+3. 오픈AI 직원, 임원 회의실에 몰래 녹음장치 설치 혐의…FBI 체포·기소 '보안 비상' (중앙이코노미뉴스)
+o 링크: [joongangenews.com/news/articleView.html?idxno=554702](https://www.joongangenews.com/news/articleView.html?idxno=554702)
+4. OpenAI가 보안 기업 Trail of Bits 인수 협상을 진행 중이다 (TechFlow)
+o 링크: [techflowpost.com/ko-KR/newsletter/139853](https://techflowpost.com/ko-KR/newsletter/139853)
+5. AI labs sought control over what outside evaluators publish, Reuters says (The Next Web)
+o 링크: [thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control](https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control)
+6. Microsoft reportedly is reorganising the leadership of its Azure cloud unit (The Next Web)
+o 링크: [thenextweb.com/news/microsoft-azure-reorganisation-leadership-ulag](https://thenextweb.com/news/microsoft-azure-reorganisation-leadership-ulag)
+7. 마이크로소프트 애저 20% 비용 절감 논의 보도…회사는 부인 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/422296](https://www.tokenpost.kr/news/ai/422296)
+8. Oracle Proposes Up To $55M In Annual Power Bill Credits, Reaffirms Bloom Energy's Role At Project Jupiter (Asianet Newsable/Stocktwits)
+o 링크: […asianetnews.com/…/oracle-proposes-up-to-55m-in-annual-power-bill-credits-reaffirms-bloom-energy-s-role-at-project-jupiter-articleshow…](https://newsable.asianetnews.com/markets/oracle-proposes-up-to-55m-in-annual-power-bill-credits-reaffirms-bloom-energy-s-role-at-project-jupiter-articleshow-i2dzhor)
+9. Oracle asks FERC to fast-track gas pipeline for New Mexico AI data center (Crypto Briefing)
+o 링크: [cryptobriefing.com/oracle-gas-pipeline-new-mexico-data-center](https://cryptobriefing.com/oracle-gas-pipeline-new-mexico-data-center/)
+
+## 텔레그램 - 에이닷비즈뉴스레터

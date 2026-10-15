@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-01 09:00:18 KST === 
+Message TS: 1790812818.896479
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-01 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261001000026|오픈AI, '불량 AI 에이전트 해킹' 첫 피소…FTC 조사도 본격화>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20260930000247|“회의실 예약해줘” 한마디면 끝…서울시, 행정지원 AI 에이전트 구축>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.etnews.com/20260930000117|HSAD, AI 에이전트로 프로젝트 20개 수주>* (전자신문 (AI))
+*4. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/|서울과 싱가포르의 지역 내 추론을 위해 Amazon Bedrock에 인류 모델 도입>* (AWS Machine Learning Blog)
+*5. [:robot_face: AI Agent] <https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/|DoorDash launches an AI agent you can text to order food>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/|OpenAI’s Jev clone could help the frontier lab stop its swarming agents>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign|조율된 모델 증류 캠페인 중단>* (OpenAI News &amp; Research)
+*8. [:rocket: BigTech Release] <https://openai.com/index/helping-small-businesses-put-ai-to-work|소규모 기업들이 AI를 활용할 수 있도록 지원>* (OpenAI News &amp; Research)
+*9. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/|Amazon Bedrock Knowledge Bases로 자연어로 광고 문안 쿼리>* (AWS Machine Learning Blog)
+*10. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/|Amazon Bedrock, Claude 모델 가용성을 인도 국내 추론으로 확장>* (AWS Machine Learning Blog)

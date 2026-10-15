@@ -1,0 +1,82 @@
+2026년 8월 25일 조간 뉴스 클리핑 전체 기사 분석 결과입니다.
+
+1. SKT AI 전문가들 서울대 강단에 선다 (한국경제)
+o 링크: https://www.google.com/url?q=https://www.hankyung.com/article/2026082495761&source=gmail&ust87724629785000&sa=E
+
+2. SKT·서울대, 산학협력 AI 강좌 연다 (서울경제)
+o 링크: https://www.google.com/url?q=https://futurechosun.com/archives/158290&source=gmail&ust87724629785000&sa=E
+
+3. “AI, 빠르게 개선해 재배포해야 경쟁력” (파이낸셜뉴스)
+o 링크: https://www.google.com/url?q=https://www.fnnews.com/news/202608241806415650&source=gmail&ust87724629785000&sa=E
+
+4. SKT 들썩... AI데이터센터가 매출 효자 (한국경제)
+o 링크: https://www.google.com/url?q=https://plus.hankyung.com/apps/newspaper.view?section%3DA%26date%3D20260825%26ftype%3DB&source=gmail&ust87724629785000&sa=E
+
+5. “포기 안돼” 멘토 나선 발달장애 1호 프로골퍼 (동아일보)
+o 링크: https://www.google.com/url?q=https://www.donga.com/news/People/article/all/20260825/134536063/2&source=gmail&ust87724629785000&sa=E
+
+6. 발달 장애 골퍼 김선영, SKT 어댑티브 오픈 우승 (조선일보)
+o 링크: https://www.google.com/url?q=https://www.chosun.com/sports/golf/2026/08/25/UZEH472QTRCHLAAWEHZTUXDSRY/&source=gmail&ust87724629785000&sa=E
+
+7. 패스 앱 1380만명 쓰는데… 정부 모바일 신분증 일원화? (중앙일보)
+o 링크: https://www.google.com/url?q=https://www.joongang.co.kr/article/25272635&source=gmail&ust87724629785000&sa=E
+
+8. 정부, 'AI 윤리원칙' 제정…인간중심성·안전성·신뢰성 등 7대 원칙 제시 (전자신문)
+o 링크: https://www.google.com/url?q=https://www.etnews.com/20260824000239&source=gmail&ust87724629785000&sa=E
+
+9. “5MW급도 300m 떨어져라”…우후죽순 잣대에 'AI 실핏줄' 막힐 판 (서울경제)
+o 링크: https://www.google.com/url?q=https://www.sedaily.com/NewsView/2DGCJ4KQ45&source=gmail&ust87724629785000&sa=E
+
+10. 데이터센터 둘러싼 지자체별 규제·대응 (서울경제)
+o 링크: https://www.google.com/url?q=https://www.sedaily.com/NewsView/2DGCJ4KQ45&source=gmail&ust87724629785000&sa=E
+
+11. AI추론, 이젠 성능 아닌 원가 싸움…韓 NPU기업들에 새 기회 (매일경제)
+o 링크: https://www.google.com/url?q=https://www.mk.co.kr/news/it/12135119&source=gmail&ust87724629785000&sa=E
+
+12. 최고 성능도 비싸면 안 써… 가성비 AI 찾는 기업들 (조선일보)
+o 링크: https://www.google.com/url?q=https://www.chosun.com/economy/tech_it/2026/08/25/TMN3WY25PBDRRL6A4JIG7YVWEA/&source=gmail&ust87724629785000&sa=E
+
+13. 미·중 정상회담 한 달 앞… 달아오른 'AI 신경전' (경향신문)
+o 링크: https://www.google.com/url?q=https://www.khan.co.kr/world/world-general/article/202608242130005&source=gmail&ust87724629785000&sa=E
+
+14. KT, 전사 IT 현대화 '넥스트 IT' 가동 (전자신문)
+o 링크: https://www.google.com/url?q=https://www.etnews.com/20260824000185&source=gmail&ust87724629785000&sa=E
+
+15. LG유플, 화이트 해커에 보안 검증 맡긴다 (세계일보)
+o 링크: https://www.google.com/url?q=https://www.segye.com/newsView/20260824515280&source=gmail&ust87724629785000&sa=E
+
+16. 신입의 기술에 베테랑 노하우 더한다… SKB의 AX문화 (디지털타임스)
+o 링크: https://www.google.com/url?q=https://www.dt.co.kr/article/12079910&source=gmail&ust87724629785000&sa=E
+
+17. 엔비디아, AI 개발사 우회 인수 '오픈웨이트 모델' 개발 나선다 (경향신문)
+o 링크: https://www.google.com/url?q=https://v.daum.net/v/20260824150528740&source=gmail&ust87724629785000&sa=E
+
+18. ‘AI 공격 투자' 알리바바, 14조 유증 예고 (머니투데이)
+o 링크: https://www.google.com/url?q=https://news.mt.co.kr/mtview.php?no%3D2026082416150245678&source=gmail&ust87724629785000&sa=E
+
+19. '호남 팹 건설·美 투자 요구' 이중 부담에… 총수들, 李와 연쇄 독대 (조선일보)
+o 링크: https://www.google.com/url?q=https://www.chosun.com/politics/blue_house/2026/08/25/T5GN7GQZTJFUXADIICTGX5METU/&source=gmail&ust87724629785000&sa=E
+
+20. “메모리가 GPU 역할도” 삼성 승부수 … 하닉은 20층 HBM 쌓는다 (매일경제)
+o 링크: https://www.google.com/url?q=https://www.mk.co.kr/news/it/12135064&source=gmail&ust87724629785000&sa=E
+
+21. “자사주 소각 빠졌다” 삼성전자 110조 주주환원에도 급락 (조선일보)
+o 링크: https://www.google.com/url?q=https://www.chosun.com/economy/stock-finance/2026/08/25/UFRMI4PNOZE6HIIUWN6I22NLUA/&source=gmail&ust87724629785000&sa=E
+
+22. 삼성, 스마트폰 한파 뚫었다… '출하량 1위' 탈환 시동 (전자신문)
+o 링크: https://www.google.com/url?q=https://www.etnews.com/20260824000192&source=gmail&ust87724629785000&sa=E
+
+23. '접는 아이폰' 출격 임박… 삼성엔 '위협'이자 판 키울 '기회' (국민일보)
+o 링크: https://www.google.com/url?q=https://news.kmib.co.kr/article/view.asp?arcid%3D0020456789&source=gmail&ust87724629785000&sa=E
+
+24. [ET톡] 3G 종료의 책임 (전자신문)
+o 링크: https://www.google.com/url?q=https://www.etnews.com/20260824000210&source=gmail&ust87724629785000&sa=E
+
+25. [테헤란로] 월가가 키우는 AI (파이낸셜뉴스)
+o 링크: https://www.google.com/url?q=https://www.fnnews.com/news/202608241806408541&source=gmail&ust87724629785000&sa=E
+
+26. [사설] AI 윤리 발표, 규제 필요하나 혁신 막아선 안돼 (파이낸셜뉴스)
+o 링크: https://www.google.com/url?q=https://www.fnnews.com/news/202608241854349455&source=gmail&ust87724629785000&sa=E
+
+27. [사설] AI 윤리원칙 개편, 커진 영향력만큼 시민적 통제도 필수 (경향신문)
+o 링크: https://www.google.com/url?q=https://www.khan.co.kr/opinion/editorial/article/202608242035005&source=gmail&ust87724629785000&sa=E

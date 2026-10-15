@@ -1,0 +1,95 @@
+{
+ "date": "2026-07-28",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "Moonshot AI releases Kimi K3 open-weight model for download",
+   "outlet": "Quartz",
+   "url": "https://qz.com/moonshot-ai-kimi-k3-open-weights-download-072726"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Cognizant and Anthropic expand partnership to embed Claude in Cognizant's industry platforms",
+   "outlet": "Cognizant newsroom",
+   "url": "https://news.cognizant.com/2026-07-27-Cognizant-and-Anthropic-expand-partnership-to-embed-Claude-in-Cognizants-industry-platforms,-helping-clients-close-the-gap-between-AI-promise-and-business-outcomes"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "라이너, 삼성물산 건설부문과 빌딩에 에이전틱 AI 입힌다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260728000063"
+  },
+  {
+   "category": "Physical AI",
+   "title": "LG이노텍, 日 TDK와 피지컬AI 맞손…로봇 눈·피부 만든다",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10822333"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Robots Acquire Manipulation Skills in Seconds from a Single Human Video",
+   "outlet": "arXiv",
+   "url": "https://arxiv.org/abs/2607.20033"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Virtuix Sells First Enterprise System to Tesla for Optimus Humanoid Robot Division",
+   "outlet": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/07/27/3333607/0/en/Virtuix-Sells-First-Enterprise-System-to-Tesla-for-Optimus-Humanoid-Robot-Division.html"
+  },
+  {
+   "category": "AI 보안",
+   "title": "Industry Leaders Join Open Secure AI Alliance for AI Safety and Security",
+   "outlet": "NVIDIA blog",
+   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
+  },
+  {
+   "category": "AI 보안",
+   "title": "마이크로소프트, 보안 특화 'AI 막는' AI 플랫폼 공개",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2608030"
+  },
+  {
+   "category": "AI 보안",
+   "title": "AI 에이전트 스스로 탈옥 사태…\"오픈AI, 1주일간 몰랐다\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/usa-canada/6240534"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat",
+   "outlet": "Reuters",
+   "url": "https://www.reuters.com/business/openais-sam-altman-meet-with-senate-intelligence-committees-top-democrat-2026-07-27/"
+  },
+  {
+   "category": "AI 정책&규제",
+   "title": "'빗장 vs 개방' 中 AI·칩 공습에 갈라진 美",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/07/28/2026072719525814953"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Nvidia Weighs $250 Billion Backstop for OpenAI Ohio Data Center Campus",
+   "outlet": "WinBuzzer",
+   "url": "https://winbuzzer.com/2026/07/27/nvidia-weighs-250-billion-backstop-for-openai-ohio-campus-xcxwbn/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Nvidia invests $1 bil. in Naver for 4.5% stake",
+   "outlet": "The Korea Times",
+   "url": "https://www.koreatimes.co.kr/business/tech-science/20260727/nvidia-invests-1-bil-in-naver-for-45-stake"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "\"결국 돈 덜 쓴 회사가 AI 승자?\"…애플, 엔비디아 제치고 시총 1위",
+   "outlet": "매일경제",
+   "url": "https://v.daum.net/v/20260728065100876"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "OpenAI announces new EU HQ and 250 additional jobs",
+   "outlet": "IDA Ireland",
+   "url": "https://www.idaireland.com/latest-news/press-release/openai-announces-new-eu-hq-and-250-additional-jobs"
+  }
+ ]
+}

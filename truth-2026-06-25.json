@@ -1,0 +1,107 @@
+{
+ "date": "2026-06-25",
+ "items": [
+  {
+   "title": "\"글자 위치·역할까지 파악\"…미스트랄AI, 차세대 OCR 모델(Mistral OCR 4) 출시",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260624182307",
+   "category": "AI Model"
+  },
+  {
+   "title": "NC AI, '바르코 3D' 2.0 모델 공개…원본 형상 왜곡 개선",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260624000313",
+   "category": "AI Model"
+  },
+  {
+   "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
+   "outlet": "이데일리TV",
+   "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02394406645485328&Kind=257",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "中, 9년 만에 슈퍼컴퓨터 1위 탈환…GPU 없이 美 제쳤다",
+   "outlet": "동아사이언스",
+   "url": "https://v.daum.net/v/20260624175151385",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "퀄컴, AI 데이터센터 청사진 공개…\"전용 CPU 2028년 출시\"",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20260625062146",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "바이트댄스, 中 반도체 자립 견인…엔비디아 막히자 중국산 AI칩 도입",
+   "outlet": "조선비즈",
+   "url": "https://v.daum.net/v/20260625060227587",
+   "category": "AI DC & Infra"
+  },
+  {
+   "title": "마이크론 \"1000억 달러 규모 장기 전략 고객 계약 체결\"",
+   "outlet": "아이뉴스24",
+   "url": "https://v.daum.net/v/20260625072718159",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "SK하이닉스, 미 ADR로 45조 조달…7월 나스닥 상장",
+   "outlet": "뉴스토마토",
+   "url": "https://v.daum.net/v/20260624160051756",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "처칠 캐피털 XI, 휴머노이드 로봇 '애질리티 로보틱스'와 합병 상장 합의…기업가치 25억 달러",
+   "outlet": "데이터투자",
+   "url": "https://www.datatooza.com/article/202606242002257667cd1e76b199_80",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "KT, KT클라우드 다시 품나…재합병 검토",
+   "outlet": "디지털타임스",
+   "url": "https://v.daum.net/v/20260624190344643",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "[단독] 이재명 정부 'K로보틱스' 육성 청사진 내놓는다…현대차·LG·두산 총출동",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/article/2026062409351306343",
+   "category": "Physical AI"
+  },
+  {
+   "title": "Anthropic's Mythos Model Found Vulnerabilities in Classified US Government Systems",
+   "outlet": "AP",
+   "url": "https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718",
+   "category": "AI 보안"
+  },
+  {
+   "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Model",
+   "outlet": "Business Times",
+   "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-accuses-alibaba-illicitly-accessing-ai-models",
+   "category": "AI 보안"
+  },
+  {
+   "title": "AI로 보이스피싱 사전 차단…금보원·인뱅 3사 공동모델 가동",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20059653",
+   "category": "AI 보안"
+  },
+  {
+   "title": "행안부, 'AI 민주정부' 청사진 공개…\"디지털정부 넘어 AI 민주정부로\"",
+   "outlet": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20260624000549",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "에너지 AX 생태계 주도하는 코난테크놀로지, '에너지 특화 AI 에이전트'로 격차 벌린다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20260624000103",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "손정의 \"버블론은 AI에 대한 모독…지금이 역사적 전환점\"",
+   "outlet": "한국경제",
+   "url": "https://v.daum.net/v/20260624145351040",
+   "category": "인물"
+  }
+ ]
+}

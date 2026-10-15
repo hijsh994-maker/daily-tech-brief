@@ -1,0 +1,434 @@
+{
+ "date": "2026-10-15",
+ "terms": [
+  {
+   "term": "Turbo",
+   "norm": "turbo",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "HackerNoon",
+    "HuggingFace",
+    "MarkTechPost",
+    "OrcaRouter"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "MarkTechPost(10-12) | Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+    "HuggingFace(10-12) | HF trending: Qwen/Qwen-Image-2.1-Turbo",
+    "OrcaRouter(10-14) | Qwen-Image 2.1 vs Z-Image Turbo: 스텝, 라이선스, 적합성",
+    "HackerNoon | What Is Qwen-Image-2.1-Turbo? Everything You Need to Know"
+   ],
+   "score": 16
+  },
+  {
+   "term": "ARTEX",
+   "norm": "artex",
+   "n_outlets": 33,
+   "n_today": 2,
+   "outlets": [
+    "BBS불교방송",
+    "BleepingComputer",
+    "Chosunbiz",
+    "Crypto Briefing",
+    "Cyber Kendra",
+    "Daum",
+    "GitHub",
+    "OBS경인TV"
+   ],
+   "days": 6,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "edaily.co.kr(10-06) | 금융권 해킹 추정 서버서 발견된 AI 도구 ‘ARTEX’는 무엇인가",
+    "데일리시큐(10-06) | [이슈 분석] 금융권 공격서 포착된 ‘ARTEX AI’… 분석 결과 14개 국가·지역서 ARTEX 관련 고유 IP 359개 발견돼",
+    "BBS불교방송(10-07) | 한국 금융사 해킹에 중국 AI 에이전트 'ARTEX' 악용 정황",
+    "디지털데일리 | \"AI 해킹 흔적 잡는다\"…티오리, `ARTEX` 분석 및 방어 가이드 제시",
+    "한스경제 | 티오리, 금융권 노린 ‘ARTEX’ 해부…AI 공격 탐지기술 무료 공개",
+    "디지털데일리 | \"AI 해킹 흔적 잡는다\"…티오리, 'ARTEX' 분석 및 방어 가이드 제시"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Maia",
+   "norm": "maia",
+   "n_outlets": 35,
+   "n_today": 6,
+   "outlets": [
+    "Axios",
+    "Barron's",
+    "Businesskorea",
+    "Cloud Computing News",
+    "Data Center Knowledge",
+    "Fierce Network",
+    "Foreign Policy Journal",
+    "Free Press Journal"
+   ],
+   "days": 3,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Korea IT Times(10-13) | [투데이 시그널] 마이크로소프트, 자체 AI 칩 Maia 300 공개…엔비디아 의존도 낮춘다",
+    "Unite.AI(10-13) | 마이크로소프트, Maia 300 AI 칩 발표…Azure 멀티 기가와트 규모로 확장",
+    "TradingView(10-13) | Microsoft Stocks Rise as Million-Chip Maia Plan Targets Inference Costs",
+    "mezha.net | 마이크로소프트의 Maia 300는 엔비디아의 최대 고객들이 경쟁자로 변하고 있음을 보여준다",
+    "Kingy AI | Microsoft Unveils Maia 300: A Bigger AI Bet on Every Watt",
+    "Businesskorea | Microsoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance"
+   ],
+   "score": 13
+  },
+  {
+   "term": "망고 인퍼런스",
+   "norm": "망고인퍼런스",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "굿모닝베트남미디어",
+    "뉴스핌",
+    "동아일보",
+    "디지털데일리",
+    "디지털투데이",
+    "이투데이",
+    "파이낸셜뉴스"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "동아일보(10-13) | 망고부스트, ‘망고 인퍼런스’ 정식 출시··· DPU 넘어 AI 팩토리로 도전장",
+    "이투데이(10-13) | 망고부스트, ‘AI 팩토리’ 사업 본격화…AI 추론 플랫폼 ‘망고 인퍼런스’ 공개",
+    "디지털투데이(10-13) | 망고부스트, AI 추론 플랫폼 ‘망고 인퍼런스’ 출시...효율성으로 승부",
+    "굿모닝베트남미디어 | [스타트업/반도체] AMD 리사 수 CEO도 주목한 망고부스트… '망고 인퍼런스'로 엔비디아 독주에 도전장"
+   ],
+   "score": 12
+  },
+  {
+   "term": "해킹 대중화",
+   "norm": "해킹대중화",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "뉴스1"
+   ],
+   "days": 3,
+   "first": "2026-10-08",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "뉴스1(10-08) | [흔들린 보안시계]AI가 낮춘 문턱…'해킹 대중화' 시대",
+    "뉴스1(10-14) | 日 덮친 AI발 '해킹 대중화' 공포…기업·관공서 피해 급증",
+    "뉴스1 | 日 덮친 AI발 '해킹 대중화' 공포…기업·관공서 피해 급증"
+   ],
+   "score": 12
+  },
+  {
+   "term": "포스트 HBM",
+   "norm": "포스트hbm",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "서울신문",
+    "직썰",
+    "투데이신문"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "서울신문(10-12) | ‘포스트 HBM’ 부상한 로봇용 D램…삼전닉스·마이크론, 휴머노이드 메모리 주목",
+    "직썰(10-14) | 세미콘 웨스트, ‘포스트 HBM’ 격전지로…K소부장, 영토 확장 나선다",
+    "투데이신문 | “2030년 AI 인프라 20배 커진다”…SK하이닉스가 그리는 ‘포스트 HBM’ 청사진"
+   ],
+   "score": 10
+  },
+  {
+   "term": "엑스박스 랩스",
+   "norm": "엑스박스랩스",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "뉴스투온",
+    "디지털투데이",
+    "인벤"
+   ],
+   "days": 2,
+   "first": "2026-10-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "디지털투데이(10-14) | MS, AI 게임 실험 조직 '엑스박스 랩스' 신설",
+    "인벤(10-14) | MS, AI 게임 디컴파일 열풍 공식 수용...'엑스박스 랩스' 출범",
+    "뉴스투온 | MS, 신기술 실험 조직 ‘엑스박스 랩스’ 출범",
+    "디지털투데이 | MS, AI 게임 실험 조직 '엑스박스 랩스' 신설"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Scion",
+   "norm": "scion",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "HN",
+    "HackerNoon"
+   ],
+   "days": 1,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HackerNoon | AI Agents Are Killing the Git Client, Not Git: What Anthropic's Scion and Cursor",
+    "HN | Anthropic's Scion is heavily inspired by Mononoke"
+   ],
+   "score": 8
+  },
+  {
+   "term": "PhotoCraft",
+   "norm": "photocraft",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 2,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "GitHub(10-07) | storytold/photocraft — An open-source, clean-room reimplementation of Adobe Phot",
+    "GitHub | storytold/photocraft — PhotoCraft: An open-source, photo editor written by scrat"
+   ],
+   "score": 8
+  },
+  {
+   "term": "페이블 5.5",
+   "norm": "페이블55",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "AI타임스",
+    "이코노미트리뷴"
+   ],
+   "days": 1,
+   "first": "2026-10-15",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "이코노미트리뷴 | [AI스토리] 앤트로픽 매출 46% 급증에도 연말 목표 '불투명'…IPO 앞두고 '페이블 5.5' 출시설",
+    "AI타임스 | 앤트로픽 차기 모델 ‘페이블 5.5’ 흔적 포착...\"이번 주 출시 예상\"",
+    "AI타임스 | 앤트로픽 차기 모델 ‘페이블 5.5’ 흔적 포착...\"이번 주 출시 예상\""
+   ],
+   "score": 7
+  },
+  {
+   "term": "Iosevka",
+   "norm": "iosevka",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Iosevka is an open-source, sans-serif and slab-serif monospace font"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Janas",
+   "norm": "janas",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Janas: Run LLMs larger than RAM by streaming experts from SSD"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "홈뷰",
+   "norm": "홈뷰",
+   "n_outlets": 22,
+   "n_today": 10,
+   "outlets": [
+    "AI 매터스",
+    "AI타임스",
+    "IT조선",
+    "SBS Biz",
+    "www.dt.co.kr",
+    "글로벌이코노믹",
+    "뉴시스",
+    "디자인 나침반"
+   ],
+   "days": 4,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털투데이(10-12) | 애플 '홈뷰' 베일 벗는다…시리 AI 품고 11월 출시, LG와 협업",
+    "지디넷코리아(10-12) | 애플 스마트홈 신제품은 ‘홈뷰’…11월 중순 출시 유력",
+    "이데일리(10-12) | 애플 ‘홈뷰’ 13일 공개…스마트홈 허브 공략[모닝폰]",
+    "디지털투데이 | 299달러짜리 가정용 아이패드?…애플 홈뷰의 진짜 차별점",
+    "위키트리 | 애플 홈뷰, 카플레이 영상 앱은 수정 없이 작동…유튜브·넷플릭스는 아직 확정 안 됐다",
+    "스타트업레시피 | 스마트홈 한곳에서 관리…애플 홈뷰 공개했다"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Atlassian",
+   "norm": "atlassian",
+   "n_outlets": 16,
+   "n_today": 2,
+   "outlets": [
+    "AFR",
+    "Atlassian",
+    "BigGo Finance",
+    "Breakingthenews.net",
+    "Business Wire",
+    "Crypto Briefing",
+    "ET Enterprise AI",
+    "FourWeekMBA"
+   ],
+   "days": 6,
+   "first": "2026-10-07",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(10-07) | Atlassian and OpenAI expand partnership to bring frontier models into Jira and C",
+    "VentureBeat(10-07) | Atlassian deepens its OpenAI partnership with a spend commitment — but its platf",
+    "Breakingthenews.net(10-07) | OpenAI, Atlassian expand AI partnership",
+    "Simply Wall Street | Is AI Agent Rollout Altering The Investment Case For Atlassian (TEAM)?",
+    "UC Today | How Atlassian’s AMP Brings AI Agents Into Team Workflows"
+   ],
+   "score": 10
+  },
+  {
+   "term": "IoT Devices",
+   "norm": "iotdevices",
+   "n_outlets": 9,
+   "n_today": 4,
+   "outlets": [
+    "Ars Technica",
+    "Bisinfotech",
+    "Cyber Press",
+    "SC Media",
+    "SecurityWeek",
+    "Tech Times",
+    "Times Of AI",
+    "Unite.AI"
+   ],
+   "days": 4,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Bisinfotech(10-12) | Silicon Labs unveils developer initiatives for intelligent IoT devices",
+    "Unite.AI(10-13) | Anthropic Red Team Says Small AI Models May Soon Replicate on IoT Devices",
+    "SecurityWeek(10-14) | Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
+    "Times Of AI | Anthropic Examines AI Worm Risks for IoT Devices",
+    "Ars Technica | Anthropic warns small AI models could self-replicate through IoT devices",
+    "SC Media | Anthropic researchers demonstrate autonomous AI replication on IoT devices"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Linus Torvalds",
+   "norm": "linustorvalds",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Computerworld",
+    "Linuxiac",
+    "Pasquale Pillitteri",
+    "Phoronix",
+    "Startup Fortune",
+    "SuaraGarut.ID",
+    "ZDNET"
+   ],
+   "days": 4,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Phoronix(10-12) | Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+    "Linuxiac(10-13) | Linus Torvalds Experiments with AI-Generated Kernel Code, Sees 3x Speedup",
+    "Startup Fortune(10-13) | Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+    "Computerworld | Linus Torvalds has started using AI to develop the Linux kernel"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Scott Wiener",
+   "norm": "scottwiener",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "ABC7 Bay Area",
+    "AsAmNews",
+    "Crypto Briefing",
+    "Mission Local",
+    "Punchbowl News",
+    "The San Francisco Standard",
+    "remio"
+   ],
+   "days": 4,
+   "first": "2026-10-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "remio(10-06) | Connie Chan AI Oversight Plan Clashes With Scott Wiener Over Data Center Growth",
+    "AsAmNews(10-06) | Scott Wiener and Connie Chan present clashing visions on regulating A.I.",
+    "ABC7 Bay Area(10-12) | Here's where Scott Wiener, Connie Chan stand in SF congressional race to succeed",
+    "Mission Local | Scott Wiener, Connie Chan spar over AI at debate — and then make nice"
+   ],
+   "score": 10
+  },
+  {
+   "term": "West Virginia",
+   "norm": "westvirginia",
+   "n_outlets": 7,
+   "n_today": 3,
+   "outlets": [
+    "Cybernews",
+    "Gadget Review",
+    "News and Sentinel",
+    "WBOY.com",
+    "WDTV 5",
+    "WSAZ",
+    "primetimer.com"
+   ],
+   "days": 4,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "News and Sentinel(10-12) | Op-ed: West Virginia’s AI future depends on 7,000 bridges",
+    "Gadget Review(10-12) | West Virginia's Historic Chestnut Trees Threatened By Data Center To Be Relocate",
+    "Cybernews(10-13) | West Virginia data center plan puts rare chestnuts at risk",
+    "WSAZ | West Virginia among states suing OpenAI",
+    "WBOY.com | West Virginia sues OpenAI over child safety concerns",
+    "WSAZ | West Virginia files lawsuit against OpenAI"
+   ],
+   "score": 10
+  }
+ ]
+}

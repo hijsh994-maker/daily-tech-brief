@@ -1,0 +1,71 @@
+{
+ "date": "2026-07-21",
+ "items": [
+  {
+   "title": "한국 AI의 쾌거…모티프3, 中 딥시크V4·키미K.26 어깨 나란히",
+   "outlet": "이데일리",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03460406645516816&mediaCodeNo=257",
+   "category": "독파모 (소버린AI)"
+  },
+  {
+   "title": "중국 zAI, Nvidia 칩 없이 1GW급 AI 데이터센터 가동 개시",
+   "outlet": "promppy",
+   "url": "https://www.promppy.com/item/223354",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+   "outlet": "Microsoft blog",
+   "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "TSMC, AI 호황에 美 투자 확대…애리조나에 생산공장·패키징 시설 증설",
+   "outlet": "알파경제",
+   "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=164563",
+   "category": "AI DC & 인프라"
+  },
+  {
+   "title": "허트 8·IREN, 수십억 달러 규모 신규 계약에 AI 컴퓨트 주식 반등",
+   "outlet": "CoinDesk",
+   "url": "https://www.coindesk.com/ko/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
+   "category": "AI 투자&시장"
+  },
+  {
+   "title": "Blackstone Invests in South Korean Robotics Supplier Futronic",
+   "outlet": "Tech Startups",
+   "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+   "category": "Physical AI"
+  },
+  {
+   "title": "Microsoft tests Kimi K3 for Copilot in bid to cut AI costs by $600 million",
+   "outlet": "Crypto Briefing",
+   "url": "https://x.com/crypto_briefing/status/2079270711718555985",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "Bristol Myers Becomes First Drugmaker to Buy Nvidia’s Vera Rubin AI Supercomputer",
+   "outlet": "Tech Startups",
+   "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+   "category": "Enterprise AI"
+  },
+  {
+   "title": "U.S. Considers Independent Watchdog to Evaluate Advanced AI Models",
+   "outlet": "Tech Startups",
+   "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+   "category": "AI 보안"
+  },
+  {
+   "title": "‘모두의 AI’ 사업 본궤도···AI 업계 컨소시엄 윤곽 나오나",
+   "outlet": "뉴스웨이",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026072015405126619",
+   "category": "국가정책"
+  },
+  {
+   "title": "국방 LLM 개발…LIG D&A·한화시스템 컨소시엄 맞붙는다",
+   "outlet": "지디넷코리아",
+   "url": "https://n.news.naver.com/article/092/0002431149?sid=105",
+   "category": "국가정책"
+  }
+ ]
+}
