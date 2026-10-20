@@ -814,6 +814,19 @@ insight)
   #   8단계 검증에서 linkcheck 와 함께 돌린다.
   cd "$W" && python3 cowork/insight_check.py --date "$DATE" ;;
 
+budget)
+  # [2026-10-20 신설] 발송본을 쓰기 **전에** 건당 본문 예산을 찍는다.
+  #   send_telegram 과 같은 자(tg_len)로 뼈대(머리글·헤더·헤드라인·매체·원문보기·라벨)를
+  #   재고 상한에서 빼서 '주요 N자·시사점 M자'를 알려준다. 10-20 실측: 예산을 모른 채
+  #   20건을 쓰고 재니 5,008/4,080 -> 압축 5회. 이 명령 뒤에 그 예산 안에서 한 번에 쓴다.
+  #     run.sh budget                  -> verdict '고' rank 순 상위 20건
+  #     run.sh budget --top 18         -> 상위 18건 가정
+  #     run.sh budget --idx 123 125 …  -> 발송 예정 idx 직접
+  #     run.sh budget --idx … --headline N66="바꾼 제목"
+  #   20건 상한(09-10)·'빼지 말고 압축'(09-28)은 바꾸지 않는다. 계산기일 뿐이다.
+  shift || true
+  cd "$W" && python3 cowork/budget.py --date "$DATE" "$@" ;;
+
 verdict-xlsx)
   # [2026-09-04 사용자 지시] 전수 판정 결과를 엑셀로 만든다.
   #   '앞으로 뉴스 리스트는 본문으로 안 보여줘도 되고, 대신 고/중/저 판단

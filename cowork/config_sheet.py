@@ -105,6 +105,10 @@ def main():
     print("   * 반드시 메시지 1개. 2개면 기사를 빼지 말고 건당 본문을 먼저 압축합니다(09-28 사용자 결정). 그래도 넘칠 때만 rank 최하위를 뺍니다.")
     print("   * 발송 대상은 초안 채널. `run.sh send final` 은 쓰지 않습니다.")
 
+    print("\n[본문 예산]  정본 = cowork/budget.py   명령 = run.sh budget")
+    print("   발송본을 쓰기 **전에** `run.sh budget` 으로 건당 '주요 N자·시사점 M자'를 받는다.")
+    print("   위 [본문 길이]는 상한이지 목표가 아니다 — 18~20건이면 건당 본문이 120~140자뿐이다.")
+    print("   (10-20 실측: 예산 없이 20건을 쓰고 재니 5,008/4,080 -> 압축 5회)")
     print("\n[발송 전 순서]")
     print("   linkcheck -> cats -> insight -> style -> deals -> push -> send")
     print("   * cats 는 send 가 자동 호출하며 실패 시 발송을 막습니다.")
