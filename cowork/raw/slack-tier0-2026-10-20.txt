@@ -1,0 +1,159 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-20 13:09:00 KST === 
+Message TS: 1792469340.821439
+
+Files: [2026년 10월 20일] 조간 뉴스 클리핑 (ID: F0CALLY6X25, text/html, 47.9 KB)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-20 09:43:33 KST === 
+Message TS: 1792457013.272219
+_[텔레그램 로그 2026-10-20] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 5개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. Nscale, Anthropic in talks for $45 billion AI cloud computing deal, Bloomberg News reports (Reuters via Devdiscourse)
+o 링크: <https://www.devdiscourse.com/article/international/3994951-nscale-anthropic-in-talks-for-45-billion-ai-cloud-computing-deal-bloomberg-news-reports|devdiscourse.com/article/international/3994951-nscale-anthropic-in-talks-for-45-billion-ai-cloud-computing-deal-bloomberg-news-reports>
+2. BE Stock Adds 3% After Oracle Signals Project Jupiter 'Moving Quickly' (Stocktwits via Yahoo Finance)
+o 링크: <https://finance.yahoo.com/technology/ai/articles/stock-adds-3-oracle-signals-195036340.html|finance.yahoo.com/technology/ai/articles/stock-adds-3-oracle-signals…>
+3. 코그니전트, 올해 직원 10만명에 제미나이 배치…20만명이 목표 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/ai/424511|tokenpost.kr/news/ai/424511>
+4. Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chips (SiliconANGLE)
+o 링크: <https://siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips/|siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips>
+5. 미국, 연방 민간기관 IT 시스템서 중국 AI 딥시크 전면 제거 명령 (디지털데일리)
+o 링크: <https://www.ddaily.co.kr/page/view/2026102004133831124|ddaily.co.kr/page/view/2026102004133831124>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-20 09:42:53 KST === 
+Message TS: 1792456973.985269
+_(이어서 2/2)_
+
+[09:30]
+*데이터센터시장*
+신규 10건
+<https://www.news1.kr/finance/general-stock/6325314|한투證 "네이버, AI 데이터센터 기대감 미반영...목표가 36만원 유지">
+ㄴ뉴스1 2026.10.20 관련뉴스 1건
+<https://www.news1.kr/finance/general-stock/6324931|AI데이터센터 ETF 20% 급락 '비명'...소프트웨어는 선방[ETF업&다운]>
+ㄴ뉴스1 2026.10.20
+<https://www.sedaily.com/article/20103542|AI 붐 타고 데이터센터 늘리려 했는데...네오클라우드 흔들리자 돈줄 비상>
+ㄴ서울경제 2026.10.19
+<https://www.fnnews.com/news/202610191543479162|"집집마다 1만달러 줄게"...美 데이터센터 건설에 주민들 "뇌물 필요없다">
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 1건
+<https://www.asiae.co.kr/article/stock-disclosure/2026101915255765889|에이루트 子, 대만 전력반도체 기업 노광장비 수주...AI 데이터센터 밸류체인 진입>
+ㄴ아시아경제 2026.10.19 관련뉴스 2건
+<https://www.fnnews.com/news/202610191451535581|LS일렉, 美 빅테크와 데이터센터 배전 솔루션 공급 계약...1689억 규모>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 6건
+<https://www.fnnews.com/news/202610191455273534|日, 데이터센터·클라우드 인증...中 기업 사실상 배제>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 1건
+<https://biz.heraldcorp.com/article/10907665|“캐피탈 기업금융 100조 시대...GPU서버·데이터센터 등 자산관리 역할 확대해야”>
+ㄴ헤럴드경제 2026.10.19
+<https://biz.chosun.com/science-chosun/medicine-health/2026/10/19/3ZVYGTSVJBDUFLGHABKYLW5A64/|복지부 “의료AI 대응할 정부 데이터센터 필요”...네이버 ‘각 세종’ 방문>
+ㄴ조선비즈 2026.10.19 관련뉴스 1건
+<https://www.news1.kr/bio/welfare-medical/6324047|"의료AI 키우려면 '심장'부터"...복지부, 네이버 데이터센터 찾아>
+ㄴ뉴스1 2026.10.19 관련뉴스 1건
+
+
+
+*로봇동향*
+신규 10건
+<https://www.etnews.com/20261019000350|두 팔로 500kg 든다...4m 초대형 휴머노이드 로봇>
+ㄴ전자신문 2026.10.20
+<https://www.news1.kr/photos/8167073|의료로봇 스타트업 찾은 박홍근 장관>
+ㄴ뉴스1 2026.10.19 관련뉴스 4건
+<https://biz.heraldcorp.com/article/10907035|권영민 두산로보틱스 사장 “지능형 로봇 설루션과 산업용 휴머노이드 개발 속도”>
+ㄴ헤럴드경제 2026.10.19 관련뉴스 1건
+<https://www.asiae.co.kr/news/view.htm?idxno=2026102009194132312|다이나믹솔루션, 매직랩로보틱스와 휴머노이드 시장 공략...하드웨어·SW 동맹>
+ㄴ아시아경제 2026.10.20
+<https://www.sedaily.com/article/20103618|로소타, 복강경 수술 경험 학습한 AI로 로봇 수술 시연 [로보 인사이트]>
+ㄴ서울경제 2026.10.20
+<https://biz.heraldcorp.com/article/10908042|강릉, 첨단 모빌리티 혁신 무대로 지구촌 시선집중>
+ㄴ헤럴드경제 2026.10.20
+<https://www.etoday.co.kr/news/view/2637580|[과학세상] 완전한 지식이 없듯 완벽한 AI도 없다>
+ㄴ이투데이 2026.10.20
+<https://biz.heraldcorp.com/article/10908082|CJ대한통운, 택배 점유율 50% 코앞...외형 확대로 ‘규모의 경제’ 가속 [비즈360]>
+ㄴ헤럴드경제 2026.10.20
+<https://biz.heraldcorp.com/article/10908018|강릉 ITS 세계총회 개막..김중남 “역사적 스마트 이정표”>
+ㄴ헤럴드경제 2026.10.20
+<https://www.news1.kr/local/kangwon/6324921|[르포]"차 밑에 로봇이 쏙, 매끄럽게 후진"...강릉서 만난 미래 주차장>
+ㄴ뉴스1 2026.10.20
+
+
+
+*AI기술현황*
+신규 10건
+<https://biz.heraldcorp.com/article/10908068|JB금융, 업스테이지에 400억 투자...금융 특화 AI 에이전트 공동 개발>
+ㄴ헤럴드경제 2026.10.20 관련뉴스 1건
+<https://www.segye.com/newsView/20261019519286|AI 에이전트 막는 플랫폼... ‘디지털 출입증’ 놓고 힘겨루기>
+ㄴ세계일보 2026.10.20 관련뉴스 1건
+<https://biz.chosun.com/industry/business_info/2026/10/20/GL5JIQV33RGI3J4ICQGFO7HEBU/|모티브인텔리전스, 생성형 AI 검색 최적화 서비스 ‘CiteOn’ 출시>
+ㄴ조선비즈 2026.10.20
+<https://www.segye.com/newsView/20261020504099|뉴욕증시, AI.반도체주 반등에 혼조 마감...나스닥 1.11%↑>
+ㄴ세계일보 2026.10.20 관련뉴스 7건
+<https://www.etoday.co.kr/news/view/2637430|삼성은 반도체ㆍSK는 AI 투자?4대 그룹 CEO 인사 변수는 [재계 인사 셈법]>
+ㄴ이투데이 2026.10.20 관련뉴스 1건
+<https://www.kukinews.com/article/view/kuk202610190200|창신대, 생성형 AI 활용 교수자 실무교육 강화>
+ㄴ쿠키뉴스 2026.10.19 관련뉴스 1건
+<https://www.fnnews.com/news/202610191547194257|엔비디아 비중 25% 고정...하나운용, 美 AI반도체 ETF 상장>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 1건
+<https://www.fnnews.com/news/202610191150168624|삼성전자, 베트남 공안부와 반도체.AI 기술 협력 확대 논의>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 1건
+<https://www.asiae.co.kr/article/stock-disclosure/2026101915255765889|에이루트 子, 대만 전력반도체 기업 노광장비 수주...AI 데이터센터 밸류체인 진입>
+ㄴ아시아경제 2026.10.19 관련뉴스 1건
+<https://www.etnews.com/20261019000327|비트컴퓨터, AI 진료 에이전트 ''비트메이트 AI'' 확산 시동>
+ㄴ전자신문 2026.10.19
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-20 09:42:34 KST === 
+Message TS: 1792456954.460249
+_[텔레그램 로그 2026-10-20] 에이닷비즈뉴스레터_
+
+[09:30]
+*10월 20일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+<https://www.kukinews.com/article/view/kuk202610190201|평창 AI 의료모델 전국 확대 검토...국가전략위, 의료취약지 공공의료 혁신 현장 점검>
+ㄴ쿠키뉴스 2026.10.19
+<https://www.news1.kr/it-science/internet-platform/6324852|딥시크, 더 빠르고 더 싼 경량 AI 모델 출시..."GPT-5.6 솔 넘어">
+ㄴ뉴스1 2026.10.19 관련뉴스 1건
+<https://www.fnnews.com/news/202610191554297363|'339조 운용' 韓국부펀드 KIC, 중국산 AI 모델 사용 논란>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 2건
+<https://www.etnews.com/20261019000172|아이디이노랩, 디자인 전략 특화 버티컬 LLM 공개>
+ㄴ전자신문 2026.10.19
+<https://www.fnnews.com/news/202610191049141277|딥시크, AI모델 업그레이드..."더 빠르고 값싸게 임무 수행">
+ㄴ파이낸셜뉴스 2026.10.19
+<https://www.etnews.com/20261019000143|센드버드-업스테이지, 국산 LLM·AI 에이전트 상용화 협력>
+ㄴ전자신문 2026.10.19
+<https://www.fnnews.com/news/202610190944444273|''국가대표 소버린AI 드림팀'' 떴다...NPU·모델·데이터센터 망라>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 2건
+<https://www.etnews.com/20261019000182|[인터뷰]이형배 인젠트 대표 "정형·비정형 DB 아우른 통합 능력으로 AI 시대 유일무이 성공 모델 만들 것">
+ㄴ전자신문 2026.10.19
+<https://www.sportsworldi.com/newsView/20261020506169|[모빌리티 NOW] 벤츠, 韓 전기차 시장 공략 고삐... 차세대 전기차 CLA.GLC 출격>
+ㄴ스포츠월드 2026.10.20
+<https://www.asiae.co.kr/news/view.htm?idxno=2026102009092186691|KT-아크릴, 의료 AX 사업 추진...데이터 표준화·AI 서비스 실증>
+ㄴ아시아경제 2026.10.20 관련뉴스 1건
+
+
+
+*AI에이전트*
+신규 10건
+<https://biz.heraldcorp.com/article/10908068|JB금융, 업스테이지에 400억 투자...금융 특화 AI 에이전트 공동 개발>
+ㄴ헤럴드경제 2026.10.20 관련뉴스 1건
+<https://www.segye.com/newsView/20261019519286|AI 에이전트 막는 플랫폼... ‘디지털 출입증’ 놓고 힘겨루기>
+ㄴ세계일보 2026.10.20 관련뉴스 1건
+<https://www.etnews.com/20261019000406|AI Agent가 기업의 ''실행 주체''로... ''AX & 하이퍼오토메이션 코리아 2026-Fall'' 10월 23일 개막>
+ㄴ전자신문 2026.10.19
+<https://www.fnnews.com/news/202610191409552882|큐빅, 가트너 에이전틱 AI 보고서에 전문 기업으로 인용... 올해만 세 번째>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 2건
+<https://www.etnews.com/20261019000327|비트컴퓨터, AI 진료 에이전트 ''비트메이트 AI'' 확산 시동>
+ㄴ전자신문 2026.10.19
+<https://www.fnnews.com/news/202610191046548529|대화 만으로 AI 에이전트 구축...일레븐랩스, ''아키텍트'' 공개>
+ㄴ파이낸셜뉴스 2026.10.19 관련뉴스 2건
+<https://www.sedaily.com/article/20103139|LG CNS, 에이전틱AI 인정... 국내 첫 IDC 메이저 플레이어 선정>
+ㄴ서울경제 2026.10.19 관련뉴스 9건
+<https://www.fnnews.com/news/202610200836435191|"기대감 없는 현재 주가, 매수 기회"...네이버 '목표가 31만원'>
+ㄴ파이낸셜뉴스 2026.10.20
+<https://www.fnnews.com/news/202610200748539531|MS, AI 감시하는 보안관AI '가디언' 내놨다[글로벌AI브리핑]>
+ㄴ파이낸셜뉴스 2026.10.20
+<https://www.fnnews.com/news/202610200901029472|딥노이드, 흉부.뇌 넘어 암 진단까지...의료 AI 영역 확대>
+ㄴ파이낸셜뉴스 2026.10.20
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

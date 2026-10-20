@@ -1,0 +1,15 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 5개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. Nscale, Anthropic in talks for $45 billion AI cloud computing deal, Bloomberg News reports (Reuters via Devdiscourse)
+o 링크: [devdiscourse.com/article/international/3994951-nscale-anthropic-in-talks-for-45-billion-ai-cloud-computing-deal-bloomberg-news-reports](https://www.devdiscourse.com/article/international/3994951-nscale-anthropic-in-talks-for-45-billion-ai-cloud-computing-deal-bloomberg-news-reports)
+2. BE Stock Adds 3% After Oracle Signals Project Jupiter 'Moving Quickly' (Stocktwits via Yahoo Finance)
+o 링크: [finance.yahoo.com/technology/ai/articles/stock-adds-3-oracle-signals…](https://finance.yahoo.com/technology/ai/articles/stock-adds-3-oracle-signals-195036340.html)
+3. 코그니전트, 올해 직원 10만명에 제미나이 배치…20만명이 목표 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/424511](https://www.tokenpost.kr/news/ai/424511)
+4. Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chips (SiliconANGLE)
+o 링크: [siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips](https://siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips/)
+5. 미국, 연방 민간기관 IT 시스템서 중국 AI 딥시크 전면 제거 명령 (디지털데일리)
+o 링크: [ddaily.co.kr/page/view/2026102004133831124](https://www.ddaily.co.kr/page/view/2026102004133831124)
+
+## 텔레그램 - 에이닷비즈뉴스레터

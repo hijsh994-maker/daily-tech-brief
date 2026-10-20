@@ -1,0 +1,381 @@
+{
+ "date": "2026-10-20",
+ "terms": [
+  {
+   "term": "XLAB Stock Surges",
+   "norm": "xlabstocksurges",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "StocksToTrade",
+    "Timothy Sykes"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "Timothy Sykes | XLAB Stock Surges After $8.2M NVIDIA GPU Server Deal",
+    "StocksToTrade | XLAB Stock Surges 20% On NVIDIA GPU Server Deal",
+    "Timothy Sykes | XLAB Stock Surges After $8.2M NVIDIA Server Deal Disclosure"
+   ],
+   "score": 15
+  },
+  {
+   "term": "각 세종",
+   "norm": "각세종",
+   "n_outlets": 9,
+   "n_today": 7,
+   "outlets": [
+    "CBC뉴스",
+    "Chosunbiz",
+    "SR타임스",
+    "https://spt.co.kr/",
+    "m.edaily.co.kr",
+    "nbn 시사경제",
+    "의약일보",
+    "전자신문"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "CBC뉴스(10-12) | NAVER 주가 18만원대 하락…축구장 41개 규모 ‘각 세종’, AI·로봇 인프라 주목",
+    "nbn 시사경제(10-13) | 네이버 '각 세종' 필두로 21조 투자…충청, 데이터센터 블랙홀 되나",
+    "Chosunbiz | 복지부 “의료AI 대응할 정부 데이터센터 필요”…네이버 ‘각 세종’ 방문 - 조선비즈",
+    "https://spt.co.kr/ | 이형훈 복지부 차관, 네이버 ‘각 세종’ 찾아 “AI 데이터센터 조성 필요”",
+    "의약일보 | 복지부 차관 각 세종 방문 AI 기본의료 인프라 점검 : 책",
+    "전자신문 | 복지부, 의료AI 인프라 구축 속도…네이버 '각 세종' 현장 점검"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Sphinx",
+   "norm": "sphinx",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Codex CLI",
+   "norm": "codexcli",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "shattered.io",
+    "tech-insider.org"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "tech-insider.org(10-13) | Codex CLI Defaults to GPT-6.1 Sol, Cuts Price 80% [2026]",
+    "HN(10-13) | Codex CLI installs a persistent, self-updating background daemon by default",
+    "shattered.io | Claude Code, Codex CLI, OpenCode Update in 4 Days [2026]"
+   ],
+   "score": 10
+  },
+  {
+   "term": "소형 원전(SMR)",
+   "norm": "소형원전(smr)",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "조선일보"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "조선일보 | AI 붐에 주목받는 ‘소형 원전(SMR)’…국내 스타트업은 틈새 공급망 공략",
+    "조선일보 | AI 붐에 주목받는 ‘소형 원전(SMR)’…국내 스타트업은 틈새 공급망 공략"
+   ],
+   "score": 10
+  },
+  {
+   "term": "XLAB Stock Surges After",
+   "norm": "xlabstocksurgesafter",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Timothy Sykes"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Timothy Sykes | XLAB Stock Surges After $8.2M NVIDIA GPU Server Deal",
+    "Timothy Sykes | XLAB Stock Surges After $8.2M NVIDIA Server Deal Disclosure"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Timestral",
+   "norm": "timestral",
+   "n_outlets": 3,
+   "n_today": 3,
+   "outlets": [
+    "HN",
+    "https://tech-insider.org/",
+    "shattered.io"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "shattered.io | Mistral Timestral: 209M Model Beats TimesFM-3 [2026]",
+    "https://tech-insider.org/ | Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026]",
+    "HN | Timestral: Mistral's time-series foundation models"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Stryker",
+   "norm": "stryker",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "healthcare.digital"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "AI Insider(10-13) | Stryker to Invest $400M in CMR Surgical, Gains U.S. Sales Rights and Acquisition",
+    "healthcare.digital | Nelson Advisors: Stryker’s investment in CMR Surgical marks the beginning of an "
+   ],
+   "score": 8
+  },
+  {
+   "term": "CMR Surgical",
+   "norm": "cmrsurgical",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "healthcare.digital"
+   ],
+   "days": 2,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "AI Insider(10-13) | Stryker to Invest $400M in CMR Surgical, Gains U.S. Sales Rights and Acquisition",
+    "healthcare.digital | Nelson Advisors: Stryker’s investment in CMR Surgical marks the beginning of an "
+   ],
+   "score": 8
+  },
+  {
+   "term": "Hybrid Reasoning Agents",
+   "norm": "hybridreasoningagents",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "GIGAZINE",
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GIGAZINE | 'Hybrid Reasoning Agents' achieve high performance, speed, and low cost by execu",
+    "HN | Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
+   ],
+   "score": 8
+  },
+  {
+   "term": "반도체 강국",
+   "norm": "반도체강국",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "아시아경제",
+    "한겨레"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "한겨레 | 빅테크 AI 수익성 의심에 ‘반도체 강국’ 직격탄…3분기 실적 주목",
+    "아시아경제 | [사설]삼성·하이닉스에만 기대는 반도체 강국은 위험하다"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Ousted Savannah",
+   "norm": "oustedsavannah",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Ousted Savannah police officer gave ICE agent husband access to Flock system"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "홈뷰",
+   "norm": "홈뷰",
+   "n_outlets": 21,
+   "n_today": 4,
+   "outlets": [
+    "AI 매터스",
+    "AI타임스",
+    "Chosunbiz",
+    "IT조선",
+    "SBS Biz",
+    "www.dt.co.kr",
+    "글로벌이코노믹",
+    "네이버 프리미엄콘텐츠"
+   ],
+   "days": 5,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털투데이(10-12) | 애플 '홈뷰' 베일 벗는다…시리 AI 품고 11월 출시, LG와 협업",
+    "지디넷코리아(10-12) | 애플 스마트홈 신제품은 ‘홈뷰’…11월 중순 출시 유력",
+    "이데일리(10-12) | 애플 ‘홈뷰’ 13일 공개…스마트홈 허브 공략[모닝폰]",
+    "디지털투데이 | 애플 홈뷰…핵심 기능 쓰려면 최신 아이폰·아이패드 있어야",
+    "Chosunbiz | 애플 ‘홈뷰’ 상위 모델 나온다… 로봇 팔로 화면 자동 회전 - 조선비즈",
+    "네이버 프리미엄콘텐츠 | 애플 '홈뷰'의 장기적인 노림수"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Omron",
+   "norm": "omron",
+   "n_outlets": 11,
+   "n_today": 2,
+   "outlets": [
+    "A3 Association for Advancing Automation",
+    "BigGo Finance",
+    "Manufacturing Digital",
+    "Metrology and Quality News",
+    "Nikkei Asia",
+    "Reuters",
+    "TNGlobal",
+    "TipRanks"
+   ],
+   "days": 4,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TradingView(10-13) | Japan's Omron To Buy Us-Based Onlogic For $630M In Physical AI Push, Nikkei Repo",
+    "Nikkei Asia(10-13) | Japan's Omron to buy US-based OnLogic for $630m in physical AI push",
+    "TipRanks(10-13) | Omron buys U.S. industrial PC maker OnLogic in $675m push into physical AI",
+    "A3 Association for Advancing Automation | Omron's $675 Million Bet on Physical AI Goes Beyond Robotics",
+    "Metrology and Quality News | Omron to Acquire OnLogic for $675 Million to Advance Industrial AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "West Virginia",
+   "norm": "westvirginia",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "Cybernews",
+    "Finimize",
+    "Gadget Review",
+    "Moomoo",
+    "News and Sentinel",
+    "WBOY.com",
+    "WDTV 5",
+    "WSAZ"
+   ],
+   "days": 5,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "News and Sentinel(10-12) | Op-ed: West Virginia’s AI future depends on 7,000 bridges",
+    "Gadget Review(10-12) | West Virginia's Historic Chestnut Trees Threatened By Data Center To Be Relocate",
+    "Cybernews(10-13) | West Virginia data center plan puts rare chestnuts at risk",
+    "Moomoo | Anthropic is in talks to buy $45 billion of computing power from Nscale, the Nvi",
+    "Finimize | Anthropic Could Double Down On Nscale’s West Virginia Data Center"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 웜",
+   "norm": "ai웜",
+   "n_outlets": 9,
+   "n_today": 3,
+   "outlets": [
+    "AI타임스",
+    "www.itworld.co.kr",
+    "뉴시스",
+    "디지털투데이",
+    "바이라인네트워크",
+    "보안뉴스",
+    "블루밍비트",
+    "전자신문"
+   ],
+   "days": 3,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "한국경제(10-14) | 스마트냉장고·TV 노리는 ‘AI 웜’…앤트로픽, 새 사이버 위협 경고",
+    "블루밍비트(10-14) | 앤스로픽 \"AI 웜, 기기 간 스스로 확산 가능…비트코인 지갑도 위협\"",
+    "뉴시스(10-15) | 가전 옮겨 다니며 스스로 복제…전력·금융 마비시키는 'AI 웜' 공포",
+    "바이라인네트워크 | 앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험",
+    "www.itworld.co.kr | AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
+    "디지털투데이 | 앤트로픽 'AI 웜' 경고 현실로?...보안 전문가 \"현실 가능성도 파급력도 없다\""
+   ],
+   "score": 9
+  },
+  {
+   "term": "한밤의 비밀백화점",
+   "norm": "한밤의비밀백화점",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "경기일보",
+    "대한민국예술신문",
+    "서울뉴스통신",
+    "한국현대미술신문"
+   ],
+   "days": 3,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "한국현대미술신문(10-13) | 경기문화재단, 아이들의 상상과 AI가 만난 창작 뮤지컬 '한밤의 비밀백화점' 공연 성료",
+    "경기일보(10-14) | 극본부터 음악까지, 제작자로 나선 아이들… ‘한밤의 비밀백화점’ AI 만난 상상이 뮤지컬 되다",
+    "서울뉴스통신(10-14) | 경기문화재단, 아이들의 상상과 AI가 만난 창작 뮤지컬 '한밤의 비밀백화점' 공연 성료",
+    "대한민국예술신문 | 경기문화재단, 아이들의 상상과 AI가 만난 창작 뮤지컬 '한밤의 비밀백화점' 공연 성료"
+   ],
+   "score": 7
+  }
+ ]
+}

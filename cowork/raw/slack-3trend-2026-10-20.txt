@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-20 09:00:19 KST === 
+Message TS: 1792454419.312259
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-20 · 10건)
+*1. [:shield: Agent Infra] <https://www.etnews.com/20261019000276|스패로우, AI 코딩 보안 솔루션 '스패로우 MCP' 日 출시>* (전자신문 (AI))
+*2. [:shield: Agent Infra] <https://www.etnews.com/20261019000094|스패로우, '시큐리티 데이즈' 참가…'Sparrow MCP'로 일본 시장 확대>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.etnews.com/20261019000143|센드버드-업스테이지, 국산 LLM·AI 에이전트 상용화 협력>* (전자신문 (AI))
+*4. [:zap: Optimization] <https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/|VLLM에서 양방향 KV 전송을 통해 다중 회전 에이전트 워크로드에 대한 TTFT 개선>* (AWS Machine Learning Blog)
+*5. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/|Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’>* (TechCrunch)
+*6. [:zap: Optimization] <https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/|VLLM에서 분리된 추론을 위해 TTFT 및 TPOT를 개선하기 위한 푸시 기반 KV 전송>* (AWS Machine Learning Blog)
+*7. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/|Amazon Bedrock의 Anthropic Claude 모델에 대한 구조화된 결과물>* (AWS Machine Learning Blog)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/|Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://openai.com/index/low-resource-programming-languages|로우 리소스 프로그래밍 언어의 고급 코딩>* (OpenAI News &amp; Research)
+*10. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/|TwelveLabs의 Pegasus 1.5를 이제 Amazon Bedrock에서 사용할 수 있습니다.>* (AWS Machine Learning Blog)
