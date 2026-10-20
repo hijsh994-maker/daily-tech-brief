@@ -139,6 +139,18 @@ def main():
         if k:
             buckets[k].append(strip_marker(b))
 
+    # [2026-10-20] 에이닷은 슬랙을 거치지 않고 adot-telegram-fetch 의 latest.txt 를 바로 쓴다
+    #   (run.sh adot-latest 가 cowork/raw/adot-latest-<날짜>.txt 로 떨군다). 그 파일이 있으면
+    #   슬랙 #dtb-tier0 의 에이닷 메시지보다 우선한다(같은 내용의 두 경로가 겹치지 않게).
+    #   없으면 종전대로 슬랙 메시지를 쓴다 — PC 실행·과거 날짜 재처리는 그대로 돈다.
+    p_adot = os.path.join(RAWDIR, "adot-latest-%s.txt" % d)
+    adot_src = "slack"
+    if os.path.exists(p_adot):
+        txt = open(p_adot, encoding="utf-8").read().strip("\n")
+        if txt:
+            buckets["adot"] = [txt]
+            adot_src = "latest.txt"
+
     out = ["# 3_트렌드 채널 로그 - %s" % d, ""]
     out.append(SEC["slack"])
     for ts, b in sorted(trend, key=lambda x: x[0]):
@@ -153,8 +165,8 @@ def main():
     path = a.out or os.path.join(BASE, "log-%s.md" % d)
     open(path, "w", encoding="utf-8").write("\n".join(out))
     print("[slack_to_log] 저장: %s (%d자)" % (path, sum(len(x) + 1 for x in out)))
-    print("[slack_to_log] 섹션별 메시지: 트렌드 %d / 삼성 %d / 에이닷 %d"
-          % (len(trend), len(buckets["samsung"]), len(buckets["adot"])))
+    print("[slack_to_log] 섹션별 메시지: 트렌드 %d / 삼성 %d / 에이닷 %d (출처: %s)"
+          % (len(trend), len(buckets["samsung"]), len(buckets["adot"]), adot_src))
     for key in ("samsung", "adot"):
         if not buckets[key]:
             print("[경고] '%s' 섹션이 비었습니다. 상류 게시가 늦었을 수 있습니다."

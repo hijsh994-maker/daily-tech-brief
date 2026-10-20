@@ -252,8 +252,44 @@ slack-save)
   python3 "$MNT/cowork/slack_save.py" --channel "${2:?3trend|tier0}" \
           --date "$DATE" --mnt "$MNT" --work "$W" ;;
 
+wait-until)
+  # [2026-10-20 신설] 통합 스케줄 작업의 시각 맞추기. KST HH:MM 까지 잔다.
+  #     bash cowork/run.sh wait-until 09:30     (Bash timeout 600000 으로 부른다)
+  #   한 번에 최대 540초만 자고, 더 남았으면 종료코드 10 으로 돌아온다 -> 같은 명령을 다시 부른다.
+  #   이미 지난 시각이면 바로 0 으로 끝난다(늦게 시작한 날은 기다리지 않고 바로 다음 단계).
+  python3 - "${2:?HH:MM}" <<'EOF'
+import sys, time, datetime
+from zoneinfo import ZoneInfo
+hh, mm = map(int, sys.argv[1].split(":"))
+now = datetime.datetime.now(ZoneInfo("Asia/Seoul"))
+target = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
+left = (target - now).total_seconds()
+if left <= 0:
+    print("[wait-until] %s KST 는 이미 지났습니다(지금 %s). 바로 진행" % (sys.argv[1], now.strftime("%H:%M:%S"))); sys.exit(0)
+chunk = min(left, 540)
+print("[wait-until] 지금 %s KST, %s 까지 %d초 남음 -> %d초 잠" % (now.strftime("%H:%M:%S"), sys.argv[1], left, chunk), flush=True)
+time.sleep(chunk)
+if left - chunk > 1:
+    print("[wait-until] 아직 %d초 남음 -> 같은 명령을 다시 부르세요" % (left - chunk)); sys.exit(10)
+print("[wait-until] %s KST 도달" % sys.argv[1])
+EOF
+  ;;
+
+adot-latest)
+  # [2026-10-20 신설] 에이닷비즈뉴스레터를 슬랙을 거치지 않고 바로 tier0 로 넣는다.
+  #   세 스케줄 작업(국책과제·텔레그램 로그·DTB)을 하나로 합치면서, 에이닷은
+  #   adot-telegram-fetch 저장소의 out/latest.txt 를 받아(PAT 로 git clone) 이 명령에 준다.
+  #     bash cowork/run.sh adot-latest "$HOME/adot-$DATE/out/latest.txt"
+  #   -> cowork/raw/adot-latest-<날짜>.txt (작업본·저장소 양쪽). 이어서 run.sh log 가
+  #      슬랙의 에이닷 메시지 대신 이 파일로 '## 텔레그램 - 에이닷비즈뉴스레터' 를 채운다.
+  #   종료코드 2 = latest.txt 가 오늘자가 아니거나 COUNT=0 (저장 안 함. 수집이 늦은 것 —
+  #   git pull 로 다시 받아 재시도. 끝내 안 되면 종전대로 슬랙 메시지로 폴백된다).
+  python3 "$MNT/cowork/adot_latest.py" --date "$DATE" --file "${2:?latest.txt 경로}" \
+          --mnt "$MNT" --work "$W" ;;
+
 log)
   # 에이전트가 cowork/raw/ 에 저장한 슬랙 원문을 tier0 로그 포맷으로 변환.
+  #   [2026-10-20] cowork/raw/adot-latest-<날짜>.txt 가 있으면 에이닷 섹션은 그 파일이 우선.
   cd "$W" && python3 cowork/slack_to_log.py --date "$DATE" 2>&1 | tail -8 ;;
 
 tier0)

@@ -309,6 +309,11 @@ RAW
 
 그다음 `bash cowork/run.sh log` 를 돌린다.
 
+- **[2026-10-20] 클라우드 통합 작업에서는 에이닷비즈뉴스레터가 슬랙에 올라오지 않는다.**
+  통합 작업이 09:40 에 `adot-telegram-fetch` 의 `out/latest.txt` 를 받아 `run.sh adot-latest <경로>` 로
+  `cowork/raw/adot-latest-<날짜>.txt` 를 만들어 두면, `run.sh log` 가 슬랙 메시지 대신 그 파일로
+  에이닷 섹션을 채운다(출력의 `출처: latest.txt`). 그 파일이 없으면 종전대로 슬랙 메시지를 쓴다(PC 실행).
+  #dtb-tier0 수집(slack-save tier0)은 삼성 검증본·사업공고 때문에 그대로 한다.
 - 출력 끝의 `(json)` 은 정상. `폴백(JSON 파싱 실패)` 이 뜨면 다시 붙여넣는다.
 - **출력의 `기사 링크: N건` 을 4단계 `run.sh tier0` 의 `파싱: 슬랙 N` 과 대조한다.**
   **두 숫자는 같아야 정상이다.** 다르면 tier0 파서가 일부를 흘린 것이니 보고에 적는다.
