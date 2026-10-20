@@ -400,6 +400,10 @@ bash cowork/run.sh linkcheck tier0        # timeout_ms 175000
 
 - tier2 는 재개형이다. '남음 N개' 가 없어질 때까지 반복한 뒤
   `bash cowork/run.sh tier2-done` 으로 마감해야 out/tier2-<날짜>.json 이 생긴다.
+- **[2026-10-20] 클라우드(마운트=git 저장소)에서는 `run.sh refine` 이 자동으로 `--no-links` 로 돈다.**
+  실측 10-20: 클라우드 프록시에서 네이버 API 연결이 끊겨 refine 이 175초에서 죽었다(3분 손실).
+  그러니 클라우드에서는 refine 뒤에 **바로 `run.sh links` 를 '전부 시도 완료'까지 반복**한다.
+  (PC는 종전과 같다. 강제: `DTB_REFINE_LINKS=1` / `DTB_REFINE_NO_LINKS=1`)
 - refine 이 죽으면 링크 해결이 원인이다. 이렇게 나눈다:
     `cd $W && python3 refine.py --date <날짜> --min-score 6 --max-items 300 \
        --max-rescue 150 --no-links`   (1~2초)

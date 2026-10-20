@@ -512,8 +512,21 @@ refine)
   #   실측상 사람 브리프 손실의 27%가 '링크없음'인데, 그중 대부분이 컷에 걸려
   #   링크 해결 단계에 도달조차 못 했기 때문이다.
   #   workers 는 8을 쓴다. 16 이면 순차 대비 링크를 잃는다(네이버 동시 호출 한계).
+  # [2026-10-20 클라우드 분기] 마운트가 git 저장소(=클라우드 세션)면 링크 해결을
+  #   refine 안에서 하지 않는다. 실측 10-20: 클라우드 프록시에서 openapi.naver.com
+  #   연결이 20회 끊겨 refine 이 175초 상한에서 죽었고(3분 손실), --no-links 로
+  #   다시 돌린 뒤 run.sh links 를 5회 돌려 복구했다. 링크는 어차피 재개형
+  #   links 러너가 전부 다시 시도하므로 클라우드에서는 처음부터 분리한다.
+  #   PC(연결 폴더)에서는 종전과 같다. 강제: DTB_REFINE_LINKS=1 (클라우드에서도 포함)
+  #   / DTB_REFINE_NO_LINKS=1 (PC에서도 분리).
+  NOLINKS=""
+  if [ -n "${DTB_REFINE_NO_LINKS:-}" ]; then NOLINKS="--no-links"
+  elif [ -z "${DTB_REFINE_LINKS:-}" ] && [ -d "$MNT/.git" ]; then NOLINKS="--no-links"; fi
+  if [ -n "$NOLINKS" ]; then
+    echo "[refine] 클라우드 모드: 링크 해결을 생략합니다 -> 이어서 bash cowork/run.sh links 를 '전부 시도 완료'까지 반복하세요"
+  fi
   cd "$W" && python3 refine.py --date "$DATE" --min-score 6 \
-            --max-items 300 --max-rescue 150 --link-workers 8 2>&1 | tail -4 ;;
+            --max-items 300 --max-rescue 150 --link-workers 8 $NOLINKS 2>&1 | tail -4 ;;
 
 links)
   # [2026-08-04] 링크 해결을 refine 에서 떼어낸 재개형 러너.
