@@ -4,10 +4,12 @@ Brian의 'Daily Tech Brief' 뉴스 파이프라인을 실행하고, 후보 전 �
 
 ## ★★★ 2026-10-15 — 클라우드 실행 안내 (연결 폴더 없이 돌 때) ★★★
 이 절차서는 PC 연결 폴더(`/sessions/*/mnt/Daily Tech Brief`) 기준으로 쓰였다.
-**클라우드 전용 스케줄 작업**(`docs/스케줄작업-클라우드-프롬프트.md`)에서는 GitHub 저장소를 `~/dtb` 에 받아 그 폴더가
-마운트 역할을 한다. 읽을 때 바꿔 읽을 것 — `/sessions/*/mnt/...` → `~/dtb` / `device_stage_files`+`SendUserFile` → `SendUserFile` 직접 /
+**클라우드 전용 스케줄 작업**(`docs/스케줄작업-클라우드-프롬프트.md`)에서는 세션이 **미리 체크아웃해 둔** GitHub 저장소 폴더(REPO,
+보통 현재 디렉터리)가 마운트 역할을 한다. 읽을 때 바꿔 읽을 것 — `/sessions/*/mnt/...` → `$REPO` / `device_stage_files`+`SendUserFile` → `SendUserFile` 직접 /
 `run.sh push` 뒤에 **반드시 `run.sh cloud-push`**(git commit·push. 빠뜨리면 그날 작업이 사라진다).
-비밀키는 `~/dtb-secrets/secrets.env` 에서 읽는다(run.sh 가 자동으로 찾는다). 정본: `docs/클라우드-이관-가이드.md`.
+비밀키는 `cowork/secrets.env`(없으면 `../dtb-secrets/secrets.env`)에서 읽는다(run.sh 가 자동으로 찾는다). 0단계가 Google Drive 문서
+`dtb-secrets` 에서 받아 채워 넣을 수도 있다. 정본: `docs/클라우드-이관-가이드.md`.
+[2026-10-20] `~/dtb` 로 새로 clone 해서 돌리는 방식은 폐기 — 세션 안에서 새로 받은 코드는 실행이 차단됐다.
 
 ## ★★★ 2026-10-08 신설 — 소스 정리 섀도 실험 (2026-10-08 ~ 10-22) ★★★
 사용자: *"1~2주간 RSS와 쿼리 9개를 뺀 상태로 판정 후보를 따로 만들어 실제 발송본과 비교해보자"*
