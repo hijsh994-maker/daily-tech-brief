@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-21 09:00:23 KST === 
+Message TS: 1792540823.605879
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-21 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261020000078|[AI와 디지털전환] AI 대중화 시대, AI 전문 기업을 키워야 하는 이유>* (전자신문 (AI))
+*2. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/|AWS에서 Smartsheet MCP를 사용하는 AI 에이전트를 위한 업무 관리 컨텍스트>* (AWS Machine Learning Blog)
+*3. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/|Eon이 Amazon Bedrock AgentCore에서 MCP 게이트웨이를 사용하여 멀티 클라우드 조사를 구축한 방법>* (AWS Machine Learning Blog)
+*4. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/|AWS에서 X.509 PKI로 AI 에이전트 ID 보호>* (AWS Machine Learning Blog)
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/|Strategy Mosaic 및 Amazon Bedrock AgentCore를 사용하여 AWS에서 에이전트 AI를 위한 의미 계층 구축>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/|AtScale 및 Amazon Bedrock AgentCore를 사용하여 AWS에서 에이전트 AI를 위한 의미 계층 구축>* (AWS Machine Learning Blog)
+*7. [:zap: Optimization] <https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/|KV 캐시 너머: 네이티브 PyTorch를 사용하여 AWS Trainium2에서 i14의 Laplace 3B 선형 주의 모델 교육 및 서비스 제공>* (AWS Machine Learning Blog)
+*8. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/|데노도 (Denodo) 및 아마존 베드락 에이전트코어 (Amazon Bedrock AgentCore) 를 사용하여 AWS에서 에이전트 AI를 위한 시맨틱>* (AWS Machine Learning Blog)
+*9. [:shield: Agent Infra] <https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/|Figma co-founder Dylan Field thinks MCP is not a perfect protocol>* (TechCrunch)
+*10. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/|지역 간 추론을 통해 캐나다의 Amazon Bedrock에서 OpenAI GPT 모델에 액세스>* (AWS Machine Learning Blog)

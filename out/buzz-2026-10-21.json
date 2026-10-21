@@ -1,0 +1,451 @@
+{
+ "date": "2026-10-21",
+ "terms": [
+  {
+   "term": "문워크",
+   "norm": "문워크",
+   "n_outlets": 19,
+   "n_today": 17,
+   "outlets": [
+    "CWN",
+    "KBS 뉴스",
+    "https://www.2news.co.kr/",
+    "굿모닝충청",
+    "노컷뉴스",
+    "뉴스1",
+    "대전일보",
+    "디지털투데이"
+   ],
+   "days": 4,
+   "first": "2026-10-14",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "중앙일보(10-13) | [최준호의 혁신창업의 길] 문워크에 조선소 벽타기 용접까지…K로봇의 도약",
+    "머니투데이(10-14) | [동영상]휴머노이드의 '문워크' 춤실력에 환호…물건도 번쩍들어[르포] - 머니투데이",
+    "매일경제 마켓(10-20) | 국감장에서 문워크?…KAIST 휴머노이드에 \"와∼!\"",
+    "연합뉴스TV | 국감장에서 ’문워크’ 선보인 KAIST 휴머노이드 화제",
+    "KBS 뉴스 | 저벅저벅 들어와 ‘문워크’로 퇴장…휴머노이드 등장에 국감장 ‘오~’ [이런뉴스]",
+    "한국일보 | 국감장에 중국 로봇? 이번엔 국산... 문워크 선보인 카이스트 휴머노이드"
+   ],
+   "score": 22
+  },
+  {
+   "term": "Turbo",
+   "norm": "turbo",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "HackerNoon",
+    "HuggingFace",
+    "MarkTechPost",
+    "OrcaRouter",
+    "Startup Fortune"
+   ],
+   "days": 4,
+   "first": "2026-10-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "MarkTechPost(10-12) | Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+    "HuggingFace(10-12) | HF trending: Qwen/Qwen-Image-2.1-Turbo",
+    "OrcaRouter(10-14) | Qwen-Image 2.1 vs Z-Image Turbo: 스텝, 라이선스, 적합성",
+    "Startup Fortune | ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents"
+   ],
+   "score": 18
+  },
+  {
+   "term": "Maia",
+   "norm": "maia",
+   "n_outlets": 36,
+   "n_today": 1,
+   "outlets": [
+    "Axios",
+    "Barron's",
+    "Businesskorea",
+    "Cloud Computing News",
+    "Data Center Knowledge",
+    "Fierce Network",
+    "Foreign Policy Journal",
+    "Free Press Journal"
+   ],
+   "days": 5,
+   "first": "2026-10-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Korea IT Times(10-13) | [투데이 시그널] 마이크로소프트, 자체 AI 칩 Maia 300 공개…엔비디아 의존도 낮춘다",
+    "Unite.AI(10-13) | 마이크로소프트, Maia 300 AI 칩 발표…Azure 멀티 기가와트 규모로 확장",
+    "TradingView(10-13) | Microsoft Stocks Rise as Million-Chip Maia Plan Targets Inference Costs",
+    "TradingView | Key facts: MSFT cloud $59.3B; Maia 300 multi‑GW 2027; Exits 50MW UK"
+   ],
+   "score": 14
+  },
+  {
+   "term": "CEATEC",
+   "norm": "ceatec",
+   "n_outlets": 8,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "Japan Today",
+    "Japan Wire by Kyodo News",
+    "NHKニュース",
+    "The Luxe Review",
+    "digitimes",
+    "스포츠경향",
+    "파이낸셜투데이"
+   ],
+   "days": 3,
+   "first": "2026-10-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Japan Wire by Kyodo News(10-14) | Cohosted CEATEC, mobility show features collaborations across sectors",
+    "Japan Today(10-14) | Physical AI in spotlight at Japan's electronics show CEATEC",
+    "NHKニュース(10-14) | Autonomous physical AI in focus at CEATEC | NHK WORLD-JAPAN News",
+    "스포츠경향 | 올마이투어, 일본 ‘CEATEC 2026’ 참가···AI 기반 호텔 자율운영 OS 경쟁력 알려",
+    "파이낸셜투데이 | “에이전틱 AI로 호텔 운영 혁신”… 올마이투어, 일본 ‘CEATEC 2026’ 참가"
+   ],
+   "score": 13
+  },
+  {
+   "term": "DeepInfer",
+   "norm": "deepinfer",
+   "n_outlets": 8,
+   "n_today": 8,
+   "outlets": [
+    "BigGo Finance",
+    "Crypto Briefing",
+    "HN",
+    "Kingy AI",
+    "SiliconANGLE",
+    "TechTarget",
+    "The Next Web",
+    "shattered.io"
+   ],
+   "days": 1,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Kingy AI | DeepInfer Explained: DeepSeek’s Open Inference Engine, Benchmarks, Specs, and Co",
+    "TechTarget | DeepSeek makes DeepInfer open source to cut AI costs",
+    "BigGo Finance | DeepSeek Open-Sources DeepInfer Inference Framework, Discloses approximately $38",
+    "Crypto Briefing | DeepSeek open-sources DeepInfer to cut the cost of running AI models",
+    "shattered.io | DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026]",
+    "The Next Web | DeepSeek open-sources DeepInfer, the engine that runs its AI models"
+   ],
+   "score": 12
+  },
+  {
+   "term": "런메이트 캠프",
+   "norm": "런메이트캠프",
+   "n_outlets": 12,
+   "n_today": 12,
+   "outlets": [
+    "SK텔레콤 뉴스룸",
+    "SR타임스",
+    "www.fetv.co.kr",
+    "나눔경제뉴스",
+    "뉴스1",
+    "뉴스핌",
+    "디지털투데이",
+    "브릿지경제"
+   ],
+   "days": 1,
+   "first": "2026-10-21",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "SK텔레콤 뉴스룸 | SKT, 러너 위한 체험 공간 ‘런메이트 캠프’ 연다",
+    "브릿지경제 | SKT, 러너 위한 체험 공간 ‘런메이트 캠프' 개최",
+    "뉴스핌 | SKT, 성수서 '런메이트 캠프' 운영...AI로 러닝 자세 분석",
+    "지디넷코리아 | 내 달리기 자세, AI가 봐준다...SKT '런메이트 캠프' 눈길",
+    "www.fetv.co.kr | SKT, 성수서 '런메이트 캠프' 운영…러닝 AI 자세 분석·전문 코칭 제공",
+    "디지털투데이 | SKT, 러닝족 겨냥 '런메이트 캠프' 운영…AI 기반 코칭 제공"
+   ],
+   "score": 11
+  },
+  {
+   "term": "소형 원전(SMR)",
+   "norm": "소형원전(smr)",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "조선일보"
+   ],
+   "days": 2,
+   "first": "2026-10-20",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "조선일보(10-20) | AI 붐에 주목받는 ‘소형 원전(SMR)’…국내 스타트업은 틈새 공급망 공략",
+    "조선일보 | AI 붐에 주목받는 ‘소형 원전(SMR)’…국내 스타트업은 틈새 공급망 공략"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Zhaowei Machinery",
+   "norm": "zhaoweimachinery",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Shanghai Metals Market"
+   ],
+   "days": 2,
+   "first": "2026-10-20",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Shanghai Metals Market(10-20) | Robot sector \"surge\" drives motor sector higher, Zhaowei Machinery and others le",
+    "Shanghai Metals Market | Robot sector \"surge\" drives motor sector higher, Zhaowei Machinery and others le"
+   ],
+   "score": 11
+  },
+  {
+   "term": "SMM Flash",
+   "norm": "smmflash",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Shanghai Metals Market"
+   ],
+   "days": 2,
+   "first": "2026-10-20",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Shanghai Metals Market(10-20) | Robot sector \"surge\" drives motor sector higher, Zhaowei Machinery and others le",
+    "Shanghai Metals Market | Robot sector \"surge\" drives motor sector higher, Zhaowei Machinery and others le"
+   ],
+   "score": 11
+  },
+  {
+   "term": "A42B",
+   "norm": "a42b",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HuggingFace"
+   ],
+   "days": 1,
+   "first": "2026-10-21",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace | HF trending: meta-models/Muse-Spark-Open-816B-A42B"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Maxwell",
+   "norm": "maxwell",
+   "n_outlets": 3,
+   "n_today": 3,
+   "outlets": [
+    "HN",
+    "Yahoo Finance",
+    "https://tech-insider.org/"
+   ],
+   "days": 1,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "https://tech-insider.org/ | doubleAI’s Maxwell Hits 38x Speedup, No Code Changes [2026]",
+    "Yahoo Finance | doubleAI’s Maxwell Is the First ‘Code Execution Model.’ Nvidia Is Funding the Co",
+    "HN | Maxwell: A new kind of model that sits between code and hardware"
+   ],
+   "score": 9
+  },
+  {
+   "term": "EmployeeWorks",
+   "norm": "employeeworks",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "SMEStreet",
+    "Simply Wall Street"
+   ],
+   "days": 2,
+   "first": "2026-10-21",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "SMEStreet(10-20) | ServiceNow EmployeeWorks Adds AI Agents for Enterprise Productivity",
+    "Simply Wall Street | ServiceNow(NOW), AI Passport와 EmployeeWorks 공개 후 밸류에이션 서사 다시 주목받나"
+   ],
+   "score": 8
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "홈뷰",
+   "norm": "홈뷰",
+   "n_outlets": 22,
+   "n_today": 2,
+   "outlets": [
+    "AI 매터스",
+    "AI타임스",
+    "Chosunbiz",
+    "IT조선",
+    "SBS Biz",
+    "www.dt.co.kr",
+    "آي-فون إسلام",
+    "글로벌이코노믹"
+   ],
+   "days": 6,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털투데이(10-12) | 애플 '홈뷰' 베일 벗는다…시리 AI 품고 11월 출시, LG와 협업",
+    "지디넷코리아(10-12) | 애플 스마트홈 신제품은 ‘홈뷰’…11월 중순 출시 유력",
+    "이데일리(10-12) | 애플 ‘홈뷰’ 13일 공개…스마트홈 허브 공략[모닝폰]",
+    "آي-فون إسلام | 애플 제품이 드디어 당신의 집에 들어왔습니다: 새로운 애플 기기를 집에 맞이하세요 | 홈뷰 | 아이폰 이슬람",
+    "آي-فون إسلام | 애플, 299달러짜리 스마트 홈 디스플레이 '홈뷰' 공개 - 알아야 할 모든 것",
+    "디지털투데이 | 애플 홈뷰…핵심 기능 쓰려면 최신 아이폰·아이패드 있어야"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Omron",
+   "norm": "omron",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "A3 Association for Advancing Automation",
+    "BigGo Finance",
+    "Fierce Sensors",
+    "Manufacturing Digital",
+    "Metrology and Quality News",
+    "Nikkei Asia",
+    "Reuters",
+    "TNGlobal"
+   ],
+   "days": 5,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TradingView(10-13) | Japan's Omron To Buy Us-Based Onlogic For $630M In Physical AI Push, Nikkei Repo",
+    "Nikkei Asia(10-13) | Japan's Omron to buy US-based OnLogic for $630m in physical AI push",
+    "TipRanks(10-13) | Omron buys U.S. industrial PC maker OnLogic in $675m push into physical AI",
+    "Fierce Sensors | Omron buys Interlogic for $675M soon after spinout of Aratas for components"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Freshworks",
+   "norm": "freshworks",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "BigGo Finance",
+    "CTech",
+    "Express Computer",
+    "Inc42",
+    "Indian Startup News",
+    "Moneycontrol.com",
+    "Pluang"
+   ],
+   "days": 4,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "CTech(10-13) | Freshworks to acquire Israeli startup Torii to help companies control AI costs",
+    "Pluang(10-13) | Freshworks to acquire Torii, enhancing AI and s...",
+    "Inc42(10-14) | Freshworks To Acquire Torii To Expand AI Spend Governance Offerings",
+    "Yahoo Finance | Freshworks' Torii Acquisition: Can AI Spend Governance Drive Growth?"
+   ],
+   "score": 10
+  },
+  {
+   "term": "West Virginia",
+   "norm": "westvirginia",
+   "n_outlets": 11,
+   "n_today": 2,
+   "outlets": [
+    "Construction Review",
+    "Cybernews",
+    "ET Datacenters",
+    "Finimize",
+    "Gadget Review",
+    "Moomoo",
+    "News and Sentinel",
+    "WBOY.com"
+   ],
+   "days": 6,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "News and Sentinel(10-12) | Op-ed: West Virginia’s AI future depends on 7,000 bridges",
+    "Gadget Review(10-12) | West Virginia's Historic Chestnut Trees Threatened By Data Center To Be Relocate",
+    "Cybernews(10-13) | West Virginia data center plan puts rare chestnuts at risk",
+    "Construction Review | $45bn+ West Virginia Data Center Project Advances as Anthropic–Nscale Deal Talks",
+    "ET Datacenters | Nscale plans US$44.6 billion Anthropic compute deal in West Virginia"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Pluto Security Raises",
+   "norm": "plutosecurityraises",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "Beinsure",
+    "Forkast News",
+    "GovInfoSecurity",
+    "Konsulteer",
+    "NewsBytes",
+    "PYMNTS.com",
+    "TechCrunch",
+    "The Tech Buzz"
+   ],
+   "days": 3,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TechCrunch(10-14) | Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "The Tech Buzz(10-14) | Pluto Security Raises $42M as AI Creates New Enterprise Risks",
+    "news.lavx.hu(10-14) | Pluto Security raises $42 million as AI tools open new enterprise security gaps",
+    "GovInfoSecurity | Pluto Security Raises $42M for Agentic Workspace Defense"
+   ],
+   "score": 9
+  },
+  {
+   "term": "NEURA Robotics",
+   "norm": "neurarobotics",
+   "n_outlets": 9,
+   "n_today": 3,
+   "outlets": [
+    "AFP.com",
+    "AI Insider",
+    "EU-Startups",
+    "Konsulteer",
+    "Robotics & Automation News",
+    "Unite.AI",
+    "openPR.com",
+    "trendingtopics.eu"
+   ],
+   "days": 3,
+   "first": "2026-10-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "openPR.com(10-12) | Humanoid Robot Market Draws Up to US$1.4 Billion Series C for Germany's NEURA Ro",
+    "Unite.AI(10-15) | NEURA Robotics, 피지컬 AI를 위한 파운데이션 모델 Neuron AI 공개",
+    "AFP.com(10-15) | NEURA Robotics Introduces Neuron AI: The Brain of the Physical World",
+    "AI Insider | Neura Robotics, NXAI Partner to Build Memory System for Physical AI",
+    "EU-Startups | Germany’s NEURA Robotics shows no signs of slowing down as it teams up with Aust",
+    "www.trendingtopics.eu | Neura Robotics Teams Up With Austria’s A.I. Start-Up NXAI"
+   ],
+   "score": 9
+  }
+ ]
+}
