@@ -332,14 +332,30 @@ def main():
         # B. 과거 발송분 중복
         if any(f[1] == i for f in fail):
             continue
+        # [2026-10-21 개정] 종전에는 오래된 발송분부터 훑다 **첫 일치에서 멈춰** 그 하나만 보여줬다.
+        #   10-21 '뮤즈 원더'는 09-22 '뮤즈 앱스토어 1위'(meta·뮤즈)가 대표로 찍히고, 같은 사건인
+        #   10-13 '뮤즈 원더 공개'(meta·뮤즈·원더)는 화면에 안 나와 약한 일치만 반박하고 통과됐다.
+        #   -> 일치를 전부 모아 **겹침 강도(URL 동일 > 겹친 낱말 수) -> 최신순**으로 정렬해 상위 3건을 보이고,
+        #      `중복검토:` 해명에 **가장 강한 일치의 발송일(MM-DD)** 이 들어 있어야 통과시킨다.
+        hits = []
         for d, h, u, HT in sent_t:
             hit, why = same_event(T, HT, url, u, ENT)
             if hit:
-                if "중복검토:" not in reason and "재심:" not in reason:
-                    fail.append(("중복발송", i, head[:46],
-                                 "%s 발송 '%s' 와 겹침(%s)" % (d, h[:34], why),
-                                 "중복검토:"))
-                break
+                e, c = overlap(T, HT, ENT)
+                strength = 99 if why == "URL 동일" else len(e | c)
+                hits.append((strength, d, h, why))
+        if hits:
+            hits.sort(key=lambda x: (x[0], x[1]), reverse=True)
+            top = hits[0]
+            mmdd = top[1][5:]
+            ok = "재심:" in reason or ("중복검토:" in reason and mmdd in reason.split("중복검토:", 1)[1])
+            if not ok:
+                lines = ["%s 발송 '%s' 와 겹침(%s)%s" % (d, h[:34], why, "  <- 가장 강한 일치" if k == 0 else "")
+                         for k, (_s, d, h, why) in enumerate(hits[:3])]
+                if len(hits) > 3:
+                    lines.append("... 외 %d건" % (len(hits) - 3))
+                need = "중복검토:<%s 발송분과 왜 다른 사건인가 — 그 날짜(%s)를 적을 것>" % (mmdd, mmdd)
+                fail.append(("중복발송", i, head[:46], "\n        ".join(lines), need))
 
         # C. 재집계·짜집기 기사 — 본문 사실이 과거에 일어난 것이면 '고'가 아니다
         if not any(f[1] == i for f in fail):
@@ -367,7 +383,7 @@ def main():
     for kind, i, head, why, tag in fail:
         print("   [%s] %s  %s" % (kind, i, head))
         print("        %s" % why)
-        print("        -> 사유에 `%s<한 줄>` 을 적으세요" % tag)
+        print("        -> 사유에 `%s` 을 적으세요" % (tag if "<" in tag else tag + "<한 줄>"))
     print("[repeat] 자동으로 빼지 않습니다. **왜 새 사건인지 한 줄 쓰면 통과합니다.**")
     print("[repeat] 근거를 못 쓰겠으면 그 건은 '고' 가 아닙니다.")
     return 1

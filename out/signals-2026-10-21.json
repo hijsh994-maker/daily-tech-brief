@@ -2,27 +2,11 @@
  "date": "2026-10-21",
  "gates": {},
  "hist": {
-  "228": {
-   "star": 0,
-   "overlap": false
-  },
-  "9": {
-   "star": 0,
-   "overlap": false
-  },
-  "71": {
-   "star": 0,
-   "overlap": false
-  },
-  "6": {
-   "star": 0,
+  "24": {
+   "star": 3,
    "overlap": true
   },
-  "114": {
-   "star": 0,
-   "overlap": false
-  },
-  "93": {
+  "17": {
    "star": 0,
    "overlap": false
   },
@@ -34,11 +18,31 @@
    "star": 1,
    "overlap": false
   },
-  "24": {
-   "star": 3,
+  "4": {
+   "star": 0,
+   "overlap": false
+  },
+  "9": {
+   "star": 0,
+   "overlap": false
+  },
+  "6": {
+   "star": 0,
    "overlap": true
   },
-  "17": {
+  "243": {
+   "star": 0,
+   "overlap": false
+  },
+  "114": {
+   "star": 0,
+   "overlap": false
+  },
+  "74": {
+   "star": 2,
+   "overlap": false
+  },
+  "93": {
    "star": 0,
    "overlap": false
   },
@@ -50,11 +54,7 @@
    "star": 5,
    "overlap": false
   },
-  "74": {
-   "star": 2,
-   "overlap": false
-  },
-  "4": {
+  "294": {
    "star": 0,
    "overlap": false
   },
@@ -62,11 +62,7 @@
    "star": 3,
    "overlap": false
   },
-  "243": {
-   "star": 0,
-   "overlap": false
-  },
-  "294": {
+  "71": {
    "star": 0,
    "overlap": false
   }
