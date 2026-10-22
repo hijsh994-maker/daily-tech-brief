@@ -824,7 +824,12 @@ def main():
     tc = load_community(day)              # [2026-09-23] HN·GitHub·HF — tier0 급으로 취급
     if tc:
         t0 = t0 + tc
-    t1 = load_tier1(day, cfg)
+    # [2026-10-22 사용자 결정] RSS(tier1)를 후보에서 뺀다. 섀도 실험(10-08~10-22, 20일) 결과
+    #   발송본 307건·'고' 355건 중 RSS·쿼리 9개 없이 사라지는 건 1건(10-15 Modal)뿐이었다.
+    #   policy.exclude_sources 에 rss 가 있으면 tier1 을 읽지 않는다. 되살리려면 그 줄만 지운다.
+    #   collect.py(RSS 적재)는 그대로 돈다 — buzz.py 가 반응 감지에 RSS 제목을 쓴다.
+    ex_src = set((cfg.get("policy") or {}).get("exclude_sources") or [])
+    t1 = [] if "rss" in ex_src else load_tier1(day, cfg)
     t2 = load_tier2(day)
     # HTML 엔티티 정리. 구글뉴스/RSS 제목에 &#039; &amp; &quot; 가 그대로 실려
     # 토큰화(예: '&quot;엔비디아' 가 한 토큰)와 브리프 표시를 해친다. 한 곳에서

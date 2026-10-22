@@ -11,18 +11,15 @@ Brian의 'Daily Tech Brief' 뉴스 파이프라인을 실행하고, 후보 전 �
 `dtb-secrets` 에서 받아 채워 넣을 수도 있다. 정본: `docs/클라우드-이관-가이드.md`.
 [2026-10-20] `~/dtb` 로 새로 clone 해서 돌리는 방식은 폐기 — 세션 안에서 새로 받은 코드는 실행이 차단됐다.
 
-## ★★★ 2026-10-08 신설 — 소스 정리 섀도 실험 (2026-10-08 ~ 10-22) ★★★
-사용자: *"1~2주간 RSS와 쿼리 9개를 뺀 상태로 판정 후보를 따로 만들어 실제 발송본과 비교해보자"*
-- **9단계 `run.sh send` 뒤에 `bash cowork/run.sh shadow` 를 돌린다**(5초, timeout 45000).
-  실제 파이프라인·발송에는 아무 영향이 없다. RSS 전체 + 구글 쿼리 9개
-  (`config/shadow_exclude.yaml`)를 뺀 후보를 `out/shadow/<날짜>/` 에 따로 만들고,
-  그날 발송본·'고'가 그 후보에도 남는지 대조해 `out/shadow/log.jsonl` 에 누적한다.
-- 판정은 점수를 가린 목록으로 하므로 **'후보에 남느냐'가 곧 비교 기준**이다.
-- 10단계 보고에 한 줄: `섀도: 발송본 N건 중 사라짐 M건` (+ 사라진 헤드라인).
-- **10-22 실행(종료일)에는 `bash cowork/run.sh shadow-report` 결과를 보고와 푸시 알림에 넣고,
-  제외 확정 여부는 사용자에게 묻는다.** 수집 설정(RSS·쿼리)을 스스로 바꾸지 말 것.
-- 백테스트(9/17~10/8 13회): 발송본 202건·'고' 243건 중 사라짐 0건, 수집 입력 -10%.
-  단 9/17~9/23 은 RSS 창 안 기사가 하루 1~11건뿐이라 RSS 검증은 9/28 이후 8회분이 실효.
+## ★★★ 2026-10-22 확정 — 소스 정리: RSS(tier1)·구글 쿼리 9개를 후보에서 뺐다 ★★★
+섀도 실험(10-08~10-22, 20일) 결과: 발송본 307건·'고' 355건 중 RSS·쿼리 9개 없이 사라진 것은
+1건(10-15 'AI cloud startup Modal raises $750M')뿐, 수집 입력 -10%. 사용자: *"RSS·쿼리 9개 작업에서 빼자"*
+- `config/keywords.yaml` `policy.exclude_sources: [rss]` → `refine.py` 가 tier1 을 읽지 않는다(로그 `tier1(RSS) 0`).
+- 쿼리 9개(TSMC·로보택시·open weight model·robotics commercial deployment·Nvidia GPU supply·
+  SK브로드밴드·Zhipu AI·퍼플렉시티·바이오빅데이터)는 `discovery_queries` 에서 주석 처리(`# [삭제 10-22]`).
+- **`run.sh collect`(RSS 적재)는 계속 돈다.** buzz 가 반응 감지에 RSS 제목을 쓰고, 링크 확보에도 쓴다.
+- **`run.sh shadow`·`shadow-report` 는 더 돌리지 않는다**(실험 종료). 10단계 보고의 '섀도' 줄도 뺀다.
+- 되살리려면 `exclude_sources` 줄을 지우고 쿼리 주석을 푼다. 백업 `refine.py.bak-20261022`, `config/keywords.yaml.bak-20261022`.
 
 ## ★★★ 2026-09-30 개정 (2) — '후보로 봤다' ≠ '독자가 안다' ★★★
 사용자: *"실제로 발송된 적이 한 번도 없었습니다. '후보로 여러 번 봤다'를 '이미 독자에게 알려졌다'로
@@ -772,7 +769,6 @@ bash cowork/run.sh send dry        # 길이·메시지 개수 확인
 bash cowork/run.sh verdict-xlsx    # out/판정-<날짜>.xlsx (요약/전수판정/발송본 3시트)
 bash cowork/run.sh push
 bash cowork/run.sh send            # 초안 채널 발송 (push 뒤에 돌린다)
-bash cowork/run.sh shadow          # [10-08~10-22] 소스 정리 섀도 대조(발송에 영향 없음)
 ```
 
 - 산출물은 `out/brief-<날짜>.md` 와 `out/판정-<날짜>.xlsx` **둘**이다.
