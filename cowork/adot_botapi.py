@@ -9,7 +9,9 @@
   * 채널이 비공개라 t.me/s/<채널> 미리보기(삼성 채널 방식)가 없다.
   * 사람 계정 세션(Telethon, MTProto)은 이 컨테이너에서 TCP 는 붙지만 핸드셰이크가 타임아웃된다(프록시가 HTTPS 외 트래픽 차단).
   * Bot API(api.telegram.org, HTTPS)는 열려 있다 — run.sh send 가 이미 이 길로 발송한다.
-  → 채널 관리자가 **전용 봇**을 채널 관리자로 넣어 주면, 그 봇이 channel_post 업데이트로 새 글을 받는다.
+  → 방 관리자가 **전용 봇**을 관리자로 넣어 주면, 그 봇이 새 글을 받는다(채널=channel_post, 그룹=message).
+  * [10-22 추가] @dailytechbrief 는 공개지만 **그룹**이라(멤버 2명, t.me/s/ 미리보기가 본 페이지로 되돌아감)
+    삼성 채널처럼 웹 미리보기로는 못 읽는다. 그룹에서는 봇이 관리자여야 모든 메시지를 받는다(프라이버시 모드 무관).
     (기존 tech_collaboration_team_bot 은 GCP 포워딩이 getUpdates 를 쓰고 있어 같이 쓰면 업데이트를 가로채게 된다 → 새 봇.)
 
 제약 — 봇은 관리자로 들어간 **뒤** 올라온 글만 받고, Telegram 은 미확인 업데이트를 24시간만 보관한다.
@@ -60,18 +62,30 @@ def main():
         sys.exit(1)
     want_id = os.environ.get("TELEGRAM_ADOT_CHAT_ID", "").strip()
     want_title = os.environ.get("TELEGRAM_ADOT_CHAT_TITLE", "에이닷비즈뉴스레터").strip()
+    username = os.environ.get("TELEGRAM_ADOT_USERNAME", "dailytechbrief").strip().lstrip("@")
+    if not want_id and username:
+        # [10-22] 방이 공개(@dailytechbrief)라 아이디를 봇 API 로 바로 알 수 있다.
+        try:
+            chat = api(token, "getChat", chat_id="@" + username)
+            want_id = str(chat["id"])
+            print(f'[adot-bot] @{username} -> {chat.get("type")} "{chat.get("title")}" ({want_id})')
+        except Exception as e:
+            print(f"[adot-bot] getChat(@{username}) 실패: {e} — 제목으로 고른다")
     out_path = sys.argv[1] if len(sys.argv) > 1 else "adot-botapi.txt"
     today = dt.datetime.now(KST).date()
     try:
-        ups = api(token, "getUpdates", limit=100, timeout=0, allowed_updates=["channel_post"])
+        # 채널이면 channel_post, 그룹(슈퍼그룹)이면 message 로 온다. 둘 다 받는다.
+        ups = api(token, "getUpdates", limit=100, timeout=0, allowed_updates=["channel_post", "message"])
     except Exception as e:
         print("[adot-bot] API 오류:", e); sys.exit(1)
     msgs, titles = [], set()
     for u in ups:
-        m = u.get("channel_post")
+        m = u.get("channel_post") or u.get("message")
         if not m:
             continue
         chat = m.get("chat", {})
+        if chat.get("type") not in ("channel", "supergroup", "group"):
+            continue
         titles.add(f'{chat.get("title")}({chat.get("id")})')
         if want_id and str(chat.get("id")) != want_id:
             continue
