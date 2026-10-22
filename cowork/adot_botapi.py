@@ -12,10 +12,11 @@
   → 방 관리자가 **전용 봇**을 관리자로 넣어 주면, 그 봇이 새 글을 받는다(채널=channel_post, 그룹=message).
   * [10-22 추가] @dailytechbrief 는 공개지만 **그룹**이라(멤버 2명, t.me/s/ 미리보기가 본 페이지로 되돌아감)
     삼성 채널처럼 웹 미리보기로는 못 읽는다. 그룹에서는 봇이 관리자여야 모든 메시지를 받는다(프라이버시 모드 무관).
-    (기존 tech_collaboration_team_bot 은 GCP 포워딩이 getUpdates 를 쓰고 있어 같이 쓰면 업데이트를 가로채게 된다 → 새 봇.)
+    (기존 tech_collaboration_team_bot 은 GCP 포워딩이 getUpdates 를 쓰고 있었다 → 10-22 사용자 결정으로 GCP 포워딩을 끄고 이 봇을 그대로 쓴다.
+     DTB 업로드방에 사람이 올리는 글은 없어 GCP 가 하던 일이 없고, 공유방 복제는 send_telegram.py 가 한다.)
 
 제약 — 봇은 관리자로 들어간 **뒤** 올라온 글만 받고, Telegram 은 미확인 업데이트를 24시간만 보관한다.
-       매일 아침 한 번 읽으면 충분하다. 이 스크립트는 업데이트를 확인(offset)하지 않아 같은 날 다시 읽어도 남아 있다.
+       매일 아침 한 번 읽으면 충분하다. 100건 넘게 밀리면 offset 으로 넘기며 다 받는다(앞 페이지는 확인 처리됨).
 
 비밀키(cowork/secrets.env): TELEGRAM_ADOT_BOT_TOKEN=<새 봇 토큰>  (선택) TELEGRAM_ADOT_CHAT_ID=-100…  TELEGRAM_ADOT_CHAT_TITLE=에이닷비즈뉴스레터
 출력 — adot-telegram-fetch 의 out/latest.txt 와 같은 형식(DATE/SOURCE/FETCHED_AT/COUNT + =====MSG=====/TIME=HH:MM + 본문).
@@ -58,7 +59,14 @@ def render(text, entities):
 def main():
     token = os.environ.get("TELEGRAM_ADOT_BOT_TOKEN", "").strip()
     if not token:
-        print("[adot-bot] TELEGRAM_ADOT_BOT_TOKEN 이 없습니다 — 채널 관리자가 전용 봇을 만들어 채널 관리자로 추가하고 토큰을 secrets.env 에 넣어야 합니다")
+        # [10-22 사용자 결정] GCP 포워딩(같은 봇으로 getUpdates)을 끄기로 했으므로 발송 봇
+        # Daily Tech Brief_Agent 를 그대로 읽기에도 쓴다(그룹 관리자로 추가됨). 전용 봇을 쓰려면
+        # TELEGRAM_ADOT_BOT_TOKEN 을 따로 적는다.
+        token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+        if token:
+            print("[adot-bot] TELEGRAM_ADOT_BOT_TOKEN 없음 -> 발송 봇(TELEGRAM_BOT_TOKEN)으로 읽는다 (GCP 포워딩이 꺼져 있어야 한다)")
+    if not token:
+        print("[adot-bot] 봇 토큰이 없습니다(TELEGRAM_ADOT_BOT_TOKEN 또는 TELEGRAM_BOT_TOKEN)")
         sys.exit(1)
     want_id = os.environ.get("TELEGRAM_ADOT_CHAT_ID", "").strip()
     want_title = os.environ.get("TELEGRAM_ADOT_CHAT_TITLE", "에이닷비즈뉴스레터").strip()
@@ -73,11 +81,28 @@ def main():
             print(f"[adot-bot] getChat(@{username}) 실패: {e} — 제목으로 고른다")
     out_path = sys.argv[1] if len(sys.argv) > 1 else "adot-botapi.txt"
     today = dt.datetime.now(KST).date()
+    # 채널이면 channel_post, 그룹(슈퍼그룹)이면 message 로 온다. 둘 다 받는다.
+    # 봇이 들어가 있는 다른 방(DTB 업로드 등)의 업데이트도 같은 큐에 쌓이므로 100건 넘게 밀릴 수 있다.
+    # offset 으로 끝까지 넘기며 다 받는다(앞 페이지는 확인 처리돼 지워지지만, 오늘자 결과는
+    # adot-latest 가 cowork/raw/ 에 파일로 남기므로 같은 날 재실행은 그 파일을 쓴다).
+    ups, offset = [], None
     try:
-        # 채널이면 channel_post, 그룹(슈퍼그룹)이면 message 로 온다. 둘 다 받는다.
-        ups = api(token, "getUpdates", limit=100, timeout=0, allowed_updates=["channel_post", "message"])
+        for _ in range(20):
+            kw = dict(limit=100, timeout=0, allowed_updates=["channel_post", "message"])
+            if offset is not None:
+                kw["offset"] = offset
+            page = api(token, "getUpdates", **kw)
+            ups += page
+            if len(page) < 100:
+                break
+            offset = page[-1]["update_id"] + 1
     except Exception as e:
         print("[adot-bot] API 오류:", e); sys.exit(1)
+    try:
+        with open(out_path + ".updates.json", "w", encoding="utf-8") as f:
+            json.dump(ups, f, ensure_ascii=False)
+    except Exception:
+        pass
     msgs, titles = [], set()
     for u in ups:
         m = u.get("channel_post") or u.get("message")
