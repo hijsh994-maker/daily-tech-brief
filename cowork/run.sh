@@ -287,6 +287,17 @@ adot-latest)
   python3 "$MNT/cowork/adot_latest.py" --date "$DATE" --file "${2:?latest.txt 경로}" \
           --mnt "$MNT" --work "$W" ;;
 
+adot-bot)
+  # [2026-10-22 신설] 에이닷비즈뉴스레터를 텔레그램 Bot API 로 직접 받아 adot-latest 에 넘긴다.
+  #   전제: 채널 관리자가 전용 봇을 채널 관리자로 추가 + secrets.env 에 TELEGRAM_ADOT_BOT_TOKEN.
+  #   종료코드는 adot-latest 와 같다(0 투입 완료 / 2 오늘자 없음 / 1 오류). 실패하면 종전
+  #   경로(adot-telegram-fetch 의 latest.txt)로 간다.
+  mkdir -p "$W/out"
+  F="$W/out/adot-botapi-$DATE.txt"
+  python3 "$MNT/cowork/adot_botapi.py" "$F"; rc=$?
+  [ $rc -eq 0 ] || exit $rc
+  python3 "$MNT/cowork/adot_latest.py" --date "$DATE" --file "$F" --mnt "$MNT" --work "$W" ;;
+
 rfp-direct)
   # [2026-10-22 신설] 국책과제 ① — 과기정통부·IITP·IRIS 공고 목록을 사이트에서 직접 받는다.
   #   사용자 지시: 저장소(ai-rfp-fetch) 수집본만 읽지 말고 사이트를 직접 확인할 것.

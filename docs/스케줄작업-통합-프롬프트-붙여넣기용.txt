@@ -22,6 +22,7 @@ bash cowork/run.sh workday        # 종료코드 3 = 휴일. ①~④ 전부 하�
 비밀키 — `$REPO/cowork/secrets.env`(.gitignore 가 거른다). 키 값은 채팅·보고·알림·커밋 어디에도 적지 않는다.
 - 이미 있고 `GH_FETCH_TOKEN=` 줄도 있으면 그대로 쓴다.
 - 없거나 그 줄이 없으면 Google Drive 에서 `mcp__Google_Drive__search_files` 로 `title = 'dtb-secrets'` 문서를 찾아 `mcp__Google_Drive__read_file_content` 로 읽고, `KEY=VALUE` 꼴의 줄만(앞뒤 공백·따옴표·`\_` 이스케이프 제거) secrets.env 에 Write 한다. `github_pat_` 로 시작하는 줄이 `KEY=` 없이 홀로 있으면 `GH_FETCH_TOKEN=` 으로 적는다. 필요한 키: NAVER_CLIENT_ID, NAVER_CLIENT_SECRET, TELEGRAM_BOT_TOKEN, TELEGRAM_DRAFT_CHAT_ID, GH_FETCH_TOKEN(있으면 TELEGRAM_FINAL_CHAT_ID·TELEGRAM_FANOUT_* 도).
+- 선택 키 TELEGRAM_ADOT_BOT_TOKEN(에이닷 전용 봇, ③ 직접 수집)·TELEGRAM_ADOT_CHAT_ID 도 있으면 함께 적는다.
 - 네이버·텔레그램 키를 못 얻으면 즉시 멈추고 PushNotification "비밀키 없음, 파이프라인 미실행". GH_FETCH_TOKEN 만 없으면 ①③ 을 건너뛰고(알림에 적는다) ②④ 는 돌린다.
 `bash cowork/run.sh keycheck` 가 OK 여야 한다. 그 뒤 `bash cowork/run.sh sync`. 도구가 run.sh 실행을 거부하면 우회하지 말고 즉시 멈추고 PushNotification "run.sh 실행 차단, 파이프라인 미실행"(차단 사유 그대로).
 다른 두 저장소는 GitHub MCP·gh 가 막혀 있으므로 PAT 로 얕은 clone 해서 데이터 파일만 Read/Grep 한다(그 안의 스크립트는 실행하지 않는다). 토큰은 환경변수로만 다룬다:
@@ -67,9 +68,10 @@ clone 이 인증 오류면 재시도하지 말고 그 저장소를 쓰는 단계
 
 ## ③ (09:40) 에이닷비즈뉴스레터 → tier0 직접 투입 (슬랙 게시 없음)
 `wait-until 09:40`. adot-telegram-fetch 의 Actions(09:33·09:43 KST)가 당일 메시지를 `out/latest.txt` 로 커밋한다. 워크플로를 직접 실행할 수는 없다.
+0. **먼저 텔레그램에서 직접 받는다**: `bash cowork/run.sh adot-bot` (전용 봇의 Bot API getUpdates, 2초). 종료코드 0 이면 `cowork/raw/adot-latest-TODAY.txt` 가 바로 생기니 아래 1·2 는 건너뛰고 알림에 `출처: 텔레그램 직접(bot)` 을 적는다. 종료코드 1(토큰 없음·API 오류)이면 알림 둘째 문장에 그 사유를 적고 아래 1 로 간다. 종료코드 2(아직 글 없음)이면 아래 1 과 번갈아 재시도한다.
 1. `cd "$DATA/adot-telegram-fetch" && git pull -q --ff-only` 뒤 REPO 에서 `bash cowork/run.sh adot-latest "$DATA/adot-telegram-fetch/out/latest.txt"`.
    - 종료코드 0: `cowork/raw/adot-latest-TODAY.txt` 생성. ④ 의 `run.sh log` 가 이 파일을 쓴다. 출력의 `기사 링크: N건` 을 알림에.
-   - 종료코드 2(오늘자 아님·COUNT=0): `sleep 120` 후 `git pull -q --ff-only` 하고 다시 부른다. 09:52 까지 최대 6회. 그래도 2 면 접고 ④ 로 간다 — 에이닷 없이 진행되며 tier0 의 '에이닷 0건' 경고는 정상.
+   - 종료코드 2(오늘자 아님·COUNT=0): `sleep 120` 후 `run.sh adot-bot` → (2 면) `git pull -q --ff-only` + adot-latest 순으로 다시 부른다. 09:52 까지 최대 6회. 그래도 2 면 접고 ④ 로 간다 — 에이닷 없이 진행되며 tier0 의 '에이닷 0건' 경고는 정상.
    - 종료코드 1(형식 오류): 재시도 없이 오류 문구를 적고 ④ 로.
 2. latest.txt 는 읽기만 한다. 요약·가공·슬랙 게시 없음.
 3. 알림: `[③에이닷 HH:MM] DATE=… COUNT=N, 기사 링크 K건 tier0 투입(재시도 R회)` / `미수집 — 마지막 DATE=… COUNT=…, 6회 재시도. 에이닷 없이 DTB 진행`(= Actions 수집 상태를 봐 달라는 뜻).
