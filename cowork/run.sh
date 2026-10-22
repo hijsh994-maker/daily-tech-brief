@@ -287,6 +287,13 @@ adot-latest)
   python3 "$MNT/cowork/adot_latest.py" --date "$DATE" --file "${2:?latest.txt 경로}" \
           --mnt "$MNT" --work "$W" ;;
 
+rfp-direct)
+  # [2026-10-22 신설] 국책과제 ① — 과기정통부·IITP·IRIS 공고 목록을 사이트에서 직접 받는다.
+  #   사용자 지시: 저장소(ai-rfp-fetch) 수집본만 읽지 말고 사이트를 직접 확인할 것.
+  #   기업마당은 직접 접속이 끊겨 WebFetch 로 연다(스크립트 출력에 주소를 찍는다).
+  #     bash cowork/run.sh rfp-direct [YYYY-MM-DD]   # since 생략 시 직전 평일
+  python3 "$MNT/cowork/rfp_direct.py" "${2:-}" ;;
+
 log)
   # 에이전트가 cowork/raw/ 에 저장한 슬랙 원문을 tier0 로그 포맷으로 변환.
   #   [2026-10-20] cowork/raw/adot-latest-<날짜>.txt 가 있으면 에이닷 섹션은 그 파일이 우선.
