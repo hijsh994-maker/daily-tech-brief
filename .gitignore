@@ -3,6 +3,7 @@ cowork/secrets.env
 cowork/secrets.env.bak*
 
 # ---- 당일만 쓰는 큰 캐시 (매일 새로 받는다)
+out/rfp/latest/
 out/bodycache-*.json
 out/t2cache-*.json
 out/preview-*.txt

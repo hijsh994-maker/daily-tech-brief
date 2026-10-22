@@ -278,7 +278,7 @@ EOF
 adot-latest)
   # [2026-10-20 신설] 에이닷비즈뉴스레터를 슬랙을 거치지 않고 바로 tier0 로 넣는다.
   #   세 스케줄 작업(국책과제·텔레그램 로그·DTB)을 하나로 합치면서, 에이닷은
-  #   adot-telegram-fetch 저장소의 out/latest.txt 를 받아(PAT 로 git clone) 이 명령에 준다.
+  #   [10-22] 입력 파일은 run.sh adot-bot 이 만든다(종전 adot-telegram-fetch/out/latest.txt 와 같은 형식).
   #     bash cowork/run.sh adot-latest "$HOME/adot-$DATE/out/latest.txt"
   #   -> cowork/raw/adot-latest-<날짜>.txt (작업본·저장소 양쪽). 이어서 run.sh log 가
   #      슬랙의 에이닷 메시지 대신 이 파일로 '## 텔레그램 - 에이닷비즈뉴스레터' 를 채운다.
@@ -290,20 +290,19 @@ adot-latest)
 adot-bot)
   # [2026-10-22 신설] 에이닷비즈뉴스레터를 텔레그램 Bot API 로 직접 받아 adot-latest 에 넘긴다.
   #   전제: 채널 관리자가 전용 봇을 채널 관리자로 추가 + secrets.env 에 TELEGRAM_ADOT_BOT_TOKEN.
-  #   종료코드는 adot-latest 와 같다(0 투입 완료 / 2 오늘자 없음 / 1 오류). 실패하면 종전
-  #   경로(adot-telegram-fetch 의 latest.txt)로 간다.
+  #   종료코드는 adot-latest 와 같다(0 투입 완료 / 2 오늘자 없음 / 1 오류).
   mkdir -p "$W/out"
   F="$W/out/adot-botapi-$DATE.txt"
   python3 "$MNT/cowork/adot_botapi.py" "$F"; rc=$?
   [ $rc -eq 0 ] || exit $rc
   python3 "$MNT/cowork/adot_latest.py" --date "$DATE" --file "$F" --mnt "$MNT" --work "$W" ;;
 
-rfp-direct)
-  # [2026-10-22 신설] 국책과제 ① — 과기정통부·IITP·IRIS 공고 목록을 사이트에서 직접 받는다.
-  #   사용자 지시: 저장소(ai-rfp-fetch) 수집본만 읽지 말고 사이트를 직접 확인할 것.
-  #   기업마당은 직접 접속이 끊겨 WebFetch 로 연다(스크립트 출력에 주소를 찍는다).
-  #     bash cowork/run.sh rfp-direct [YYYY-MM-DD]   # since 생략 시 직전 평일
-  python3 "$MNT/cowork/rfp_direct.py" "${2:-}" ;;
+rfp-fetch)
+  # [2026-10-22 신설] 국책과제 ① 수집 — 과기정통부·IITP·IRIS 공고(목록·본문·첨부 텍스트)를 이 서버에서 직접 받는다.
+  #   사용자 지시: GitHub Actions(ai-rfp-fetch) 없이, 다른 작업 결과를 읽지 말고 직접 확인할 것.
+  #   결과: $MNT/out/rfp/latest/{meta.json,index.md,items/*.md}. 기업마당은 접속이 끊겨 WebFetch 로 따로 본다.
+  #     bash cowork/run.sh rfp-fetch [--days N] [--sites msit,iitp,iris,bizinfo]     # timeout 175000
+  shift; python3 "$MNT/cowork/rfp_fetch.py" "$@" ;;
 
 log)
   # 에이전트가 cowork/raw/ 에 저장한 슬랙 원문을 tier0 로그 포맷으로 변환.

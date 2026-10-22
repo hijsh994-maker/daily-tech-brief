@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""adot_latest.py - adot-telegram-fetch 의 out/latest.txt -> 에이닷 tier0 원문  [2026-10-20 신설]
+"""adot_latest.py - 에이닷 수집 파일(latest.txt 형식) -> 에이닷 tier0 원문  [2026-10-20 신설, 10-22 입력을 adot-bot 으로 교체]
 
 왜: 세 스케줄 작업을 하나로 합치면서(사용자 지시) 에이닷비즈뉴스레터는 슬랙에 올리지 않고
     GitHub 저장소 `hijsh994-maker/adot-telegram-fetch` 의 `out/latest.txt` 를 **바로 tier0 로** 넣는다.
@@ -78,7 +78,7 @@ def parse(text):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=datetime.date.today().isoformat())
-    ap.add_argument("--file", required=True, help="adot-telegram-fetch 의 out/latest.txt")
+    ap.add_argument("--file", required=True, help="latest.txt 형식 파일(run.sh adot-bot 이 만든다)")
     ap.add_argument("--mnt", help="마운트(저장소) 경로 — 그쪽 cowork/raw 에 저장")
     ap.add_argument("--work", help="작업본 경로 — 그쪽 cowork/raw 에도 저장 (run.sh log 가 읽는 쪽)")
     a = ap.parse_args()
