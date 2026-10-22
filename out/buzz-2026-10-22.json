@@ -1,0 +1,446 @@
+{
+ "date": "2026-10-22",
+ "terms": [
+  {
+   "term": "트레이스위브",
+   "norm": "트레이스위브",
+   "n_outlets": 25,
+   "n_today": 19,
+   "outlets": [
+    "AI타임스",
+    "Chosunbiz",
+    "Navercorp",
+    "SBS Biz",
+    "뉴스1",
+    "뉴시스",
+    "더테크",
+    "데일리한국"
+   ],
+   "days": 2,
+   "first": "2026-10-21",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "아시아투데이(10-21) | 네이버 D2SF, 온디바이스 AI 스타트업 ‘트레이스위브’에 투자",
+    "현대경제(10-21) | 기업가치 300억 평가받은 AI 신생기업…네이버가 ‘트레이스위브’에 투자한 이유",
+    "이데일리(10-21) | 네이버 D2SF, 온디바이스 AI ‘트레이스위브’ 투자…시드 30억원 조달",
+    "Navercorp | 네이버 D2SF, 온디바이스 AI 스타트업 ‘트레이스위브’에 신규 투자",
+    "AI타임스 | 네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자",
+    "문화일보 | 네이버, 온디바이스 AI 스타트업 ‘트레이스위브’에 새 투자"
+   ],
+   "score": 16
+  },
+  {
+   "term": "Patch",
+   "norm": "patch",
+   "n_outlets": 7,
+   "n_today": 3,
+   "outlets": [
+    "CNBC",
+    "Gizmodo",
+    "HN",
+    "NeoTeo",
+    "OpenAI",
+    "Pasquale Pillitteri",
+    "Patch"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Pasquale Pillitteri(10-13) | Linus Torvalds says Claude Code helped write a Linux kernel patch",
+    "NeoTeo(10-15) | Linux kernel patch proposes removing the Assisted-by tag",
+    "CNBC(10-15) | Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
+    "OpenAI | Patch the Planet: global response coordination as agents uncover critical vulner",
+    "Gizmodo | OpenAI Wants to ‘Patch the Planet’ (With Its Own AI)",
+    "HN | Patch the Planet: global response coordination as agents uncover vulnerabilities"
+   ],
+   "score": 15
+  },
+  {
+   "term": "DeepInfer",
+   "norm": "deepinfer",
+   "n_outlets": 10,
+   "n_today": 4,
+   "outlets": [
+    "BigGo Finance",
+    "Crypto Briefing",
+    "Global Times",
+    "HN",
+    "Kingy AI",
+    "TechTarget",
+    "Technology Org",
+    "Trend Hunter"
+   ],
+   "days": 2,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Kingy AI(10-21) | DeepInfer Explained: DeepSeek’s Open Inference Engine, Benchmarks, Specs, and Co",
+    "TechTarget(10-21) | DeepSeek makes DeepInfer open source to cut AI costs",
+    "BigGo Finance(10-21) | DeepSeek Open-Sources DeepInfer Inference Framework, Discloses approximately $38",
+    "Trend Hunter | Open-Source AI Inference Frameworks: DeepSeek’s ‘DeepInfer’ Runs ‘V4.1-Flash’ at",
+    "YourStory.com | DeepSeek’s DeepInfer could give AI inference costs a haircut",
+    "Global Times | DeepSeek announces open-sourcing inference framework DeepInfer to reduce compute"
+   ],
+   "score": 13
+  },
+  {
+   "term": "런메이트 캠프",
+   "norm": "런메이트캠프",
+   "n_outlets": 28,
+   "n_today": 17,
+   "outlets": [
+    "CNB뉴스",
+    "ER 이코노믹리뷰",
+    "SK텔레콤 뉴스룸",
+    "SR타임스",
+    "www.fetv.co.kr",
+    "글로벌뉴스통신GNA",
+    "글로벌에픽",
+    "나눔경제뉴스"
+   ],
+   "days": 2,
+   "first": "2026-10-21",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "SK텔레콤 뉴스룸(10-21) | SKT, 러너 위한 체험 공간 ‘런메이트 캠프’ 연다",
+    "브릿지경제(10-21) | SKT, 러너 위한 체험 공간 ‘런메이트 캠프' 개최",
+    "뉴스핌(10-21) | SKT, 성수서 '런메이트 캠프' 운영...AI로 러닝 자세 분석",
+    "ER 이코노믹리뷰 | 런메이트 캠프 연 SKT가 러너 5명까지 무료로 AI 자세 분석을 해준다",
+    "핀포인트뉴스 | SKT, 성수동에 AI 러닝 체험 공간 '런메이트 캠프' 연다",
+    "테크월드 | SKT, 러너 위한 체험 공간 ‘런메이트 캠프’ 연다"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Claude Duet",
+   "norm": "claudeduet",
+   "n_outlets": 23,
+   "n_today": 23,
+   "outlets": [
+    "9to5Google",
+    "9to5Mac",
+    "Anadolu Ajansı",
+    "Business Insider",
+    "CNBC",
+    "Engadget",
+    "Finimize",
+    "GuruFocus"
+   ],
+   "days": 1,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The New York Times | Anthropic Joins the A.I. Agent Race With Claude Duet",
+    "CNBC | Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse,",
+    "Reuters | Anthropic unveils Claude Duet AI agent app",
+    "Thurrott.com | Anthropic Announces Claude Duet, a Personal AI Agent",
+    "Anadolu Ajansı | Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots",
+    "The Verge | Anthropic takes on Muse with Claude Duet, its new AI agent"
+   ],
+   "score": 12
+  },
+  {
+   "term": "VoidAccess",
+   "norm": "voidaccess",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: VoidAccess – open-source dark web OSINT, from query to a graph"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Revenue Soars",
+   "norm": "revenuesoars",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "Capital Brief",
+    "TradingKey",
+    "조선일보"
+   ],
+   "days": 2,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Capital Brief(10-21) | SpaceX Q3 earnings smash expectations as AI revenue soars",
+    "TradingKey | SpaceX Surges Over 8% After Hours as Q3 AI Revenue Soars 830%, Forms Special Com",
+    "조선일보 | Anthropic Revenue Soars 14.8x Despite 107 Trillion Won Loss"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Fourier",
+   "norm": "fourier",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "TechNode"
+   ],
+   "days": 2,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-14) | A look at the math that OpenAI claims computes faster Fourier transforms",
+    "TechNode | Robot hardware startup YITA secures funding from Galbot and Fourier"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Blacksmith",
+   "norm": "blacksmith",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "Fortune",
+    "TechCrunch"
+   ],
+   "days": 1,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Fortune | Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-wr",
+    "TechCrunch | Blacksmith hits unicorn valuation after Sequoia leads Series C"
+   ],
+   "score": 7
+  },
+  {
+   "term": "PHP2Shell",
+   "norm": "php2shell",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | PHP2Shell: AI uncovers critical RCE in PHP"
+   ],
+   "score": 7
+  },
+  {
+   "term": "수혜 시간표",
+   "norm": "수혜시간표",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "파이낸셜뉴스"
+   ],
+   "days": 1,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "파이낸셜뉴스 | 550조 AI 투자, 실적은 누가 먼저…건설·전력주 '수혜 시간표' 주목"
+   ],
+   "score": 6
+  },
+  {
+   "term": "Airtree",
+   "norm": "airtree",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "AFR"
+   ],
+   "days": 1,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "AFR | Airtree’s AI legal stake surges as valuation hits $12.5b"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "홈뷰",
+   "norm": "홈뷰",
+   "n_outlets": 22,
+   "n_today": 1,
+   "outlets": [
+    "AI 매터스",
+    "AI타임스",
+    "Chosunbiz",
+    "IT조선",
+    "SBS Biz",
+    "www.dt.co.kr",
+    "آي-فون إسلام",
+    "글로벌이코노믹"
+   ],
+   "days": 6,
+   "first": "2026-10-13",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "www.dt.co.kr(10-13) | 애플, 스마트홈 승부수 ‘홈뷰’ 공개…이번엔 성공할까",
+    "IT조선(10-13) | 애플, 시리 AI 탑재 ‘홈뷰’ 공개 임박…LG와 스마트홈 공략",
+    "솔루션뉴스(10-13) | 애플 스마트홈 허브 이름은 '홈뷰'… 13일 공개, 판매는 11월 중순 [테크지식NOW]",
+    "آي-فون إسلام | 애플 제품이 드디어 당신의 집에 들어왔습니다: 새로운 애플 기기를 집에 맞이하세요 | 홈뷰 | 아이폰 이슬람",
+    "آي-فون إسلام | 애플, 299달러짜리 스마트 홈 디스플레이 '홈뷰' 공개 - 알아야 할 모든 것"
+   ],
+   "score": 10
+  },
+  {
+   "term": "GTC Berlin",
+   "norm": "gtcberlin",
+   "n_outlets": 17,
+   "n_today": 14,
+   "outlets": [
+    "ASUS Pressroom",
+    "Analytics India Magazine",
+    "BigGo Finance",
+    "Crypto Briefing",
+    "Google Cloud",
+    "HPCwire",
+    "Investing.com 한국어",
+    "Konsulteer"
+   ],
+   "days": 4,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "NVIDIA Blog(10-14) | NVIDIA Lands in Europe for GTC Berlin",
+    "NVIDIA Blog(10-15) | NVIDIA Lands in Europe for GTC Berlin",
+    "Konsulteer(10-20) | NVIDIA’s GTC Berlin Opens as Germany Advances AI Partnership and European Invest",
+    "Investing.com 한국어 | 엔비디아, GTC Berlin 2026서 유럽 AI 인프라 확충 전략 제시",
+    "PR Newswire | Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical A",
+    "ASUS Pressroom | ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Genesis",
+   "norm": "genesis",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "Analytics Insight",
+    "Investing.com",
+    "Newswise",
+    "R&D World",
+    "Reuters",
+    "TheEnergyMag",
+    "Tomorrow's World Today",
+    "Westlaw Today"
+   ],
+   "days": 4,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TheEnergyMag(10-13) | SWI Raises €800M to Fund AI Push After Genesis Digital Takeover",
+    "Newswise(10-13) | PPPL Data, Simulation Codes and Compute Power Will Be Used in Phase Ii Genesis M",
+    "Tomorrow's World Today(10-14) | Genesis Mission Selects Digital Twin for Commercial Fusion",
+    "지디넷코리아 | 셀레브라이트, Genesis 성과 기반 가을 릴리스 공개: 더 많은 증거, 더 깊은 통찰, 더 넓어진 수사 접근성"
+   ],
+   "score": 10
+  },
+  {
+   "term": "HARFKO",
+   "norm": "harfko",
+   "n_outlets": 10,
+   "n_today": 8,
+   "outlets": [
+    "Chosunbiz",
+    "elec4",
+    "데이터넷",
+    "디지털데일리",
+    "디지틀조선일보",
+    "비즈트리뷴",
+    "아시아경제",
+    "올포칩"
+   ],
+   "days": 4,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "테크데일리(10-15) | 슈나이더 일렉트릭, HARFKO 2026 참가... AI 데이터센터 냉각·전력 솔루션 공개",
+    "디지틀조선일보(10-15) | 슈나이더 일렉트릭, ‘HARFKO 2026’ 참가…HVAC·AI 데이터센터 대응하는 통합 솔루션 선보인다",
+    "데이터넷(10-15) | 슈나이더 일렉트릭, ‘HARFKO 2026’ 참가 ··· HVAC·AIDC 아우르는 통합 솔루션 소개",
+    "디지틀조선일보 | 'HARFKO 2026' AIDC 냉각 판 바꾼다...슈나이더 일렉트릭, HVAC 전용 드라이브 전격 공개",
+    "elec4 | 슈나이더 일렉트릭, ‘HARFKO 2026’에서 HVAC·AI 데이터센터 통합 솔루션 선보여",
+    "비즈트리뷴 | 귀뚜라미그룹, HARFKO 2026 참가… AI 데이터센터 냉각·친환경 공조 기술 공개"
+   ],
+   "score": 10
+  },
+  {
+   "term": "HARFKO 2026",
+   "norm": "harfko2026",
+   "n_outlets": 7,
+   "n_today": 5,
+   "outlets": [
+    "elec4",
+    "데이터넷",
+    "디지틀조선일보",
+    "비즈트리뷴",
+    "아시아경제",
+    "올포칩",
+    "테크데일리"
+   ],
+   "days": 4,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "테크데일리(10-15) | 슈나이더 일렉트릭, HARFKO 2026 참가... AI 데이터센터 냉각·전력 솔루션 공개",
+    "디지틀조선일보(10-15) | 슈나이더 일렉트릭, ‘HARFKO 2026’ 참가…HVAC·AI 데이터센터 대응하는 통합 솔루션 선보인다",
+    "데이터넷(10-15) | 슈나이더 일렉트릭, ‘HARFKO 2026’ 참가 ··· HVAC·AIDC 아우르는 통합 솔루션 소개",
+    "디지틀조선일보 | 'HARFKO 2026' AIDC 냉각 판 바꾼다...슈나이더 일렉트릭, HVAC 전용 드라이브 전격 공개",
+    "elec4 | 슈나이더 일렉트릭, ‘HARFKO 2026’에서 HVAC·AI 데이터센터 통합 솔루션 선보여",
+    "비즈트리뷴 | 귀뚜라미그룹, HARFKO 2026 참가… AI 데이터센터 냉각·친환경 공조 기술 공개"
+   ],
+   "score": 10
+  },
+  {
+   "term": "K-PATH 2026",
+   "norm": "kpath2026",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "AI라이프경제",
+    "BI KOREA",
+    "NSP통신",
+    "The PR 더피알",
+    "https://www.moneystorm.kr/",
+    "뉴스드림",
+    "뉴스포스트",
+    "더팩트"
+   ],
+   "days": 3,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "AI라이프경제(10-20) | [AI 산업] KT, ‘K-PATH 2026’서 피지컬·에이전틱 AI 스타트업 AX 사업화 성과 공개",
+    "서울경제TV(10-20) | KT, AI 스타트업과 손잡고 AX 사업 가속…‘K-PATH 2026’ 개최",
+    "아주경제(10-20) | KT, K-PATH 2026 행사서 AI 스타트업 협업 사례 공개",
+    "BI KOREA | KT, ‘K-PATH 2026’ 개최"
+   ],
+   "score": 9
+  }
+ ]
+}

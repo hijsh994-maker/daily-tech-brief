@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-22 09:00:19 KST === 
+Message TS: 1792627219.335689
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-22 · 10건)
+*1. [:office: Enterprise AI] <https://www.etnews.com/20261021000255|와이즈넛, '멀티모달 RAG' 기술 고도화…4개 분야 현장 활용성 검증>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261021000290|[AX 베스트 프랙티스] 코난테크놀로지, 공공서 검증한 '일하는 AI' 국방·제조로 확산>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://openai.com/index/scaling-ai-research-for-complex-biological-data|수천 명의 AI 에이전트를 사용하여 생물학적 데이터의 새로운 잠재 고객 발굴>* (OpenAI News &amp; Research)
+*4. [:rocket: BigTech Release] <https://openai.com/index/att-legal|AT&amp;T가 OpenAI와 사내 법률 업무를 재고하는 방법>* (OpenAI News &amp; Research)
+*5. [:rocket: BigTech Release] <https://openai.com/index/openai-models-google-cloud|OpenAI 모델이 Google Cloud에 출시됩니다>* (OpenAI News &amp; Research)
+*6. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/|Strands 에이전트를 사용하는 적응형 에이전트 인텔리전스 프레임워크>* (AWS Machine Learning Blog)
+*7. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/|While Amazon blocks AI agents, Walmart rolls out the welcome mat>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/|PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://openai.com/index/broad-access-through-consistent-standards|일관된 표준을 통한 폭넓은 액세스>* (OpenAI News &amp; Research)
+*10. [:rocket: BigTech Release] <https://openai.com/index/building-chatgpt-ad-stack|사용자 신뢰와 관련성을 위해 ChatGPT의 새로운 광고 스택을 구축한 방법>* (OpenAI News &amp; Research)

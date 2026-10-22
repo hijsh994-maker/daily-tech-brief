@@ -1,0 +1,37 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-22 09:33:40 KST === 
+Message TS: 1792629220.142249
+_[텔레그램 로그 2026-10-22] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 12개 항목 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 앤트로픽, 알아서 일하는 AI 비서 '클로드 듀엣' 전격 공개 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/news/articleView.html?idxno=709007|digitaltoday.co.kr/news/articleView.html?idxno=709007>
+2. 앤트로픽, 이르면 23일 IPO 서류 공개…AI 지출 우려 속 상장 시동 (SBS Biz)
+o 링크: <https://biz.sbs.co.kr/article/20000341445|biz.sbs.co.kr/article/20000341445>
+3. Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security (Unite.AI)
+o 링크: <https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security/|unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security>
+4. 오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=216500|aitimes.com/news/articleView.html?idxno=216500>
+5. 谷歌停止在数据中心项目中使用保密协议 (新浪网)
+o 링크: <https://k.sina.cn/article_5953740931_162dee083067042r50.html|k.sina.cn/article_5953…>
+6. Google Cloud's First NVIDIA Vera Rubin A5X Instances Go Live (Unite.AI)
+o 링크: <https://www.unite.ai/google-clouds-first-nvidia-vera-rubin-a5x-instances-go-live/|unite.ai/google-clouds-first-nvidia-vera-rubin-a5x-instances-go-live>
+7. 엔비디아, 모듈러 컨테이너 'DSX POD' 공개…"AI 인프라 구축 시간 단축" (아이티데일리)
+o 링크: <https://www.itdaily.kr/news/articleView.html?idxno=242342|itdaily.kr/news/articleView.html?idxno=242342>
+8. 美법원 "메타, 33조원 지급하라"…개인정보 기만 책임 인정 (이데일리)
+o 링크: <https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01256246645615544|edaily.co.kr/News/Read?newsId=01256246645615544&mediaCodeNo=257>
+9. 메타, 3분기 매출 26% 증가…사상 최대 실적 (이데일리)
+o 링크: <https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01912246645615544|edaily.co.kr/News/Read?newsId=01912246645615544&mediaCodeNo=257>
+10. 웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=216499|aitimes.com/news/articleView.html?idxno=216499>
+11. SpaceX提供員工20%額外薪資協助讓孟菲斯超級電腦上線 (Business Insider Taiwan)
+o 링크: <https://www.businessinsider.tw/article/8628|businessinsider.tw/article/8628>
+12. Palantir Accelerates Delivery of Sovereign AI to New Wave of Customers (Business Wire)
+o 링크: <https://www.financialcontent.com/article/bizwire-2026-10-21-palantir-accelerates-delivery-of-sovereign-ai-to-new-wave-of-customers|financialcontent.com/article/bizwire-2026-10-21-palantir-accelerates-delivery-of-sovereign-ai-to-new-wave-of-customers>
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-22 09:19:29 KST === 
+Message TS: 1792628369.242609
+
+Files: [2026년 10월 22일] 조간 뉴스 클리핑 (ID: F0CB59A5H5G, text/html, 43.4 KB)
