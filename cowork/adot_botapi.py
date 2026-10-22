@@ -120,6 +120,8 @@ def main():
         if when.date() != today:
             continue
         text = m.get("text") or m.get("caption") or ""
+        if not text.strip():
+            continue  # 멤버 추가·고정 같은 서비스 메시지(본문 없음)는 건너뛴다 (10-22 실측: 봇 추가 알림)
         msgs.append((when, render(text, m.get("entities") or m.get("caption_entities"))))
     msgs.sort()
     now = dt.datetime.now(KST).isoformat(timespec="seconds")
