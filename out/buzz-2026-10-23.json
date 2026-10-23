@@ -1,0 +1,454 @@
+{
+ "date": "2026-10-23",
+ "terms": [
+  {
+   "term": "트레이스위브",
+   "norm": "트레이스위브",
+   "n_outlets": 25,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "Chosunbiz",
+    "Navercorp",
+    "SBS Biz",
+    "뉴스1",
+    "뉴시스",
+    "더테크",
+    "데일리한국"
+   ],
+   "days": 3,
+   "first": "2026-10-21",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "아시아투데이(10-21) | 네이버 D2SF, 온디바이스 AI 스타트업 ‘트레이스위브’에 투자",
+    "현대경제(10-21) | 기업가치 300억 평가받은 AI 신생기업…네이버가 ‘트레이스위브’에 투자한 이유",
+    "이데일리(10-21) | 네이버 D2SF, 온디바이스 AI ‘트레이스위브’ 투자…시드 30억원 조달",
+    "한국클라우드신문 | 네이버 D2SF, 온디바이스 AI 스타트업 '트레이스위브'에 투자"
+   ],
+   "score": 17
+  },
+  {
+   "term": "Claude Duet",
+   "norm": "claudeduet",
+   "n_outlets": 48,
+   "n_today": 25,
+   "outlets": [
+    "24/7 Wall St.",
+    "9to5Google",
+    "9to5Mac",
+    "ASO World",
+    "Anadolu Ajansı",
+    "Android Central",
+    "Android Headlines",
+    "Barron's"
+   ],
+   "days": 2,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The New York Times(10-22) | Anthropic Joins the A.I. Agent Race With Claude Duet",
+    "CNBC(10-22) | Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse,",
+    "Reuters(10-22) | Anthropic unveils Claude Duet AI agent app",
+    "ASO World | Claude Duet 출시: OpenAI Dots와 Meta Muse에 맞서는 Anthropic의 선제적 AI 에이전트 경쟁 합류",
+    "Barron's | How Anthropic’s Claude Duet Differs From Meta Muse in the AI Agent Race",
+    "The American Bazaar | Anthropic’s new AI agent Claude Duet can work while users are away"
+   ],
+   "score": 13
+  },
+  {
+   "term": "런메이트 캠프",
+   "norm": "런메이트캠프",
+   "n_outlets": 29,
+   "n_today": 2,
+   "outlets": [
+    "CNB뉴스",
+    "ER 이코노믹리뷰",
+    "SK텔레콤 뉴스룸",
+    "SR타임스",
+    "www.fetv.co.kr",
+    "글로벌뉴스통신GNA",
+    "글로벌에픽",
+    "나눔경제뉴스"
+   ],
+   "days": 3,
+   "first": "2026-10-21",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "SK텔레콤 뉴스룸(10-21) | SKT, 러너 위한 체험 공간 ‘런메이트 캠프’ 연다",
+    "브릿지경제(10-21) | SKT, 러너 위한 체험 공간 ‘런메이트 캠프' 개최",
+    "뉴스핌(10-21) | SKT, 성수서 '런메이트 캠프' 운영...AI로 러닝 자세 분석",
+    "엠투데이 | SK텔레콤, AI로 러닝 자세 분석한다⋯성수동에 ‘런메이트 캠프’ 운영",
+    "이슈밸리 | SKT, 러너 위한 체험 공간 '런메이트 캠프' 운영"
+   ],
+   "score": 13
+  },
+  {
+   "term": "SentinelOne",
+   "norm": "sentinelone",
+   "n_outlets": 11,
+   "n_today": 5,
+   "outlets": [
+    "CRN",
+    "Channel Dive",
+    "Channel Insider",
+    "Investing.com",
+    "Investing.com Nigeria",
+    "Investing.com 한국어",
+    "OpenAI",
+    "SecurityBrief Australia"
+   ],
+   "days": 3,
+   "first": "2026-10-15",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "OpenAI(10-15) | SentinelOne cuts malware analysis from weeks to hours",
+    "Investing.com 한국어(10-22) | SentinelOne, AI 에이전트 보안 탐지 플랫폼 출시",
+    "Investing.com 한국어(10-22) | SentinelOne, OneCon 2026서 AI 에이전트 보안 제품 공개",
+    "Utilities Middle East | Moro Hub and SentinelOne partner on sovereign AI security",
+    "Channel Dive | SentinelOne unveils AI security partner certifications",
+    "CRN | SentinelOne’s AI Security Surge Driving ‘Separation’ From The Pack: Partners"
+   ],
+   "score": 13
+  },
+  {
+   "term": "PHP2Shell",
+   "norm": "php2shell",
+   "n_outlets": 7,
+   "n_today": 6,
+   "outlets": [
+    "HN",
+    "SECURITY.COM",
+    "SiliconANGLE",
+    "데이터넷",
+    "바이라인네트워크",
+    "보안뉴스",
+    "아이티데일리"
+   ],
+   "days": 2,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-22) | PHP2Shell: AI uncovers critical RCE in PHP",
+    "보안뉴스 | [PHP2Shell 파장] AI로 협력한 보안 업계, PHP 치명적 결함 발견에 핵심 역할",
+    "아이티데일리 | 스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "데이터넷 | PHP2Shell이 쏘아 올린 경고…“패치만으론 못 막는다, CTEM 필수”",
+    "바이라인네트워크 | 과기정통부, ‘PHP2Shell’ 취약점에 사이버위기 경보 ‘주의’ 격상",
+    "SECURITY.COM | PHP2Shell: Two Critical PHP Flaws Allow Unauthenticated Remote Code Execution"
+   ],
+   "score": 13
+  },
+  {
+   "term": "클로드 듀엣",
+   "norm": "클로드듀엣",
+   "n_outlets": 19,
+   "n_today": 17,
+   "outlets": [
+    "AI 매터스",
+    "AI넷",
+    "AI타임스",
+    "AI포스트",
+    "Investing.com 한국어",
+    "SBS Biz",
+    "TradingView",
+    "tier0"
+   ],
+   "days": 2,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "마켓인(10-22) | \"자리 비워도 일한다\"…앤스로픽 '클로드 듀엣', 메타 '뮤즈'에 맞불",
+    "TradingView(10-22) | 앤트로픽, ‘클로드 듀엣’ AI 에이전트 앱 공개",
+    "전자신문 | 앤트로픽도 AI 에이전트 경쟁 뛰어든다…'클로드 듀엣' 공개",
+    "Investing.com 한국어 | 앤트로픽 개인 AI 에이전트 경쟁 가세…’클로드 듀엣’ 공개 By EBN",
+    "SBS Biz | 앤트로픽, AI 에이전트 '클로드 듀엣' 공개…유료 구독자 대상",
+    "연합뉴스 | 메타·오픈AI 이어 앤트로픽도 AI에이전트 '클로드 듀엣' 공개"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Omnara",
+   "norm": "omnara",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-23",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Omnara – Open-source alternative to Claude Managed Agents"
+   ],
+   "score": 11
+  },
+  {
+   "term": "AX 혁신포럼",
+   "norm": "ax혁신포럼",
+   "n_outlets": 3,
+   "n_today": 3,
+   "outlets": [
+    "시사일보",
+    "청주일보",
+    "충북뉴스"
+   ],
+   "days": 1,
+   "first": "2026-10-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "청주일보 | 충북 청주시, AI 활용·기업 혁신 위한 ‘AX 혁신포럼’ 이달 30일 개최",
+    "시사일보 | 청주시, AI 활용·기업 혁신 위한 `AX 혁신포럼` 30일 개최",
+    "충북뉴스 | 청주시, 30일 문화제조창서 ‘AX 혁신포럼' 개최… 글로벌 AI 트렌드·기업 혁신사례 공유"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Blacksmith",
+   "norm": "blacksmith",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Fortune",
+    "SiliconANGLE"
+   ],
+   "days": 2,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Fortune(10-22) | Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-wr",
+    "SiliconANGLE | Code testing startup Blacksmith becomes a unicorn after raising $66M in Series C"
+   ],
+   "score": 8
+  },
+  {
+   "term": "KeyBanc",
+   "norm": "keybanc",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Investing.com 한국어"
+   ],
+   "days": 3,
+   "first": "2026-10-14",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-14) | KeyBanc, AI 모델 진전 주목하며 메타 ‘비중확대’ 의견 유지",
+    "Investing.com 한국어(10-20) | KeyBanc, 업그레이드 수요 우려에 애플 ‘비중 축소’ 유지 By Investing.com",
+    "Investing.com 한국어 | KeyBanc, AI 성장세에 메타 목표주가 905달러로 상향"
+   ],
+   "score": 8
+  },
+  {
+   "term": "WorldTUI",
+   "norm": "worldtui",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-23",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | WorldTUI: I trained a 360M model to pretend to be a terminal"
+   ],
+   "score": 7
+  },
+  {
+   "term": "OpenAI CLI",
+   "norm": "openaicli",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-23",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | OpenAI CLI"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "GTC Berlin",
+   "norm": "gtcberlin",
+   "n_outlets": 23,
+   "n_today": 9,
+   "outlets": [
+    "ASUS Pressroom",
+    "Analytics India Magazine",
+    "BigGo Finance",
+    "BusinessMole",
+    "Crypto Briefing",
+    "Diginomica",
+    "Google Cloud",
+    "HPCwire"
+   ],
+   "days": 5,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "NVIDIA Blog(10-14) | NVIDIA Lands in Europe for GTC Berlin",
+    "NVIDIA Blog(10-15) | NVIDIA Lands in Europe for GTC Berlin",
+    "Konsulteer(10-20) | NVIDIA’s GTC Berlin Opens as Germany Advances AI Partnership and European Invest",
+    "News-Press NOW | Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin, Delivering Enterprise",
+    "Konsulteer | Polarise Launches Sovereign AI Cloud With NVIDIA Infrastructure at GTC Berlin",
+    "notichile | Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Microsoft Pulls Out",
+   "norm": "microsoftpullsout",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "95 KQDS",
+    "BBN Times",
+    "BigGo Finance",
+    "Channel Insider",
+    "Computing UK",
+    "Data Center Dynamics",
+    "Devdiscourse",
+    "Euronext Markets: Real-time Stock Market Data | live"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TIKR.com(10-20) | Microsoft Pulls Out Of UK Data Center Deal With Nscale",
+    "Channel Insider(10-20) | Microsoft Pulls Out of Nscale’s UK AI Data Center Project Over Grid Delays",
+    "WSJ(10-20) | Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues",
+    "BBN Times | Microsoft Pulls Out of Nscale Data Center Deal: A Major Setback for Britain's AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "HARFKO",
+   "norm": "harfko",
+   "n_outlets": 11,
+   "n_today": 2,
+   "outlets": [
+    "Chosunbiz",
+    "elec4",
+    "데이터넷",
+    "디지털데일리",
+    "디지틀조선일보",
+    "비즈트리뷴",
+    "산업종합저널",
+    "에이빙"
+   ],
+   "days": 5,
+   "first": "2026-10-15",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "테크데일리(10-15) | 슈나이더 일렉트릭, HARFKO 2026 참가... AI 데이터센터 냉각·전력 솔루션 공개",
+    "디지틀조선일보(10-15) | 슈나이더 일렉트릭, ‘HARFKO 2026’ 참가…HVAC·AI 데이터센터 대응하는 통합 솔루션 선보인다",
+    "데이터넷(10-15) | 슈나이더 일렉트릭, ‘HARFKO 2026’ 참가 ··· HVAC·AIDC 아우르는 통합 솔루션 소개",
+    "산업종합저널 | [산업 View] 슈나이더 일렉트릭, HARFKO서 공조 제어·데이터센터 냉각 기술 소개",
+    "에이빙 | 솔스티스어드밴스드머티리얼즈, HARFKO 2026서 저탄소 냉매 '솔스티스' 선보여… \"데이터센터 냉각 전환을 돕는다\"",
+    "산업종합저널 | LG전자, HARFKO서 AI 자율운전 시스템 에어컨 공개…데이터센터 냉각도 전시"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 웜",
+   "norm": "ai웜",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "www.itworld.co.kr",
+    "뉴시스",
+    "디지털투데이",
+    "바이라인네트워크",
+    "보안뉴스",
+    "블루밍비트",
+    "위키리크스한국"
+   ],
+   "days": 4,
+   "first": "2026-10-14",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "한국경제(10-14) | 스마트냉장고·TV 노리는 ‘AI 웜’…앤트로픽, 새 사이버 위협 경고",
+    "블루밍비트(10-14) | 앤스로픽 \"AI 웜, 기기 간 스스로 확산 가능…비트코인 지갑도 위협\"",
+    "뉴시스(10-15) | 가전 옮겨 다니며 스스로 복제…전력·금융 마비시키는 'AI 웜' 공포",
+    "위키리크스한국 | [인공지능 줌인] 앤트로픽이 경고하는 스마트 TV 보안 위험…‘AI 웜’이 뭐길래?"
+   ],
+   "score": 10
+  },
+  {
+   "term": "COBOL",
+   "norm": "cobol",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "Crypto Briefing",
+    "Engadget",
+    "FourWeekMBA",
+    "MIXED Reality News",
+    "Tech Times",
+    "Tech in Asia",
+    "The Decoder",
+    "quasa.io"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(10-20) | OpenAI upgrades its model for COBOL, Fortran, and other legacy code",
+    "Tech in Asia(10-20) | OpenAI says new models improve COBOL, Fortran work",
+    "FourWeekMBA(10-20) | OpenAI’s COBOL Test: GPT-6.1 Sol Scores 86.6%, Up From 5.4%",
+    "quasa.io | GPT-6 Astra 87.4% 평가와 COBOL 현대화 검증"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Rosalind",
+   "norm": "rosalind",
+   "n_outlets": 8,
+   "n_today": 2,
+   "outlets": [
+    "EdTech Innovation Hub",
+    "Kingy AI",
+    "MIXED Reality News",
+    "OrcaRouter",
+    "Quasa.io",
+    "R&D World",
+    "Unite.AI",
+    "워크투데이"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "MIXED Reality News(10-20) | OpenAI gives US university labs 30 free seats, and gates GPT-Rosalind on top",
+    "Unite.AI(10-21) | OpenAI Acquires Orchestra Bio to Expand Rosalind Life Sciences Tools",
+    "Quasa.io(10-21) | GPT-Rosalind: Free Seats for Approved US Labs, No API Credits",
+    "OrcaRouter | GPT-Rosalind vs Qwen 4 Max: 토큰이 아닌 에이전트당 비용",
+    "EdTech Innovation Hub | OpenAI offers university labs free GPT-Rosalind access | ETIH EdTech News"
+   ],
+   "score": 10
+  }
+ ]
+}

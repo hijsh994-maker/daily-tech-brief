@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-23 09:00:21 KST === 
+Message TS: 1792713621.995669
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-23 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261022000380|한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261023000003|앤트로픽도 AI 에이전트 경쟁 뛰어든다…'클로드 듀엣' 공개>* (전자신문 (AI))
+*3. [:rocket: BigTech Release] <https://www.etnews.com/20261022000325|[단독] SK텔레콤, 하이닉스 AI협력 전담 'Hy-TF' 가동...TF장에 유경상 CIC장>* (전자신문 (AI))
+*4. [:office: Enterprise AI] <https://www.etnews.com/20261022000106|오픈AI, 구글 클라우드 기반 기업용 AI 모델·에이전트 지원>* (전자신문 (AI))
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/|Amazon SageMaker AI에서 Kokoro TTS를 사용하여 AI 상담원의 짧은 대기 시간 음성 스트리밍>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/|1Password launches a way for AI agents to log in on your behalf without seeing your password>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/|OpenAI working on new $30B raise at $1.25T valuation ahead of IPO>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/|OpenAI makes its Jev competitor widely available as decision model competition heats up>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/|Former OpenAI science lead launches Warp Science to automate wet labs with robots>* (TechCrunch)
+*10. [:robot_face: AI Agent] <https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/|Flint-interactive: 대화형 데이터 시각화를 생성하기 위한 언어>* (Microsoft Research Blog)

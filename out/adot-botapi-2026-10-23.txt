@@ -1,0 +1,6 @@
+DATE=2026-10-23
+SOURCE=telegram-bot-api(channel_post)
+FETCHED_AT=2026-10-23T09:52:25+09:00
+COUNT=0
+=====MSG=====
+NO_MESSAGES

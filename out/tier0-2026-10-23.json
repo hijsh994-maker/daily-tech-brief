@@ -1,0 +1,357 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T09:55:05",
+ "counts": {
+  "slack": 10,
+  "samsung": 12,
+  "adot": 0
+ },
+ "warnings": [
+  "[정상] 'samsung' 0건 - 신 형식은 `run.sh samsung-slack` 이 맡습니다(09-15 전환). tier0 뒤에 그 명령을 잊지 마세요",
+  "[포맷변경] 'adot' 헤더는 있으나 0건 파싱됨. 로그 포맷이 바뀌었을 수 있음 - 파서 점검 필요"
+ ],
+ "items": [
+  {
+   "src": "slack",
+   "title": "한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20261022000380",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://www.etnews.com/20261022000380",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "앤트로픽도 AI 에이전트 경쟁 뛰어든다…'클로드 듀엣' 공개",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20261023000003",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://www.etnews.com/20261023000003",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "[단독] SK텔레콤, 하이닉스 AI협력 전담 'Hy-TF' 가동...TF장에 유경상 CIC장",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20261022000325",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://www.etnews.com/20261022000325",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "오픈AI, 구글 클라우드 기반 기업용 AI 모델·에이전트 지원",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.etnews.com/20261022000106",
+   "url_via": "naver",
+   "confidence": "auto",
+   "portal_link": "https://www.etnews.com/20261022000106",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "Amazon SageMaker AI에서 Kokoro TTS를 사용하여 AI 상담원의 짧은 대기 시간 음성 스트리밍",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
+   "url_via": "orig_link",
+   "confidence": "orig_link",
+   "portal_link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://tech.yahoo.com/cybersecurity/articles/1password-launches-way-ai-agents-190709978.html",
+   "url_via": "webkr",
+   "confidence": "auto",
+   "portal_link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "url_via": "orig_link",
+   "confidence": "orig_link",
+   "portal_link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "url_via": "webkr",
+   "confidence": "auto",
+   "portal_link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "url_via": "webkr",
+   "confidence": "auto",
+   "portal_link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "slack",
+   "title": "Flint-interactive: 대화형 데이터 시각화를 생성하기 위한 언어",
+   "outlet": null,
+   "pub_date": null,
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "url_via": "orig_link",
+   "confidence": "orig_link",
+   "portal_link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "seen_in": [
+    "slack"
+   ]
+  },
+  {
+   "src": "samsung",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "outlet": "TechCrunch",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "OpenAI Makes Decisions API Generally Available with GPT-6 Luna",
+   "outlet": "Unite.AI",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Uber gives more than 30,000 staff OpenAI's ChatGPT Work agent",
+   "outlet": "The Next Web",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://thenextweb.com/news/uber-chatgpt-work-30000-employees",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
+   "outlet": "KSL.com",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.ksl.com/article/51639721/external-evaluators-find-flaws-in-openais-ai-monitoring-system-in-pilot-review",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "ICBA, OpenAI Announce Strategic Alliance to Bring Frontier AI Cybersecurity Capabilities to Community Banks",
+   "outlet": "ICBA",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.icba.org/w/icba-openai-announce-strategic-alliance",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Musk Invests $1 Billion In Skydance As It Stares Down High Debt After WBD Acquisition",
+   "outlet": "Forbes",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/22/musk-invests-1-billion-in-skydance-as-it-stares-down-high-debt-after-wbd-acquisition/",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "SpaceXSI Opens a Partner Network to Push Grok Into Big Business",
+   "outlet": "Tesla North",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://teslanorth.com/2026/10/22/spacexsi-partner-network-grok/",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Expanding Claude availability and deployment choice on Google Cloud",
+   "outlet": "Google Cloud Blog",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Google funds a 1GW virtual power plant with Voltus on the PJM grid",
+   "outlet": "The Next Web",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://thenextweb.com/news/google-voltus-1gw-virtual-power-plant-pjm",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Datadog Reportedly Bids Nearly $4B For Cloud Security Startup Upwind To Fortify AI Defenses",
+   "outlet": "Yahoo Finance",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://finance.yahoo.com/technology/ai/articles/datadog-reportedly-bids-nearly-4b-195339717.html",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "Canva Debuts Craft Image Model Built by Its In-House Research Lab",
+   "outlet": "Unite.AI",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.unite.ai/canva-debuts-craft-image-model-built-by-its-in-house-research-lab/",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  },
+  {
+   "src": "samsung",
+   "title": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+   "outlet": "The Star",
+   "pub_date": "2026-10-23",
+   "cluster": 1,
+   "topic": null,
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports",
+   "url_via": "mail",
+   "confidence": "auto",
+   "seen_in": [
+    "samsung"
+   ],
+   "summary": null,
+   "page": null
+  }
+ ]
+}
