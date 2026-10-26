@@ -300,6 +300,13 @@ adot-bot)
   [ $rc -eq 0 ] || exit $rc
   python3 "$MNT/cowork/adot_latest.py" --date "$DATE" --file "$F" --mnt "$MNT" --work "$W" ;;
 
+samsung-tme)
+  # [2026-10-26 신설] ② 삼성 글로벌 AI/SW 텔레그램 — 다이제스트 ■ 항목 + 개별 뉴스 메시지(다이제스트 외)를 함께 뽑는다.
+  #   사용자: "다이제스트 말고 다른 메세지에도 뉴스들이 있다 … 같이 가져오면 좋겠다, 링크는 니가 찾아야해"
+  #   결과: cowork/raw/samsung-tme-<날짜>.md(.json). 종료코드 0 있음 / 2 둘 다 없음 / 1 받기 실패.
+  #     bash cowork/run.sh samsung-tme [--date YYYY-MM-DD]
+  shift; python3 "$MNT/cowork/samsung_tme.py" --date "$DATE" "$@" ;;
+
 rfp-fetch)
   # [2026-10-22 신설] 국책과제 ① 수집 — 과기정통부·IITP·IRIS 공고(목록·본문·첨부 텍스트)를 이 서버에서 직접 받는다.
   #   사용자 지시: GitHub Actions(ai-rfp-fetch) 없이, 다른 작업 결과를 읽지 말고 직접 확인할 것.
