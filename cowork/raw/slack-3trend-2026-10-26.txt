@@ -1,0 +1,18 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-26 09:00:26 KST === 
+Message TS: 1792972826.972439
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-26 · 13건)
+*1. [:shield: Agent Infra] <https://www.etnews.com/20261023000195|센티넬원, AI 위협 탐지 역량 1년 새 23배↑…“방어에도 AI 적극 활용”>* (전자신문 (AI))
+*2. [:rocket: BigTech Release] <https://www.etnews.com/20261023000282|카드사 '에이전트 커머스' 시대 연다…내년 에이전트 페이 출시>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.etnews.com/20261026000002|플래티어, 폐쇄망 대응 테스트 관리 솔루션 'XGEN TMS' 출시…AI 기반 품질관리 시장 선도>* (전자신문 (AI))
+*4. [:robot_face: AI Agent] <https://www.etnews.com/20261023000154|[AI 세이프가드] ⑤ 좌담회 - “AI 안전은 산업 경쟁력 결정 요소”…'안전한 가속' 주문>* (전자신문 (AI))
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/|Bayer Crop Science가 AWS 통합 운영을 통해 Amazon Bedrock AgentCore에서 에이전트 의사 결정 엔진을 구축한 방법>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/|Here are the top AI agents that can live in your text messages>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/|Block’s new voice model sounds eerily human>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/|Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/|OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”>* (TechCrunch)
+*10. [:rocket: BigTech Release] <https://openai.com/index/scaling-storage-one-billion-users-part-two|10억 명 이상의 ChatGPT 사용자에게 서비스를 제공하기 위해 온라인 스토리지를 빠르게 확장 (파트 II)>* (OpenAI News &amp; Research)
+*11. [:rocket: BigTech Release] <https://openai.com/index/securing-our-frontier-model-training-environment|프론티어 모델 교육 환경 확보>* (OpenAI News &amp; Research)
+*12. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/|TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now>* (TechCrunch)
+*13. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/|The AI graveyard: a running list of projects and startups that didn’t make it>* (TechCrunch)

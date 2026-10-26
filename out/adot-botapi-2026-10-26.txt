@@ -1,0 +1,10 @@
+DATE=2026-10-26
+SOURCE=telegram-bot-api(channel_post)
+FETCHED_AT=2026-10-26T09:52:09+09:00
+COUNT=2
+=====MSG=====
+TIME=08:54
+/info
+=====MSG=====
+TIME=09:05
+/start@getidsbot

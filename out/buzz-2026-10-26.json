@@ -1,0 +1,467 @@
+{
+ "date": "2026-10-26",
+ "terms": [
+  {
+   "term": "Flint",
+   "norm": "flint",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "Buttondown",
+    "Crypto Briefing",
+    "HuggingFace",
+    "MarkTechPost",
+    "OrcaRouter",
+    "Tech Times",
+    "TechCrunch",
+    "https://tech-insider.org/"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "TechCrunch(10-22) | Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "https://tech-insider.org/(10-22) | Flint AI Coding Model Hits 89.7% on SWE-Bench [2026]",
+    "MarkTechPost(10-22) | Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents w",
+    "OrcaRouter | Flint v1.0 vs North Mini Code: 어떤 것이 당신의 노트북에 맞을까"
+   ],
+   "score": 18
+  },
+  {
+   "term": "Claude Duet",
+   "norm": "claudeduet",
+   "n_outlets": 53,
+   "n_today": 6,
+   "outlets": [
+    "24/7 Wall St.",
+    "9to5Google",
+    "9to5Mac",
+    "ASO World",
+    "Anadolu Ajansı",
+    "Android Central",
+    "Android Headlines",
+    "Barron's"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The New York Times(10-22) | Anthropic Joins the A.I. Agent Race With Claude Duet",
+    "CNBC(10-22) | Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse,",
+    "Reuters(10-22) | Anthropic unveils Claude Duet AI agent app",
+    "CBS News | Anthropic debuts Claude Duet personal AI agent. Here's what to know.",
+    "Basic Tutorials | Claude Duet: Anthropic’s Proactive AI Agent for the Job",
+    "Computerworld | Anthropic targets Muse and Dots with new AI agent, Claude Duet"
+   ],
+   "score": 14
+  },
+  {
+   "term": "PHP2Shell",
+   "norm": "php2shell",
+   "n_outlets": 8,
+   "n_today": 3,
+   "outlets": [
+    "AI 매터스",
+    "HN",
+    "SECURITY.COM",
+    "데이터넷",
+    "디지털데일리",
+    "바이라인네트워크",
+    "보안뉴스",
+    "아이티데일리"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-22) | PHP2Shell: AI uncovers critical RCE in PHP",
+    "보안뉴스(10-23) | [PHP2Shell 파장] AI로 협력한 보안 업계, PHP 치명적 결함 발견에 핵심 역할",
+    "아이티데일리(10-23) | 스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "보안뉴스 | [PHP 파장] 패치 하루 만에 움직인 北 해커?... AI로 ‘PHP2Shell’ 무기화해 韓 정부·금융 노린다",
+    "AI 매터스 | ‘PHP2Shell’ 취약점에 “딥시크가 원격 패치” 주장 확산…근거는 확인 안 돼",
+    "디지털데일리 | 별도 환경 없이 URL로 점검…로그프레소, 'PHP2Shell 스캐너' 공개"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Microduck",
+   "norm": "microduck",
+   "n_outlets": 4,
+   "n_today": 3,
+   "outlets": [
+    "BigGo Finance",
+    "Hindustan Herald",
+    "NVIDIA Developer",
+    "TechCrunch"
+   ],
+   "days": 2,
+   "first": "2026-10-23",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Hindustan Herald(10-23) | Microduck: Tiny Robot’s Stunning AI Leap at NVIDIA GTC",
+    "NVIDIA Developer | Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Te",
+    "TechCrunch | Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0",
+    "BigGo Finance | Nvidia's $399 Microduck Robot Duck Surpasses 20,000 Preorders After Viral GTC Be"
+   ],
+   "score": 14
+  },
+  {
+   "term": "클로드 듀엣",
+   "norm": "클로드듀엣",
+   "n_outlets": 27,
+   "n_today": 11,
+   "outlets": [
+    "AI 매터스",
+    "AI넷",
+    "AI타임스",
+    "AI포스트",
+    "Investing.com 한국어",
+    "SBS Biz",
+    "SDG뉴스",
+    "TradingView"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "마켓인(10-22) | \"자리 비워도 일한다\"…앤스로픽 '클로드 듀엣', 메타 '뮤즈'에 맞불",
+    "TradingView(10-22) | 앤트로픽, ‘클로드 듀엣’ AI 에이전트 앱 공개",
+    "전자신문(10-23) | 앤트로픽도 AI 에이전트 경쟁 뛰어든다…'클로드 듀엣' 공개",
+    "SDG뉴스 | [SDG 9] 앤트로픽, AI 에이전트 ‘클로드 듀엣’ 공개…오픈AI·메타와 ‘디지털 비서 전쟁’ 본격화",
+    "굿모닝경제 | [굿모닝! AI 리포트] 앤트로픽, AI 에이전트 '클로드 듀엣' 선봬…오픈AI, 구글 클라우드에 AI 모델 제공",
+    "한겨레 | 치열한 ‘AI 비서’ 경쟁, 앤트로픽도 가세…오퍼스5.5 기반 ‘클로드 듀엣’ 공개"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Blacksmith",
+   "norm": "blacksmith",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "AI Insider",
+    "Fortune",
+    "Indian Startup News"
+   ],
+   "days": 2,
+   "first": "2026-10-22",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Fortune(10-22) | Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-wr",
+    "AI Insider | Blacksmith Reaches $1B Valuation With Sequoia-Led Series C as AI Code Volumes Su",
+    "Indian Startup News | AI code testing startup Blacksmith raises $66 million at $1 billion valuation"
+   ],
+   "score": 13
+  },
+  {
+   "term": "보디가드 로봇",
+   "norm": "보디가드로봇",
+   "n_outlets": 11,
+   "n_today": 5,
+   "outlets": [
+    "CBC뉴스",
+    "KBS 뉴스",
+    "Record China",
+    "YTN",
+    "뉴스1",
+    "뉴시스",
+    "데일리안",
+    "머니투데이"
+   ],
+   "days": 2,
+   "first": "2026-10-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "연합뉴스(10-23) | 유니트리, '보디가드 로봇' 공개…괴한 막고 4m 높이서 점프",
+    "머니투데이(10-23) | \"사람 지키고 자동차 번쩍\"…中 유니트리, '보디가드 로봇' 공개 [IT썰] - 머니투데이",
+    "KBS 뉴스(10-23) | 흉기 든 괴한에 돌려차기…中 ‘보디가드 로봇’ 등장 [현장영상]",
+    "재경일보 | 중 유니트리, 보디가드 로봇 영상 공개 : 테크/과학",
+    "천지일보 | [천지TV 쇼츠] 괴한에 ‘날아차기’하고 차 문 부수고… 中 ‘보디가드 로봇’ 등장",
+    "데일리안 | [영상] 칼 든 괴한 제압하고 사람 구출까지...中 '보디가드 로봇' 화제"
+   ],
+   "score": 12
+  },
+  {
+   "term": "AX 혁신포럼",
+   "norm": "ax혁신포럼",
+   "n_outlets": 6,
+   "n_today": 3,
+   "outlets": [
+    "금강일보",
+    "뉴시스",
+    "시사일보",
+    "연합뉴스",
+    "청주일보",
+    "충북뉴스"
+   ],
+   "days": 2,
+   "first": "2026-10-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "청주일보(10-23) | 충북 청주시, AI 활용·기업 혁신 위한 ‘AX 혁신포럼’ 이달 30일 개최",
+    "시사일보(10-23) | 청주시, AI 활용·기업 혁신 위한 `AX 혁신포럼` 30일 개최",
+    "충북뉴스(10-23) | 청주시, 30일 문화제조창서 ‘AX 혁신포럼' 개최… 글로벌 AI 트렌드·기업 혁신사례 공유",
+    "연합뉴스 | [청주소식] 이달 30일 청주서 'AX 혁신포럼'",
+    "금강일보 | 청주시, AI 활용·기업 혁신 위한 ‘AX 혁신포럼’ 30일 개최",
+    "뉴시스 | [청주소식]충북도·청주시 30일 'AX 혁신포럼' 개최 등"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Dessa",
+   "norm": "dessa",
+   "n_outlets": 5,
+   "n_today": 5,
+   "outlets": [
+    "AI Insider",
+    "GeekNews",
+    "HN",
+    "OrcaRouter",
+    "토큰포스트"
+   ],
+   "days": 1,
+   "first": "2026-10-26",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews | Dessa - 텍스트 없이 사람의 대화만 듣고 배운 실시간 음성 AI",
+    "OrcaRouter | Dessa vs Qwen3.8-Max: 가격표 없는 상대에 맞선 6달러 토큰",
+    "토큰포스트 | 블록, 음성만 학습한 AI ‘Dessa’ 연구 프리뷰 공개",
+    "AI Insider | Jack Dorsey’s Block Introduces Dessa, an Emotionally Expressive Voice AI That Ru",
+    "HN | Dessa: Conversation Model trained only on speech"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Berkeley",
+   "norm": "berkeley",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Daily Cal",
+    "HN"
+   ],
+   "days": 2,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Daily Cal(10-20) | UC Berkeley math community left at crossroads in wake of OpenAI Navier-Stokes pr",
+    "HN | AI use leads UC Berkeley math professor to see 'no point' in grading homework"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Ras Al Khaimah",
+   "norm": "rasalkhaimah",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Moomoo",
+    "巴士的報"
+   ],
+   "days": 2,
+   "first": "2026-10-20",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "巴士的報(10-20) | Government of Ras Al Khaimah and UBTECH Robotics Sign Strategic MoU to Advance H",
+    "Moomoo | HK Stock Market Movement | Ubtech Robotics (09880) surges over 7% as company exp"
+   ],
+   "score": 8
+  },
+  {
+   "term": "CleanYourTV",
+   "norm": "cleanyourtv",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "PPC Land",
+    "Pasquale Pillitteri"
+   ],
+   "days": 2,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Pasquale Pillitteri(10-21) | cleanyourtv Arrives to Strip Ads From Your Smart TV With Claude Code",
+    "PPC Land | CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads"
+   ],
+   "score": 8
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Microsoft Pulls Out",
+   "norm": "microsoftpullsout",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "95 KQDS",
+    "BBN Times",
+    "BigGo Finance",
+    "Channel Insider",
+    "Computing UK",
+    "Data Center Dynamics",
+    "Devdiscourse",
+    "Euronext Markets: Real-time Stock Market Data | live"
+   ],
+   "days": 5,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TIKR.com(10-20) | Microsoft Pulls Out Of UK Data Center Deal With Nscale",
+    "Channel Insider(10-20) | Microsoft Pulls Out of Nscale’s UK AI Data Center Project Over Grid Delays",
+    "WSJ(10-20) | Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues",
+    "Channel Insider | Microsoft Pulls Out of Nscale’s UK AI Data Center Project Over Grid Delays"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OpenAI Acquires Orchestra Bio",
+   "norm": "openaiacquiresorchestrabio",
+   "n_outlets": 17,
+   "n_today": 1,
+   "outlets": [
+    "Blockchain News",
+    "Channel Insider",
+    "International Business Times, Singapore Edition",
+    "Investing.com",
+    "Kingy AI",
+    "Konsulteer",
+    "Mezha",
+    "Pulse 2.0"
+   ],
+   "days": 4,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com(10-21) | OpenAI acquires Orchestra Bio to boost drug development AI, Axios reports",
+    "Unite.AI(10-21) | OpenAI Acquires Orchestra Bio to Expand Rosalind Life Sciences Tools",
+    "TipRanks(10-21) | M&A News: OpenAI Acquires Orchestra Bio to Speed Up Drug Development with AI",
+    "hi-Tech.ua | OpenAI Acquires Orchestra Bio to Accelerate AI-Driven Drug Discovery"
+   ],
+   "score": 10
+  },
+  {
+   "term": "NVIDIA GTC Berlin",
+   "norm": "nvidiagtcberlin",
+   "n_outlets": 17,
+   "n_today": 4,
+   "outlets": [
+    "ASSETPHYSICS",
+    "ASUS Pressroom",
+    "Analytics India Magazine",
+    "Asia News Network",
+    "BusinessMole",
+    "Diginomica",
+    "EIN News",
+    "Google Cloud"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TradingKey(10-20) | Nvidia GTC Berlin Preview: Rubin Platform, AI Agents and European Sovereign Comp",
+    "PR Newswire(10-22) | Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical A",
+    "ASUS Pressroom(10-22) | ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVI",
+    "EIN News | VicOne Showcases Physical AI Cybersecurity at NVIDIA GTC Berlin",
+    "ASSETPHYSICS | AtechX start-up Bellboy Robotics continues successful development of Physical AI",
+    "Technische Logistik | TÜV SÜD and Accenture present the \"Physical AI Safety Suite\" at the NVIDIA GTC B"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Hunar",
+   "norm": "hunar",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "Business Connect Magazine",
+    "ET Entrepreneur",
+    "ETHRWorld.com",
+    "Entrackr",
+    "Entrepreneur India",
+    "Inc42",
+    "Indian Startup News"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "ETHRWorld.com(10-20) | Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management",
+    "ET Entrepreneur(10-20) | Hunar.AI raises ₹40 Cr series A funding led by Blume Ventures",
+    "Entrackr(10-20) | Exclusive: Hunar AI valuation jumps 71% in Series A round",
+    "ET Entrepreneur | Funding Wrap: The Pant Project, CureBay, Hunar AI raise fresh capital"
+   ],
+   "score": 10
+  },
+  {
+   "term": "하이퍼 파운드리",
+   "norm": "하이퍼파운드리",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "www.ebn.co.kr",
+    "데일리포스트",
+    "디지털투데이",
+    "로봇신문",
+    "머니투데이",
+    "스마트투데이",
+    "이데일리"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털투데이(10-20) | 빅웨이브로보틱스, 피지컬 AI 통합 개발 플랫폼 '하이퍼 파운드리' 출시",
+    "AI타임스(10-20) | 빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 '하이퍼 파운드리' 공개",
+    "스마트투데이(10-20) | 빅웨이브로보틱스, 피지컬 AI 개발 플랫폼 하이퍼 파운드리 출시",
+    "머니투데이 | 빅웨이브로보틱스, 피지컬 AI 기술 포럼 개최…'하이퍼 파운드리' 시연 - 머니투데이"
+   ],
+   "score": 10
+  },
+  {
+   "term": "COBOL",
+   "norm": "cobol",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "Crypto Briefing",
+    "Engadget",
+    "FourWeekMBA",
+    "MIXED Reality News",
+    "Online Tech Tips",
+    "Tech Times",
+    "Tech in Asia",
+    "The Decoder"
+   ],
+   "days": 5,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(10-20) | OpenAI upgrades its model for COBOL, Fortran, and other legacy code",
+    "Tech in Asia(10-20) | OpenAI says new models improve COBOL, Fortran work",
+    "FourWeekMBA(10-20) | OpenAI’s COBOL Test: GPT-6.1 Sol Scores 86.6%, Up From 5.4%",
+    "Online Tech Tips | OpenAI’s GPT-6.1 Sol shows dramatic improvements in legacy code migration includ"
+   ],
+   "score": 10
+  }
+ ]
+}
