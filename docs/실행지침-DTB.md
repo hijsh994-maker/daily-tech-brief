@@ -307,7 +307,7 @@ RAW
 그다음 `bash cowork/run.sh log` 를 돌린다.
 
 - **[2026-10-20] 클라우드 통합 작업에서는 에이닷비즈뉴스레터가 슬랙에 올라오지 않는다.**
-  통합 작업이 09:40 에 `run.sh adot-bot`(텔레그램 그룹 @dailytechbrief 를 발송 봇으로 직접 읽음, 10-22~)으로
+  통합 작업이 09:40 에 `run.sh adot-bot`(텔레그램 그룹 @dailytechbrief 를 발송 봇으로 직접 읽음, 10-22~ / **10-26~ 봇이 올린 뉴스레터는 t.me 임베드로 보탬**)으로
   `cowork/raw/adot-latest-<날짜>.txt` 를 만들어 두면, `run.sh log` 가 슬랙 메시지 대신 그 파일로
   에이닷 섹션을 채운다(출력의 `출처: latest.txt`). 그 파일이 없으면 종전대로 슬랙 메시지를 쓴다(PC 실행).
   #dtb-tier0 수집(slack-save tier0)은 삼성 검증본·사업공고 때문에 그대로 한다.

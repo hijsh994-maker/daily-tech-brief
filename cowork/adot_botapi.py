@@ -21,7 +21,8 @@
 비밀키(cowork/secrets.env): TELEGRAM_ADOT_BOT_TOKEN=<새 봇 토큰>  (선택) TELEGRAM_ADOT_CHAT_ID=-100…  TELEGRAM_ADOT_CHAT_TITLE=에이닷비즈뉴스레터
 출력 — adot-telegram-fetch 의 out/latest.txt 와 같은 형식(DATE/SOURCE/FETCHED_AT/COUNT + =====MSG=====/TIME=HH:MM + 본문).
        그대로 `run.sh adot-latest <파일>` 에 넘긴다(run.sh adot-bot 이 이어서 부른다).
-종료코드: 0 오늘자 메시지 있음 / 2 오늘자 없음(파일은 COUNT=0 으로 남김) / 1 토큰 없음·API 오류
+종료코드: 0 오늘자 메시지 있음 / 2 오늘자 없음(파일은 COUNT=0 으로 남김) / 1 토큰 없음·Bot API 와 임베드 둘 다 실패
+[10-26] 봇이 올린 뉴스레터는 Bot API 로 안 보인다 → adot_embed.py(t.me 임베드)로 보탠다. 봇 명령(/…)은 거른다.
 """
 import os, sys, json, datetime as dt, urllib.request, urllib.parse
 
@@ -85,7 +86,7 @@ def main():
     # 봇이 들어가 있는 다른 방(DTB 업로드 등)의 업데이트도 같은 큐에 쌓이므로 100건 넘게 밀릴 수 있다.
     # offset 으로 끝까지 넘기며 다 받는다(앞 페이지는 확인 처리돼 지워지지만, 오늘자 결과는
     # adot-latest 가 cowork/raw/ 에 파일로 남기므로 같은 날 재실행은 그 파일을 쓴다).
-    ups, offset = [], None
+    ups, offset, api_error = [], None, ""
     try:
         for _ in range(20):
             kw = dict(limit=100, timeout=0, allowed_updates=["channel_post", "message"])
@@ -97,13 +98,15 @@ def main():
                 break
             offset = page[-1]["update_id"] + 1
     except Exception as e:
-        print("[adot-bot] API 오류:", e); sys.exit(1)
+        # [10-26] Bot API 가 막혀도 임베드 경로(adot_embed)로 계속 시도한다.
+        print("[adot-bot] API 오류:", e, "-> 임베드 경로만으로 계속")
+        api_error = str(e)
     try:
         with open(out_path + ".updates.json", "w", encoding="utf-8") as f:
             json.dump(ups, f, ensure_ascii=False)
     except Exception:
         pass
-    msgs, titles = [], set()
+    msgs, titles, anchor = [], set(), 0
     for u in ups:
         m = u.get("channel_post") or u.get("message")
         if not m:
@@ -119,15 +122,34 @@ def main():
         when = dt.datetime.fromtimestamp(m["date"], KST)
         if when.date() != today:
             continue
+        anchor = max(anchor, int(m.get("message_id") or 0))
         text = m.get("text") or m.get("caption") or ""
         if not text.strip():
             continue  # 멤버 추가·고정 같은 서비스 메시지(본문 없음)는 건너뛴다 (10-22 실측: 봇 추가 알림)
-        msgs.append((when, render(text, m.get("entities") or m.get("caption_entities"))))
+        if text.lstrip().startswith("/"):
+            continue  # [10-26] 봇 명령(/info, /start@getidsbot)은 뉴스레터가 아니다
+        msgs.append((when, render(text, m.get("entities") or m.get("caption_entities")), int(m.get("message_id") or 0)))
+    n_bot = len(msgs)
+    # [10-26] 뉴스레터는 봇(@adotbiz_news_bot)이 올린다. Bot API 는 봇이 보낸 글을 다른 봇에게 주지 않으므로
+    # 공개 그룹의 메시지 임베드 페이지(t.me/<그룹>/<번호>?embed=1)로 앞뒤를 훑어 오늘자 글을 보탠다.
+    n_embed, embed_note = 0, ""
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import adot_embed
+        emsgs, emax, opened = adot_embed.collect(username, today, anchor)
+        have = {mid for _, _, mid in msgs if mid}
+        for when, body, mid in emsgs:
+            if mid not in have:
+                msgs.append((when, body, mid)); n_embed += 1
+        embed_note = f"임베드 {opened}쪽 열람·최대 번호 {emax}"
+    except Exception as e:
+        embed_note = f"임베드 실패: {e}"
+    print(f"[adot-bot] Bot API {n_bot}건 + 임베드 {n_embed}건 ({embed_note})")
     msgs.sort()
     now = dt.datetime.now(KST).isoformat(timespec="seconds")
-    lines = [f"DATE={today.isoformat()}", "SOURCE=telegram-bot-api(channel_post)", f"FETCHED_AT={now}", f"COUNT={len(msgs)}"]
+    lines = [f"DATE={today.isoformat()}", "SOURCE=telegram-bot-api+t.me-embed", f"FETCHED_AT={now}", f"COUNT={len(msgs)}"]
     if msgs:
-        for when, body in msgs:
+        for when, body, _mid in msgs:
             lines += ["=====MSG=====", f"TIME={when.strftime('%H:%M')}", body]
     else:
         lines += ["=====MSG=====", "NO_MESSAGES"]
@@ -135,7 +157,9 @@ def main():
         f.write("\n".join(lines) + "\n")
     print(f"[adot-bot] 업데이트 {len(ups)}건 / 채널 {sorted(titles) or '없음'} / 오늘자 메시지 {len(msgs)}건 -> {out_path}")
     if not msgs:
-        print("[adot-bot] 오늘자 글이 아직 없습니다(또는 봇이 채널 관리자가 아니어서 channel_post 를 못 받습니다)")
+        if api_error and "임베드 실패" in embed_note:
+            print("[adot-bot] Bot API·임베드 둘 다 실패"); sys.exit(1)
+        print("[adot-bot] 오늘자 글이 아직 없습니다(Bot API·임베드 모두 0건, 봇 명령은 제외)")
         sys.exit(2)
 
 

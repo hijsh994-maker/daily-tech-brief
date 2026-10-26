@@ -291,6 +291,9 @@ adot-bot)
   # [2026-10-22 신설] 에이닷비즈뉴스레터를 텔레그램 Bot API 로 직접 받아 adot-latest 에 넘긴다.
   #   전제: 채널 관리자가 전용 봇을 채널 관리자로 추가 + secrets.env 에 TELEGRAM_ADOT_BOT_TOKEN.
   #   종료코드는 adot-latest 와 같다(0 투입 완료 / 2 오늘자 없음 / 1 오류).
+  #   [2026-10-26] 뉴스레터는 봇(@adotbiz_news_bot)이 올려 Bot API 로 안 보인다 -> adot_botapi.py 가
+  #     cowork/adot_embed.py 로 t.me/dailytechbrief/<번호>?embed=1 을 훑어 보탠다(기준 번호 cowork/raw/adot-lastid.txt).
+  #     단독 점검: python3 cowork/adot_embed.py [--date YYYY-MM-DD]
   mkdir -p "$W/out"
   F="$W/out/adot-botapi-$DATE.txt"
   python3 "$MNT/cowork/adot_botapi.py" "$F"; rc=$?
