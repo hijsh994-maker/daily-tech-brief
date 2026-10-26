@@ -334,7 +334,37 @@ def fetch_msit(s, since):
     return items
 
 
+class SiteDown(Exception):
+    """사이트가 점검·서비스 중단 안내 페이지를 돌려줄 때. 재시도해도 소용없으므로 바로 대체 점검으로 넘긴다."""
+
+
+def _down_notice(r):
+    """응답이 점검 안내 페이지면 사람이 읽을 사유 문자열, 아니면 None.
+    [2026-10-26 실측] IITP 는 PHP2Shell 사이버 위기경보 '주의' 상향 뒤 대외서비스를 통째로 내리고
+    모든 주소에 HTTP 500 + '[안내]서비스 일시 중단 안내' 1KB 페이지를 준다(목록·API 둘 다)."""
+    ct = r.headers.get("content-type", "")
+    if r.status_code == 200 and "json" in ct:
+        return None
+    r.encoding = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else "utf-8"
+    txt = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", r.text or ""))).strip()
+    m = re.search(r"\[안내\][^.]{0,40}(중단|점검)[^.]{0,40}", txt)
+    if m or "일시 중단" in txt or "점검" in txt[:300]:
+        why = "PHP 보안 취약점 대응 보안점검" if "PHP" in txt else "점검 안내"
+        return f"HTTP {r.status_code} 서비스 일시 중단 안내 페이지({why}): {txt[:120]}"
+    if r.status_code != 200:
+        return None  # 다른 오류는 기존대로 예외·재시도
+    return None
+
+
 def fetch_iitp(s, since):
+    # 점검 안내(HTTP 500)는 세션의 5xx 재시도(5→10→20초)를 다 먹고 나서야 보이므로, 재시도 없는 단발 요청으로 먼저 확인한다.
+    try:
+        probe = requests.get(IITP_PAGE, headers={"User-Agent": UA}, verify=VERIFY, timeout=30)
+        why = _down_notice(probe) if probe.status_code != 200 else None
+    except Exception:
+        why = None  # 연결 오류는 아래 세션(재시도 포함)이 다시 겪고 기존대로 처리
+    if why:
+        raise SiteDown("IITP " + why)
     page = s.get(IITP_PAGE, timeout=TIMEOUT).text
     tok = re.search(r'<meta name="_csrf" content="([^"]+)"', page)
     hdr = re.search(r'<meta name="_csrf_header" content="([^"]+)"', page)
@@ -345,6 +375,9 @@ def fetch_iitp(s, since):
     for cpage in (1, 2):
         r = s.post(IITP_API, headers=headers, timeout=TIMEOUT,
                    data=json.dumps(dict(cms_menu_seq="51", cpage=cpage, rows=30, keyword="", condition="", sort="latest")))
+        why = _down_notice(r)
+        if why:
+            raise SiteDown("IITP API " + why)
         d = r.json()
         oldest = None
         for it in d.get("list") or []:
@@ -516,6 +549,7 @@ def main():
              f"- 수집 시각: {meta['fetched_at']}", f"- 수집 범위: 공고일 {since} ~ {iso(today)} (최근 {days}일)",
              f"- 공휴일 여부(holidays KR): {'공휴일(' + hol + ')' if hol else '평일'}"] + ([index_note] if index_note else []) + [""]
     fetchers = dict(bizinfo=fetch_bizinfo, msit=fetch_msit, iitp=fetch_iitp, iris=fetch_iris)
+    got = {}
     for site in sites:
         fn = fetchers[site]
         items = []
@@ -529,6 +563,12 @@ def main():
                     meta["sites"][site]["retried"] = True
                 log(f"{site}: {len(items)}건" + (" (재시도 성공)" if attempt > 1 else ""))
                 break
+            except SiteDown as e:
+                # [2026-10-26] 점검 안내 페이지는 재시도해도 같다 -> 바로 끝내고 아래 대체 점검으로
+                meta["sites"][site] = dict(ok=False, count=0, error=f"사이트 서비스 중단: {e}", down=True)
+                log(f"{site}: 사이트 서비스 중단 — {e}")
+                items = []
+                break
             except Exception as e:
                 meta["sites"][site] = dict(ok=False, count=0, error=f"{type(e).__name__}: {e}")
                 log(f"{site}: 실패({attempt}/2) {e}\n{traceback.format_exc()}")
@@ -536,6 +576,7 @@ def main():
                 if attempt == 1:
                     import time
                     time.sleep(20)
+        got[site] = items
         index += [f"## {SITE_NAMES[site]}", f"- 목록 URL: {SITE_LINKS[site]}"]
         if not meta["sites"][site]["ok"]:
             index += [f"- **수집 실패**: {meta['sites'][site]['error']}", ""]
@@ -558,6 +599,32 @@ def main():
                       f"- 공고일: {it['posted']} | 접수기간: {it.get('period', '')} | 기관: {it.get('ministry', '')} / {it.get('agency', it.get('dept', ''))}"
                       + (" | " + " | ".join(extra) if extra else ""),
                       f"- 링크: {it['link']}", f"- 상세 파일: {it['file']}", f"- 첨부({len(att)}): {att_desc}", ""]
+    # [2026-10-26] IITP 가 실패하면 IRIS 의 '정보통신기획평가원' 공고로 대체 점검을 자동으로 붙인다.
+    #   IITP 공고는 대부분 IRIS 에 같은 공고번호로 올라온다(IITP 단독 게시분은 빠질 수 있음).
+    if "iitp" in sites and not meta["sites"].get("iitp", {}).get("ok"):
+        iris_items = got.get("iris")
+        if iris_items is None:
+            try:
+                iris_items = fetch_iris(session(), since)
+            except Exception as e:
+                iris_items = None
+                log(f"iitp 대체 점검용 IRIS 수집 실패: {e}")
+        if iris_items is None:
+            meta["sites"]["iitp"]["fallback"] = dict(source="iris", ok=False)
+            index += ["## IITP 대체 점검(IRIS)", "- **IRIS 도 실패해 대체 점검 불가**", ""]
+        else:
+            sub = [it for it in iris_items if "정보통신기획평가원" in (it.get("agency") or "") or "IITP" in (it.get("agency") or "")]
+            meta["sites"]["iitp"]["fallback"] = dict(source="iris", ok=True, count=len(sub),
+                                                     note="IRIS 전문기관=정보통신기획평가원 공고. IITP 단독 게시분은 누락 가능")
+            index += ["## IITP 대체 점검(IRIS, 전문기관=정보통신기획평가원)",
+                      f"- IITP 확인 실패 사유: {meta['sites']['iitp']['error']}",
+                      "- IITP 단독 게시분(IRIS 미등록)은 누락될 수 있음"]
+            if not sub:
+                index += ["- 범위 내 IITP 공고 없음", ""]
+            for it in sub:
+                index += [f"### {it['title']}", f"- 공고일: {it['posted']} | 접수기간: {it.get('period', '')} | 공고번호: {it.get('notice_no', '')}",
+                          f"- 링크: {it['link']}", f"- 상세 파일: {it.get('file', '(IRIS 섹션 참조)')}", ""]
+            log(f"iitp: 실패 -> IRIS 대체 점검 {len(sub)}건")
     with open(os.path.join(latest, "index.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(index))
     with open(os.path.join(latest, "meta.json"), "w", encoding="utf-8") as f:
@@ -565,7 +632,10 @@ def main():
     os.makedirs(os.path.join(OUT, "history"), exist_ok=True)
     shutil.copy(os.path.join(latest, "index.md"), os.path.join(OUT, "history", f"{iso(today)}.md"))
     total = sum(v["count"] for v in meta["sites"].values())
-    print(f"{iso(today)} {total}건 " + " ".join(f'{k}={v["count"] if v["ok"] else "ERR"}' for k, v in meta["sites"].items()))
+    print(f"{iso(today)} {total}건 " + " ".join(
+        f'{k}={v["count"] if v["ok"] else ("DOWN" if v.get("down") else "ERR")}'
+        + (f'(IRIS대체 {v["fallback"]["count"]})' if v.get("fallback", {}).get("ok") else "")
+        for k, v in meta["sites"].items()))
 
 
 if __name__ == "__main__":
