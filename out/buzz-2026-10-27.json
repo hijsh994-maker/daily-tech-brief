@@ -1,0 +1,444 @@
+{
+ "date": "2026-10-27",
+ "terms": [
+  {
+   "term": "Claude Duet",
+   "norm": "claudeduet",
+   "n_outlets": 56,
+   "n_today": 3,
+   "outlets": [
+    "24/7 Wall St.",
+    "9to5Google",
+    "9to5Mac",
+    "ASO World",
+    "Anadolu Ajansı",
+    "Android Central",
+    "Android Headlines",
+    "Barron's"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The New York Times(10-22) | Anthropic Joins the A.I. Agent Race With Claude Duet",
+    "CNBC(10-22) | Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse,",
+    "Reuters(10-22) | Anthropic unveils Claude Duet AI agent app",
+    "Help Net Security | Anthropic details what stops Claude Duet from going rogue",
+    "Yahoo Finance | Claude Duet is here: Anthropic's 24/7 AI agent, tested",
+    "The Indian Express | What is Claude Duet, Anthropic’s personal AI agent for the small business owner?"
+   ],
+   "score": 15
+  },
+  {
+   "term": "PHP2Shell",
+   "norm": "php2shell",
+   "n_outlets": 10,
+   "n_today": 3,
+   "outlets": [
+    "AI 매터스",
+    "HN",
+    "OX Security",
+    "SECURITY.COM",
+    "데이터넷",
+    "디지털데일리",
+    "바이라인네트워크",
+    "보안뉴스"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-22) | PHP2Shell: AI uncovers critical RCE in PHP",
+    "보안뉴스(10-23) | [PHP2Shell 파장] AI로 협력한 보안 업계, PHP 치명적 결함 발견에 핵심 역할",
+    "아이티데일리(10-23) | 스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "아이뉴스24 | [PHP 취약점 파장] 과기정통부·KISA, 'PHP2Shell' FAQ 배포⋯PHP 확인 사이트 4곳 안내",
+    "OX Security | PHP2Shell, Day 5: The Panic Hasn’t Turned Into Patching",
+    "디지털데일리 | 별도 환경 없이 URL로 점검…로그프레소, 'PHP2Shell 스캐너' 공개"
+   ],
+   "score": 15
+  },
+  {
+   "term": "오리 로봇",
+   "norm": "오리로봇",
+   "n_outlets": 8,
+   "n_today": 6,
+   "outlets": [
+    "YTN",
+    "뉴스비전e",
+    "솔루션뉴스",
+    "스타트업레시피",
+    "아시아경제",
+    "이데일리",
+    "이코리아",
+    "헤럴드경제"
+   ],
+   "days": 3,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴스비전e(10-23) | 뒤뚱뒤뚱 오리 로봇의 인기…베델소프트, AI 태권도 애니메이션·웹툰 넘어 초소형 로봇에 도전",
+    "아시아경제(10-26) | 젠슨 황이 띄운 53만원짜리 '오리 로봇'…공중제비 한 번에 사전 주문 2만대",
+    "스타트업레시피(10-26) | 젠슨황 무대에 오른 오리 로봇, 예약 주문 2만대 돌파",
+    "YTN | 젠슨 황 눈에서 꿀 떨어진 오리 로봇…시연영상에 '주문 폭주' [지금이뉴스]",
+    "YTN | '꽥꽥' 직접 키우는 오리 로봇",
+    "솔루션뉴스 | 젠슨 황 무대 오른 '오리 로봇', 엔비디아 제품 아니었다… 노리는 건 로봇 개발자"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Bedrock Robotics",
+   "norm": "bedrockrobotics",
+   "n_outlets": 4,
+   "n_today": 4,
+   "outlets": [
+    "Robotics & Automation News",
+    "SiliconANGLE",
+    "The Robot Report",
+    "The Tech Buzz"
+   ],
+   "days": 1,
+   "first": "2026-10-27",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "The Robot Report | Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equip",
+    "The Tech Buzz | Bedrock Robotics Digs Up $600M at $4.1B Valuation",
+    "Robotics & Automation News | Bedrock Robotics raises $600 million to scale autonomous excavators across the U",
+    "SiliconANGLE | Autonomous excavator startup Bedrock Robotics picks up $600M in funding",
+    "The Robot Report | Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equip"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Terra",
+   "norm": "terra",
+   "n_outlets": 32,
+   "n_today": 32,
+   "outlets": [
+    "9to5Mac",
+    "Android Authority",
+    "Android Headlines",
+    "BleepingComputer",
+    "Breakingthenews.net",
+    "Decrypt",
+    "Forkast News",
+    "GeekNews"
+   ],
+   "days": 1,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "이코노미블록 | 오픈AI, 컴퓨터 조작 AI ‘GPT-6.1 Terra’ 출시…API 가격 절반으로",
+    "GeekNews | GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "OrcaRouter | GPT-6.1 Terra: 절반 가격, 오류 점수 37점 감소",
+    "디지털포커스 | 오픈AI, 중형 모델 GPT-6.1 Terra 공개…GPT-5.6 대비 가격 50% 인하",
+    "디지털투데이 | OpenAI unveils GPT-6.1 Terra, cuts prices and boosts coding performance",
+    "BleepingComputer | OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Dessa",
+   "norm": "dessa",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "GeekNews",
+    "HN",
+    "OrcaRouter",
+    "토큰포스트"
+   ],
+   "days": 2,
+   "first": "2026-10-26",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews(10-26) | Dessa - 텍스트 없이 사람의 대화만 듣고 배운 실시간 음성 AI",
+    "OrcaRouter(10-26) | Dessa vs Qwen3.8-Max: 가격표 없는 상대에 맞선 6달러 토큰",
+    "토큰포스트(10-26) | 블록, 음성만 학습한 AI ‘Dessa’ 연구 프리뷰 공개",
+    "OrcaRouter | Dessa 음성 모델: Block의 음성 전용 AI란 무엇인가"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Unitree Robotics Surges",
+   "norm": "unitreeroboticssurges",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Caixin Global"
+   ],
+   "days": 2,
+   "first": "2026-10-27",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "BigGo Finance(10-20) | China's Nine Government Departments Back Embodied AI; Unitree Robotics Surges Ov",
+    "Caixin Global | Unitree Robotics Surges as AI Models Promise to Unlock Robot Potential"
+   ],
+   "score": 12
+  },
+  {
+   "term": "텍스트힙",
+   "norm": "텍스트힙",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "스포츠서울",
+    "이코노미스트"
+   ],
+   "days": 1,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "이코노미스트 | ‘텍스트힙’ 타깃…카카오뱅크, 플라이북과 AI 독서 서비스",
+    "스포츠서울 | ‘텍스트힙’ 열풍에 카카오뱅크도 가세…AI 독서 습관 서비스 선봬"
+   ],
+   "score": 7
+  },
+  {
+   "term": "INNIO",
+   "norm": "innio",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Investing.com 한국어"
+   ],
+   "days": 2,
+   "first": "2026-10-23",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-23) | INNIO, 데이터센터용 620MW 추가 수주…유지보수 계약도 체결",
+    "Investing.com 한국어 | Innio 실적 발표 임박…데이터센터 수요 급증, 수익성으로 이어질까"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Sebastian Raschka",
+   "norm": "sebastianraschka",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Sebastian Raschka's from-scratch video course on building reasoning models"
+   ],
+   "score": 7
+  },
+  {
+   "term": "연습생",
+   "norm": "연습생",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "뉴스토마토"
+   ],
+   "days": 1,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴스토마토 | 휴머노이드 10대 중 7대는 ‘연습생’…출하량 급증의 ‘이면’"
+   ],
+   "score": 6
+  },
+  {
+   "term": "인식적 주체성",
+   "norm": "인식적주체성",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "AI넷"
+   ],
+   "days": 1,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "AI넷 | “편리함의 대가는 사고력 퇴화인가”… 생성형 AI 챗봇의 확산과 ‘인지 부하 외주화’의 그림자 - 챗GPT·그록 의존 심화 속 ‘인식적 주체성’"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "MARS 2026",
+   "norm": "mars2026",
+   "n_outlets": 21,
+   "n_today": 10,
+   "outlets": [
+    "OhmyNews",
+    "Seoul Economic Daily",
+    "경기뉴스광장",
+    "경인미래신문",
+    "글로벌뉴스통신GNA",
+    "뉴스1",
+    "뉴스피크",
+    "더페어"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "매일일보(10-22) | 화성특례시, ‘MARS 2026’에서 우주항공산업 추진단 출범",
+    "데일리엔뉴스(10-23) | 현대차·기아 등 56개 기업·기관 집결…화성시, AI 엑스포 ‘MARS 2026’ 개최",
+    "서프라이즈뉴스(10-23) | “우주·모빌리티·AX·글로벌 포럼까지”… 화성특례시 주최 ‘MARS 2026’, 다채로운 프로그램으로 시선 집중",
+    "현대경제 | 사람처럼 웃고 대화하는 로봇 등장…화성시 'MARS 2026'서 첫선",
+    "데일리안 | 화성시, 'MARS 2026'에서 '바이오닉 로봇' 등 피지컬 기술 접목 로봇 실증",
+    "웹이코노미 | 로봇과 함께 춤 출 준비 되셨습니까?…화성특례시, 'MARS 2026'에서 로봇 실증 무대 펼친다"
+   ],
+   "score": 10
+  },
+  {
+   "term": "NVIDIA GTC Berlin",
+   "norm": "nvidiagtcberlin",
+   "n_outlets": 18,
+   "n_today": 1,
+   "outlets": [
+    "ASSETPHYSICS",
+    "ASUS Pressroom",
+    "Analytics India Magazine",
+    "Asia News Network",
+    "BusinessMole",
+    "Diginomica",
+    "EIN News",
+    "Easy News Press Agency"
+   ],
+   "days": 5,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TradingKey(10-20) | Nvidia GTC Berlin Preview: Rubin Platform, AI Agents and European Sovereign Comp",
+    "PR Newswire(10-22) | Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical A",
+    "ASUS Pressroom(10-22) | ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVI",
+    "Easy News Press Agency | Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin, …"
+   ],
+   "score": 10
+  },
+  {
+   "term": "DSX POD",
+   "norm": "dsxpod",
+   "n_outlets": 17,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "Briefs Finance",
+    "Channel Insider",
+    "Constellation Research",
+    "Data Center Dynamics",
+    "Data Center Frontier",
+    "Data Center Knowledge",
+    "HPCwire"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "테크데일리(10-22) | 엔비디아, 모듈형 AI 팩토리 'DSX POD' 공개… 구축 기간 '6개월→14일' 대폭 단축",
+    "뉴스탭(10-22) | 엔비디아, AI 팩토리 구축 기간 6개월→14일 단축…‘DSX POD’ 공개",
+    "Data Center Knowledge(10-22) | Nvidia Unveils DSX Pod for Faster AI Data Center Builds",
+    "칸(KHARN) | 엔비디아, AI팩토리 모듈러DC ‘DSX POD’ 공개",
+    "Data Center Frontier | NVIDIA's DSX POD Pushes AI Factory Construction Toward the Assembly Line"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Hunar",
+   "norm": "hunar",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "Business Connect Magazine",
+    "ET Entrepreneur",
+    "ETHRWorld.com",
+    "Entrackr",
+    "Entrepreneur India",
+    "Inc42",
+    "Indian Startup News"
+   ],
+   "days": 5,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "ETHRWorld.com(10-20) | Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management",
+    "ET Entrepreneur(10-20) | Hunar.AI raises ₹40 Cr series A funding led by Blume Ventures",
+    "Entrackr(10-20) | Exclusive: Hunar AI valuation jumps 71% in Series A round",
+    "People Matters - HR News | Hunar.AI raises Rs 40 Cr in funding to expand conversational AI across frontline"
+   ],
+   "score": 10
+  },
+  {
+   "term": "PyTorch",
+   "norm": "pytorch",
+   "n_outlets": 11,
+   "n_today": 2,
+   "outlets": [
+    "AI Insider",
+    "DataCenterNews Asia Pacific",
+    "HPCwire",
+    "Investing.com 한국어",
+    "Nscale",
+    "StorageReview.com",
+    "The Tech Buzz",
+    "Unite.AI"
+   ],
+   "days": 5,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-20) | 아마존, 자체 AI 칩에서 PyTorch 코드 실행하는 도구 공개",
+    "Unite.AI(10-21) | PyTorch 콘퍼런스에서 프로덕션 추론 스택을 갖춘 llm-d 1.0 공개",
+    "토큰포스트(10-21) | 구글·아마존, PyTorch 앱을 자체 AI 칩으로 옮긴다",
+    "e4ds news | AMD·인텔, PyTorch용 x86 AI 최적화 통합…AI 개발 공통 경로 구축",
+    "올포칩 | x86 CPU 기반 AI 개발 환경 단일화… PyTorch 최적화 기술 통합"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Vectorial",
+   "norm": "vectorial",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "Entrackr",
+    "Howl.link",
+    "Indian Startup News",
+    "Indian Startup Times",
+    "MediaNews4U",
+    "Research Live",
+    "SiliconANGLE",
+    "Unite.AI"
+   ],
+   "days": 5,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SiliconANGLE(10-21) | AI startup Vectorial lands $3M in funding to simulate human behavior for consume",
+    "Unite.AI(10-21) | Vectorial Raises $3M Seed to Test Products Against Simulated Customers",
+    "Howl.link(10-21) | Vectorial Raises $3M From Smilegate and SenseAI to Rebuild User Research With AI",
+    "Research Live | Vectorial completes funding round"
+   ],
+   "score": 10
+  }
+ ]
+}

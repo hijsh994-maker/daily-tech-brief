@@ -1,0 +1,39 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-10-27 09:39:08 KST === 
+Message TS: 1793061548.926069
+_[텔레그램 로그 2026-10-27] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(오늘자 다이제스트 없음 / 개별 메시지 15건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+_— 개별 메시지(다이제스트 외) —_
+1. SoftBank Unit SB Energy Weighs Delaying IPO to Next Year (서울경제 영문판)
+o 링크: <https://en.sedaily.com/international/2026/10/23/softbank-unit-sb-energy-weighs-delaying-ipo-to-next-year|en.sedaily.com/international/…/softbank-unit-sb-energy-weighs-delaying-ipo-to-next-year>
+2. Meta Launches Personal AI Agent Muse In Japan (BERNAMA)
+o 링크: <https://www.bernama.com/en/world/news.php?id=2624571|bernama.com/en/world/news.php?…>
+3. Microsoft's AI Diagnostic System Outperforms Generalist Doctors on Complex Cases, Science Study Finds (The AI Insider)
+o 링크: <https://theaiinsider.tech/2026/10/23/microsofts-ai-diagnostic-system-outperforms-generalist-doctors-on-complex-cases-science-study-finds/|theaiinsider.tech/2026/10/23/microsofts-ai-diagnostic-system-outperforms-generalist-doctors-on-complex-cases-science-study-finds>
+4. Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context (MarkTechPost)
+o 링크: <https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/|marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model>
+5. OpenAI moves frontier training offline after agents punch through security barriers (Interesting Engineering)
+o 링크: <https://interestingengineering.com/ai-robotics/openai-frontier-model-offline-training|interestingengineering.com/ai-robotics/openai-frontier-model-offline-training>
+6. Build more responsive apps with the Decisions API (OpenAI 공식)
+o 링크: <https://openai.com/index/decisions-api/|openai.com/index/decisions-api>
+7. OpenAI's enterprise discounts are pulling coding work from Anthropic (MLQ.ai)
+o 링크: <https://mlq.ai/news/openais-enterprise-discounts-are-pulling-coding-work-from-anthropic/|mlq.ai/news/openais-enterprise-discounts-are-pulling-coding-work-from-anthropic>
+8. Elon Musk warns more than 200 AI cloud companies face 'guppy-level death' as the AI boom runs into a debt crisis (Fortune)
+o 링크: <https://fortune.com/2026/10/26/elon-musk-ai-boom-debt-neoclouds/|fortune.com/2026/10/26/elon-musk-ai-boom-debt-neoclouds>
+9. Anthropic Model Token Volume on OpenRouter Up 3.6x Since Opus 5.5 Launch (TokenPost)
+o 링크: <https://www.tokenpost.com/news/technology/41426|tokenpost.com/news/technology/41426>
+10. Anthropic's Claude accessed Georgia vote data behind paywall, raising questions about AI safeguards (Business Today)
+o 링크: <https://www.businesstoday.in/technology/news/story/anthropics-claude-accessed-georgia-vote-data-behind-paywall-raising-questions-about-ai-safeguards-563727-2026-10-26|businesstoday.in/…/anthropics-claude-accessed-georgia-vote-data-behind-paywall-raising-questions-about-ai-safeguards-563727-2026-10-26>
+11. OpenAI launches GPT-6.1 Terra, a cheaper model for everyday computer work (The Next Web)
+o 링크: <https://thenextweb.com/news/openai-gpt-6-1-terra-computer-use|thenextweb.com/news/openai-gpt-6-1-terra-computer-use>
+12. Working with academic communities to build scientific understanding (OpenAI 공식)
+o 링크: <https://openai.com/index/building-scientific-understanding-with-academic-communities/|openai.com/index/building-scientific-understanding-with-academic-communities>
+링크 미확보: 앤스로픽 IPO를 앞두고 차가워진 시장 / 오픈AI, Dots 연결 속도 개선 및 Codex CLI 업데이트(Day 19) / 앤스로픽, IPO 업데이트(기업가치 기대 1.5조 달러 하향 검토)
+(비뉴스 4건 제외: 연재 리셋 근황 2·티저 1·발언 타임라인 1)
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-10-27 09:24:58 KST === 
+Message TS: 1793060698.081329
+
+Files: [2026년 10월 27일] 조간 뉴스 클리핑 (ID: F0CCG03DW5A, text/html, 49.8 KB)

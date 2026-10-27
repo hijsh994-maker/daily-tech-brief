@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-27",
+ "items": [
+  {
+   "src": "community",
+   "title": "Anthropic S-1",
+   "outlet": "HN",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 1450pt·1422댓글",
+   "weight": 1450
+  },
+  {
+   "src": "community",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "outlet": "HN",
+   "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 532pt·79댓글",
+   "weight": 532
+  },
+  {
+   "src": "community",
+   "title": "GPT-6.1 Terra",
+   "outlet": "HN",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 483pt·307댓글",
+   "weight": 483
+  },
+  {
+   "src": "community",
+   "title": "IBM CEO says open weight models are now good and cheap on-prem",
+   "outlet": "HN",
+   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 414pt·324댓글",
+   "weight": 414
+  },
+  {
+   "src": "community",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "outlet": "HN",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 250pt·107댓글",
+   "weight": 250
+  },
+  {
+   "src": "community",
+   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+   "outlet": "HN",
+   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 228pt·81댓글",
+   "weight": 228
+  },
+  {
+   "src": "community",
+   "title": "Brown student maps the hidden global labor powering AI",
+   "outlet": "HN",
+   "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 174pt·164댓글",
+   "weight": 174
+  },
+  {
+   "src": "community",
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "outlet": "HN",
+   "url": "https://github.com/FrigadeHQ/hob",
+   "pub_date": "2026-10-26",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 107pt·24댓글",
+   "weight": 107
+  }
+ ]
+}
