@@ -96,6 +96,8 @@ def strip_html(h):
     h = RE_ANY.sub(" ", h)
     h = (h.replace("&nbsp;", " ").replace("&amp;", "&")
           .replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"'))
+    import html as _html            # [2026-10-27] &#39; &middot; 등 나머지 엔티티
+    h = _html.unescape(h)
     return RE_WS.sub(" ", h).strip()
 
 
@@ -153,7 +155,115 @@ def arc_body(html):
     return strip_html(" ".join(parts))[:BODY_MAX]
 
 
+RE_P = re.compile(r"(?is)<p\b[^>]*>(.*?)</p>")
+P_NOISE = ("무단 전재", "무단전재", "저작권자", "Copyright", "COPYRIGHT", "구독",
+           "기자 =", "제보", "All rights reserved", "로그인", "회원가입")
+
+
+BODY_MARKERS = ('id="dic_area"', 'itemprop="articleBody"', "itemprop='articleBody'",
+                'id="article-view-content-div"', 'id="articleBody"',
+                'id="newsct_article"', 'class="news_cnt_detail_wrap"',
+                'id="article_body"', 'class="article_body"', 'id="articeBody"',
+                'class="article-body"', 'class="entry-content"')
+
+
+def container_body(html):
+    """본문 컨테이너 표식(itemprop=articleBody 등) 뒤의 글자를 본문으로 쓴다.
+    [2026-10-27] 매일경제는 본문이 <p> 가 아니라 itemprop="articleBody" div 안의
+    맨 글자라 p_body 로는 엉뚱한 '기사 속 종목' 홍보 문단이 잡혔다."""
+    for mk in BODY_MARKERS:
+        i = html.find(mk)
+        if i < 0:
+            continue
+        j = html.find(">", i)
+        t = strip_html("<x " + html[j:j + 80000])
+        if len(t) >= 200:
+            return t[:BODY_MAX]
+    return ""
+
+
+def p_body(html):
+    """<p> 문단과 네이버 뉴스 본문(#dic_area)에서 본문을 꺼낸다. [2026-10-27 신설]
+
+    [왜] 10-27 '고' 후보 6건 중 4건이 본문 미확보·오판으로 '중'에 머물렀다.
+      머니투데이(mt.co.kr 신주소)·매일경제는 HTTP 200 에 본문도 페이지에
+      있는데, 태그를 통째로 벗긴 뒤 _clip() 이 후보 제목을 못 찾으면
+      앞 4000자(=메뉴·랭킹·주소) 를 '본문'으로 저장했다. 길이 200자를
+      넘으니 실패로도 안 잡히고, bodypeek 에는 메뉴만 찍혔다.
+      실측: MS 6만명 희망퇴직(머니투데이) 본문 <p> 6문단이 그대로 있었다.
+    [무엇을] 30자 이상인 <p> 문단만 이어 붙인다(저작권·구독 안내 문단 제외).
+      네이버 뉴스 페이지면 id="dic_area" 영역을 우선한다.
+      합계 200자 미만이면 '' 를 돌려 종전 경로(_clip)로 넘어간다.
+    """
+    m = re.search(r'(?is)id="dic_area"[^>]*>(.*?)</article>', html)
+    if m:
+        t = strip_html(m.group(1))
+        if len(t) >= 200:
+            return t[:BODY_MAX]
+    paras = []
+    for p in RE_P.findall(html):
+        t = strip_html(p)
+        if len(t) < 30 or any(k in t for k in P_NOISE):
+            continue
+        paras.append(t)
+    body = " ".join(paras)
+    return body[:BODY_MAX] if len(body) >= 200 else ""
+
+
+def naver_mirror(url, title):
+    """원문이 막히면(403·본문짧음) 네이버 뉴스 사본 주소를 찾는다. [2026-10-27 신설]
+
+    [왜] 뉴스1 은 이 서버의 직접 접속에 403 을 준다(10-27 도요타 휴머노이드
+      건 본문 0). 같은 기사가 n.news.naver.com 에 실려 있고 네이버 API 가
+      originallink 로 원문 주소를 함께 준다. 원문 주소가 같은 항목만 쓴다
+      (다른 기사로 바꿔치기하지 않는다).
+    """
+    try:
+        import naver_api
+        items = naver_api.search(naver_api.sanitize_query(title or "")[:60],
+                                 display=20)
+    except Exception:
+        return None
+    key = url.split("?")[0].rstrip("/")
+    for it in items or []:
+        ol = (it.get("originallink") or "").split("?")[0].rstrip("/")
+        lk = it.get("link") or ""
+        if ol and ol == key and "n.news.naver.com" in lk:
+            return lk
+    return None
+
+
+def _get(url):
+    req = urllib.request.Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
+    })
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+        raw = r.read(800000)
+    enc = "utf-8"
+    m = re.search(rb'charset=["\']?([\w\-]+)', raw[:3000], re.I)
+    if m:
+        enc = m.group(1).decode("ascii", "ignore")
+    return raw.decode(enc, "ignore")
+
+
 def fetch(url, title=""):
+    """종전 fetch + [2026-10-27] <p> 본문 우선 + 네이버 사본 폴백."""
+    body, err = _fetch_direct(url, title)
+    if err in ("HTTP 403", "HTTP 401", "HTTP 429", "본문짧음") and title:
+        mirror = naver_mirror(url, title)
+        if mirror:
+            try:
+                b2 = p_body(_get(mirror))
+                if len(b2) >= 200:
+                    return b2, None
+            except Exception:
+                pass
+    return body, err
+
+
+def _fetch_direct(url, title=""):
     """(본문, 실패사유) 를 돌려준다. 성공이면 사유는 None.
 
     [2026-09-03] 종전에는 `except Exception: return ""` 로 실패를 통째로
@@ -179,7 +289,17 @@ def fetch(url, title=""):
         # Arc Publishing(조선비즈·조선일보·IT조선) 우선. 실패하면 종전 경로.
         body = arc_body(html)
         if len(body) < 200:
-            body = _clip(strip_html(html), title)
+            body = container_body(html)  # [2026-10-27] 본문 컨테이너 표식 우선
+        if len(body) < 200:
+            text = strip_html(html)
+            body = _clip(text, title)
+            # [2026-10-27] _clip 이 제목을 못 찾아 페이지 앞머리(메뉴)를 잘라 온
+            #   경우에만 <p> 문단으로 바꾼다. 제목을 찾은 경우는 종전 그대로
+            #   (실측: 매일경제는 <p> 에 관련기사 홍보 문단이 섞여 있다).
+            if body == text[:BODY_MAX]:
+                pb = p_body(html)
+                if len(pb) >= 200:
+                    body = pb
         if len(body) < 200:
             return "", "본문짧음"
         return body, None

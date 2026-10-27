@@ -811,6 +811,14 @@ stats)
   shift || true
   cd "$W" && python3 "$MNT/cowork/runstats.py" --date "$DATE" "$@" ;;
 
+find)
+  # [2026-10-27 신설] 링크·본문 미확보 '고' 후보를 키워드로 다시 찾는다(네이버 뉴스 API).
+  #   판정 중 WebSearch(미국 기준)로 국내 기사를 찾다 실패해 '중'에 묻는 일을 막는다.
+  #     bash cowork/run.sh find "브로드컴 앤트로픽 630억"        -> 목록(원문·네이버 사본)
+  #     bash cowork/run.sh find "도요타 휴머노이드" --body 2      -> 상위 2건 본문 + bodycache 반영
+  shift || true
+  cd "$W" && python3 cowork/find_article.py --date "$DATE" "$@" ;;
+
 bodypeek)
   # [2026-09-02 신설] E축(알맹이 약함) 단독으로 '중'을 줄 때 본문 앞부분을 본다.
   #   본문은 run.sh body 가 이미 out/bodycache-<날짜>.json 에 받아 두었으므로
@@ -1241,10 +1249,14 @@ PY
   # [2026-09-30 신설] 신규성 감점 게이트. '후보로 여러 번 봤다' ≠ '독자가 안다'.
   #   09-29 LLM 재킹·09-30 인스팅트 사용기를 발송 0건인데 반복/중복으로 내렸다.
   ( cd "$W" && python3 "$MNT/cowork/novelty_gate.py" "$DATE" ) || _v=1
+  # [2026-10-27 신설] 링크·본문 미확보 강등 게이트. 못 찾아서 내린 '중' 에 run.sh find 기록 요구.
+  ( cd "$W" && python3 "$MNT/cowork/rescue_gate.py" "$DATE" ) || _v=1
   exit $_v
   ;;
 novelty)
   ( cd "$W" && python3 "$MNT/cowork/novelty_gate.py" "$DATE" ) ;;
+rescue)
+  ( cd "$W" && python3 "$MNT/cowork/rescue_gate.py" "$DATE" ) ;;
 
 deals)
   # [2026-08-31] 큰 딜(1천억원 이상) 전량검토 확인. 8단계 검증에서 돈다.
