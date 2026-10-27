@@ -81,7 +81,7 @@ IN TO OF ON AT BY AS IS IT BE OR AN A US UP OUT WHO WHY HOW ALL MORE
 """.split())
 
 RE_BRIEF_ITEM = re.compile(r"^\*{0,2}(\d+)\\?\.\s*(.+?)\*{0,2}\s*\((.+?),\s*\[원문보기\]\((.*?)\)\)\s*$")
-RE_BLIND = re.compile(r"^(N?\d+) \| ([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\| (.*)$")
+RE_BLIND = re.compile(r"^([NL]?\d+) \| ([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\| (.*)$")
 
 
 def log(m):

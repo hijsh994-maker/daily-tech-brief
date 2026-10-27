@@ -1826,6 +1826,21 @@ A(주체)·C(단계) 감점보다 **뒤에 적용되는 보정 규칙**입니다
   [5.6조원] 핌코, 스페이스X AI 채권 40억달러 인수 (www.ebn.co.kr, 9점)
   [6.0조원] 데이터센터 수주 6조 돌파…수도권은 '엣지', 지방은 '초대형'으로 개발 전략 분화 (오피니언뉴스, 10점)
 
+[경쟁사 속보 — 오전 수집 이후 (run.sh late)]
+{"idx": "L1", "category": null, "headline": "KT, AI 선택·관리 플랫폼 ‘토큰팩토리’ 출시", "outlet": "biz.heraldcorp.com", "url": "https://biz.heraldcorp.com/article/10916119?ref=naver", "pub_date": "2026-10-27", "n_outlets": 61, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L2", "category": null, "headline": "'AI를 잘 쓰는 시대' KT의 AX전략", "outlet": "yna.co.kr", "url": "https://www.yna.co.kr/view/PYH20261027090500013?input=1196m", "pub_date": "2026-10-27", "n_outlets": 7, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L3", "category": null, "headline": "[AI 심장 : KT 토큰팩토리②] 박상원 전무 \"AI 경쟁은 모델이 아니라 잘...", "outlet": "econovill.com", "url": "https://www.econovill.com/news/articleView.html?idxno=754988", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L4", "category": null, "headline": "KT, AI 500개 골라 쓰는 플랫폼 만든다…비용 최대 25% 절감", "outlet": "newspim.com", "url": "https://www.newspim.com/news/view/20261027000317", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L5", "category": null, "headline": "\"요금 왜 올랐어?\" 질문에 AI가 척척…LG유플러스 '유플러스원' MAU 610만...", "outlet": "widedaily.com", "url": "https://www.widedaily.com/news/articleView.html?idxno=302341", "pub_date": "2026-10-27", "n_outlets": 7, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L6", "category": null, "headline": "[IT라운지] 카카오-디즈니 '협업'·딥브레인AI '페이스 아이디 판별' 개...", "outlet": "newsworks.co.kr", "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900875", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L7", "category": null, "headline": "카카오 입사시험 'AI'가 먼저 면접 본다…인성검사도 신설", "outlet": "newsis.com", "url": "https://www.newsis.com/view/NISX20261027_0003842686", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L8", "category": null, "headline": "[단독] 카카오 채용 ‘AI면접관’ 도입…AI로 쓴듯한 이력서에 송곳질문", "outlet": "mk.co.kr", "url": "https://www.mk.co.kr/article/12186746", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L9", "category": null, "headline": "해양·물류 정보 카카오톡으로 받는다…'KOBC AI 정보 서비스' 개시", "outlet": "mt.co.kr", "url": "https://www.mt.co.kr/economy/2026/10/27/2026102709215211189", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L10", "category": null, "headline": "카카오 AI 비서, 모빌리티 판도 바꿀까…택시 호출까지 넘본다", "outlet": "jnilbo.com", "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000076915", "pub_date": "2026-10-27", "n_outlets": 2, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L11", "category": null, "headline": "AI 시대 규제 대응 강화...LG CNS, 준법경영 국제인증 획득", "outlet": "socialvalue.kr", "url": "https://www.socialvalue.kr/news/view/1065576190734969", "pub_date": "2026-10-27", "n_outlets": 17, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+{"idx": "L12", "category": null, "headline": "LG CNS, AI·클라우드 사업 '준법 체계' 국제표준으로 검증받았다", "outlet": "popcornnews.net", "url": "http://www.popcornnews.net/news/articleView.html?idxno=137431", "pub_date": "2026-10-27", "n_outlets": 1, "score": null, "tier": "late", "signals": ["경쟁사속보"]}
+
+
 [링크 미확보 후보] - **여기에 오늘 브리프의 핵심이 섞여 있을 수 있습니다.**
 이 항목들은 기계가 원문 링크를 못 찾아 위 후보 목록에서 빠진 것입니다.
 중요하지 않아서가 아닙니다. 실측상 사람이 실제로 발송한 브리프 기사의 29%가

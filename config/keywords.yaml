@@ -773,13 +773,16 @@ impact_signals:
     - AMD
 
   # 경쟁사 동향 = 가중 (7/21 HD현대-네이버클라우드 건 같은 케이스)
+  # [2026-10-27] 'KT AI'·'LG유플러스 AIDC' 처럼 붙은 구문만 있어 'KT, AI 모델 …'(토큰팩토리 출시)이
+  #   경쟁사 가점을 못 받았다. 회사 이름 단독으로 잡는다. KT 는 SKT·KTX·KT&G 를 앞뒤 글자로 막는다.
+  #   괄호가 든 항목은 refine.hit 가 정규식으로 쓴다. 백업 keywords.yaml.bak-20261027.
   competitor:
-    - KT AI
-    - LG유플러스 AIDC
-    - 네이버클라우드
+    - "(?<![A-Za-z])KT(?![A-Za-z&])"
+    - "(LG유플러스|LGU\\+|LG U\\+|유플러스)"
+    - 네이버
     - 카카오
     - 삼성SDS
-    - LG AI연구원
+    - "(LG AI연구원|LG CNS|엑사원)"
 
   # 클러스터 크기 보너스: 같은 사건을 N개 매체가 보도
   cluster_bonus:

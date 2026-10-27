@@ -811,6 +811,14 @@ stats)
   shift || true
   cd "$W" && python3 "$MNT/cowork/runstats.py" --date "$DATE" "$@" ;;
 
+late)
+  # [2026-10-27 신설] 경쟁사 속보 재점검. 오전 수집(09:4x) 뒤에 나온 경쟁사 AI 기사를 판정 목록에 붙인다.
+  #   10-27 KT '토큰팩토리'(10:00 발표)를 놓친 뒤 신설. 7단계 blind 앞 + 발송본 쓰기 직전(budget 앞) 두 번.
+  #     bash cowork/run.sh late          -> 새 건을 prompt 에 L1.. 로 추가(이후 run.sh blind 다시, L 건 판정)
+  #     bash cowork/run.sh late --dry    -> 목록만
+  shift || true
+  cd "$W" && python3 cowork/late_sweep.py --date "$DATE" "$@" ;;
+
 find)
   # [2026-10-27 신설] 링크·본문 미확보 '고' 후보를 키워드로 다시 찾는다(네이버 뉴스 API).
   #   판정 중 WebSearch(미국 기준)로 국내 기사를 찾다 실패해 '중'에 묻는 일을 막는다.

@@ -143,7 +143,7 @@ def main():
 
     meta = {}
     for line in open(bp, encoding="utf-8") if os.path.exists(bp) else []:
-        m = re.match(r"^(N?\d+) \| \S+ \| (.+?) \| (\S*) \| (\S+) \| (?:⟨([^⟩]+)⟩ )?(.+?)(?: \[중복의심.*)?$",
+        m = re.match(r"^([NL]?\d+) \| \S+ \| (.+?) \| (\S*) \| (\S+) \| (?:⟨([^⟩]+)⟩ )?(.+?)(?: \[중복의심.*)?$",
                      line.rstrip())
         if m:
             meta[m.group(1)] = dict(outlet=m.group(2).strip(), spread=m.group(4),

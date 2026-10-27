@@ -38,6 +38,7 @@ cowork/samsung_match.py 와 같은 방식으로 URL 실재성을 검증한 뒤 �
 import argparse
 import datetime
 import json
+import re
 import os
 import sys
 
@@ -141,7 +142,43 @@ def main():
     except Exception as e:
         print("[extend] 전일 중복 제거 건너뜀: %s" % str(e)[:50])
 
+    # [2026-10-27] 경쟁사(KT·LGU+·네이버·카카오·LG AI연구원 등)·큐레이션 건은 상한(top)
+    #   밖이어도 싣는다. 실측 10-27: KT '토큰팩토리' 공개(경쟁사 신규 서비스)가 링크 미확보
+    #   후보 141위였는데, 컷 통과·링크 없는 상위 후보와 합쳐 다시 줄 세우며 150위 밖으로 밀려
+    #   판정 목록에 아예 없었다. 경쟁사 판정은 config/keywords.yaml 의 competitor 패턴.
+    comp_pats = []
+    try:
+        import yaml
+        _k = yaml.safe_load(open(os.path.join(os.path.dirname(os.path.dirname(
+            os.path.abspath(__file__))), "config", "keywords.yaml"), encoding="utf-8"))
+
+        def _find(o):
+            if isinstance(o, dict):
+                for kk, v in o.items():
+                    if kk == "competitor":
+                        return v
+                    r = _find(v)
+                    if r:
+                        return r
+            return None
+        comp_pats = [re.compile(str(p)) for p in (_find(_k) or [])]
+    except Exception as e:
+        print("[extend] 경쟁사 패턴 읽기 실패: %s" % str(e)[:60])
+
+    AIREL = re.compile(r"AI|인공지능|에이전트|데이터센터|AIDC|GPU|LLM|모델|로봇|토큰|클라우드|엣지|반도체|피지컬")
+
+    def is_comp(x):
+        # 경쟁사 이름 + AI 관련 낱말(경쟁사 생활 서비스·주가 기사는 상한 예외에서 뺀다)
+        t = x.get("title") or x.get("summary") or ""
+        return any(p.search(t) for p in comp_pats) and bool(AIREL.search(t))
+
+    for x in nolink:
+        x["_comp"] = is_comp(x)
     picked = nolink[:a.top]
+    keep = [x for x in nolink[a.top:] if x["_curated"] or x["_comp"]]
+    if keep:
+        print("[extend] 상한 %d건 밖이지만 경쟁사·큐레이션이라 추가로 싣는 건 %d건" % (a.top, len(keep)))
+        picked += keep
     n_cur = sum(1 for x in picked if x["_curated"])
     if not picked:
         print("[extend] 링크 없는 후보가 없음. 그대로 둠")
@@ -153,8 +190,8 @@ def main():
          "바로 이 사유로 사라졌고, 그중에는 27위·54위·70위처럼 상위권도 있었습니다.",
          "영문 기사와 자사(SKT) 기사가 특히 많이 걸립니다.",
          "",
-         "실을 가치가 있다고 판단되면 **WebSearch 로 원문 URL 을 찾아** 브리프에 넣으세요.",
-         "찾은 URL 은 반드시 실제로 열어 확인하고(mcp__workspace__web_fetch),",
+         "실을 가치가 있다고 판단되면 **bash cowork/run.sh find \"<주체+숫자/핵심어>\" --body 2** 로",
+         "원문 URL 을 찾아 브리프에 넣으세요(2026-10-27: WebSearch 는 미국 기준이라 국내 기사가 거의 안 나온다).",
          "제목·매체·날짜가 아래 값과 같은 기사인지 대조한 뒤 쓰세요.",
          "URL 을 못 찾으면 그 항목은 버립니다. 링크 없는 기사는 브리프에 싣지 않습니다.",
          "",
@@ -173,6 +210,7 @@ def main():
         d = {
             "nolink_idx": i,
             "curated": x["_curated"],
+            "competitor": x.get("_comp", False),
             "category": x.get("category"),
             "headline": x.get("title") or x.get("summary"),
             "outlet_guess": x.get("outlet"),

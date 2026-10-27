@@ -1071,10 +1071,22 @@ def main():
     #   picked_all 에 걸려 애초에 들어오지 않고, 링크가 없는 tier0 는
     #   prompt_extend 가 items 안의 url 없는 항목을 따로 긁어
     #   '[링크 미확보 후보]' 맨 앞에 올린다. 그 경로로 프롬프트에 닿는다.
-    rescue_nolink = [r for r in rows
-                     if id(r) not in picked_all
-                     and not r.get("url")
-                     and r["score"] >= a.rescue_min_score][:a.max_nolink]
+    _nl = [r for r in rows
+           if id(r) not in picked_all
+           and not r.get("url")
+           and r["score"] >= a.rescue_min_score]
+    rescue_nolink = _nl[:a.max_nolink]
+    # [2026-10-27] 경쟁사 건은 상한 밖이어도 붙인다(prompt_extend 와 같은 원칙).
+    #   실측 10-27: KT '토큰팩토리' 공개가 링크 미확보 6점 단독 보도라 판정 목록에 못 왔다.
+    #   단 경쟁사 이름만 걸린 생활 서비스·주가 기사(카카오엔터·네이버 아레나 등)는 빼려고
+    #   제목에 AI 관련 낱말이 있는 것만 붙인다(실측 10-27: 100건 -> AI 관련만 남김).
+    _AIREL = re.compile(r"AI|인공지능|에이전트|데이터센터|AIDC|GPU|LLM|모델|로봇|토큰|클라우드|엣지|반도체|피지컬")
+    _comp = [r for r in _nl[a.max_nolink:]
+             if hit(r.get("title") or "", (cfg.get("impact_signals") or {}).get("competitor"))
+             and _AIREL.search(r.get("title") or "")]
+    if _comp:
+        log("링크미확보 구제 풀 상한 밖 경쟁사 %d건 추가" % len(_comp))
+        rescue_nolink += _comp
     log("링크미확보 구제 풀 %d건 (점수 %s~%s)"
         % (len(rescue_nolink),
            rescue_nolink[-1]["score"] if rescue_nolink else "-",

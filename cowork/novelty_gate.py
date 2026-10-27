@@ -35,7 +35,7 @@ sys.path.insert(0, HERE)
 import hist  # toks / load_sent / EVENT / PEOPLE / ORGS 재사용
 
 NOVEL = re.compile(r"G축|신규성|반복|알려진|철 지난|이어달리기|발송본에 실림|발송본에 있|발송분")
-SAMEDAY = re.compile(r"대표\s*N?\d|같은 발표|같은 오찬|흡수|같은 사건 기사|같은 출시")
+SAMEDAY = re.compile(r"대표\s*[NL]?\d|같은 발표|같은 오찬|흡수|같은 사건 기사|같은 출시")
 OK = re.compile(r"발송근거:|2차검토:|재심:|\d{2}-\d{2} 발표")
 
 
@@ -82,7 +82,7 @@ def main():
         print("[novelty] 판정/blind 파일 없음 — 건너뜀"); return 0
     head = {}
     for line in open(bp, encoding="utf-8"):
-        m = re.match(r"^(N?\d+) \| .* \| (?:⟨[^⟩]+⟩ )?(.+?)(?: \[(?:중복의심|반향|링크없음|기자재).*)?(?:\s+\[(?:반복후보|후보만)[^\]]*\])?$",
+        m = re.match(r"^([NL]?\d+) \| .* \| (?:⟨[^⟩]+⟩ )?(.+?)(?: \[(?:중복의심|반향|링크없음|기자재).*)?(?:\s+\[(?:반복후보|후보만)[^\]]*\])?$",
                      line.rstrip())
         if m:
             head[m.group(1)] = re.sub(r"^\[|\]$", "", m.group(2).strip())
