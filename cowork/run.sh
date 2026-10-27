@@ -811,6 +811,17 @@ stats)
   shift || true
   cd "$W" && python3 "$MNT/cowork/runstats.py" --date "$DATE" "$@" ;;
 
+carryover)
+  # [2026-10-27 신설] 전일 '고' 미발송분 이월. 사용자: "오늘 발송되지 않았지만 고로 판정된거는 내일 발송할떄 포함하구"
+  #     bash cowork/run.sh carryover inject   -> 7단계 blind 앞: 이월 건을 C1.. 로 prompt·bodycache 에 넣는다
+  #     bash cowork/run.sh carryover check    -> 8단계: 발송본에 이월 건이 다 들어갔는지(누락이면 종료코드 1)
+  #     bash cowork/run.sh carryover done     -> 9단계 send 뒤: 실린 이월 건 consumed 표시
+  #     bash cowork/run.sh carryover save     -> 발송 뒤 '고'가 늘었을 때(사용자 정정 등) 미발송 '고'를 쌓는다
+  #   저장소는 $MNT/config/carryover.json (커밋 대상). 기본 날짜는 오늘(DATE).
+  shift || true
+  _m="${1:-list}"; shift || true
+  cd "$W" && DTB_CO="$MNT/config/carryover.json" python3 "$MNT/cowork/carryover.py" "$_m" "$DATE" "$@" ;;
+
 late)
   # [2026-10-27 신설] 경쟁사 속보 재점검. 오전 수집(09:4x) 뒤에 나온 경쟁사 AI 기사를 판정 목록에 붙인다.
   #   10-27 KT '토큰팩토리'(10:00 발표)를 놓친 뒤 신설. 7단계 blind 앞 + 발송본 쓰기 직전(budget 앞) 두 번.

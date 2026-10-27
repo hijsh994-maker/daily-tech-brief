@@ -145,7 +145,7 @@ def main():
     head = {}
     if os.path.exists(bp):
         for line in open(bp, encoding="utf-8"):
-            m = re.match(r"^([NL]?\d+) \| .* \| (.+?)(?: \[중복의심.*)?$", line.rstrip())
+            m = re.match(r"^([NLC]?\d+) \| .* \| (.+?)(?: \[중복의심.*)?$", line.rstrip())
             if m:
                 head[m.group(1)] = m.group(2)
 

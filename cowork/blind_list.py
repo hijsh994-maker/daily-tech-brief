@@ -50,7 +50,7 @@ OUT = os.path.join(BASE, "out")
 
 # 통로 그룹: 훑는 순서를 정한다. tier0(사람·봇이 거른 입력)을 맨 앞에 둔다.
 # 종전에는 점수 상위가 맨 앞이었고, 그래서 tier0 하위 구간이 늘 마지막에 왔다.
-GROUP_ORDER = ["경쟁사속보", "반향후보", "tier0-사람큐레이션", "tier0-봇큐레이션", "tier0+교차",
+GROUP_ORDER = ["전일이월", "경쟁사속보", "반향후보", "tier0-사람큐레이션", "tier0-봇큐레이션", "tier0+교차",
                "커뮤니티", "tier1", "tier2", "링크미확보"]
 # [2026-09-23] '반향후보' = buzz.py 가 잡은 낱말이 붙은 건(refine 의 반향+3 신호).
 #   '커뮤니티' = HN·GitHub·HF 에서 온 건. 둘 다 점수가 아니라 **통로**라 blind 원칙에 맞다.
@@ -60,6 +60,8 @@ def group_of(d):
     tier = d.get("tier") or ""
     sig = " ".join(d.get("signals") or [])
     # [2026-10-27] run.sh late 가 붙인 오전 수집 이후 경쟁사 속보. 맨 앞에서 본다.
+    if (d.get("tier") or "") == "carryover":   # [2026-10-27] 전일 '고' 미발송 이월
+        return "전일이월"
     if (d.get("tier") or "") == "late":
         return "경쟁사속보"
     if "반향+3(" in sig:

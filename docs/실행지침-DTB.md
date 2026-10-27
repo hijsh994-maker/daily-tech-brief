@@ -11,6 +11,18 @@ Brian의 'Daily Tech Brief' 뉴스 파이프라인을 실행하고, 후보 전 �
 `dtb-secrets` 에서 받아 채워 넣을 수도 있다. 정본: `docs/클라우드-이관-가이드.md`.
 [2026-10-20] `~/dtb` 로 새로 clone 해서 돌리는 방식은 폐기 — 세션 안에서 새로 받은 코드는 실행이 차단됐다.
 
+## ★★★ 2026-10-27 (3) — 전일 '고' 미발송분은 다음 영업일 발송본에 반드시 싣는다 (`run.sh carryover`) ★★★
+사용자: *"오늘 발송되지 않았지만 고로 판정된거는 내일 발송할떄 포함하구"*
+- 대기 목록은 `config/carryover.json`(커밋됨, 본문 포함). 10-27분 9건이 10-28 첫 실행에 실린다.
+- **7단계 (1) 맨 앞: `bash cowork/run.sh carryover inject`** → 그다음 `late` → `blind`. blind 맨 앞 `=== 전일이월 ===` 그룹(C1..).
+- **판정:** C 건은 사용자가 '고'로 확정한 건이다. **등급을 다시 내리지 않는다.** 사유 = `이월:<원래날짜>/<원래 idx> / ` + carryover.json 의 원래 사유(새사실 포함).
+  예외는 하나 — 오늘 같은 사건의 더 새로운 기사가 후보에 있으면 그 기사를 '고'로 싣고 C 건은 `중복 대표<idx> · 이월대체` 로 둔다.
+- **rank·분량:** C 건은 오늘 '고'와 같은 기준으로 rank 를 매기되 **분량 컷 대상이 아니다.** 메시지가 넘치거나 20건을 넘으면 C 가 아닌 오늘 건 하위 rank 부터 뺀다.
+- **8단계 끝(push 앞): `bash cowork/run.sh carryover check`** — 종료코드 1(누락)이면 발송본에 넣고 다시 검증.
+- **9단계 send 뒤: `bash cowork/run.sh carryover done`** → 실린 건 consumed 표시. 그 뒤 cloud-push.
+- 발송 뒤 사용자 정정·rescue·late 로 '고'가 늘면 그날 `bash cowork/run.sh carryover save`(링크 대체는 `--override idx=url|헤드라인|매체`) 후 cloud-push.
+- 10단계 보고·알림에 `이월 N건 포함` 을 적는다.
+
 ## ★★★ 2026-10-27 (2) — 경쟁사 속보 재점검 `run.sh late` (두 번 돈다) ★★★
 10-27 KT '토큰팩토리'(10:00 발표)를 수집(09:44)이 못 잡아 놓쳤다. 사용자: *"가나다 모두 적용해줘"*
 - **7단계 (1) `run.sh blind` 바로 앞에 `bash cowork/run.sh late`** (timeout_ms 175000, 30초 안팎).
@@ -452,6 +464,7 @@ bash cowork/run.sh linkcheck tier0        # timeout_ms 175000
 
 ### (1) 점수를 가린 목록 + 타임라인 만들기
 ```
+bash cowork/run.sh carryover inject   # [2026-10-27] 전일 '고' 미발송 이월(C1..)
 bash cowork/run.sh late        # [2026-10-27] 경쟁사 속보 재점검(오전 수집 이후 기사)
 bash cowork/run.sh blind
 bash cowork/run.sh timeline
@@ -778,6 +791,8 @@ bash cowork/run.sh verdict     # newfact·case·agenda 를 함께 돌린다
 (다) **기자재 납품·단순 물량이다.** 그 셋이 아닌데 뺐다면 **rank 몇 위였는지와
 함께** 보고에 적는다. 금액 파싱 오류(수출 1조달러 같은 것)는 그렇게 적는다.
 
+[2026-10-27] 그리고 `bash cowork/run.sh carryover check` — 전일 이월 '고'가 발송본에 다 들어갔는지(누락이면 종료코드 1).
+
 전부 통과하면 `bash cowork/run.sh push`.
 
 **산출물을 덮어쓰지 말 것.** 검증하겠다고 brief.py 나 refine.py 를 다시 돌리면
@@ -789,6 +804,7 @@ bash cowork/run.sh send dry        # 길이·메시지 개수 확인
 bash cowork/run.sh verdict-xlsx    # out/판정-<날짜>.xlsx (요약/전수판정/발송본 3시트)
 bash cowork/run.sh push
 bash cowork/run.sh send            # 초안 채널 발송 (push 뒤에 돌린다)
+bash cowork/run.sh carryover done  # [2026-10-27] 실린 이월 건 consumed 표시 (그 뒤 cloud-push)
 ```
 
 - 산출물은 `out/brief-<날짜>.md` 와 `out/판정-<날짜>.xlsx` **둘**이다.

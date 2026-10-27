@@ -41,7 +41,7 @@ def parse_blind(path):
     if not os.path.exists(path):
         return out
     for line in open(path, encoding="utf-8"):
-        if not re.match(r"^[NL]?\d+ \| ", line):
+        if not re.match(r"^[NLC]?\d+ \| ", line):
             continue
         parts = [p.strip() for p in line.rstrip("\n").split(" | ", 5)]
         if len(parts) < 6:

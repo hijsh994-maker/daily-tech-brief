@@ -89,7 +89,7 @@ def load(day):
 
     meta = {}
     for line in open(blind, encoding="utf-8"):
-        m = re.match(r"^([NL]?\d+) \| ([^|]+)\| ([^|]*)\| ([^|]*)\| ([^|]*)\| (.*)$",
+        m = re.match(r"^([NLC]?\d+) \| ([^|]+)\| ([^|]*)\| ([^|]*)\| ([^|]*)\| (.*)$",
                      line)
         if not m:
             continue

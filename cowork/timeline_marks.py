@@ -59,7 +59,7 @@ def parse_timeline(path):
             if m.group(1): unsent += 1
             dates.append(m.group(2))
             continue
-        m = re.match(r'^\s*\[([NL]?\d+)\]', line)
+        m = re.match(r'^\s*\[([NLC]?\d+)\]', line)
         if m:
             pend.append(m.group(1))
     flush()
@@ -112,7 +112,7 @@ def main():
     out = []; n = 0
     for raw in open(bl, encoding="utf-8"):
         line = re.sub(r"\s*\[(?:반복후보|후보만)[^\]]*\]", "", raw.rstrip("\n"))
-        m = re.match(r'^([NL]?\d+)\s*\|', line)
+        m = re.match(r'^([NLC]?\d+)\s*\|', line)
         if m and m.group(1) in hot:
             t, u, d, f, l, st, _ = hot[m.group(1)]
             line += "  [후보만 %d회·발송 0건 %s~%s]" % (t, f, l)
