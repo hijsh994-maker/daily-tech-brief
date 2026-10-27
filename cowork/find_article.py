@@ -39,6 +39,8 @@ def main():
     ap.add_argument("--days", type=int, default=3, help="발행일 창(오늘 포함 N일)")
     ap.add_argument("--body", type=int, default=0, help="상위 N건 본문 받기")
     ap.add_argument("--n", type=int, default=10)
+    ap.add_argument("--gnews", action="store_true", help="구글뉴스(영문 포함)로도 찾기 — 질의는 헤드라인 그대로")
+    ap.add_argument("--gnews-threshold", type=float, default=0.6)
     a = ap.parse_args()
     q = " ".join(a.query)
     day = datetime.date.fromisoformat(a.date) if a.date else datetime.date.today()
@@ -73,6 +75,25 @@ def main():
         with open(cpath, "w", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False)
         print("\n[find] bodycache 반영: %s" % cpath)
+    # [2026-10-27] 네이버에 없는 해외 영문 기사는 구글뉴스 주소 해독으로 찾는다(--gnews 또는 결과 0건).
+    if a.gnews or not rows:
+        import gnews_link
+        try:
+            g = gnews_link.resolve(q, "", lo, day, threshold=a.gnews_threshold)
+        except Exception as e:
+            g = None
+            print("[find] 구글뉴스 해독 실패: %s" % str(e)[:60])
+        if g:
+            print("[find] 구글뉴스: %s (%s, 유사도 %s)\n      원문 %s" % (q, g["outlet"], g["score"], g["url"]))
+            if a.body:
+                body, err = body_rescore.fetch(g["url"], q)
+                print("      본문 %s" % ("OK %d자 " % len(body) + body[:300] if body else "실패(%s)" % err))
+                if body:
+                    cpath = os.path.join(BASE, "out", "bodycache-%s.json" % day)
+                    cache = json.load(open(cpath, encoding="utf-8")) if os.path.exists(cpath) else {}
+                    cache[g["url"]] = body
+                    json.dump(cache, open(cpath, "w", encoding="utf-8"), ensure_ascii=False)
+            return
     if not rows:
         print("[find] 결과 없음 — 낱말을 줄이거나(주체+숫자) 영문 표기로 다시 찾을 것")
         sys.exit(2)

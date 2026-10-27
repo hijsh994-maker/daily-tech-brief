@@ -22,7 +22,7 @@ verdict.csv 의 '중'·'저' 사유에 링크·본문 미확보·검색 실패·
 """
 import csv, os, re, sys
 
-MISS = re.compile(r"링크\s*미확보|원문\s*링크\s*미확보|본문\s*미확보|본문이 네비|본문 캐시 없음|"
+MISS = re.compile(r"링크\s*미확보|링크\s*없음|원문\s*링크\s*미확보|본문\s*미확보|본문이 네비|본문 캐시 없음|"
                   r"웹검색.{0,6}실패|확인\s*(불가|실패)|2차 보류|보류:")
 SAMEDAY = re.compile(r"중복 대표\s*[NLC]?\d")
 OK = re.compile(r"find:")

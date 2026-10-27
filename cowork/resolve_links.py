@@ -37,6 +37,7 @@ sys.path.insert(0, BASE)
 
 import samsung_resolve as SR          # noqa: E402
 import naver_api                      # noqa: E402
+import gnews_link                     # noqa: E402  [2026-10-27]
 import websearch                      # noqa: E402
 
 # [2026-08-27] 네트워크성 실패를 몇 번까지 다시 볼 것인가.
@@ -181,6 +182,17 @@ def main():
         if not r:
             netfail = (netfail or websearch.net_error()
                        or naver_api.net_error())
+        # [2026-10-27] 경로 4 — 구글뉴스 주소 해독. 네이버(뉴스·웹문서)에 없는 해외 영문 기사가
+        #   구조적으로 링크를 못 얻고 있었다(10-27 영문 후보 60% 미확보, 국문 13%).
+        #   표본 36건 중 33건 확보(13초). 실측 누락: AAIF 4개 신규 프로젝트(10-23·10-27 두 번 '중').
+        if not r:
+            try:
+                g = gnews_link.resolve(head, it.get("outlet") or "", lo, hi)
+            except Exception:
+                g = None
+            if g:
+                r = {"url": g["url"], "via": "gnews-decode"}
+                netfail = False
         if r:
             it["url"], it["confidence"] = r["url"], "auto"
             it["url_via"] = r["via"]
