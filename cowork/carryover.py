@@ -152,7 +152,14 @@ def cmd_inject(day):
 def cmd_check(day, mark=False):
     items = [x for x in load() if not x["consumed"] and x["from"] < day]
     sent = brief_urls(day)
-    miss = [x for x in items if x["url"] not in sent]
+    # [2026-10-28] 같은 사건의 더 새로운 기사로 대체한 이월 건(판정 사유 '이월대체')은 포함으로 본다.
+    repl = set()
+    vp = os.path.join(OUT, "verdict-%s.csv" % day)
+    if os.path.exists(vp):
+        for r in csv.DictReader(open(vp, encoding="utf-8")):
+            if "이월대체" in (r.get("reason") or ""):
+                repl.add(r["idx"])
+    miss = [x for x in items if x["url"] not in sent and x.get("today_idx") not in repl]
     print("[carryover] 이월 %d건 중 오늘 발송본 포함 %d건 / 누락 %d건"
           % (len(items), len(items) - len(miss), len(miss)))
     for x in miss:
@@ -160,7 +167,7 @@ def cmd_check(day, mark=False):
     if mark:
         allx = load()
         for a in allx:
-            if not a["consumed"] and a["from"] < day and a["url"] in sent:
+            if not a["consumed"] and a["from"] < day and (a["url"] in sent or a.get("today_idx") in repl):
                 a["consumed"] = day
         dump(allx)
         print("[carryover] 발송 반영: consumed=%s 표시" % day)

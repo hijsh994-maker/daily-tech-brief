@@ -820,7 +820,7 @@ carryover)
   #   저장소는 $MNT/config/carryover.json (커밋 대상). 기본 날짜는 오늘(DATE).
   shift || true
   _m="${1:-list}"; shift || true
-  cd "$W" && DTB_CO="$MNT/config/carryover.json" python3 "$MNT/cowork/carryover.py" "$_m" "$DATE" "$@" ;;
+  cd "$W" && DTB_CO="$MNT/config/carryover.json" python3 "$W/cowork/carryover.py" "$_m" "$DATE" "$@" ;;
 
 late)
   # [2026-10-27 신설] 경쟁사 속보 재점검. 오전 수집(09:4x) 뒤에 나온 경쟁사 AI 기사를 판정 목록에 붙인다.

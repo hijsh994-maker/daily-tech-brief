@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-28 09:00:28 KST === 
+Message TS: 1793145628.023149
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-28 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261027000226|[AI 막는 AI] 세일포인트, AI 에이전트 권한 추적부터 차단까지 자동화>* (전자신문 (AI))
+*2. [:rocket: BigTech Release] <https://openai.com/index/oracle-apps-in-chatgpt|OpenAI는 오라클과의 파트너십을 확장하여 앱을 ChatGPT로 가져옵니다>* (OpenAI News &amp; Research)
+*3. [:rocket: BigTech Release] <https://openai.com/index/retell-ai|Retell은 OpenAI 모델을 사용하여 1억 건의 월간 통화에 전력을 공급합니다.>* (OpenAI News &amp; Research)
+*4. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication>* (TechCrunch)
+*5. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/|Who’s really in charge at Anthropic after the IPO?>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/|Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics|연구원들은 OpenAI 게이트키핑의 획기적인 발전에 지쳐가고 있습니다.>* (The Verge)
+*8. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety|월스트리트를 유지하기 위한 인류애의 정교한 계획>* (The Verge)
+*9. [:zap: Optimization] <https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/|AWS는 Contact Center as a Service 부문 2026 Gartner Magic Quadrant의 리더로 선정되었습니다.>* (AWS Machine Learning Blog)
+*10. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/|Guidewire buys Hyperexponential for $1.7B in cash>* (TechCrunch)

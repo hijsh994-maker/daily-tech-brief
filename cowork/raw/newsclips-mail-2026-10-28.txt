@@ -1,0 +1,78 @@
+안녕하세요 조승현님,
+Google Drive 'TIR' 폴더에 업로드된 2026년 10월 28일자 조간 뉴스 클리핑 리스트를 공유드립니다.
+------------------------------
+
+*1. 음성·데이터 팔던 통신사들... AI 시대 '토큰' 새 먹거리 공략 (세계일보)*
+   o 링크: https://www.segye.com/newsView/20261027515988
+
+*2. 앤스로픽 상장 채비에 코스피 들썩… '자금 빨아들일라' 우려도 (이데일리)*
+   o 링크: https://tv.edaily.co.kr/News/NewsRead?NewsId=04706806645617184&Kind=257
+
+*3. 고객을 향한 꾸준한 혁신… 경쟁 우위를 만들 힘 (2026 KCSI 조사) (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261027/134912198/2
+
+*4. 상담원 연결 지연 땐 AI가 통화 대기 처리 (KCSI 이동전화 1위 SK텔레콤) (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261027/134912243/2
+
+*5. 고객 신뢰위원회 운영 … 소외지역 찾아 IT 교육 (KCSI 이동전화 SK텔레콤) (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026102772811
+
+*6. 30년차 선후배부터 사내 부부까지 코딩 몰라도 AI 서비스 '밤샘 개발' (SK브로드밴드 'F5 해커톤') (서울신문)*
+   o 링크: https://www.seoul.co.kr/news/economy/industry/2026/10/28/20261028032001
+
+*7. 화면 쩍 갈라지는 '아이폰 듀오'…애플, 결국 결함 인정 (서울경제)*
+   o 링크: https://www.sedaily.com/article/20106662
+
+*8. 법원은 '기만' 아니라는데…삼성에 200억 때린 공정위 (서울경제)*
+   o 링크: https://www.sedaily.com/article/20106783
+
+*9. 與 메가특위, 내달 3일 대전 방문… 지역 주도 성장엔진 찾는다 (이데일리)*
+   o 링크: https://www.edaily.co.kr/News/Read?newsId=03594886645617184&mediaCodeNo=257
+
+*10. “국가 AI 핏줄인데”… ‘님비 늪' 빠진 데이터센터 (과천 주암지구) (디지털타임스)*
+   o 링크: https://www.dt.co.kr/article/12091632
+
+*11. 商議 “AIDC전용 전기요금제 도입을” 국회 입법과제 31개 제시 (매일경제)*
+   o 링크: https://www.mk.co.kr/news/business/12187285
+
+*12. [ICT시사용어] <682>그리드코드(Grid Code) (전자신문)*
+   o 링크: https://www.etnews.com/20261027000091
+
+*13. AI 공격이 방어 속도 앞지른다… 해킹 뉴노멀 시대, 사후대책 한계 (이데일리)*
+   o 링크: https://ir.edaily.co.kr/News/Read?d=IN&k=02912646645609968
+
+*14. 美·加 밖에 못쓰는 '뮤즈'…“AIDC 부족" (저커버그 메타 CEO) (서울경제)*
+   o 링크: https://m.sedaily.com/article/20106383
+
+*15. AI 투자비 감당하려... 메타, 최대 133조원 주식 발행 추진 (조선일보)*
+   o 링크: https://www.chosun.com/economy/tech_it/2026/10/28/36XFWTAJJBGL5HKMQWUHZOGGM4/
+
+*16. 빅테크 AI 인프라 투자 경쟁, 해저케이블로 확대 (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261027/134920110/2
+
+*17. 네이버, 브룩필드와 90억弗 계약…… 엔비디아 투자 본격화 (한국일보)*
+   o 링크: https://www.dailian.co.kr/news/view/1706929
+
+*18. 외부 앱 넘나드는 외국 AI… 자사 서비스에 묶인 '네카오' (서울신문)*
+   o 링크: https://www.seoul.co.kr/news/economy/IT/2026/10/28/20261028002002
+
+*19. 'AI 중심' 카카오의 인사실험… 인공지능이 지원자 면접본다 (매일경제)*
+   o 링크: https://www.mk.co.kr/news/society/12187367
+
+*20. 카톡으로 쉽게 이용... 업무도 처리하는 '실행형 AI' 띄운다 (카카오 모두의 AI) (파이낸셜뉴스)*
+   o 링크: https://www.fnnews.com/news/202610271816500959
+
+*21. KT “전세계 500개 AI 모델 한 곳에 모았다”… AI 플랫폼 '토큰팩토리' 공개 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026102786531
+
+*22. LG유플러스 통합 앱 'U+원' 1년만에 MAU 610만명 육박 (서울경제)*
+   o 링크: https://www.sedaily.com/article/20106572
+
+*23. 이재용, 취임 4주년에 로봇 사업 핵심 거점 찾았다 (조선일보)*
+   o 링크: https://www.chosun.com/economy/industry-company/2026/10/27/FMKPUJJPIRE6VFIQPXQBFAUTNI/
+
+*24. '내실 다지기' 집중… 분기 영업익 100조 시대 열었다 (머니투데이)*
+   o 링크: https://www.mt.co.kr/reporter/00373
+
+*25. 최태원의 'AI 인재 키우기' 비전, 2030 사로잡았다 (SK 아이젠 AIGEN) (서울경제)*
+   o 링크: https://www.sedaily.com/article/20106514

@@ -1,0 +1,433 @@
+{
+ "date": "2026-10-28",
+ "terms": [
+  {
+   "term": "Unitree Robotics Surges",
+   "norm": "unitreeroboticssurges",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Caixin Global",
+    "KuCoin"
+   ],
+   "days": 3,
+   "first": "2026-10-27",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "BigGo Finance(10-20) | China's Nine Government Departments Back Embodied AI; Unitree Robotics Surges Ov",
+    "Caixin Global(10-27) | Unitree Robotics Surges as AI Models Promise to Unlock Robot Potential",
+    "KuCoin | Unitree Robotics Surges 60% as Investors Bet on AI-Powered Robots"
+   ],
+   "score": 18
+  },
+  {
+   "term": "SK하이닉스 주주환원",
+   "norm": "sk하이닉스주주환원",
+   "n_outlets": 5,
+   "n_today": 2,
+   "outlets": [
+    "경북매일",
+    "비즈니스포스트",
+    "세계일보",
+    "연합인포맥스",
+    "이투데이"
+   ],
+   "days": 5,
+   "first": "2026-10-28",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "비즈니스포스트(10-21) | 신한투자 \"AI메모리 수익성 신뢰 하락, 10월 말 삼성전자 SK하이닉스 주주환원 정책이 중요\"",
+    "연합인포맥스(10-22) | SK하이닉스 주주환원과 스페이스X發 나스닥 상승 등 이시각 주요뉴스",
+    "경북매일(10-26) | 5300선 찍고 반등한 코스피…삼성전자·SK하이닉스 주주환원에 쏠린 눈",
+    "연합인포맥스 | 코스피, 2.23% 상승한 5,763.85 출발…SK하이닉스 주주환원 훈풍",
+    "세계일보 | 앤트로픽이 살린 AI 투심... 시장은 ‘SK하이닉스 주주환원’ 주목"
+   ],
+   "score": 17
+  },
+  {
+   "term": "PHP2Shell",
+   "norm": "php2shell",
+   "n_outlets": 12,
+   "n_today": 3,
+   "outlets": [
+    "7AI",
+    "AI 매터스",
+    "HN",
+    "OX Security",
+    "SECURITY.COM",
+    "Unite.AI",
+    "데이터넷",
+    "바이라인네트워크"
+   ],
+   "days": 5,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-22) | PHP2Shell: AI uncovers critical RCE in PHP",
+    "보안뉴스(10-23) | [PHP2Shell 파장] AI로 협력한 보안 업계, PHP 치명적 결함 발견에 핵심 역할",
+    "아이티데일리(10-23) | 스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "7AI | AI found PHP2Shell, AI exploited it, and AI hunted it.",
+    "Unite.AI | Dream Reports PHP2Shell Attack Chain That Compromised 25 Servers",
+    "서울경제 | 이스트시큐리티, ‘PHP2Shell’ 대응 강화…전용 스캐너 배포"
+   ],
+   "score": 15
+  },
+  {
+   "term": "오리 로봇",
+   "norm": "오리로봇",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "YTN",
+    "뉴스비전e",
+    "솔루션뉴스",
+    "스타트업레시피",
+    "아시아경제",
+    "이데일리",
+    "이코노미스트",
+    "이코리아"
+   ],
+   "days": 4,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴스비전e(10-23) | 뒤뚱뒤뚱 오리 로봇의 인기…베델소프트, AI 태권도 애니메이션·웹툰 넘어 초소형 로봇에 도전",
+    "아시아경제(10-26) | 젠슨 황이 띄운 53만원짜리 '오리 로봇'…공중제비 한 번에 사전 주문 2만대",
+    "스타트업레시피(10-26) | 젠슨황 무대에 오른 오리 로봇, 예약 주문 2만대 돌파",
+    "이코노미스트 | \"젠슨 황이 써봤다고? 나도 살래\"...53만원 '오리 로봇'이 뭐길래"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Terra",
+   "norm": "terra",
+   "n_outlets": 53,
+   "n_today": 25,
+   "outlets": [
+    "9to5Mac",
+    "AI Magazine",
+    "ASCII.jp",
+    "Analytics India Magazine",
+    "Android Authority",
+    "Android Headlines",
+    "BeInCrypto",
+    "BleepingComputer"
+   ],
+   "days": 2,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "이코노미블록(10-27) | 오픈AI, 컴퓨터 조작 AI ‘GPT-6.1 Terra’ 출시…API 가격 절반으로",
+    "GeekNews(10-27) | GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "OrcaRouter(10-27) | GPT-6.1 Terra: 절반 가격, 오류 점수 37점 감소",
+    "아웃소싱타임스 | [해설] 오픈AI, GPT-6.1 Terra 출시…화면 조작부터 글쓰기까지 어떻게 쓰나",
+    "OpenAI | GPT-6.1 Terra 소개",
+    "OrcaRouter | GPT-6.1 Terra vs Qwen 4 Max: 알리바바가 넘어야 할 가격 기준"
+   ],
+   "score": 13
+  },
+  {
+   "term": "마이링크",
+   "norm": "마이링크",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "뉴시스",
+    "바이오타임즈",
+    "병원신문",
+    "보건신문",
+    "와이드경제"
+   ],
+   "days": 3,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴시스(10-26) | 마이허브, '마이링크' 태국 FDA서 의료기기 인증",
+    "병원신문(10-26) | 마이허브 ‘마이링크’, 태국 FDA 인증 등록 완료",
+    "보건신문(10-27) | 마이허브 '마이링크', 태국 FDA 등록 완료…아세안 공략 속도",
+    "바이오타임즈 | 마이허브 ‘마이링크’, 태국 FDA 등록 완료 -아세안 주요국 인허가 잇따라 확보…싱가포르, 필리핀 인증도 눈앞"
+   ],
+   "score": 12
+  },
+  {
+   "term": "K-건강검진",
+   "norm": "k건강검진",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "강원경제신문",
+    "서울동부신문",
+    "의학신문"
+   ],
+   "days": 2,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "의학신문(10-27) | 건협, AI K-건강검진으로 아프리카 보건의료 AX 힘 보탠다",
+    "서울동부신문(10-27) | 세계은행, AI 기반 ‘K-건강검진’ 노하우 견학",
+    "강원경제신문 | 세계은행이 주목한 AI활용 ‘K-건강검진’... 한국건강관리협회와 아프리카 보건의료 AI 협력 모색"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Investors Bet",
+   "norm": "investorsbet",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Decrypt",
+    "KuCoin"
+   ],
+   "days": 2,
+   "first": "2026-10-28",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Decrypt(10-27) | Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+    "KuCoin | Unitree Robotics Surges 60% as Investors Bet on AI-Powered Robots"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Roblox",
+   "norm": "roblox",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Roblox downloaded 145GB models from us (including adult content) without asking"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Generated Content",
+   "norm": "generatedcontent",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Wikipedia's Cleanup of AI-Generated Content"
+   ],
+   "score": 7
+  },
+  {
+   "term": "백업용",
+   "norm": "백업용",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "마켓인"
+   ],
+   "days": 1,
+   "first": "2026-10-28",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "마켓인 | AI시대 부활한 비디오테이프…해킹 우려에 '백업용' 수요 급증"
+   ],
+   "score": 6
+  },
+  {
+   "term": "기판·PCB",
+   "norm": "기판pcb",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "글로벌이코노믹"
+   ],
+   "days": 1,
+   "first": "2026-10-28",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "글로벌이코노믹 | \"단순 부품서 핵심 전략 자원으로\"… AI 열풍에 '기판·PCB' 품귀 대란"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "NVIDIA GTC Berlin",
+   "norm": "nvidiagtcberlin",
+   "n_outlets": 19,
+   "n_today": 1,
+   "outlets": [
+    "ASSETPHYSICS",
+    "ASUS Pressroom",
+    "Analytics India Magazine",
+    "Asia News Network",
+    "BusinessMole",
+    "Diginomica",
+    "EIN News",
+    "Easy News Press Agency"
+   ],
+   "days": 6,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TradingKey(10-20) | Nvidia GTC Berlin Preview: Rubin Platform, AI Agents and European Sovereign Comp",
+    "PR Newswire(10-22) | Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical A",
+    "ASUS Pressroom(10-22) | ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVI",
+    "Yahoo Finance | Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Huma"
+   ],
+   "score": 10
+  },
+  {
+   "term": "SUSE",
+   "norm": "suse",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "ARNnet",
+    "EIN News",
+    "GlobeNewswire",
+    "IT Brief Asia",
+    "IT Voice Media",
+    "Technology Decisions",
+    "The Fast Mode",
+    "The Futurum Group"
+   ],
+   "days": 5,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(10-22) | SUSE Brings Sovereign Control to Enterprise Agentic AI with NVIDIA",
+    "EIN News(10-22) | AlchemiStudio Integrates With SUSE AI Factory for Enterprise-Wide Sovereign AI G",
+    "GlobeNewswire(10-22) | SUSE and Fujitsu Bring AI-Driven Quantum Computing to Sovereign Enterprise Infra",
+    "Technology Decisions | SUSE teams with NVIDIA to enable sovereign AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Blume Ventures",
+   "norm": "blumeventures",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "BW Disrupt",
+    "Business Connect Magazine",
+    "CIOL",
+    "ET Entrepreneur",
+    "Entrepreneur India",
+    "Indian Startup News",
+    "Siliconindia",
+    "The Economic Times"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "ET Entrepreneur(10-20) | Hunar.AI raises ₹40 Cr series A funding led by Blume Ventures",
+    "The Economic Times(10-20) | AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others",
+    "BW Disrupt(10-20) | Hunar AI Raises Rs 40 Cr In Series A Led By Blume Ventures",
+    "CIOL | Cent Raises $15 Million In Series A Round Led By Blume Ventures, South Park Comm",
+    "Siliconindia | Cent Raises $15 Million in Series A Funding Led by Blume Ventures"
+   ],
+   "score": 10
+  },
+  {
+   "term": "2026 데이터센터코리아",
+   "norm": "2026데이터센터코리아",
+   "n_outlets": 8,
+   "n_today": 5,
+   "outlets": [
+    "e4ds news",
+    "www.dt.co.kr",
+    "공감신문",
+    "냉동공조저널",
+    "디지털경제뉴스",
+    "디지틀조선일보",
+    "비욘드포스트",
+    "투데이에너지"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "냉동공조저널(10-21) | 2026 데이터센터코리아 글로벌 컨퍼런스, AI 시대 냉각·전력·사업 전략 조망",
+    "www.dt.co.kr(10-22) | AI 데이터센터 투자 본격화… ‘2026 데이터센터코리아’ 개막",
+    "비욘드포스트(10-26) | 에이클라우드, ‘2026 데이터센터코리아' 참가... AWS Bedrock·GPU 번들 기반 AI 인프라 솔루션 선보여",
+    "공감신문 | BSI, ‘2026 데이터센터코리아’ 참가…데이터센터 신뢰성 높이는 글로벌 인증 솔루션 선보여",
+    "디지털경제뉴스 | 슈나이더 일렉트릭, ‘2026 데이터센터코리아’에서 AI 데이터센터 통합 솔루션 선보인다",
+    "디지틀조선일보 | 슈나이더 일렉트릭, ‘2026 데이터센터코리아’서 AI 데이터센터 통합 인프라 혁신 전략 제시"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Audi",
+   "norm": "audi",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "Autohled.cz",
+    "Gasgoo",
+    "Supply Chain Digital",
+    "Yahoo Finance",
+    "audi.com",
+    "autoevolution"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "audi.com(10-22) | Agile Robots and Audi to transform automotive logistics with mobile humanoids, s",
+    "Supply Chain Digital(10-22) | Audi and NVIDIA Use Agile Robots for Parts Sequencing Trial",
+    "Gasgoo(10-23) | Gasgoo Daily: Audi Names Jeff Zhang First Chinese President of Audi China; BAIC,",
+    "Yahoo Finance | Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Huma"
+   ],
+   "score": 10
+  },
+  {
+   "term": "지능형 양팔로봇",
+   "norm": "지능형양팔로봇",
+   "n_outlets": 21,
+   "n_today": 1,
+   "outlets": [
+    "ER 이코노믹리뷰",
+    "SBS Biz",
+    "The PR 더피알",
+    "www.ebn.co.kr",
+    "경상일보",
+    "글로벌이코노믹",
+    "뉴스드림",
+    "뉴시스"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "로봇신문(10-22) | HD현대로보틱스, ROBEX 2026서 '지능형 양팔로봇' 공개…제조 피지컬 AI 전략 선보인다",
+    "데일리인베스트(10-22) | HD현대로보틱스, 피지컬AI 기반 '지능형 양팔로봇' 첫선",
+    "인더스트리뉴스(10-22) | HD현대로보틱스, 피지컬 AI 탑재 ‘지능형 양팔로봇’ 첫선… 휴머노이드 시장 정조준",
+    "디펜스투데이 | HD현대로보틱스, 피지컬 AI 기반 '지능형 양팔로봇' 첫선"
+   ],
+   "score": 9
+  }
+ ]
+}
