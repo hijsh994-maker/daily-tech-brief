@@ -61,9 +61,10 @@ def _recent_bias():
 #   인물·인사          -> 해체. 내용에 맞는 카테고리로 배치(대개 AI 투자&시장).
 #   국책과제           -> 유지. 뉴스가 아니라 '공고'이고 공고기관·지원규모·
 #                         마감일을 싣는 별도 서식이라 성격이 다르다.
+# [2026-10-28 사용자 지시] Enterprise AI 를 AI Agent 바로 다음으로 옮김.
 CATEGORY_ORDER = [
-    "AI Model", "AI Agent", "AI DC & Infra", "Physical AI",
-    "Enterprise AI", "AI 보안&정책", "AI 투자&시장",
+    "AI Model", "AI Agent", "Enterprise AI", "AI DC & Infra",
+    "Physical AI", "AI 보안&정책", "AI 투자&시장",
     "국책과제", "기타",
 ]
 

@@ -27,8 +27,8 @@ import argparse, csv, datetime, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from send_telegram import LIMIT, md_to_html, tg_len  # noqa: E402
 
-CATEGORY_ORDER = ["AI Model", "AI Agent", "AI DC & Infra", "Physical AI",
-                  "Enterprise AI", "AI 보안&정책", "AI 투자&시장", "국책과제", "기타"]
+CATEGORY_ORDER = ["AI Model", "AI Agent", "Enterprise AI", "AI DC & Infra",
+                  "Physical AI", "AI 보안&정책", "AI 투자&시장", "국책과제", "기타"]  # 10-28 Enterprise AI 이동
 MARGIN = 40          # retitle 로 제목이 길어지거나 '(i/N)' 꼬리표가 붙을 여유
 SPLIT_MAIN = 0.55    # 본문 예산 중 '주요 내용' 몫 (80:65 ≈ 55:45)
 WARN_PER_ITEM = 110  # 이 아래면 주요 60·시사점 50 도 못 쓴다
