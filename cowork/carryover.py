@@ -118,7 +118,7 @@ def cmd_inject(day):
         print("[carryover] 이월 대기 0건")
         return
     prompt = open(pp, encoding="utf-8").read()
-    if '"tier": "carryover"' in prompt:
+    if '"tier": "carryover"' in prompt or '"tier": "userpick"' in prompt:
         print("[carryover] 이미 넣었음. 건너뜀")
         return
     cache_p = os.path.join(OUT, "bodycache-%s.json" % day)
@@ -126,14 +126,24 @@ def cmd_inject(day):
     lines = []
     for k, x in enumerate(items, 1):
         x["today_idx"] = "C%d" % k
+        opt = bool(x.get("optional"))   # [2026-10-29] 사용자 추천(여유시): 강제 포함·컷 면제 아님
         lines.append(json.dumps({"idx": "C%d" % k, "category": x["category"], "headline": x["headline"],
                                  "outlet": x["outlet"], "url": x["url"], "pub_date": x["pub_date"],
-                                 "n_outlets": 1, "score": None, "tier": "carryover",
-                                 "signals": ["전일이월:%s/%s" % (x["from"], x["idx"])]}, ensure_ascii=False))
+                                 "n_outlets": 1, "score": None, "tier": "userpick" if opt else "carryover",
+                                 "signals": [("사용자추천(여유시):%s" if opt else "전일이월:%s/%s") % ((x["from"],) if opt else (x["from"], x["idx"]))]},
+                                ensure_ascii=False))
         if x["body"]:
             cache[x["url"]] = x["body"]
     json.dump(cache, open(cache_p, "w", encoding="utf-8"), ensure_ascii=False)
-    block = "\n[전일 이월 '고' — 사용자 지시로 오늘 발송본에 반드시 포함 (run.sh carryover)]\n" + "\n".join(lines) + "\n"
+    forced = [l for l in lines if '"tier": "carryover"' in l]
+    optl = [l for l in lines if '"tier": "userpick"' in l]
+    block = ""
+    if forced:
+        block += "\n[전일 이월 '고' — 사용자 지시로 오늘 발송본에 반드시 포함 (run.sh carryover)]\n" + "\n".join(forced) + "\n"
+    if optl:
+        block += ("\n[사용자 추천 — 여유가 있을 때만 싣는다. 강제 포함·분량 컷 면제 아님. 다른 후보와 똑같이 판정하고,"
+                  " '고'면 rank 를 매겨 20건·한 메시지 안에 들어갈 때만 싣는다. 발송본에 이미 같은 사건이 있으면 중복 대표로 둔다]\n"
+                  + "\n".join(optl) + "\n")
     marker = "\n\n[링크 미확보 후보]"
     prompt = (prompt.replace(marker, "\n" + block + marker, 1) if marker in prompt else prompt + "\n" + block)
     open(pp, "w", encoding="utf-8").write(prompt)
@@ -143,10 +153,11 @@ def cmd_inject(day):
             if a["from"] == x["from"] and a["idx"] == x["idx"]:
                 a["today_idx"] = x["today_idx"]
     dump(all_items)
-    print("[carryover] %s 에 이월 '고' %d건 추가(C1~C%d). 판정은 '고' 유지 + 사유에 이월:<원래날짜>, 분량 컷 면제"
-          % (day, len(items), len(items)))
+    nf = sum(1 for x in items if not x.get("optional"))
+    print("[carryover] %s 에 %d건 추가(C1~C%d) — 이월 '고' %d건(등급 유지·분량 컷 면제) / 사용자 추천(여유시) %d건(일반 판정·컷 대상)"
+          % (day, len(items), len(items), nf, len(items) - nf))
     for x in items:
-        print("   %s  %s (%s)" % (x["today_idx"], x["headline"][:60], x["outlet"]))
+        print("   %s  %s%s (%s)" % (x["today_idx"], "[여유시] " if x.get("optional") else "", x["headline"][:60], x["outlet"]))
 
 
 def cmd_check(day, mark=False):
@@ -159,7 +170,7 @@ def cmd_check(day, mark=False):
         for r in csv.DictReader(open(vp, encoding="utf-8")):
             if "이월대체" in (r.get("reason") or ""):
                 repl.add(r["idx"])
-    miss = [x for x in items if x["url"] not in sent and x.get("today_idx") not in repl]
+    miss = [x for x in items if x["url"] not in sent and x.get("today_idx") not in repl and not x.get("optional")]
     print("[carryover] 이월 %d건 중 오늘 발송본 포함 %d건 / 누락 %d건"
           % (len(items), len(items) - len(miss), len(miss)))
     for x in miss:
@@ -167,7 +178,7 @@ def cmd_check(day, mark=False):
     if mark:
         allx = load()
         for a in allx:
-            if not a["consumed"] and a["from"] < day and (a["url"] in sent or a.get("today_idx") in repl):
+            if not a["consumed"] and a["from"] < day and (a["url"] in sent or a.get("today_idx") in repl or a.get("optional")):   # 여유시 추천은 하루만 검토
                 a["consumed"] = day
         dump(allx)
         print("[carryover] 발송 반영: consumed=%s 표시" % day)

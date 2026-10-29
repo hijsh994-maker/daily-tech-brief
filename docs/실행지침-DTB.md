@@ -22,6 +22,10 @@ Brian의 'Daily Tech Brief' 뉴스 파이프라인을 실행하고, 후보 전 �
 - **9단계 send 뒤: `bash cowork/run.sh carryover done`** → 실린 건 consumed 표시. 그 뒤 cloud-push.
 - 발송 뒤 사용자 정정·rescue·late 로 '고'가 늘면 그날 `bash cowork/run.sh carryover save`(링크 대체는 `--override idx=url|헤드라인|매체`) 후 cloud-push.
 - 10단계 보고·알림에 `이월 N건 포함` 을 적는다.
+- **[2026-10-29] 사용자 추천(여유시) 건** — carryover.json 의 `"optional": true` 항목. 사용자: *"반드시 넣으라는게 아니고 여유가 있으면 넣으라고"*
+  blind 의 `=== 사용자추천(여유시) ===` 그룹(C 번호, tier=userpick). **이월 '고'와 달리 등급 고정·분량 컷 면제가 아니다.** 다른 후보와 똑같이 판정하고,
+  '고'면 rank 를 매겨 20건·한 메시지 안에 들어갈 때만 싣는다. 같은 사건이 이미 있으면 `중복 대표<idx>`. `carryover check` 는 누락으로 세지 않고, `done` 이 실렸든 안 실렸든 consumed 로 닫는다(하루만 검토).
+  보고에 `사용자 추천 N건 중 M건 게재(못 실은 건: 사유·rank)` 한 줄.
 
 ## ★★★ 2026-10-27 (2) — 경쟁사 속보 재점검 `run.sh late` (두 번 돈다) ★★★
 10-27 KT '토큰팩토리'(10:00 발표)를 수집(09:44)이 못 잡아 놓쳤다. 사용자: *"가나다 모두 적용해줘"*
