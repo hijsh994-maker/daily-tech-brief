@@ -1,0 +1,21 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(오늘자 다이제스트 없음 / 개별 메시지 8건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+_— 개별 메시지(다이제스트 외) —_
+1. SK하이닉스 3분기 영업익 83조원 역대 최대…엔비디아급 기록 (서울신문)
+o 링크: [seoul.co.kr/news/…/20261028500417](https://www.seoul.co.kr/news/economy/industry/2026/10/28/20261028500417)
+2. OpenAI Reportedly Plans to Buy Google TPUs; Oracle to Bring TPUs to Its Cloud in 2027, Adding Pressure on NVIDIA (TrendForce)
+o 링크: [trendforce.com/news/…/news-openai-reportedly-plans-to-buy-google-tpus-oracle-to-bring-tpus-to-its-cloud-in-2027-adding-pressure-on-nvidia](https://www.trendforce.com/news/2026/10/28/news-openai-reportedly-plans-to-buy-google-tpus-oracle-to-bring-tpus-to-its-cloud-in-2027-adding-pressure-on-nvidia/)
+3. Anthropic Reports Early Drug Development Progress With Claude (Unite.AI)
+o 링크: [unite.ai/anthropic-reports-early-drug-development-progress-with-claude](https://www.unite.ai/anthropic-reports-early-drug-development-progress-with-claude/)
+4. Meta's Muse AI Agent Arrives in Singapore With Grab, Shopee and More (Fintech Singapore)
+o 링크: [fintechnews.sg/139860/ai/meta-muse-ai-agent-singapore](https://fintechnews.sg/139860/ai/meta-muse-ai-agent-singapore/)
+5. 구글 클라우드 매출 103% 급증…알파벳, AI 성장에도 투자 부담 커져 (디지털데일리)
+o 링크: [ddaily.co.kr/page/view/2026102906581869700](https://www.ddaily.co.kr/page/view/2026102906581869700)
+6. MS, 애저 48% 성장에 매출 19%↑…AI·클라우드가 실적 견인 (디지털데일리)
+o 링크: [ddaily.co.kr/page/view/2026102906443413783](https://www.ddaily.co.kr/page/view/2026102906443413783)
+7. Google announces Gemini 4 Carbon with 'significant gains across coding and agentic tasks' (9to5Google)
+o 링크: [9to5google.com/2026/10/28/gemini-4-carbon-announcement](https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/)
+링크 미확보: Artificial Analysis, Intelligence Index v5 발표
+(제외: 연재 근황 1건 — 오픈AI 리셋 Day 21)
+
+## 텔레그램 - 에이닷비즈뉴스레터

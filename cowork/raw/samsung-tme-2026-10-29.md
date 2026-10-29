@@ -1,0 +1,31 @@
+# 삼성 글로벌 AI/SW 텔레그램 — 2026-10-29
+
+- 수집 창: 2026-10-28T08:01+09:00 ~ 2026-10-29T09:36:42+09:00 (직전 다이제스트 이후)
+- 오늘자 다이제스트: 없음
+- 개별 메시지: 다이제스트 외 9건 / 다이제스트와 중복 0건 / 미리보기 사본·반복 정리 2건
+
+## B. 개별 메시지(다이제스트 외) — 기사 링크는 직접 찾아 검증할 것
+1. [10-28 08:32 #4881] [삼성 문준호의 반.전] SK하이닉스 3Q26 실적 vs 컨센서스
+   요약: - 매출액 104.6조원 : +327.9% y-y, +31.9% q-q : 컨센서스 98.2조원 상회 - 영업이익 83.3조원 : +632.1% y-y, +37.6% q-q : 컨센서스 77.0조원 상회 : 영업이익률 79.7% - 지배주주순이익 39.5조원 : +213.9% y-y, -57.9% q-q : 컨센서스 57.9조원 하회 : 지배주주순이익률 37.8% 감사합니다.
+2. [10-28 09:10 #4882] 오픈AI, 구글 TPU 직접 구매 추진. 엔비디아 의존도 다변화
+   요약: : 오픈AI가 구글의 AI 칩 TPU 직접 구매를 추진 중. 구체적인 계약 규모와 조건은 확인되지 않았음 : 오픈AI는 최근 자사 프런티어 모델의 TPU 최적화를 주도할 엔지니어 채용에 착수. 채용 공고에서는 학습 및 추론 워크로드의 TPU 최적화 경험을 요구하고 있어, 실제 도입을 위한 기술 검토가 초기 단계에서 진행 중인 것으로 파악 : 구글은 전일 오라클이 구글 외부 주요 클라우드 사업자 중 최초로 TPU를 고객에게 임대할 예정이라고 발표. 오라클이 TPU를 직접 구매하고 양사의 주요 공동 고객에게 제공하는 구조. 오픈AI는 
+3. [10-28 11:18 #4883] 앤스로픽, Claude 활용 신약 개발 가속화 초기 성과 공개
+   요약: : 앤스로픽은 Bristol Myers Squibb(BMS), BigHat Biosciences, Generate Biomedicines 등 6개 기관과의 공동 연구 성과 발표. 신약 후보물질 설계부터 최적화, 제조, 규제 문서 작성, 임상시험 계획까지 신약 개발 전 과정에 Claude를 적용하는 전략 추진 : Generate Biomedicines: Claude Code로 CAR-T 치료제의 유전적 설계 길이를 약 70% 단축. 실험 결과 면역세포의 암 인식 수용체 생성량 약 10배 증가, 종양세포 제거 효율 및 면역세포 활성 지
+   원천 링크(기사 아님, 검색 단서): https://www.anthropic.com/research/early-progress-drug-development
+4. [10-28 11:26 #4884] 메타 Muse 싱가로르로 확대
+   요약: → 한국은? ㅠㅜ https://x.com/alexandr_wang/status/2115252079593967826
+   원천 링크(기사 아님, 검색 단서): https://x.com/alexandr_wang/status/2115252079593967826?s=46
+5. [10-28 11:57 #4885] 오픈AI, 21일차도 리셋(Day 21)
+   요약: 28일 일정 중 21일이 경과했으며, 남은 7일 동안 어떤 일이 벌어질지 궁금하다고 언급 https://x.com/thsottiaux/status/2114588174249071102
+6. [10-28 15:05 #4886] Artificial Analysis, Intelligence Index v5 발표
+   요약: : Artificial Analysis가 AI 모델 성능 평가 지표인 Intelligence Index v5 공개. 신규 벤치마크 2개 추가 및 기존 3개 개선. 전체 평가의 60%를 비공개 테스트셋 또는 비공개 정답 기반으로 구성해 평가 신뢰도 강화 : 실제 코딩 작업의 코드 병합 가능성을 평가하는 FrontierCode 2.0과 70개 과학 연구 과제로 구성된 Terminal-Bench-Science 추가. 기존 HLE, AA-Omniscience, CritPt 평가도 개선 : Claude Opus 5.5가 58점으로 1위, G
+   원천 링크(기사 아님, 검색 단서): https://x.com/artificialanlys/status/2115265133467635877?s=61
+7. [10-29 05:40 #4888] [삼성 이영진] 알파벳(GOOGL) 3Q26 실적 요약
+   요약: ■ 3Q26 실적 : 매출 1,275.8억 달러(+25%) vs 컨센 1,279.4억 달러 : EPS 2.12 vs 컨센 $3.01 : 광고 매출 820.1억 달러(+10.6%) vs 컨센 836.4억 달러 : 광고 매출 성장률 13.0% → 11.1% →10.4% → 10.6% → 8.4% → 10.4% → 12.7% → 13.6% → 15.5% → 14.4% → 10.6% : 검색 광고 매출 633.5억 달러(+12.0%) vs 컨센 649.6억 달러 : 검색 광고 매출 성장률 14.4% → 13.8% → 12.2% → 12.5
+   원천 링크(기사 아님, 검색 단서): https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf
+8. [10-29 05:47 #4889] [삼성 이영진] 마이크로소프트(MSFT) F1Q27 실적 요약
+   요약: ■ F1Q27 실적 : 매출 922.8억 달러(+19%, +19% cc) vs 컨센 906.2억 달러, 가이던스 898.5-909.5억 달러 : EPS $4.89 vs 컨센 $4.71 : Agents and Infra 767.9억 달러(+25%, +25% cc) vs 컨센 755.4억 달러, 가이던스 751.5-757.5억 달러 : Devices and Consumer 154.8억 달러(-3%, -3% cc) vs 컨센 150.1억 달러, 가이던스 147-152억 달러 : Azure 성장 +48% vs 컨센 +44.3% : Azur
+   원천 링크(기사 아님, 검색 단서): https://view.officeapps.live.com/op/view.aspx?src=https://microsoft.com/en-us/investor/earnings/FY-2027-Q1/Document/DownloadDocument/31/SlidesFY27Q1.pptx
+9. [10-29 06:42 #4890] 구글, Gemini 4 Carbon 발표
+   요약: : Gemini 4 Argon 출시 2주 만에 차세대 프런티어 모델 Gemini 4 Carbon 발표. 복잡한 추론, 코딩, 장기 에이전트 작업 및 사이버보안 역량 강화. 수일간 자율적으로 작업하며 대규모 코드베이스의 버그를 탐지하고 수정하는 능력 확보 : AAII v5에서 59점으로 전체 1위 기록. 9개 평가 중 HLE-Diamond, Terminal-Bench-Science, AA-Omniscience, AutomationBench-AA 등 4개 항목에서 1위 달성. 기존 Argon 대비 9점 상승 : 코딩 에이전트 지수에서는
+   원천 링크(기사 아님, 검색 단서): https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/

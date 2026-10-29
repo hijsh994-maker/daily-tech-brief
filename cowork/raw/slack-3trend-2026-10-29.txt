@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-29 09:00:23 KST === 
+Message TS: 1793232023.321529
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-29 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261028000138|세계 개발자 축제 '깃허브 유니버스 2026' 개막…AI 에이전트 개발 혁신 조명>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261028000045|[2026 K-오픈소스 AX] 데브스택 “AI 시대 제로데이 위협, 멀티 에이전트 협업으로 대응해야”>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/|Amazon Bedrock AgentCore에서 Agentic AI 플랫폼 구축>* (AWS Machine Learning Blog)
+*4. [:robot_face: AI Agent] <https://openai.com/index/legora|Legora는 법적 작업을 위한 에이전트 운영 체제를 구축하고 있습니다>* (OpenAI News &amp; Research)
+*5. [:rocket: BigTech Release] <https://openai.com/index/openai-servicenow-partnership-expansion|OpenAI 및 ServiceNow는 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십을 확장합니다.>* (OpenAI News &amp; Research)
+*6. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/|Amazon Nova Act를 사용하여 에이전트 QA 자동화를 통한 소프트웨어 제공 가속화 – 3부>* (AWS Machine Learning Blog)
+*7. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/|As AI agents reshape the web, Google opens Gemini and Search to more apps>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/|Microsoft recorded $10 billion in revenue from OpenAI>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/|Anthropic just launched tools to show companies what their AI spending is buying>* (TechCrunch)
+*10. [:robot_face: AI Agent] <https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier|Google, 사이버 보안의 ‘중요한 도약‘ 과 함께 Gemini 4 Carbon 출시>* (The Verge)

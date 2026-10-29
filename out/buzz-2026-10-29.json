@@ -1,0 +1,448 @@
+{
+ "date": "2026-10-29",
+ "terms": [
+  {
+   "term": "Microduck",
+   "norm": "microduck",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Hindustan Herald",
+    "NVIDIA Developer",
+    "Stark Insider",
+    "TechCrunch"
+   ],
+   "days": 3,
+   "first": "2026-10-23",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Hindustan Herald(10-23) | Microduck: Tiny Robot’s Stunning AI Leap at NVIDIA GTC",
+    "NVIDIA Developer(10-26) | Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Te",
+    "TechCrunch(10-26) | Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0",
+    "Stark Insider | Microduck: 20,000 Preorders and an AI Agent Custody Fight"
+   ],
+   "score": 16
+  },
+  {
+   "term": "PHP2Shell",
+   "norm": "php2shell",
+   "n_outlets": 13,
+   "n_today": 3,
+   "outlets": [
+    "7AI",
+    "AI 매터스",
+    "HN",
+    "OX Security",
+    "SECURITY.COM",
+    "TechCrunch",
+    "Unite.AI",
+    "데이터넷"
+   ],
+   "days": 6,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-22) | PHP2Shell: AI uncovers critical RCE in PHP",
+    "보안뉴스(10-23) | [PHP2Shell 파장] AI로 협력한 보안 업계, PHP 치명적 결함 발견에 핵심 역할",
+    "아이티데일리(10-23) | 스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "서울경제 | 이스트시큐리티, ‘PHP2Shell’ 대응 강화…전용 스캐너 배포",
+    "아이뉴스24 | 이스트시큐리티, &apos;PHP2Shell&apos; 취약점 긴급 점검 도구 무료 배포",
+    "TechCrunch | Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’"
+   ],
+   "score": 15
+  },
+  {
+   "term": "K-건강검진",
+   "norm": "k건강검진",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "강원경제신문",
+    "뉴스N제주",
+    "서울동부신문",
+    "의학신문"
+   ],
+   "days": 3,
+   "first": "2026-10-27",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "의학신문(10-27) | 건협, AI K-건강검진으로 아프리카 보건의료 AX 힘 보탠다",
+    "서울동부신문(10-27) | 세계은행, AI 기반 ‘K-건강검진’ 노하우 견학",
+    "강원경제신문(10-28) | 세계은행이 주목한 AI활용 ‘K-건강검진’... 한국건강관리협회와 아프리카 보건의료 AI 협력 모색",
+    "뉴스N제주 | 세계은행이 주목한 AI활용 ‘K-건강검진’... 한국건강관리협회와 아프리카 보건의료 AI 협력 모색"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Terra",
+   "norm": "terra",
+   "n_outlets": 55,
+   "n_today": 4,
+   "outlets": [
+    "9to5Mac",
+    "AI Magazine",
+    "ASCII.jp",
+    "Analytics India Magazine",
+    "Android Authority",
+    "Android Headlines",
+    "BeInCrypto",
+    "BigGo Finance"
+   ],
+   "days": 3,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "이코노미블록(10-27) | 오픈AI, 컴퓨터 조작 AI ‘GPT-6.1 Terra’ 출시…API 가격 절반으로",
+    "GeekNews(10-27) | GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "OrcaRouter(10-27) | GPT-6.1 Terra: 절반 가격, 오류 점수 37점 감소",
+    "OpenAI | GPT-6.1 Terra 소개",
+    "DesignRush | Half-Price Terra, 20% Indie Agency Squeeze: DesignRush AI Roundup",
+    "BigGo Finance | OpenAI Cuts Token Prices Again With GPT-6.1 Terra, Fueling AI Price War"
+   ],
+   "score": 14
+  },
+  {
+   "term": "알멕",
+   "norm": "알멕",
+   "n_outlets": 4,
+   "n_today": 3,
+   "outlets": [
+    "YouTube",
+    "네이트",
+    "머니투데이",
+    "프라임경제"
+   ],
+   "days": 2,
+   "first": "2026-10-29",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "프라임경제(10-28) | 알멕, 스페이스X 실사 '만점'에 보스턴다이나믹스 '동행'까지…글로벌 공급망 최정점 '임박'",
+    "머니투데이 | [오늘 이 종목] 역대 최대 실적 ‘셀트리온’ · 스페이스X · 로봇 '알멕' 주목 - 머니투데이",
+    "네이트 | [오늘 이 종목] 역대 최대 실적 '셀트리온' · 스페이스X · 로봇 '알멕' 주목",
+    "YouTube | [잠금해제 언폴드] 스페이스X에 보스턴 다이내믹스까지 알멕의 특급 재료? / 머니투데이방송 (증시, 증권)"
+   ],
+   "score": 14
+  },
+  {
+   "term": "그림의 떡",
+   "norm": "그림의떡",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "뉴스웨이",
+    "뉴시스",
+    "한국경제"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "뉴스웨이(10-21) | 그림의 떡? 하늘 나는 테슬라 로드스터, 국내엔 기본형 우선 출시",
+    "뉴시스(10-22) | \"15% 깎아준다더니 혜택은 0원\"…'그림의 떡' 된 AI 데이터센터 세액공제",
+    "한국경제 | 앤스로픽공모주 '그림의 떡'아시아투자자…블룸버그가 주목한 주식은?",
+    "한국경제 | 앤스로픽공모주 '그림의 떡'아시아투자자…블룸버그가 주목한 주식은?"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Moody",
+   "norm": "moody",
+   "n_outlets": 6,
+   "n_today": 3,
+   "outlets": [
+    "AOL.com",
+    "BigGo Finance",
+    "Taipei Times",
+    "The Globe and Mail",
+    "The Standard (HK)",
+    "헤럴드경제"
+   ],
+   "days": 3,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Taipei Times(10-22) | Moody’s upgrades TSMC credit rating",
+    "The Globe and Mail(10-22) | Moody's (MCO) Q3 2026 Earnings Call Transcript",
+    "AOL.com(10-28) | AI financing driving private credit growth as refinancing risks rise, Moody’s sa",
+    "The Standard (HK) | AI financing driving private credit growth as refinancing risks rise, Moody's sa",
+    "BigGo Finance | Moody's Warns AI Borrowing Spree Could Turn Into a Debt Time Bomb as Nearly $1 T",
+    "헤럴드경제 | Moody's warns of AI debt maturity surge, 'circular financing' risks within 3 yea"
+   ],
+   "score": 13
+  },
+  {
+   "term": "MiniMaxAI",
+   "norm": "minimaxai",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HuggingFace"
+   ],
+   "days": 1,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace | HF trending: MiniMaxAI/MiniMax-M3.1-Flash"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Galaxy Digital",
+   "norm": "galaxydigital",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Briefs Finance",
+    "Investing.com 한국어"
+   ],
+   "days": 3,
+   "first": "2026-10-28",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "BigGo Finance(10-20) | Galaxy Digital Plunges 30% in Two Weeks; StoneX Says AI Data Center Value Is Und",
+    "Investing.com 한국어(10-28) | BTIG, 데이터센터 사업 역풍에 Galaxy Digital 목표주가 하향",
+    "Briefs Finance(10-28) | Galaxy Digital beats in Q3 as AI data-center pivot adds cash",
+    "Investing.com 한국어 | StoneX, 데이터센터 전략 주목하며 Galaxy Digital 매수 의견 유지"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Christmas",
+   "norm": "christmas",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "TechCrunch",
+    "la Repubblica"
+   ],
+   "days": 2,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "TechCrunch(10-26) | Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0",
+    "la Repubblica | Humanoid robots set to arrive in factories. Meet L.U.C.A: “In 20 companies by Ch"
+   ],
+   "score": 8
+  },
+  {
+   "term": "DAYJOB",
+   "norm": "dayjob",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "GeekNews",
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-29",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews | DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
+    "HN | Dayjob: Tax – evaluating AI agents on 50 professional tax assignments"
+   ],
+   "score": 8
+  },
+  {
+   "term": "AI리터러시",
+   "norm": "ai리터러시",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "뉴스웍스",
+    "이데일리"
+   ],
+   "days": 1,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴스웍스 | [IT라운지] 신승훈 펀진 연구소장 '장관 표창'·피처링 'AI 에이전트 공개'·더SMC '요리 예능'·플래티어-GS네오텍 'MOU'·'춘천여행",
+    "이데일리 | 하반기 채용 AI가 가른다…인크루트, 'AI리터러시' 이용률 2배 증가"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "금융의 날",
+   "norm": "금융의날",
+   "n_outlets": 20,
+   "n_today": 8,
+   "outlets": [
+    "KPI뉴스",
+    "SK텔레콤 뉴스룸",
+    "www.ebn.co.kr",
+    "내외경제TV",
+    "데일리인베스트",
+    "디지털데일리",
+    "라이센스뉴스",
+    "매일경제 마켓"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SK텔레콤 뉴스룸(10-21) | SKT-금융감독원, 금융의 날 앞두고 보이스피싱 피해 예방 나서",
+    "한국정경신문(10-21) | SKT·금감원, 금융의 날 앞두고 맞손..보이스피싱 예방 교육·기술 협력",
+    "이투데이(10-21) | SKT, 금융의 날 앞두고 금감원과 보이스피싱 피해 예방 캠페인",
+    "전자신문 | 카카오뱅크, '금융의 날' 금융위원장 표창…AI·자녀금융 혁신 공로",
+    "팝콘뉴스 | 카카오뱅크 임직원 2명, 금융의 날 금융위원장 표창 받아",
+    "인사이트코리아 | 카카오뱅크, 금융의 날 '2관왕'…AI 혁신·저축 활성화 인정"
+   ],
+   "score": 10
+  },
+  {
+   "term": "PyTorch",
+   "norm": "pytorch",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "DataCenterNews Asia Pacific",
+    "Google Cloud",
+    "HPCwire",
+    "Investing.com 한국어",
+    "Nscale",
+    "StorageReview.com",
+    "The Tech Buzz"
+   ],
+   "days": 6,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-20) | 아마존, 자체 AI 칩에서 PyTorch 코드 실행하는 도구 공개",
+    "Unite.AI(10-21) | PyTorch 콘퍼런스에서 프로덕션 추론 스택을 갖춘 llm-d 1.0 공개",
+    "토큰포스트(10-21) | 구글·아마존, PyTorch 앱을 자체 AI 칩으로 옮긴다",
+    "Google Cloud | 오픈소스로 제공되는 TorchTPU: TPU에서 네이티브 PyTorch 실행"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Blume Ventures",
+   "norm": "blumeventures",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "Business Connect Magazine",
+    "CIOL",
+    "ET Entrepreneur",
+    "Entrepreneur India",
+    "Indian Startup News",
+    "Indian Startup Times",
+    "Siliconindia"
+   ],
+   "days": 5,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "ET Entrepreneur(10-20) | Hunar.AI raises ₹40 Cr series A funding led by Blume Ventures",
+    "The Economic Times(10-20) | AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others",
+    "BW Disrupt(10-20) | Hunar AI Raises Rs 40 Cr In Series A Led By Blume Ventures",
+    "Indian Startup Times | Cent Raises $15 Million Series A Led by Blume Ventures and South Park Commons to"
+   ],
+   "score": 10
+  },
+  {
+   "term": "맨발의 사나이",
+   "norm": "맨발의사나이",
+   "n_outlets": 10,
+   "n_today": 4,
+   "outlets": [
+    "경기도민뉴스",
+    "경기일보",
+    "경인종합일보",
+    "국민뉴스",
+    "녹색경제신문",
+    "더최고신문",
+    "더코리아",
+    "서울경제"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "경기일보(10-26) | “빙하의 눈물 지구를 살려주세요”… 맨발의 사나이 조승환, 휴머노이드 로봇과 대결서 승리",
+    "국민뉴스(10-27) | ‘맨발의 사나이’ 조승환, 휴머노이드 로봇과 얼음 위 대결 완승",
+    "녹색경제신문(10-27) | \"지구를 구하자\"… '맨발의 사나이' 조승환, 로봇과 대결서 5시간 45분 신기록",
+    "인천일보 | ‘맨발의 사나이’ 조승환, AI 로봇 꺾고 5시간 45분 신기록 달성",
+    "경인종합일보 | ‘맨발의 사나이’ 조승환, 여주서 AI 로봇 제치고 얼음 위 버티기 5시간 45분 ‘세계신기록’",
+    "경기도민뉴스 | ‘맨발의 사나이’ 조승환씨, 로봇 대결 승리"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Audi",
+   "norm": "audi",
+   "n_outlets": 8,
+   "n_today": 2,
+   "outlets": [
+    "Assembly Magazine",
+    "Autohled.cz",
+    "Automotive Logistics",
+    "Gasgoo",
+    "Supply Chain Digital",
+    "Yahoo Finance",
+    "audi.com",
+    "autoevolution"
+   ],
+   "days": 5,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "audi.com(10-22) | Agile Robots and Audi to transform automotive logistics with mobile humanoids, s",
+    "Supply Chain Digital(10-22) | Audi and NVIDIA Use Agile Robots for Parts Sequencing Trial",
+    "Gasgoo(10-23) | Gasgoo Daily: Audi Names Jeff Zhang First Chinese President of Audi China; BAIC,",
+    "Assembly Magazine | Audi Testing Humanoid Robots for Logistics",
+    "Automotive Logistics | Audi to automate parts sequencing with mobile humanoid robots"
+   ],
+   "score": 10
+  },
+  {
+   "term": "MacBook",
+   "norm": "macbook",
+   "n_outlets": 7,
+   "n_today": 4,
+   "outlets": [
+    "ASO World",
+    "GeekNews",
+    "Investing.com 한국어",
+    "Laodong.vn",
+    "TechCrunch",
+    "The Verge",
+    "https://tech-insider.org/"
+   ],
+   "days": 4,
+   "first": "2026-10-20",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Laodong.vn(10-20) | 24시간 기술: DeepSeek AI 업그레이드, Apple 새 MacBook Pro 출시 준비",
+    "https://tech-insider.org/(10-20) | MacBook Pro M5 Pro: Apple Oct. 28 Event Preview [2026]",
+    "ASO World(10-21) | Apple \"Pro and Tell\" on October 28: Touchscreen MacBook Pro, M6 iMac and iPad mi",
+    "GeekNews | M6를 탑재한 새로운 14인치 MacBook Pro",
+    "Investing.com 한국어 | 애플, OLED 디스플레이·터치스크린 탑재 MacBook Pro 공개",
+    "TechCrunch | Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme"
+   ],
+   "score": 10
+  }
+ ]
+}
