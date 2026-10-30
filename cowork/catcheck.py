@@ -101,6 +101,8 @@ RULE_EARN = re.compile(r"(분기|[1-4]Q|FY\d|회계연도).{0,20}(매출|영업�
 RULE_FUND = re.compile(r"인수|매각|투자 ?유치|지분 ?투자|투자 참여|시리즈 ?[A-H]|기업가치|밸류|라운드|raises?|valuation|acquir|funding|series [a-h]|merger", re.I)
 RULE_DCFIN = re.compile(r"(대출|보증|회사채|채권|조달|차입|loan|debt|bond|financ)", re.I)
 RULE_DC = re.compile(r"데이터센터|AIDC|AI ?DC|data ?cent|GPU|MW|GW|AI 투자|AI 인프라", re.I)
+# 10-30 사용자 확정: 정부 주체라도 독파모·모두의 AI·소버린 모델은 AI Model/AI Agent, AIDC 사업·법은 DC 에 둔다
+RULE_POLICY_EXEMPT = re.compile(r"독파모|독자 ?AI|독자 ?모델|파운데이션 모델|모두의 ?AI|소버린|프런티어 AI|프론티어 AI|데이터센터|AIDC|AI ?DC", re.I)
 RULE_POLICY = re.compile(r"^(정부|중기부|과기정통부|과기부|산업부|방미통위|국회|의회|백악관|상무부|EU|미 정부|美 정부)|정부[,가는]|법안|입법|행정명령|규제 (강화|완화|도입)|예산|국가정책", re.I)
 
 
@@ -131,7 +133,8 @@ def check_rules(path):
             hits.append((sec, head, "AI DC & Infra", "DC 건설 금융 조달"))
         elif RULE_FUND.search(t) and not dcfin and sec != "AI 투자&시장":
             hits.append((sec, head, "AI 투자&시장", "인수·매각·펀딩"))
-        elif RULE_POLICY.search(head) and not RULE_FUND.search(t) and sec != "AI 보안&정책":
+        elif (RULE_POLICY.search(head) and not RULE_FUND.search(t)
+              and not RULE_POLICY_EXEMPT.search(head) and sec != "AI 보안&정책"):
             hits.append((sec, head, "AI 보안&정책", "정부 정책·예산·규제"))
     return hits
 
