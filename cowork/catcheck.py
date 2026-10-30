@@ -101,16 +101,48 @@ RULE_EARN = re.compile(r"(분기|[1-4]Q|FY\d|회계연도).{0,20}(매출|영업�
 RULE_FUND = re.compile(r"인수|매각|투자 ?유치|지분 ?투자|투자 참여|시리즈 ?[A-H]|기업가치|밸류|라운드|raises?|valuation|acquir|funding|series [a-h]|merger", re.I)
 RULE_DCFIN = re.compile(r"(대출|보증|회사채|채권|조달|차입|loan|debt|bond|financ)", re.I)
 RULE_DC = re.compile(r"데이터센터|AIDC|AI ?DC|data ?cent|GPU|MW|GW|AI 투자|AI 인프라", re.I)
-# 10-30 사용자 확정: 정부 주체라도 독파모·모두의 AI·소버린 모델은 AI Model/AI Agent, AIDC 사업·법은 DC 에 둔다
-RULE_POLICY_EXEMPT = re.compile(r"독파모|독자 ?AI|독자 ?모델|파운데이션 모델|모두의 ?AI|소버린|프런티어 AI|프론티어 AI|데이터센터|AIDC|AI ?DC", re.I)
-RULE_POLICY = re.compile(r"^(정부|중기부|과기정통부|과기부|산업부|방미통위|국회|의회|백악관|상무부|EU|미 정부|美 정부)|정부[,가는]|법안|입법|행정명령|규제 (강화|완화|도입)|예산|국가정책", re.I)
+RULE_EARN = re.compile(r"(분기|[1-4]Q|FY\d|회계연도).{0,20}(매출|영업이익|순이익|실적)|실적 (발표|쇼크|부진|호조)|가이던스|earnings|quarterly results|매출.{0,12}% (성장|급증|증가)|\d+% 성장…|영업이익률", re.I)
+RULE_FUND = re.compile(r"인수|매각|투자 ?유치|지분 ?(투자|인수|매입)|투자 참여|시리즈 ?[A-H]\b|기업가치|밸류|몸값|IPO|상장|라운드|시드|베팅|품어|품는다|raises?\b|valuation|acquir|funding|series [a-h]\b|merger", re.I)
+RULE_DCFIN = re.compile(r"대출|보증|회사채|채권|조달|차입|loan|debt|bond|financ", re.I)
+RULE_DC = re.compile(r"데이터센터|AIDC|AI ?DC|data ?cent|GPU|MW|GW|AI 투자|AI 인프라", re.I)
+RULE_NAT_MODEL = re.compile(r"독파모|독자 ?AI|독자 ?모델|소버린 ?(AI|모델)|프런티어 AI|프론티어 AI", re.I)
+RULE_NAT_AGENT = re.compile(r"모두의 ?AI", re.I)
+RULE_NAT_DC = re.compile(r"(정부|특별법|인허가|국가|지자체|시,|도,|유치).{0,30}(데이터센터|AIDC)|(데이터센터|AIDC).{0,30}(정부|특별법|인허가|유치)", re.I)
+RULE_POLICY = re.compile(r"^(정부|중기부|과기정통부|과기부|산업부|방미통위|국회|의회|백악관|상무부|법무부|EU|미 정부|美 정부)|정부[,가는]|법안|입법|행정명령|규제 (강화|완화|도입)|예산|국가정책|과징금", re.I)
+RULE_SAFETY = re.compile(r"해킹|해커|공격|위협|취약점|보안 사고|유출|악용|탈옥|딥페이크|안전|감시|오정렬|misalign|monitor|행동 원칙|모델 스펙|소송|제소", re.I)
+RULE_INFRA = re.compile(r"데이터센터|AIDC|GPU|HBM|AI ?칩|반도체|전력|컴퓨팅|TPU|NPU|data ?cent", re.I)
+RULE_ROBOT = re.compile(r"로봇|휴머노이드|자율주행|robot|humanoid", re.I)
+
+
+def predict(head, body):
+    """판정 순서(brief.py CATEGORY_RULES) 를 낱말로 흉내낸다. (권장 카테고리, 사유) 또는 None."""
+    t = head + " " + body
+    dcfin = RULE_DCFIN.search(t) and RULE_DC.search(t)
+    if RULE_EARN.search(t) and not dcfin:
+        return "싣지 않음", "0) 실적 기사"
+    if RULE_FUND.search(head):
+        return "AI 투자&시장", "2) 지분 이동(인수·매각·펀딩)"
+    if RULE_NAT_MODEL.search(head):
+        return "AI Model", "3) 국가 AI 사업(독파모·소버린)"
+    if RULE_NAT_AGENT.search(head):
+        return "AI Agent", "3) 국가 AI 사업(모두의 AI)"
+    if RULE_NAT_DC.search(head):
+        return "AI DC & Infra", "3) 국가 AI 사업(AIDC)"
+    if RULE_POLICY.search(head):
+        return "AI 보안&정책", "4) 정부 정책·예산·규제"
+    if RULE_SAFETY.search(head):
+        return "AI 보안&정책", "5) 위협·안전·소송"
+    if dcfin or RULE_INFRA.search(head):
+        return "AI DC & Infra", "6) 물리 인프라·DC 차입"
+    if RULE_ROBOT.search(head):
+        return "Physical AI", "7) 로봇·자율주행"
+    return None
 
 
 def check_rules(path):
-    """발송본 각 기사(헤드라인+주요 내용)를 원칙과 대조. [(섹션, 헤드라인, 권장, 사유)]"""
+    """발송본 각 기사를 판정 순서와 대조. [(섹션, 헤드라인, 권장, 사유)] — 8~10번(모델·에이전트·기업)은 낱말로 못 갈라 찍지 않는다."""
     text = open(path, encoding="utf-8").read()
-    hits, sec, cur = [], None, None
-    blocks = []
+    hits, sec, cur, blocks = [], None, None, []
     for line in text.splitlines():
         m = re.match(r"^\*\*■\s*(.+?)\*\*\s*$", line)
         if m:
@@ -124,20 +156,10 @@ def check_rules(path):
         if cur is not None and "주요 내용" in line:
             cur[2] = line
     for sec, head, body in blocks:
-        t = head + " " + body
-        dcfin = RULE_DCFIN.search(t) and RULE_DC.search(t)
-        if RULE_EARN.search(t) and not dcfin:
-            hits.append((sec, head, "싣지 않음", "실적 기사는 싣지 않음"))
-            continue
-        if dcfin and sec != "AI DC & Infra":
-            hits.append((sec, head, "AI DC & Infra", "DC 건설 금융 조달"))
-        elif RULE_FUND.search(t) and not dcfin and sec != "AI 투자&시장":
-            hits.append((sec, head, "AI 투자&시장", "인수·매각·펀딩"))
-        elif (RULE_POLICY.search(head) and not RULE_FUND.search(t)
-              and not RULE_POLICY_EXEMPT.search(head) and sec != "AI 보안&정책"):
-            hits.append((sec, head, "AI 보안&정책", "정부 정책·예산·규제"))
+        p = predict(head, body)
+        if p and norm(p[0]) != norm(sec or ""):
+            hits.append((sec, head, p[0], p[1]))
     return hits
-
 
 def main():
     ap = argparse.ArgumentParser()
