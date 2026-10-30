@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-10-30 09:00:20 KST === 
+Message TS: 1793318420.215999
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-10-30 · 10건)
+*1. [:robot_face: AI Agent] <https://www.aitimes.kr/news/articleView.html?idxno=42484|AI 에이전트가 스스로 작업 승인한다…AWS, 위험한 행동만 사람에게 확인 받는다>* (인공지능신문)
+*2. [:sparkles: Agent UX] <https://www.aitimes.com/news/articleView.html?idxno=216808|앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시>* (AI타임스)
+*3. [:robot_face: AI Agent] <https://www.aitimes.com/news/articleView.html?idxno=216798|카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개>* (AI타임스)
+*4. [:office: Enterprise AI] <https://news.hada.io/topic?id=36202|Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국...>* (GeekNews (긱뉴스 테크 큐레이션))
+*5. [:robot_face: AI Agent] <https://www.etnews.com/20261029000156|[기고] 사람을 넘어 AI 에이전트까지 제로 트러스트를 확장하라>* (전자신문 (AI))
+*6. [:robot_face: AI Agent] <https://www.etnews.com/20261029000352|아카마이, AI 에이전트 샌드박스 출시…코드 실행 보안 강화>* (전자신문 (AI))
+*7. [:robot_face: AI Agent] <https://www.etnews.com/20261029000221|독거노인종합지원센터, 인튠랩스와 AI 에이전트 기반 '노인 돌봄 플랫폼' 본격 가동>* (전자신문 (AI))
+*8. [:robot_face: AI Agent] <https://www.etnews.com/20261029000115|이글루코퍼레이션, 보안 AI 에이전트 'AiR' 3종으로 확대>* (전자신문 (AI))
+*9. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/|Amazon EKS 및 SageMaker HyperPod EKS에서 NVIDIA Nemotron 모델로 에이전트 AI 가속화>* (AWS Machine Learning Blog)
+*10. [:robot_face: AI Agent] <https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/|Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round>* (TechCrunch)

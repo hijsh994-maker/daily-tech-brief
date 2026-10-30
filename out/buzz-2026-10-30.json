@@ -1,0 +1,434 @@
+{
+ "date": "2026-10-30",
+ "terms": [
+  {
+   "term": "Indic",
+   "norm": "indic",
+   "n_outlets": 9,
+   "n_today": 4,
+   "outlets": [
+    "BW Businessworld",
+    "Business Standard",
+    "BusinessLine",
+    "CIOL",
+    "ET Enterprise AI",
+    "Fortune India",
+    "Livemint",
+    "Rediff"
+   ],
+   "days": 2,
+   "first": "2026-10-29",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Business Standard(10-29) | Sarvam dominates Indic AI funding in 2026 with 87% share: Tracxn report",
+    "The Hindu(10-29) | Report pegs India’s all-time Indic AI funding at $687 million; more than 80% cap",
+    "BW Businessworld(10-29) | Indic AI Startups Raise $399 Mn In 2026, Sarvam Accounts For 87%",
+    "Rediff | Sarvam Secures 87% of Indic AI Funding in 2026, Tracxn Reports",
+    "ET Enterprise AI | Indic AI startup funding surges 17-fold to $399 million in 2026, driven by Sarva",
+    "CIOL | Sarvam AI Drives 87% of India's Indic AI Funding in 2026: Tracxn"
+   ],
+   "score": 16
+  },
+  {
+   "term": "Terra",
+   "norm": "terra",
+   "n_outlets": 58,
+   "n_today": 4,
+   "outlets": [
+    "9to5Mac",
+    "AI Magazine",
+    "ASCII.jp",
+    "Analytics India Magazine",
+    "Android Authority",
+    "Android Headlines",
+    "BeInCrypto",
+    "BigGo Finance"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "이코노미블록(10-27) | 오픈AI, 컴퓨터 조작 AI ‘GPT-6.1 Terra’ 출시…API 가격 절반으로",
+    "GeekNews(10-27) | GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "OrcaRouter(10-27) | GPT-6.1 Terra: 절반 가격, 오류 점수 37점 감소",
+    "OpenAI | GPT-6.1 Terra 소개",
+    "토큰포스트 | GPT-6.1 Terra, 에이전트 평가 8위…순 개선 점수 10.6%",
+    "Yahoo Tech | OpenAI’s new GPT-6.1 Terra model gets Astra-like results for one-tenth the price"
+   ],
+   "score": 15
+  },
+  {
+   "term": "LFM3",
+   "norm": "lfm3",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "GeekNews",
+    "HuggingFace"
+   ],
+   "days": 3,
+   "first": "2026-10-28",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "GeekNews(10-28) | LFM3 소개: 특화 지능을 위한 모든 모달리티",
+    "AI타임스(10-29) | 리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원",
+    "HuggingFace | HF trending: LiquidAI/LFM3-1.7B"
+   ],
+   "score": 15
+  },
+  {
+   "term": "SentinelOne",
+   "norm": "sentinelone",
+   "n_outlets": 13,
+   "n_today": 4,
+   "outlets": [
+    "CRN",
+    "Channel Dive",
+    "Channel Insider",
+    "Computer Weekly",
+    "Investing.com",
+    "Investing.com Nigeria",
+    "Investing.com 한국어",
+    "SecurityBrief Australia"
+   ],
+   "days": 4,
+   "first": "2026-10-22",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-22) | SentinelOne, AI 에이전트 보안 탐지 플랫폼 출시",
+    "Investing.com 한국어(10-22) | SentinelOne, OneCon 2026서 AI 에이전트 보안 제품 공개",
+    "Investing.com 한국어(10-22) | SentinelOne, Lenovo와 협력 확대…AI 보안 기능 추가",
+    "CRN | SentinelOne’s Chris Corde On Why Traditional EDR Is ‘Flying Blind’ On AI Agents",
+    "Computer Weekly | SentinelOne channel lead talks of AI security opportunity",
+    "VARIndia | SentinelOne announces Singularity Agentic Detection and Response to discover AI "
+   ],
+   "score": 14
+  },
+  {
+   "term": "FuriosaAI",
+   "norm": "furiosaai",
+   "n_outlets": 11,
+   "n_today": 9,
+   "outlets": [
+    "Beinsure",
+    "BigGo Finance",
+    "Bloomberg",
+    "Bloomberg.com",
+    "Dealroom",
+    "KuCoin",
+    "SiliconANGLE",
+    "Tech Wire Asia"
+   ],
+   "days": 2,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Bloomberg(10-29) | FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
+    "Dealroom(10-29) | FuriosaAI raises $620M Series D, quadruples valuation to $2.9B in Nvidia challen",
+    "Bloomberg.com | FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
+    "Tech Wire Asia | Korea's state fund anchors FuriosaAI's US$620 million round in push for homegrow",
+    "KuCoin | South Korean AI chip startup FuriosaAI’s valuation surges to $2.9 billion follow",
+    "The Edge Malaysia | South Korea's FuriosaAI quadruples value to US$2.9 bil in Nvidia chase"
+   ],
+   "score": 12
+  },
+  {
+   "term": "LiquidAI",
+   "norm": "liquidai",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HuggingFace"
+   ],
+   "days": 1,
+   "first": "2026-10-30",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace | HF trending: LiquidAI/LFM3-1.7B"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Artificial Analysis Intelligence Index",
+   "norm": "artificialanalysisintelligenceindex",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "GeekNews",
+    "HN",
+    "OfficeChai"
+   ],
+   "days": 2,
+   "first": "2026-10-29",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews(10-29) | Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+    "OfficeChai(10-29) | Google's Gemini 4 Carbon Tops Artificial Analysis Intelligence Index, Becomes To",
+    "HN | Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Agent SDK",
+   "norm": "agentsdk",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "Startup Fortune"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Startup Fortune(10-26) | Anthropic quietly separates Claude Agent SDK usage from subscription limits",
+    "HN | The Agent SDK"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Moscow",
+   "norm": "moscow",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Euronews.com",
+    "WION"
+   ],
+   "days": 2,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Euronews.com(10-26) | Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
+    "WION | 'POV: When on your last nerve': Robot 'dances to avoid a fine' in front of Mosco"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Zombie",
+   "norm": "zombie",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Zombie stats: Where the numbers AI quotes come from"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Loser Thinking",
+   "norm": "loserthinking",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Manifestos",
+   "norm": "manifestos",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Simplismart",
+   "norm": "simplismart",
+   "n_outlets": 22,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "AiThority",
+    "Analytics India Magazine",
+    "BW Disrupt",
+    "Brief IA",
+    "Business Standard",
+    "Convergence Now",
+    "Crypto Briefing"
+   ],
+   "days": 4,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Economic Times(10-21) | AI startup Simplismart in talks to raise $40-50 million; valuation may triple",
+    "Analytics India Magazine(10-28) | Bengaluru AI Startup Simplismart Raises $14 Mn in NVIDIA-Backed Round",
+    "Startup Fortune(10-28) | Nvidia is in talks to lead a $20 million round for Simplismart",
+    "TripuraTimes.com | Nvidia backs Indian AI startup Simplismart in $14 million funding round"
+   ],
+   "score": 10
+  },
+  {
+   "term": "금융의 날",
+   "norm": "금융의날",
+   "n_outlets": 20,
+   "n_today": 2,
+   "outlets": [
+    "KPI뉴스",
+    "SK텔레콤 뉴스룸",
+    "www.ebn.co.kr",
+    "내외경제TV",
+    "데일리인베스트",
+    "디지털데일리",
+    "라이센스뉴스",
+    "매일경제 마켓"
+   ],
+   "days": 5,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SK텔레콤 뉴스룸(10-21) | SKT-금융감독원, 금융의 날 앞두고 보이스피싱 피해 예방 나서",
+    "한국정경신문(10-21) | SKT·금감원, 금융의 날 앞두고 맞손..보이스피싱 예방 교육·기술 협력",
+    "이투데이(10-21) | SKT, 금융의 날 앞두고 금감원과 보이스피싱 피해 예방 캠페인",
+    "아시아경제 | 코스콤, '제11회 금융의 날' 기념식서 포용금융 부문 수상",
+    "디지털데일리 | 코스콤, '금융의 날' 포용금융 표창…ETF 정보 플랫폼 무료 제공 공로"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Elvis Presley",
+   "norm": "elvispresley",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "Billboard",
+    "Far Out Magazine",
+    "Happy Mag",
+    "Hit Channel",
+    "Law Commentary",
+    "Los Angeles Times",
+    "Mashable",
+    "NBC News"
+   ],
+   "days": 4,
+   "first": "2026-10-26",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Guardian(10-26) | Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "The New York Times(10-26) | Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+    "Los Angeles Times(10-26) | Elvis Presley catalog owners sue Anthropic alleging copyright infringement",
+    "Mashable | Anthropic sued for allegedly training Claude on Elvis Presley's music"
+   ],
+   "score": 10
+  },
+  {
+   "term": "IIT Kharagpur",
+   "norm": "iitkharagpur",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "APAC Media",
+    "BW Education",
+    "EIN Presswire",
+    "ET Enterprise AI",
+    "Elets CIO",
+    "Elets Technomedia",
+    "Free Press Journal",
+    "India Today"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Urban Acres(10-27) | IIT Kharagpur AI School to Focus on Physical AI",
+    "The Statesman(10-27) | IIT Kharagpur plans country’s first physical AI school",
+    "Telegraph India(10-27) | IIT Kharagpur to set up India's first dedicated academic school focused on Physi",
+    "ET Enterprise AI | IIT Kharagpur commits ₹35 crore to establish dedicated School of Physical AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "NVIDIA GTC Berlin",
+   "norm": "nvidiagtcberlin",
+   "n_outlets": 19,
+   "n_today": 1,
+   "outlets": [
+    "ASSETPHYSICS",
+    "ASUS Pressroom",
+    "Analytics India Magazine",
+    "Asia News Network",
+    "BusinessMole",
+    "Diginomica",
+    "EIN News",
+    "Easy News Press Agency"
+   ],
+   "days": 6,
+   "first": "2026-10-22",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "PR Newswire(10-22) | Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical A",
+    "ASUS Pressroom(10-22) | ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVI",
+    "TradingView(10-22) | KION showcases how Physical AI delivers measurable customer value at NVIDIA GTC ",
+    "Howl.Link | NVIDIA GTC Berlin 2026 Highlights | Agentic AI, Physical AI & Robotics"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AGCO",
+   "norm": "agco",
+   "n_outlets": 18,
+   "n_today": 1,
+   "outlets": [
+    "A3 Association for Advancing Automation",
+    "AI Insider",
+    "Design Engineering Magazine",
+    "Farms.com",
+    "Forbes",
+    "GuruFocus",
+    "Investing.com UK",
+    "Investing.com 한국어"
+   ],
+   "days": 4,
+   "first": "2026-10-21",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(10-21) | AGCO, 2027년 캔자스 공장에 휴머노이드 로봇 시범 도입",
+    "Unite.AI(10-21) | Agility Robotics, Digit 휴머노이드 로봇 시범 도입을 위해 AGCO와 계약 체결",
+    "AI Insider(10-21) | Humanoid Robot Pilot by AGCO and Agility Robotics Planned for Kansas Manufacturi",
+    "Manufacturing Digital Magazine | Inside AGCO’s Humanoid Robot Pilot with Agility Robotics"
+   ],
+   "score": 10
+  }
+ ]
+}
