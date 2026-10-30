@@ -97,6 +97,45 @@ def norm(s):
     return re.sub(r"[\s&·]+", "", s or "").lower()
 
 
+RULE_EARN = re.compile(r"(분기|[1-4]Q|FY\d|회계연도).{0,20}(매출|영업이익|순이익|실적)|실적 (발표|쇼크|부진|호조)|가이던스|earnings|quarterly results|매출.{0,12}% (성장|급증|증가)|\d+% 성장…|영업이익률", re.I)
+RULE_FUND = re.compile(r"인수|매각|투자 ?유치|지분 ?투자|투자 참여|시리즈 ?[A-H]|기업가치|밸류|라운드|raises?|valuation|acquir|funding|series [a-h]|merger", re.I)
+RULE_DCFIN = re.compile(r"(대출|보증|회사채|채권|조달|차입|loan|debt|bond|financ)", re.I)
+RULE_DC = re.compile(r"데이터센터|AIDC|AI ?DC|data ?cent|GPU|MW|GW|AI 투자|AI 인프라", re.I)
+RULE_POLICY = re.compile(r"^(정부|중기부|과기정통부|과기부|산업부|방미통위|국회|의회|백악관|상무부|EU|미 정부|美 정부)|정부[,가는]|법안|입법|행정명령|규제 (강화|완화|도입)|예산|국가정책", re.I)
+
+
+def check_rules(path):
+    """발송본 각 기사(헤드라인+주요 내용)를 원칙과 대조. [(섹션, 헤드라인, 권장, 사유)]"""
+    text = open(path, encoding="utf-8").read()
+    hits, sec, cur = [], None, None
+    blocks = []
+    for line in text.splitlines():
+        m = re.match(r"^\*\*■\s*(.+?)\*\*\s*$", line)
+        if m:
+            sec = m.group(1).strip()
+            continue
+        m = re.match(r"^\*\*\d+\\?\.\s*(.+?)\*\*", line)
+        if m:
+            cur = [sec, m.group(1), ""]
+            blocks.append(cur)
+            continue
+        if cur is not None and "주요 내용" in line:
+            cur[2] = line
+    for sec, head, body in blocks:
+        t = head + " " + body
+        dcfin = RULE_DCFIN.search(t) and RULE_DC.search(t)
+        if RULE_EARN.search(t) and not dcfin:
+            hits.append((sec, head, "싣지 않음", "실적 기사는 싣지 않음"))
+            continue
+        if dcfin and sec != "AI DC & Infra":
+            hits.append((sec, head, "AI DC & Infra", "DC 건설 금융 조달"))
+        elif RULE_FUND.search(t) and not dcfin and sec != "AI 투자&시장":
+            hits.append((sec, head, "AI 투자&시장", "인수·매각·펀딩"))
+        elif RULE_POLICY.search(head) and not RULE_FUND.search(t) and sec != "AI 보안&정책":
+            hits.append((sec, head, "AI 보안&정책", "정부 정책·예산·규제"))
+    return hits
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=datetime.date.today().isoformat())
@@ -167,6 +206,10 @@ def main():
             elif mcat and mcat != n:
                 mism.append((idx, mcat, n, head))
 
+    # (6) [2026-10-30 사용자 확정] 배치 원칙 대조 — 경고 전용(발송은 막지 않음).
+    #     원칙 정본은 brief.py CATEGORY_RULES. 낱말로 '무슨 일인가'를 추정해 어긋난 것만 찍는다.
+    rule_hits = check_rules(path)
+
     total = sum(len(i) for _, i in secs)
     print("[cats] %s / 섹션 %d개 / 기사 %d건" % (os.path.basename(path), len(secs), total))
     print("[cats] 순서: %s" % " > ".join(names))
@@ -188,6 +231,11 @@ def main():
         print("  [확인] 물을 것: **제목이 아니라 본문 리드가 그 카테고리를 가리키는가.**")
         print("         2026-09-15 애플 iOS 27 건은 기계가 '기타'였고, 제목의")
         print("         '인텔리전스'만 보고 AI Model 에 넣었다가 정정받았다.")
+
+    if rule_hits:
+        print("  [배치규칙] 원칙(brief.py CATEGORY_RULES)과 어긋나 보이는 건 %d개 — 본문으로 확인해 옮기거나 사유를 알림에 적을 것:" % len(rule_hits))
+        for n, head, want, why in rule_hits:
+            print("         %s -> %s 권장 (%s) | %s" % (n, want, why, head[:44]))
 
     if errors:
         print("[cats] 실패 %d건 - **고치기 전에는 발송하지 마세요.**" % len(errors))

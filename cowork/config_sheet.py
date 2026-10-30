@@ -63,7 +63,12 @@ def main():
         tail = "   <- 그날 해당 기사가 없으면 섹션째 뺀다" if c in ("국책과제",) else ""
         print("   %d. %s%s" % (i, c, tail))
     print("   * 이 목록 밖의 섹션을 만들면 run.sh cats 가 발송을 막습니다.")
-    print("   * 독파모·소버린 -> AI Model / 모두의 AI -> AI Agent (2026-09-09 통합)")
+    print("   * 독파모·소버린 '모델' 기사 -> AI Model / 모두의 AI -> AI Agent (2026-09-09 통합)")
+    rules = re.search(r"^CATEGORY_RULES\s*=\s*\[(.*?)^\]", brief, re.S | re.M)
+    if rules:
+        for line in re.findall(r'^\s*"(.*)",\s*$', rules.group(1), re.M):
+            if line:
+                print("   " + line)
     print("   * 카테고리는 배치 기준일 뿐 **정원이 아닙니다.**")
 
     # ── 건수 : send_telegram.py 의 가드가 유일 정본
