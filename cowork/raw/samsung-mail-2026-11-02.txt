@@ -1,0 +1,30 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 7개 항목 + 개별 메시지 4건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향 (AI타임스)
+o 링크: [aitimes.com/news/articleView.html?idxno=216856](https://www.aitimes.com/news/articleView.html?idxno=216856)
+2. 앤스로픽, IPO 이후에도 투기등급 가능성⋯자금조달 부담 우려 (이투데이)
+o 링크: [etoday.co.kr/news/view/2642634](https://www.etoday.co.kr/news/view/2642634)
+3. 馬斯克稱Colossus 2年底將部署120萬塊Blackwell，20萬塊專門跑推理 (鉅亨網)
+o 링크: [news.cnyes.com/news/id/6643223](https://news.cnyes.com/news/id/6643223)
+4. Alphabet Is in Talks to Join Trump's Golden Dome Defense Program (Yahoo Finance)
+o 링크: [finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden…](https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html)
+5. 우주로 보낸 구글 AI 반도체, 지구에 시 한 편 보냈다 (ZDNet Korea)
+o 링크: [zdnet.co.kr/view?no=20261101104853](https://zdnet.co.kr/view/?no=20261101104853)
+6. 애플, 中서 '큐원' 탑재 AI 12월 출시…4일부터 베타 테스트 (뉴스1)
+o 링크: [news1.kr/world/northeast-asia/6339069](https://www.news1.kr/world/northeast-asia/6339069)
+7. 딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축 (AI타임스)
+o 링크: [aitimes.com/news/articleView.html?idxno=216865](https://www.aitimes.com/news/articleView.html?idxno=216865)
+_— 개별 메시지(다이제스트 외) —_
+8. 아마존, 3분기 실적 예상치 하회…AWS 선방에도 주가 4% 하락 (블록미디어)
+o 링크: [blockmedia.co.kr/archives/1158506](https://www.blockmedia.co.kr/archives/1158506)
+9. OpenAI Reorganizes Model Spec Around Five Core Behavior Values (Unite.AI)
+o 링크: [unite.ai/?p=497765](https://www.unite.ai/?p=497765)
+10. Claude Renames Max 20x Plan to Ultra, Drops 5-Hour Usage Limit for Verified Accounts (Phemex News)
+o 링크: [phemex.com/news/article/claude-renames-max-20x-plan-to-ultra-drops-5hour-usage-limit-for-verified-accounts-101916](https://phemex.com/news/article/claude-renames-max-20x-plan-to-ultra-drops-5hour-usage-limit-for-verified-accounts-101916)
+11. OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut (BleepingComputer)
+o 링크: [bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut](https://bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut)
+링크 미확보(10건): 딥시크 2차 펀딩 150억 달러 조달 / 오픈AI 기업 조직 구조 변화 전망 / 샘 올트먼 Cheeky Pint 인터뷰 / 앤스로픽 캐나다 920MW 데이터센터 임대 협상 / 메타·푸리에 휴머노이드 '맥스' / 오픈AI ChatGPT·Codex 사용량 한도 통합 / AI 투자 자금 조달 환경 악화(네오클라우드) / OpenRouter 오픈AI·앤스로픽 지출 급증 / 오픈AI 중간선거 직후 AI 정책 캠페인 / ChatGPT 모바일 다중 계정 전환
+제외(뉴스 사건 아님, 2건): 하이퍼스케일러 3Q26 실적 종합, 사이버 보안 섹터 리서치 코멘트
+
+## 텔레그램 - 에이닷비즈뉴스레터

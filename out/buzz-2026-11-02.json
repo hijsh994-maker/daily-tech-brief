@@ -1,0 +1,437 @@
+{
+ "date": "2026-11-02",
+ "terms": [
+  {
+   "term": "K-건강검진",
+   "norm": "k건강검진",
+   "n_outlets": 5,
+   "n_today": 1,
+   "outlets": [
+    "강원경제신문",
+    "뉴스N제주",
+    "대한투데이",
+    "서울동부신문",
+    "의학신문"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 3,
+   "community": 0,
+   "titles": [
+    "의학신문(10-27) | 건협, AI K-건강검진으로 아프리카 보건의료 AX 힘 보탠다",
+    "서울동부신문(10-27) | 세계은행, AI 기반 ‘K-건강검진’ 노하우 견학",
+    "강원경제신문(10-28) | 세계은행이 주목한 AI활용 ‘K-건강검진’... 한국건강관리협회와 아프리카 보건의료 AI 협력 모색",
+    "대한투데이 | 세계은행이 주목한 AI활용 ‘K-건강검진’... 한국건강관리협회와 아프리카 보건의료 AI 협력 모색"
+   ],
+   "score": 21
+  },
+  {
+   "term": "Terra",
+   "norm": "terra",
+   "n_outlets": 60,
+   "n_today": 2,
+   "outlets": [
+    "9to5Mac",
+    "AI Magazine",
+    "ASCII.jp",
+    "Analytics India Magazine",
+    "Android Authority",
+    "Android Headlines",
+    "BeInCrypto",
+    "BigGo Finance"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "이코노미블록(10-27) | 오픈AI, 컴퓨터 조작 AI ‘GPT-6.1 Terra’ 출시…API 가격 절반으로",
+    "GeekNews(10-27) | GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "OrcaRouter(10-27) | GPT-6.1 Terra: 절반 가격, 오류 점수 37점 감소",
+    "https://tech-insider.org/ | Carbon vs Opus 5.5 vs Terra: 59 vs 58, $1 vs $4 [2026]",
+    "shattered.io | Mistral Le Chonk Coding Score 48 Ties Terra [2026]"
+   ],
+   "score": 15
+  },
+  {
+   "term": "오리 로봇",
+   "norm": "오리로봇",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "YTN",
+    "솔루션뉴스",
+    "스타트업레시피",
+    "아시아경제",
+    "이데일리",
+    "이코노미스트",
+    "이코리아",
+    "일요시사"
+   ],
+   "days": 4,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "아시아경제(10-26) | 젠슨 황이 띄운 53만원짜리 '오리 로봇'…공중제비 한 번에 사전 주문 2만대",
+    "스타트업레시피(10-26) | 젠슨황 무대에 오른 오리 로봇, 예약 주문 2만대 돌파",
+    "YTN(10-27) | 젠슨 황 눈에서 꿀 떨어진 오리 로봇…시연영상에 '주문 폭주' [지금이뉴스]",
+    "전자신문 | 399달러 오리 로봇만이 아니다…저가형 피지컬AI 로봇 잇단 등장",
+    "일요시사 | 젠슨 황의 오리 로봇?",
+    "전자신문 | 399달러 오리 로봇만이 아니다…저가형 피지컬AI 로봇 잇단 등장"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Google TPU",
+   "norm": "googletpu",
+   "n_outlets": 6,
+   "n_today": 3,
+   "outlets": [
+    "Investing.com 한국어",
+    "Memeburn",
+    "Purdue University",
+    "TechRadar",
+    "TechTarget",
+    "tech-insider.org"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Memeburn(10-27) | Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes",
+    "Investing.com 한국어(10-28) | Oracle, 2027년부터 클라우드 인프라에서 Google TPU 제공",
+    "Purdue University(10-30) | Purdue is first U.S. university to deploy Google TPU AI infrastructure",
+    "tech-insider.org | Google TPU on Oracle OCI: 5 Chip Vendors Join [2026]",
+    "Memeburn | Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes",
+    "TechRadar | OpenAI to purchase Google TPU chips as AI infrastructure demand surges"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Indian IT",
+   "norm": "indianit",
+   "n_outlets": 8,
+   "n_today": 2,
+   "outlets": [
+    "Analytics India Magazine",
+    "Awaz The Voice",
+    "Communications Today",
+    "Devdiscourse",
+    "Livemint",
+    "Lokmat Times",
+    "The 420.in",
+    "The New Indian Express"
+   ],
+   "days": 3,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Devdiscourse(10-29) | Indian IT firms poised to benefit from enterprise AI adoption as infrastructure ",
+    "The 420.in(10-29) | Indian IT Companies May Gain as Businesses Increase AI Adoption",
+    "Lokmat Times(10-29) | Indian IT Firms Poised for Growth as Enterprise AI Adoption Surges, Report Says",
+    "The New Indian Express | Indian IT firms develop AI agent controls as security concerns rise",
+    "The 420.in | Indian IT Companies May Gain as Businesses Increase AI Adoption"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Google TV",
+   "norm": "googletv",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "GitHub",
+    "PPC Land"
+   ],
+   "days": 2,
+   "first": "2026-10-26",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "PPC Land(10-26) | CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads",
+    "GitHub | Gathin23/cleanyourtv — Debloat any Android or Google TV over Wi-Fi and get an Ap"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Opensource",
+   "norm": "opensource",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "DevOps.com",
+    "HN"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "DevOps.com(10-28) | Reddit’s r/opensource AI Ban Targets the Wrong Problem",
+    "HN | Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Proton",
+   "norm": "proton",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "GeekNews",
+    "HN"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 3,
+   "titles": [
+    "HN(10-30) | Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "GeekNews | Proton의 방향을 바꾼 것은 AI가 아니었다",
+    "HN | Proton's CEO Cancels AI 'Re-Interviews'",
+    "HN | It wasn't AI that flipped Proton's charge"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Power Use",
+   "norm": "poweruse",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "EnergyNow.com"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "EnergyNow.com(10-30) | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says",
+    "EnergyNow.com | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Beat Record Highs",
+   "norm": "beatrecordhighs",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "EnergyNow.com"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "EnergyNow.com(10-30) | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says",
+    "EnergyNow.com | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Use Surges",
+   "norm": "usesurges",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "EnergyNow.com"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "EnergyNow.com(10-30) | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says",
+    "EnergyNow.com | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says"
+   ],
+   "score": 11
+  },
+  {
+   "term": "EIA Says",
+   "norm": "eiasays",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "EnergyNow.com"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "EnergyNow.com(10-30) | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says",
+    "EnergyNow.com | US Power Use to Beat Record Highs in 2026 and 2027 as AI Use Surges, EIA Says"
+   ],
+   "score": 11
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "IIT Kharagpur",
+   "norm": "iitkharagpur",
+   "n_outlets": 21,
+   "n_today": 1,
+   "outlets": [
+    "APAC Media",
+    "BW Education",
+    "EIN Presswire",
+    "ET Enterprise AI",
+    "Elets CIO",
+    "Elets Technomedia",
+    "Free Press Journal",
+    "India Today"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Urban Acres(10-27) | IIT Kharagpur AI School to Focus on Physical AI",
+    "The Statesman(10-27) | IIT Kharagpur plans country’s first physical AI school",
+    "Telegraph India(10-27) | IIT Kharagpur to set up India's first dedicated academic school focused on Physi",
+    "New India Abroad | IIT Kharagpur to establish Benjamin Gupta School of Physical AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Elvis Presley",
+   "norm": "elvispresley",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "Billboard",
+    "Far Out Magazine",
+    "Happy Mag",
+    "Hit Channel",
+    "Law Commentary",
+    "Los Angeles Times",
+    "Mashable",
+    "NBC News"
+   ],
+   "days": 5,
+   "first": "2026-10-26",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Guardian(10-26) | Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "The New York Times(10-26) | Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+    "Los Angeles Times(10-26) | Elvis Presley catalog owners sue Anthropic alleging copyright infringement",
+    "Mashable | Anthropic sued for allegedly training Claude on Elvis Presley's music"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Protectt",
+   "norm": "protectt",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "Business Standard",
+    "CIOL",
+    "CXO Digitalpulse",
+    "Dealroom",
+    "Express Computer",
+    "Inc42",
+    "Indian Startup News"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Inc42(10-27) | Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield",
+    "Business Standard(10-28) | Protectt.ai makes majority stake investment in security firm AIShield",
+    "BW Disrupt(10-28) | Protectt.ai Acquires Controlling Stake In Bosch-Incubated AIShield",
+    "Indian Startup News | Bessemer-backed Protectt.ai buys control of Bosch's AIShield in its first acquis"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AIShield",
+   "norm": "aishield",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "Business Standard",
+    "CIOL",
+    "CXO Digitalpulse",
+    "Dealroom",
+    "Express Computer",
+    "Inc42",
+    "Indian Startup News"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Inc42(10-27) | Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield",
+    "Business Standard(10-28) | Protectt.ai makes majority stake investment in security firm AIShield",
+    "BW Disrupt(10-28) | Protectt.ai Acquires Controlling Stake In Bosch-Incubated AIShield",
+    "Indian Startup News | Bessemer-backed Protectt.ai buys control of Bosch's AIShield in its first acquis"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 면접관",
+   "norm": "ai면접관",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "ABC뉴스",
+    "Chosunbiz",
+    "뉴시스",
+    "아주경제",
+    "연합뉴스",
+    "주간한국",
+    "팝콘뉴스",
+    "한국경제"
+   ],
+   "days": 4,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Chosunbiz(10-28) | 카카오, 채용에 ‘AI 면접관’ 들인다… 인성검사도 도입",
+    "ABC뉴스(10-28) | 카카오 입사하려면 AI 면접관부터 만난다…신입·경력 전 직군 도입",
+    "아주경제(10-29) | 카오 채용에 들어간 AI 면접관…무하유는 누구?",
+    "연합뉴스 | [AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
+    "한국아이닷컴 | ‘AI 면접관’ 등장…SK AX, 입사지원자 역량 평가하는 솔루션 출시"
+   ],
+   "score": 10
+  },
+  {
+   "term": "몸값 2700조",
+   "norm": "몸값2700조",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "경제타임스",
+    "동아일보",
+    "매일경제",
+    "브릿지경제",
+    "전자신문",
+    "조선일보",
+    "조세일보",
+    "중앙일보"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "브릿지경제(10-27) | ‘몸값 2700조’ 앤트로픽, 역대 최대 IPO 도전⋯AI 투자 시험대",
+    "조세일보(10-27) | '몸값 2700조' 앤트로픽, 나스닥 IPO 신청…\"역대 최대 규모\"",
+    "조선일보(10-28) | 오픈AI 뛰쳐나와 만든 ‘안전한 AI’… 앤스로픽, 몸값 2700조원 눈앞",
+    "매일경제 | ‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니"
+   ],
+   "score": 10
+  }
+ ]
+}

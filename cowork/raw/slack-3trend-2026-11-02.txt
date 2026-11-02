@@ -1,0 +1,12 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-02 09:00:29 KST === 
+Message TS: 1793577629.436789
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-02 · 7건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261030000344|트릴리온랩스, AI 에이전트·OCR 최적화 해커톤 개최>* (전자신문 (AI))
+*2. [:office: Enterprise AI] <https://www.etnews.com/20261030000272|KAIST·뉴톤, '탄소 버티컬 AI' 개발 맞손…글로벌 탄소시장 정조준>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://openai.com/index/helping-websites-express-ai-training-preferences|웹사이트가 AI 교육 선호도를 쉽게 표현할 수 있도록 지원>* (OpenAI News &amp; Research)
+*4. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/|OpenAI might rebrand its data centers as ‘AI compute campuses’>* (TechCrunch)
+*5. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/|OpenAI reportedly lowers funding target for new round>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/|Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://openai.com/index/community-safety-report-and-new-protections-for-teens|커뮤니티 안전 보고서 및 청소년을 위한 새로운 보호 장치>* (OpenAI News &amp; Research)

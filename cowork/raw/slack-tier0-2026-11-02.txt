@@ -1,0 +1,62 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-11-02 09:32:18 KST === 
+Message TS: 1793579538.778379
+_[텔레그램 로그 2026-11-02] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 7개 항목 + 개별 메시지 4건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=216856|aitimes.com/news/articleView.html?idxno=216856>
+2. 앤스로픽, IPO 이후에도 투기등급 가능성⋯자금조달 부담 우려 (이투데이)
+o 링크: <https://www.etoday.co.kr/news/view/2642634|etoday.co.kr/news/view/2642634>
+3. 馬斯克稱Colossus 2年底將部署120萬塊Blackwell，20萬塊專門跑推理 (鉅亨網)
+o 링크: <https://news.cnyes.com/news/id/6643223|news.cnyes.com/news/id/6643223>
+4. Alphabet Is in Talks to Join Trump's Golden Dome Defense Program (Yahoo Finance)
+o 링크: <https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html|finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden…>
+5. 우주로 보낸 구글 AI 반도체, 지구에 시 한 편 보냈다 (ZDNet Korea)
+o 링크: <https://zdnet.co.kr/view/?no=20261101104853|zdnet.co.kr/view?no=20261101104853>
+6. 애플, 中서 '큐원' 탑재 AI 12월 출시…4일부터 베타 테스트 (뉴스1)
+o 링크: <https://www.news1.kr/world/northeast-asia/6339069|news1.kr/world/northeast-asia/6339069>
+7. 딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=216865|aitimes.com/news/articleView.html?idxno=216865>
+_— 개별 메시지(다이제스트 외) —_
+8. 아마존, 3분기 실적 예상치 하회…AWS 선방에도 주가 4% 하락 (블록미디어)
+o 링크: <https://www.blockmedia.co.kr/archives/1158506|blockmedia.co.kr/archives/1158506>
+9. OpenAI Reorganizes Model Spec Around Five Core Behavior Values (Unite.AI)
+o 링크: <https://www.unite.ai/?p=497765|unite.ai/?p=497765>
+10. Claude Renames Max 20x Plan to Ultra, Drops 5-Hour Usage Limit for Verified Accounts (Phemex News)
+o 링크: <https://phemex.com/news/article/claude-renames-max-20x-plan-to-ultra-drops-5hour-usage-limit-for-verified-accounts-101916|phemex.com/news/article/claude-renames-max-20x-plan-to-ultra-drops-5hour-usage-limit-for-verified-accounts-101916>
+11. OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut (BleepingComputer)
+o 링크: <https://bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut|bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut>
+링크 미확보(10건): 딥시크 2차 펀딩 150억 달러 조달 / 오픈AI 기업 조직 구조 변화 전망 / 샘 올트먼 Cheeky Pint 인터뷰 / 앤스로픽 캐나다 920MW 데이터센터 임대 협상 / 메타·푸리에 휴머노이드 '맥스' / 오픈AI ChatGPT·Codex 사용량 한도 통합 / AI 투자 자금 조달 환경 악화(네오클라우드) / OpenRouter 오픈AI·앤스로픽 지출 급증 / 오픈AI 중간선거 직후 AI 정책 캠페인 / ChatGPT 모바일 다중 계정 전환
+제외(뉴스 사건 아님, 2건): 하이퍼스케일러 3Q26 실적 종합, 사이버 보안 섹터 리서치 코멘트
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-11-02 09:16:08 KST === 
+Message TS: 1793578568.030209
+_2026-11-02 AI 관련 사업 공고 점검 결과_
+확인 범위: 10/30(금)~11/2(월) 게시분
+
+_1. 기업마당(bizinfo)_: 확인 불가
+목록 페이지 접속이 차단되어(robots_disallowed) 확인하지 못했습니다.
+
+_2. 과학기술정보통신부(msit) 사업공고_: 해당 없음
+범위 안 게시물은 10/30 '미래개척융합과학기술개발사업 신규과제 선정결과' 1건이며, 선정결과 공고라 제외했습니다.
+
+_3. IITP 사업공고_: 해당 없음
+범위 안 신규 공고가 없습니다.
+
+_4. IRIS 사업공고_: 1건
+• <https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717|2026년 「AX실증밸리조성(R&D)」 사업 신규지원대상 과제 통합 재공고>
+과기정통부·산업통상부·기후에너지환경부(다부처) / 정보통신산업진흥원(인공지능산업융합사업단) / 공고일 11/2 / 접수 11/2~_11/16(월) 15:00_
+• 핵심내용: 8/31 원공고 과제 중 '내역2-2 자율주행 모빌리티 AX'(지정공모 1개)와 '내역3 AI 기반 에너지 운영 최적화 및 안전관리'(품목지정 3개)를 다시 모집합니다. 사업 목적은 Physical AI 기반 자율주행 모빌리티·제조 SDF와 AI 기반 에너지 운영 최적화·안전관리 기술개발이며, 실증지는 전남광주통합특별시입니다. 원공고 기준 예산은 2-2가 과제당 총 128~156.8억원(33개월), 3-1~3-3은 내역별 총 161.7~282.25억원입니다.
+• 대기업 참여 근거(8/31 원공고문): 기관 유형별 부담 기준에 "공기업·대기업 50% 이하"(정부지원 비율)와 대기업 기관부담 50% 이상·현금 15% 이상이 명시되어 있어 참여할 수 있습니다. 다만 2-2·3-2는 '지역주도형'으로 지역기업·기관 참여율이 50% 이상이어야 하고, 3-1·3-3은 '기술선도형'으로 지역 제한이 없습니다. 대기업이 주관을 맡을 수 있는지는 명시되어 있지 않습니다(_자격 불명확_).
+• 비고: 재공고문은 IRIS 상세 본문만 확인했고, 첨부는 확인하지 못했습니다(IRIS에 첨부 0건). 자격·예산은 8/31 원공고문 기준입니다.
+※ 제외: '2027년도 소재부품장비 양산성능평가지원사업 총괄주관기관 모집'(AI와 무관), '공고 테스트'(국가신약개발재단 테스트 게시물)
+총 1건 / 확인 불가: 기업마당(목록 접속 차단), AX실증밸리 재공고 첨부
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-11-02 09:14:14 KST === 
+Message TS: 1793578454.852299
+
+Files: [2026년 11월 2일] 조간 뉴스 클리핑 (ID: F0CE19BBKMX, text/html, 44.5 KB)

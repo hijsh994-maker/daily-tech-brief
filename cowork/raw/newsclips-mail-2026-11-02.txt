@@ -1,0 +1,82 @@
+안녕하세요 조승현님,
+Google Drive 'TIR' 폴더에 업로드된 2026년 11월 2일자 조간 뉴스 클리핑 리스트(기사-링크 1:1 매핑 검증
+완료)를 공유드립니다.
+------------------------------
+
+*1. SKT, AI 중심 업무 재설계 ‘AX 2.0’ 가동 (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261101/134946083/2
+
+*2. 1500개 AI 에이전트 돌리는 SKT... 개인→ 조직 전반으로 확대 (국민일보)*
+   o 링크: https://mobile.newsis.com/view/NISX20261101_0003849559
+
+*3. SKT 직원 4000명 'AI 비서' 만들었다 ('AX 혁신 2.0'…실용 최우선 업무 방식 전반 AI로 재설계) (매일경제)*
+   o 링크: https://www.mk.co.kr/news/it/12192858
+
+*4. 직원 80%가 에이전트 개발 조직협업도 AI 중심 재설계 (SKT, AX 현황·비전 공개) (서울경제)*
+   o 링크: https://www.sedaily.com/article/20108674
+
+*5. SKT “사내 AI 에이전트 활용, 조직 성과 중심 재편” (AX 혁신 2.0 가동) (전자신문)*
+   o 링크: https://www.etnews.com/20261031000044
+
+*6. SK텔레콤, AI·드론으로 안동 산불 피해 복원 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026103068391
+
+*7. KB증권-SKT 손잡고 '모두의 AI' 맞춤형 자산관리 대중화 나선다 (스포츠서울)*
+   o 링크: https://www.sportsseoul.com/news/read/1644921
+
+*8. 1년 만에 韓 찾은 올트먼, 삼성 사장단과 간담회… SK 최태원과 오찬 회동 (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261101/134945998/2
+
+*9. 국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장 (서울신문)*
+   o 링크: https://www.seoul.co.kr/news/peoples/2026/11/02/20261102023003
+
+*10. “울산 AIDC, 기업·주민 상생모델 마련을" (울산硏 '사회브리프' 발간) (서울경제)*
+   o 링크: https://mobile.newsis.com/view/NISX20261014_0003825570
+
+*11. 한국투자, 10조 펀드 조성… 日과 AI데이터센터 짓는다 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110185941
+
+*12. 韓·日 경협 업그레이드 … 에너지 안보 이어 'AI 전쟁' 공동대응 (한국투자금융·日SBI, 10조원 투자펀드 조성)
+(한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110185771
+
+*13. 日서 주목하는 최태원 회장의 '경제공동체론' (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110185751
+
+*14. 삼성·SK·LG, 출자 저울질…韓기업들 日서 새 기회 찾는다 (파이낸셜뉴스)*
+   o 링크: https://www.fnnews.com/news/202611011812557284
+
+*15. AI 투자에 현금 마른 빅테크… 美 반도체주 '추락' (인텔은 29% 폭락) (조선일보)*
+   o 링크:
+https://www.chosun.com/economy/tech_it/2026/11/02/DQOIVLXGHFGOZGFQIY3SQ3CQJU/
+
+*16. 빅테크 4사 'AI 학습 차단' 표준 도입… 실효성엔 의구심 (한국일보)*
+   o 링크: https://zdnet.co.kr/view/?no=20261101134510
+
+*17. 네이버·카카오 내비, 현대차 속으로 (현대차그룹 앱마켓 외부에 개방) (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110185901
+
+*18. 車내비 무한경쟁 문 열려… 티맵 '24년 독주' 깨지나 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110185611
+
+*19. 러 1위 통신사 CEO 방한, 5G 인프라 파트너 물색 (전자신문)*
+   o 링크: https://www.etnews.com/20261030000267
+
+*20. “비켜주세요” 로봇이 서버실 점검 (KT AIDC 목동2) (경향신문)*
+   o 링크: https://www.etnews.com/20261101000005
+
+*21. KT, 은퇴 임직원이 어르신에 생성형 AI 교육 (서울신문)*
+   o 링크:
+https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004
+
+*22. 토큰팩토리 수익화 기대... “주가 60% 상승 여력" (서울경제)*
+   o 링크: https://m.sedaily.com/article/20108778
+
+*23. 유심교체부터 보이스피싱 예방까지…“LG U+ 이동형 매장 고마워” (전자신문)*
+   o 링크: https://www.etnews.com/20261030000126
+
+*24. “흙막이 확인하세요!”... AI가 공사현장 위험 잡는다 (세계일보)*
+   o 링크: https://www.segye.com/newsView/20261101508272
+
+*25. SK 사장단 인사... '안정 속 에너지 쇄신' 방점 (세계일보)*
+   o 링크: https://www.segye.com/newsView/20261101508898
