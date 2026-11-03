@@ -1,0 +1,457 @@
+{
+ "date": "2026-11-03",
+ "terms": [
+  {
+   "term": "Claude Cowork",
+   "norm": "claudecowork",
+   "n_outlets": 5,
+   "n_today": 4,
+   "outlets": [
+    "Business Wire",
+    "HN",
+    "Palo Alto Networks",
+    "StreetInsider",
+    "mykxlg.com"
+   ],
+   "days": 2,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN(10-27) | Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "Palo Alto Networks | New Cortex XDR Integration with Claude Cowork Secures Desktop AI Agents",
+    "StreetInsider | Evoke Security Announces Upcoming Integration with Claude Cowork to Extend AI Ag",
+    "mykxlg.com | Neo Brings Security Visibility Inside Claude Cowork",
+    "Business Wire | SentinelOne Expands AI Security Coverage to Claude Cowork"
+   ],
+   "score": 16
+  },
+  {
+   "term": "Terra",
+   "norm": "terra",
+   "n_outlets": 60,
+   "n_today": 1,
+   "outlets": [
+    "9to5Mac",
+    "AI Magazine",
+    "ASCII.jp",
+    "Analytics India Magazine",
+    "Android Authority",
+    "Android Headlines",
+    "BeInCrypto",
+    "BigGo Finance"
+   ],
+   "days": 6,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "이코노미블록(10-27) | 오픈AI, 컴퓨터 조작 AI ‘GPT-6.1 Terra’ 출시…API 가격 절반으로",
+    "GeekNews(10-27) | GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "OrcaRouter(10-27) | GPT-6.1 Terra: 절반 가격, 오류 점수 37점 감소",
+    "OpenAI | GPT-6.1 Terra 소개"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Proton",
+   "norm": "proton",
+   "n_outlets": 4,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "Decrypt",
+    "GeekNews",
+    "HN"
+   ],
+   "days": 3,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 3,
+   "titles": [
+    "HN(10-30) | Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "GeekNews(11-02) | Proton의 방향을 바꾼 것은 AI가 아니었다",
+    "HN(11-02) | Proton's CEO Cancels AI 'Re-Interviews'",
+    "Decrypt | Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Pu",
+    "BigGo Finance | Proton CEO's 'Loser Thinking' Remark on Security Testing Ignites Subscriber Back"
+   ],
+   "score": 15
+  },
+  {
+   "term": "FuriosaAI",
+   "norm": "furiosaai",
+   "n_outlets": 14,
+   "n_today": 3,
+   "outlets": [
+    "AI Insider",
+    "Beinsure",
+    "Bharat Fast",
+    "BigGo Finance",
+    "Bloomberg",
+    "Bloomberg.com",
+    "DataCenterDynamics",
+    "Dealroom"
+   ],
+   "days": 4,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Bloomberg(10-29) | FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
+    "Dealroom(10-29) | FuriosaAI raises $620M Series D, quadruples valuation to $2.9B in Nvidia challen",
+    "Bloomberg.com(10-30) | FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
+    "AI Insider | FuriosaAI Secures $620M Series D to Meet Surging Enterprise AI Inference Demand ",
+    "Bharat Fast | FuriosaAI Raises $620 Mn Series D At $2.9 Bn Valuation To Scale AI Inference Chi",
+    "DataCenterDynamics | FuriosaAI raises $620m at a post-money valuation of approximately $2.9bn"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Indian IT",
+   "norm": "indianit",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "Analytics India Magazine",
+    "Awaz The Voice",
+    "Communications Today",
+    "Devdiscourse",
+    "Livemint",
+    "Lokmat Times",
+    "The 420.in",
+    "The New Indian Express"
+   ],
+   "days": 4,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Devdiscourse(10-29) | Indian IT firms poised to benefit from enterprise AI adoption as infrastructure ",
+    "The 420.in(10-29) | Indian IT Companies May Gain as Businesses Increase AI Adoption",
+    "Lokmat Times(10-29) | Indian IT Firms Poised for Growth as Enterprise AI Adoption Surges, Report Says",
+    "The New Indian Express | Global sell-off in AI stocks over ROI concerns puts Indian IT companies in focus"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Google TPU",
+   "norm": "googletpu",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "Investing.com 한국어",
+    "Memeburn",
+    "Purdue University",
+    "TechRadar",
+    "TechTarget",
+    "tech-insider.org"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Memeburn(10-27) | Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes",
+    "Investing.com 한국어(10-28) | Oracle, 2027년부터 클라우드 인프라에서 Google TPU 제공",
+    "Purdue University(10-30) | Purdue is first U.S. university to deploy Google TPU AI infrastructure",
+    "Memeburn | Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Sequoia Partner",
+   "norm": "sequoiapartner",
+   "n_outlets": 3,
+   "n_today": 3,
+   "outlets": [
+    "KuCoin",
+    "TradingView",
+    "深潮TechFlow"
+   ],
+   "days": 1,
+   "first": "2026-11-03",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "KuCoin | Sequoia Partner Predicts SpaceX's Revenue Will Surge Like NVIDIA, Underestimatin",
+    "TradingView | SpaceX Could Mirror Nvidia’s Revenue Boom, Sequoia Partner Says — Tesla Influenc",
+    "深潮TechFlow | Sequoia Partner: SpaceX Stands on the Eve of an NVIDIA-Style Growth Explosion, W"
+   ],
+   "score": 12
+  },
+  {
+   "term": "모두의 성장",
+   "norm": "모두의성장",
+   "n_outlets": 24,
+   "n_today": 24,
+   "outlets": [
+    "Investing.com 한국어",
+    "M이코노미뉴스",
+    "OBC 뉴스",
+    "https://www.sisaworld.kr/",
+    "경기일보",
+    "경향신문",
+    "국민일보",
+    "금강일보"
+   ],
+   "days": 1,
+   "first": "2026-11-03",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "창업일보 | [2027예산안 심층분석]이재명 대통령 821조원 예산 시정연설…청년 43조·AI 21조·국방 73조, '모두의 성장' 재정 대전환",
+    "한겨레 | 이 대통령 “소수에서 모두의 성장으로 확산…AI·지방 등 미래선점 예산”",
+    "미디어인뉴스 | [미디어분석] 11월 3일 경제지 1면, '모두의 성장'보다 부동산·AI·경영권 경쟁에 주목",
+    "Investing.com 한국어 | 李대통령 \"소수 아닌 모두의 성장\"…반도체·AI에 21.3조 투입 By EBN",
+    "대한민국 정책브리핑 | 이 대통령 \"2027년 예산안은 성장확산 예산…'모두의 성장' 대전환\"",
+    "전라매일 | 이 대통령 “820조 예산으로 모두의 성장 실현”"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Loser Thinking",
+   "norm": "loserthinking",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "Decrypt",
+    "HN"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN(10-30) | Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "Decrypt | Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Pu",
+    "BigGo Finance | Proton CEO's 'Loser Thinking' Remark on Security Testing Ignites Subscriber Back"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Million Euros",
+   "norm": "millioneuros",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "36Kr",
+    "n24.com.tr"
+   ],
+   "days": 3,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "36Kr(10-29) | 8:1 Kr | Kylian Mbappé's China Endorsement Income Hits Nearly 22 Million Euros; ",
+    "n24.com.tr(11-02) | Bleu Robotics Secures 5 Million Euros for Humanoid AI",
+    "n24.com.tr | Talky Raises 1.5 Million Euros to Automate Corporate Accounting"
+   ],
+   "score": 9
+  },
+  {
+   "term": "FP16",
+   "norm": "fp16",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "GitHub",
+    "Tom's Hardware"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Tom's Hardware(11-02) | Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lif",
+    "GitHub | Zagitta/gpu-unlock — Your GeForce runs AI at half speed. This fixes it for 20/30"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Earnings Beat Fueled",
+   "norm": "earningsbeatfueled",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "24/7 Wall St.",
+    "Barron's"
+   ],
+   "days": 2,
+   "first": "2026-10-29",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "24/7 Wall St.(10-29) | Flex (FLEX) Q2 2027 Earnings Beat Fueled by AI Data Center Boom",
+    "Barron's | Fabrinet Stock Surges on Earnings Beat Fueled by Data Center Demand"
+   ],
+   "score": 8
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Elvis Presley",
+   "norm": "elvispresley",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "Billboard",
+    "Far Out Magazine",
+    "Happy Mag",
+    "Hit Channel",
+    "Law Commentary",
+    "Los Angeles Times",
+    "Mashable",
+    "NBC News"
+   ],
+   "days": 6,
+   "first": "2026-10-26",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "The Guardian(10-26) | Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "The New York Times(10-26) | Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+    "Los Angeles Times(10-26) | Elvis Presley catalog owners sue Anthropic alleging copyright infringement",
+    "Mashable | Anthropic sued for allegedly training Claude on Elvis Presley's music"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Provision Labs",
+   "norm": "provisionlabs",
+   "n_outlets": 12,
+   "n_today": 4,
+   "outlets": [
+    "Analytics India Magazine",
+    "BW Disrupt",
+    "CIOL",
+    "Dealroom",
+    "Education Times",
+    "Elets CIO",
+    "Equitypandit",
+    "Inc42"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Inc42(10-27) | Pronto Founder Anjali Sardana Sets Up Physical AI Venture Provision Labs In US",
+    "Moneycontrol.com(10-27) | Pronto founder Anjali Sardana launches US-based physical AI startup Provision La",
+    "The Economic Times(10-27) | Pronto founder Anjali Sardana sets up US-based physical AI venture Provision Lab",
+    "Inc42 | Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries",
+    "Moneycontrol.com | Pronto founder Anjali Sardana’s Provision Labs acquires Basilisk Industries",
+    "Equitypandit | Provision Labs Acquires Hardware Startup Basilisk Industries"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Pronto",
+   "norm": "pronto",
+   "n_outlets": 11,
+   "n_today": 3,
+   "outlets": [
+    "Analytics India Magazine",
+    "BW Disrupt",
+    "CIOL",
+    "Dealroom",
+    "Education Times",
+    "Elets CIO",
+    "Inc42",
+    "Moneycontrol.com"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Inc42(10-27) | Pronto Founder Anjali Sardana Sets Up Physical AI Venture Provision Labs In US",
+    "Moneycontrol.com(10-27) | Pronto founder Anjali Sardana launches US-based physical AI startup Provision La",
+    "The Economic Times(10-27) | Pronto founder Anjali Sardana sets up US-based physical AI venture Provision Lab",
+    "Inc42 | Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries",
+    "Moneycontrol.com | Pronto founder Anjali Sardana’s Provision Labs acquires Basilisk Industries",
+    "Dealroom | Pronto founder's Provision Labs buys Basilisk to add touch data to its robot-tra"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Craft",
+   "norm": "craft",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "AI 코리아 커뮤니티 뉴스레터",
+    "Adgully",
+    "Security Boulevard",
+    "Tech Times",
+    "TestingCatalog AI News",
+    "VOI.ID"
+   ],
+   "days": 4,
+   "first": "2026-10-26",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "AI 코리아 커뮤니티 뉴스레터(10-26) | 캔바가 이미지 모델을 직접 만들었습니다 — Canva Craft, 10월 22일부터 전 세계 모든 계정에서",
+    "AI Insider(10-26) | Canva Enters AI Image Generation Race With In-House Canva Craft Model",
+    "TestingCatalog AI News(10-26) | Canva launches Craft image model with 2K output and API",
+    "Security Boulevard | FireMon Adds AI Agents to Craft and Implement Network Security Policies"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Saemangeum",
+   "norm": "saemangeum",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Chosunbiz",
+    "Seoul Economic Daily",
+    "The Korea Herald",
+    "머니투데이",
+    "조선일보",
+    "헤럴드경제"
+   ],
+   "days": 4,
+   "first": "2026-10-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "머니투데이(10-29) | 'Hyundai Motor's major investment offers Saemangeum a chance to become a hub for",
+    "조선일보(10-30) | Democratic Party Leader Speeds Saemangeum Project with Hyundai's AI Investment",
+    "헤럴드경제(10-30) | Kim Min-seok hopes Saemangeum can become world's top physical AI hub",
+    "Chosunbiz | Kim So-won urges Saemangeum to spur physical AI for Korea’s agriculture"
+   ],
+   "score": 10
+  },
+  {
+   "term": "2026 융합포럼",
+   "norm": "2026융합포럼",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "뉴스티앤티",
+    "매일일보",
+    "베리타스알파",
+    "붓다뉴스",
+    "비욘드포스트",
+    "유니메이트 알파",
+    "팝콘뉴스",
+    "핀포인트뉴스"
+   ],
+   "days": 3,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "베리타스알파(10-30) | 동국대 AI 시대 바이오헬스 지산학 생태계 모색 ‘2026 융합포럼' 개최.. '바이오/약학/의학/공학 연구역량 결집'",
+    "팝콘뉴스(10-30) | “AI-AX 시대 지산학 생태계 모색”...동국대, 바이오·의학·공학 결집한 '2026 융합포럼' 개최",
+    "뉴스티앤티(11-02) | 동국대 ‘2026 융합포럼’ 성료…AI-AX 시대 바이오헬스 지산학 생태계 구축 논의",
+    "붓다뉴스 | [대학·바이오] “AI·바이오·의학 결집해 미래 신약 연다”… 동국대, BMC서 ‘2026 융합포럼’ 성료"
+   ],
+   "score": 9
+  }
+ ]
+}

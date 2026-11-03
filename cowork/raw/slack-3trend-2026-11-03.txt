@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-03 09:00:34 KST === 
+Message TS: 1793664034.941969
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-03 · 10건)
+*1. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/|Amazon Nova Multimodal Embeddings 및 Amazon Bedrock AgentCore를 사용한 에이전트 엔지니어링 인텔리전스>* (AWS Machine Learning Blog)
+*2. [:rocket: BigTech Release] <https://openai.com/index/scaling-git-at-openai|OpenAI에서 Git 확장>* (OpenAI News &amp; Research)
+*3. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/|Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs>* (TechCrunch)
+*4. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/|Anthropic warns that it’s very close to RSI capability, aka self-building AI>* (TechCrunch)
+*5. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/|OpenAI is finally merging ChatGPT’s Chat and Work tabs>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones|Claude의 AI 비디오 게임 클론에 대한 앤트로픽 클램프 다운>* (The Verge)
+*7. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program|OpenAI는 인근 지역을 보호하기 위한 방법으로 데이터 센터 발전소를 투입합니다.>* (The Verge)
+*8. [:rocket: BigTech Release] <https://openai.com/index/grid-protectors-program|계통 보호기 프로그램 소개>* (OpenAI News &amp; Research)
+*9. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/|Amazon SageMaker AI에서 지식 증류로 효율적인 에이전트 구축>* (AWS Machine Learning Blog)
+*10. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/|Circle K가 Amazon Bedrock으로 DevOps 사고 분류를 15분 미만으로 가속화한 방법>* (AWS Machine Learning Blog)

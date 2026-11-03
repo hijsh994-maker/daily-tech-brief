@@ -1,0 +1,21 @@
+rank,idx,score,route,spread,cat,tags,headline
+1,37,1.385,tier0-사람큐레이션,다수,기타,신규출시+휴머노이드로봇+프런티어,"⟨프런티어⟩ OpenAI signs deals with Magnite, PubMatic to fill unu"
+2,52,1.316,tier0+교차,다수,AI 보안&정책,소버린+국내정책,"⟨유망스타트업⟩ [업스테이지 '솔라 프로 4', 범정부 AI 공통기반 탑재"
+3,110,1.304,tier0-사람큐레이션,소수,기타,국내정책+신규출시+프런티어,⟨프런티어⟩ OpenAI Pledges Up to 1-Gigawatt Demand Reduction at G
+4,145,1.184,tier0+교차,소수,AI Agent,신규출시,"⟨체급?⟩ [일레븐랩스, 모델 선택하면 대화 AI 에이전트 구현 '리얼타임' 출시"
+5,6,1.148,tier0-사람큐레이션,다수,AI 보안&정책,소버린+국내정책,⟨체급?⟩ GPU 8496개 국가 슈퍼컴 '한강' 내달 가동
+6,304,0.977,tier0+교차,소수,기타,국내정책+AI규범사고+프런티어,⟨프런티어⟩ Anthropic warns that it’s very close to RSI capabilit
+7,3,0.92,tier0-사람큐레이션,다수,기타,국내정책,⟨체급?⟩ Data Center Moratorium Backers Could Win Up to 15 U.S.
+8,15,0.886,tier0-사람큐레이션,다수,기타,F10경쟁사,⟨경쟁사⟩ 네이버클라우드·육군 '실전형 AI 군수' 구축
+9,2,0.829,tier0+교차,다수,AI DC & Infra,,"⟨대기업⟩ [삼성SDS, 구미에 최대 120MW AI 데이터센터 구축...2028년 말 준공"
+10,112,0.725,tier0+교차,소수,AI Agent,프런티어,"⟨프런티어⟩ [오픈AI, 챗GPT 채팅.WORK 탭 합친다...AI에이전트 시동[글로벌AI브리핑"
+11,49,0.557,tier0-사람큐레이션,소수,AI Model,프런티어,"⟨체급?⟩ 머스크 “그록 봇 서빙 비용, 매출 대비 지속 불가능”…한도 불만에 23분 만에 답했다"
+12,66,0.557,tier0-사람큐레이션,소수,기타,프런티어,"⟨체급?⟩ Alphabet kicks off €6 billion bond sale, tests appetit"
+13,1,0.458,tier0-사람큐레이션,다수,AI 투자&시장,F1+신규출시+프런티어,"⟨프런티어⟩ 앤트로픽, 美 IPO로 日서 최대 4.7조원 조달⋯해외기업 역대 최대"
+14,38,0.324,tier0-사람큐레이션,소수,기타,F1+신규출시+프런티어,"⟨빅테크⟩ Meta reportedly weighs $20B bond sale, its first in eu"
+15,248,0.084,tier0-사람큐레이션,단독,기타,지정학+신규출시+휴머노이드로봇+프런티어,"⟨체급?⟩ Tencent Hunyuan Releases Hyra 2.0, Where Agents Develo"
+16,36,-0.193,tier0-사람큐레이션,소수,기타,F1,"⟨빅테크⟩ Oracle Launches $20 Billion Bond and Stock Sale, Using"
+17,114,-0.218,tier2,다수,기타,소버린+국내정책+신규출시+AI규범사고+프런티어,⟨프런티어⟩ OpenAI deepens Abu Dhabi foothold as Sam Altman inks 
+18,244,-1.515,tier2,단독,AI 보안&정책,국내정책+휴머노이드로봇,"⟨체급?⟩ 李대통령 ""AI에 21.3조 투자""…국방예산 73.3조·R&D 역대 최대 - 머니투데이"
+19,7,-1.936,tier2,다수,AI 투자&시장,F1,"⟨체급?⟩ [반도체포커스] 마벨, 루멘텀 1150억 달러 인수 합의…IT업계 역대 2위 M&A"
+20,177,-2.183,tier2,단독,AI 투자&시장,F1+신규출시+프런티어,"⟨프런티어⟩ 앤스로픽 S1 수정 공시 ""수년간 8954억달러 투자"""
