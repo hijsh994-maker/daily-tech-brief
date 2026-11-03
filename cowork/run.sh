@@ -891,6 +891,13 @@ cats)
   shift || true
   cd "$W" && python3 cowork/catcheck.py --date "$DATE" "$@" ;;
 
+kr-alt)
+  # [2026-11-03 신설] 발송본의 영문 기사마다 같은 사건의 국내 보도가 있는지 네이버로 찾는다.
+  #   있으면 종료코드 1 -> 국문 기사로 바꾸거나 out/kralt-ok-<날짜>.txt 에 '<URL> | <사유>'.
+  #   8단계 linkcheck 뒤·cats 앞. send 도 자동 호출(경고).
+  shift || true
+  cd "$W" && python3 "$MNT/cowork/kr_alt.py" --date "$DATE" "$@" ;;
+
 style)
   # [2026-09-27 신설] 문체 게이트. 주요 내용·시사점이 서술형('~다.' '~습니다.')으로
   #   끝나면 종료코드 1. 09-23~25 사흘치가 서술형으로 나간 뒤 만들었다.
@@ -1434,6 +1441,7 @@ send)
     (cd "$W" && python3 cowork/agenda_gate.py --date "$DATE") || GATE_FAIL="$GATE_FAIL agenda"
     (cd "$W" && python3 cowork/bodypeek.py --date "$DATE" --check) || GATE_FAIL="$GATE_FAIL peek('고'본문미확인)"
     (cd "$W" && python3 "$MNT/cowork/style_check.py" --date "$DATE" --stem "${3:-brief}") || GATE_FAIL="$GATE_FAIL style(서술형종결)"
+    (cd "$W" && python3 "$MNT/cowork/kr_alt.py" --date "$DATE" --stem "${3:-brief}") || GATE_FAIL="$GATE_FAIL kr-alt(국문기사있는영문)"
     if [ -n "$GATE_FAIL" ]; then
       echo "[send] **[경고] 게이트 실패:$GATE_FAIL — 그래도 발송합니다(2026-09-22 사용자 선택).**" >&2
       echo "[send]   보고·알림에 실패한 게이트 이름과 사유를 반드시 적을 것." >&2
