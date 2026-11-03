@@ -13,6 +13,7 @@
   bash cowork/run.sh review <<'RAW'
   제외 | 헤드라인 | url | 사용자 사유 | 일반화
   추가 | 헤드라인 | url | 사용자 사유 | 일반화
+  배치 | 헤드라인 | url | 사용자 사유 | 일반화   ← [2026-11-03] 카테고리 배치 정정(사례집에만)
   RAW
 
   · '제외' 는 rejected.jsonl 과 사례집 **양쪽**에 들어간다.
@@ -35,8 +36,8 @@ def main():
         if len(p) < 2:
             continue
         kind = p[0]
-        if kind not in ("제외", "추가"):
-            print("[review] 첫 칸은 '제외' 또는 '추가' 여야 합니다: %s" % line[:40]); return 1
+        if kind not in ("제외", "추가", "배치"):
+            print("[review] 첫 칸은 '제외'·'추가'·'배치' 중 하나여야 합니다: %s" % line[:40]); return 1
         rows.append({"kind": kind, "head": p[1],
                      "url": p[2] if len(p) > 2 else "",
                      "reason": p[3] if len(p) > 3 else "(사유 미제시)",
@@ -59,7 +60,8 @@ def main():
     subprocess.run([sys.executable, os.path.join(a.mnt, "cowork", "casebook.py"), "--date", a.date],
                    input=payload, text=True, env=env, check=True)
 
-    print("[review] 제외 %d건 / 추가 %d건 반영 완료" % (len(outs), len(rows) - len(outs)))
+    nb = sum(1 for r in rows if r["kind"] == "배치")
+    print("[review] 제외 %d건 / 추가 %d건 / 배치 %d건 반영 완료" % (len(outs), len(rows) - len(outs) - nb, nb))
     return 0
 
 if __name__ == "__main__":
