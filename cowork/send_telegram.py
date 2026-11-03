@@ -84,8 +84,9 @@ API_COPY = "https://api.telegram.org/bot%s/copyMessage"
 #   secrets.env 의 TELEGRAM_FANOUT_SOURCE_CHAT_ID / TELEGRAM_FANOUT_CHAT_IDS 가
 #   있으면 그쪽이 우선한다. 방을 바꿀 때는 **GCP 봇 코드와 함께** 고칠 것.
 FANOUT_DEFAULT_SOURCE = "-1004362418313"                  # DTB 업로드
-FANOUT_DEFAULT_TARGETS = ["-1004470331681",               # DTB 동작확인
-                          "-1004473772544"]               # Daily Tech Brief 공유
+# [2026-11-03 사용자 지시] DTB 동작확인(-1004470331681)은 복제 대상에서 뺐다:
+#   "앞으로 브리프 결과를 텔레그램에 보낼때 DTB 동작확인 채널에는 보낼 필요 없어"
+FANOUT_DEFAULT_TARGETS = ["-1004473772544"]               # Daily Tech Brief 공유
 
 # HTML 태그를 걷어내 '표시 텍스트'만 남기는 패턴
 _TAG_RE = re.compile(r"<a\s+href=\"[^\"]*\">|</a>|</?b>|</?i>|</?u>|</?s>|"
