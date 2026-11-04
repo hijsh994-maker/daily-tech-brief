@@ -1,0 +1,425 @@
+{
+ "date": "2026-11-04",
+ "terms": [
+  {
+   "term": "Claude Cowork",
+   "norm": "claudecowork",
+   "n_outlets": 9,
+   "n_today": 4,
+   "outlets": [
+    "Business Wire",
+    "HN",
+    "Palo Alto Networks",
+    "Quantisnow",
+    "StreetInsider",
+    "TipRanks",
+    "VMblog",
+    "Yahoo Finance"
+   ],
+   "days": 3,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN(10-27) | Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "Palo Alto Networks(11-03) | New Cortex XDR Integration with Claude Cowork Secures Desktop AI Agents",
+    "StreetInsider(11-03) | Evoke Security Announces Upcoming Integration with Claude Cowork to Extend AI Ag",
+    "Yahoo Finance | CrowdStrike Integrates Falcon Guardian Security Into Anthropic’s Claude Cowork t",
+    "Quantisnow | CrowdStrike Extends Anthropic’s Claude Cowork Enterprise AI Adoption with Falcon",
+    "VMblog | SentinelOne Expands AI Security Coverage to Claude Cowork"
+   ],
+   "score": 18
+  },
+  {
+   "term": "주지사 선거",
+   "norm": "주지사선거",
+   "n_outlets": 5,
+   "n_today": 3,
+   "outlets": [
+    "OBC 뉴스",
+    "뉴스1",
+    "뉴시스",
+    "머니투데이",
+    "아시아경제"
+   ],
+   "days": 2,
+   "first": "2026-11-04",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "OBC 뉴스(11-02) | 경제의 창｜美 월가는 왜 주지사 선거에 집중하나…2조5천억 달러 AI 투자 운명",
+    "아시아경제(11-02) | AI주 투자자가 美 주지사 선거까지 봐야 하는 이유[주末머니]",
+    "머니투데이 | 상·하원만? 월가 '주지사 선거' 주목…\"데이터센터 70% 걸렸다\" - 머니투데이",
+    "뉴시스 | [美중간선거] AI 투자 운명 달렸다…월가, 주지사 선거에 촉각",
+    "뉴스1 | [美중간선거] AI투자 2.5조달러 촉각…월가 주목하는 주지사 선거"
+   ],
+   "score": 15
+  },
+  {
+   "term": "Fujifilm",
+   "norm": "fujifilm",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "Tom's Hardware"
+   ],
+   "days": 2,
+   "first": "2026-10-30",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "Tom's Hardware(10-30) | Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by sky",
+    "HN | Fujifilm to boost tape production 5x as AI fuels archiving demand"
+   ],
+   "score": 13
+  },
+  {
+   "term": "모두의 성장",
+   "norm": "모두의성장",
+   "n_outlets": 28,
+   "n_today": 5,
+   "outlets": [
+    "Investing.com 한국어",
+    "M이코노미뉴스",
+    "OBC 뉴스",
+    "https://www.sisaworld.kr/",
+    "경기일보",
+    "국민일보",
+    "금강일보",
+    "노컷뉴스"
+   ],
+   "days": 2,
+   "first": "2026-11-03",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "창업일보(11-03) | [2027예산안 심층분석]이재명 대통령 821조원 예산 시정연설…청년 43조·AI 21조·국방 73조, '모두의 성장' 재정 대전환",
+    "한겨레(11-03) | 이 대통령 “소수에서 모두의 성장으로 확산…AI·지방 등 미래선점 예산”",
+    "미디어인뉴스(11-03) | [미디어분석] 11월 3일 경제지 1면, '모두의 성장'보다 부동산·AI·경영권 경쟁에 주목",
+    "부산경남대표방송 KNN 뉴스 | 821조 슈퍼예산 '모두의 성장'… 부산경남도 혜택 볼까",
+    "베이비타임즈 | 이재명 대통령 “모두의 성장” 대전환 천명…3대 민생과제 강조",
+    "데일리스포츠한국 | 李대통령, 820.9조 승부수…‘소수의 성장’ 넘어 ‘모두의 성장’으로"
+   ],
+   "score": 12
+  },
+  {
+   "term": "GitHub Stars",
+   "norm": "githubstars",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "FourWeekMBA",
+    "PPC Land"
+   ],
+   "days": 2,
+   "first": "2026-11-04",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "PPC Land(10-26) | CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads",
+    "FourWeekMBA | Nvidia’s Free Agent Layer Adds 1,703 GitHub Stars in a Day"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Fal Raises",
+   "norm": "falraises",
+   "n_outlets": 5,
+   "n_today": 5,
+   "outlets": [
+    "Bloomberg.com",
+    "SiliconANGLE",
+    "The Tech Buzz",
+    "Traders Union",
+    "finance.biggo.com"
+   ],
+   "days": 1,
+   "first": "2026-11-04",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "finance.biggo.com | fal Raises $1.65B Across Series E & F by Sequoia & Bessemer｜Sourcery",
+    "Bloomberg.com | AI Inference Startup Fal Raises Capital at $16 Billion Valuation",
+    "The Tech Buzz | Fal Raises $1.3B, Doubles Valuation to $16B on AI Surge",
+    "Traders Union | Fal raises $1.3 billion at $16 billion valuation as AI inference demand accelera",
+    "SiliconANGLE | Generative media inference startup fal raises $1.3B at a $16B valuation"
+   ],
+   "score": 10
+  },
+  {
+   "term": "IREN Jumps",
+   "norm": "irenjumps",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "24/7 Wall St."
+   ],
+   "days": 1,
+   "first": "2026-11-04",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "24/7 Wall St. | Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitter",
+    "24/7 Wall St. | Cipher Digital Soars 11% as AI Data Center Stocks Rebound After Price-Target Sel"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Hangzhou Marathon",
+   "norm": "hangzhoumarathon",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "Asianet Newsable",
+    "Global Times",
+    "Hindustan Times"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Global Times(11-02) | Humanoid robot traffic police on duty at 2026 Hangzhou Marathon",
+    "Hindustan Times | Humanoid robots join traffic police at China’s Hangzhou Marathon, detect violati",
+    "Asianet Newsable | No Human Traffic Cops? China Deploys Humanoid Robots to Manage Crowds at Hangzho"
+   ],
+   "score": 9
+  },
+  {
+   "term": "불로장생",
+   "norm": "불로장생",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "아시아경제",
+    "이데일리"
+   ],
+   "days": 1,
+   "first": "2026-11-04",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "아시아경제 | \"작년에만 25조원 끌어모았다\"…고령화·AI가 불러온 '불로장생' 열풍",
+    "이데일리 | \"1년 수명 얼마에 팔까\"…불로장생에 작년에만 25조 뭉칫돈"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Stringman",
+   "norm": "stringman",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Stringman, an $800 open-source room scale gripper robot"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Scaling Git",
+   "norm": "scalinggit",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Scaling Git at OpenAI"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Little Book",
+   "norm": "littlebook",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Imperial",
+   "norm": "imperial",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "FelixOnline",
+    "Imperial College London",
+    "Press Release Hub",
+    "Renewable Energy Magazine",
+    "Tech Funding News",
+    "The Business Journals",
+    "WSJ"
+   ],
+   "days": 4,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "AI Insider(10-28) | Imperial College London Spinout Machenta Raises $40M in Seed Funding For Instant",
+    "Imperial College London(10-28) | Imperial AI spinout Machenta raises $40 million to make robots instant learners",
+    "The Business Journals(10-28) | Energy company inks $9 millon partnership with Imperial College London",
+    "FelixOnline | Imperial robotics AI spinout Machenta breaks seed funding record raising £40 mil"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Thailand",
+   "norm": "thailand",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "CDOTrends",
+    "TNGlobal",
+    "marketech apac",
+    "thestandard.co",
+    "기업경제뉴스"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "BigGo Finance(10-27) | Thailand's September Exports Jump 24%, Beating Forecasts as AI Chip Demand Fuels",
+    "thestandard.co(10-27) | Thailand’s Trade Deficit Widens to $5.86 billion as AI Drives Demand",
+    "CDOTrends(10-28) | Chief Digital & Data Officer Thailand Summit 2027",
+    "TNGlobal | Krungsri Finnovate invests in Thailand's AI company Amity, series D funding exce"
+   ],
+   "score": 10
+  },
+  {
+   "term": "루디 0.2",
+   "norm": "루디02",
+   "n_outlets": 17,
+   "n_today": 1,
+   "outlets": [
+    "KPI뉴스",
+    "Naver Blog",
+    "게임어바웃",
+    "글로벌E",
+    "뉴스드림",
+    "뉴시스",
+    "데일리안",
+    "디지털데일리"
+   ],
+   "days": 3,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "한국신용신문(11-02) | 크래프톤, 美 버클리서 로봇 AI '루디 0.2' 공개",
+    "KPI뉴스(11-02) | 크래프톤, 로봇 AI ′루디 0.2′ 공개…대화 기억·몸짓 인식 개선",
+    "글로벌E(11-03) | 크래프톤, 피지컬·버추얼 AI 양날개 가동···루디 0.2 공개·키프 론칭",
+    "Naver Blog | [오늘의 게임·IT 소식] 크래프톤, 로봇용 AI ‘루디 0.2’ 공개 外 : 네이버 블로그"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Compute Campuses",
+   "norm": "computecampuses",
+   "n_outlets": 17,
+   "n_today": 5,
+   "outlets": [
+    "Advanced Manufacturing",
+    "BigGo Finance",
+    "Business Insider",
+    "ExtremeTech",
+    "FourWeekMBA",
+    "Gadget Review",
+    "MarketScale",
+    "Mezha.net"
+   ],
+   "days": 3,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Business Insider(11-02) | OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'",
+    "TechCrunch(11-02) | OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "Mezha.net(11-02) | OpenAI may rebrand data centers as ‘AI compute campuses’",
+    "The San Francisco Standard | Would you hate data centers less if they were called “AI compute campuses”?",
+    "The Verge | OpenAI is quietly renaming data centers ‘compute campuses’",
+    "BigGo Finance | OpenAI Pitches 'AI Compute Campuses' Rebrand as Data Center Backlash Builds Ahea"
+   ],
+   "score": 9
+  },
+  {
+   "term": "에이전틱 AICC",
+   "norm": "에이전틱aicc",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "AI타임스",
+    "NSP통신",
+    "뉴스타운",
+    "뉴스핌",
+    "뉴시스",
+    "디일렉",
+    "디지털데일리",
+    "디지틀조선일보"
+   ],
+   "days": 3,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "디지털데일리(10-28) | 플래티어·GS네오텍, ‘에이전틱 AICC’ 맞손… 실무 처리형 AI 시장 공략",
+    "뉴스핌(10-28) | 플래티어, GS네오텍과 '에이전틱 AICC' 공동 사업화 추진",
+    "뉴시스(10-28) | 플래티어-GS네오텍, 에이전틱 AICC 사업화 MOU",
+    "신아일보 | KT, 'AI+사람' 고객센터로 AX 가속…'에이전틱 AICC' 확대"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Buy Lumentum",
+   "norm": "buylumentum",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "CBS News",
+    "CNBC",
+    "Data Centre Magazine",
+    "Forbes",
+    "Investor's Business Daily",
+    "Invezz",
+    "PYMNTS.com",
+    "Startup Fortune"
+   ],
+   "days": 3,
+   "first": "2026-10-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Startup Fortune(10-29) | Marvell Is Reportedly in Advanced Talks to Buy Lumentum for Its AI Optics",
+    "CNBC(11-03) | Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
+    "PYMNTS.com(11-03) | CPI | Marvell to Buy Lumentum for $115 Billion in Major AI Infrastructure Bet",
+    "Forbes | Marvell To Buy Lumentum For $115 Billion As AI Data Centers Move To Optics",
+    "Data Centre Magazine | Marvell to Buy Lumentum in US$115bn AI Connectivity Deal"
+   ],
+   "score": 9
+  }
+ ]
+}

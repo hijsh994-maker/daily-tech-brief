@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-04 09:00:35 KST === 
+Message TS: 1793750435.662509
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-04 · 10건)
+*1. [:shield: Agent Infra] <https://www.etnews.com/20261103000335|센티넬원, '클로드 코워크' 연동…AI 에이전트 활동 직접 감시>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261102000010|[기고]AI 에이전트 보안, 모델이 아니라 연결된 권한에서 뚫린다>* (전자신문 (AI))
+*3. [:rocket: BigTech Release] <https://openai.com/index/cisco-cyber|OpenAI로 시스코가 기계 속도로 방어하는 방법>* (OpenAI News &amp; Research)
+*4. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/|EDB Postgres AI 및 Amazon Bedrock AgentCore를 사용하여 에이전트 AI를 위한 의미 계층 구축>* (AWS Machine Learning Blog)
+*5. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/|Anthropic is working on a system to prove AI models’ identity>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/|Anthropic is still grappling with the economics of compute>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://openai.com/index/heimstaden|Heimstaden은 AI로 주거용 부동산 관리를 변화시키고 있습니다.>* (OpenAI News &amp; Research)
+*8. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/|베드락 에이전트코어 게이트웨이 (Bedrock AgentCore Gateway) 와 토큰을 반으로 교환하는 ServiceNow>* (AWS Machine Learning Blog)
+*9. [:shield: Agent Infra] <https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/|Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist>* (TechCrunch)
+*10. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/|CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off>* (TechCrunch)
