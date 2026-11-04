@@ -766,6 +766,14 @@ case)
   # [2026-09-16] 사례집 정본은 마운트다. 작업본에 쓰면 세션이 끝날 때 사라진다.
   cd "$W" && DTB_DOCS="$MNT/docs" python3 cowork/casebook.py --date "$DATE" "${@:2}" ;;
 
+facts)
+  # [2026-11-04 신설] 사실 먼저, 등급은 나중. 범위 집합(고 + 어젠다·경쟁사·빅테크·정부보안 중/저)은
+  #   본문에서 닫힌 칸(사건일·근거·유형·단계·흐름·변화·비고)을 out/facts-<날짜>.csv 로 채운 뒤
+  #   이 게이트가 등급과 맞는지 본다. 자유 문구로 통과하는 길이 없다. 정본: cowork/facts_gate.py 머리말.
+  #     bash cowork/run.sh facts --template   # 범위 집합 + 코드가 찾은 단서(흐름후보·본문날짜·재조명)
+  #     bash cowork/run.sh facts              # 점검 (0 통과 / 1 고칠 것 / 2 facts 없음)
+  cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W" "${@:2}" ;;
+
 repeat)
   # [2026-09-21 신설] 반복 게이트. verdict 와 send 가 자동 호출한다.
   #   09-21 사용자 검토에서 뺀 5건 중 3건이 09-18 에 이미 뺀 건이었다.
