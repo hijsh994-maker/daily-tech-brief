@@ -1285,6 +1285,8 @@ PY
   ( cd "$W" && python3 "$MNT/cowork/novelty_gate.py" "$DATE" ) || _v=1
   # [2026-10-27 신설] 링크·본문 미확보 강등 게이트. 못 찾아서 내린 '중' 에 run.sh find 기록 요구.
   ( cd "$W" && python3 "$MNT/cowork/rescue_gate.py" "$DATE" ) || _v=1
+  # [2026-11-04 신설] 사실 먼저 게이트. facts 파일이 없으면(종료코드 2) 판정 무효로 본다.
+  ( cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W" ) || _v=1
   exit $_v
   ;;
 novelty)
@@ -1450,6 +1452,7 @@ send)
     (cd "$W" && python3 cowork/bodypeek.py --date "$DATE" --check) || GATE_FAIL="$GATE_FAIL peek('고'본문미확인)"
     (cd "$W" && python3 "$MNT/cowork/style_check.py" --date "$DATE" --stem "${3:-brief}") || GATE_FAIL="$GATE_FAIL style(서술형종결)"
     (cd "$W" && python3 "$MNT/cowork/kr_alt.py" --date "$DATE" --stem "${3:-brief}") || GATE_FAIL="$GATE_FAIL kr-alt(국문기사있는영문)"
+    (cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W") || GATE_FAIL="$GATE_FAIL facts(사실-등급불일치)"
     if [ -n "$GATE_FAIL" ]; then
       echo "[send] **[경고] 게이트 실패:$GATE_FAIL — 그래도 발송합니다(2026-09-22 사용자 선택).**" >&2
       echo "[send]   보고·알림에 실패한 게이트 이름과 사유를 반드시 적을 것." >&2
