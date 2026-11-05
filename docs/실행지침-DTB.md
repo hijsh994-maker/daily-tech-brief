@@ -11,6 +11,18 @@ Brian의 'Daily Tech Brief' 뉴스 파이프라인을 실행하고, 후보 전 �
 `dtb-secrets` 에서 받아 채워 넣을 수도 있다. 정본: `docs/클라우드-이관-가이드.md`.
 [2026-10-20] `~/dtb` 로 새로 clone 해서 돌리는 방식은 폐기 — 세션 안에서 새로 받은 코드는 실행이 차단됐다.
 
+## ★★★ 2026-11-05 — 텔레그램 중복 발송 차단 (`run.sh send` 발송 기록 · `run.sh sent`) ★★★
+사용자: *"이거 매우 심각한 오류야. 내가 강제로 132를 지웠단말야!!!"* → *"당장 반영해!!!"*
+사고: 11-05 첫 `run.sh send` 출력을 `| grep | head -15` 로 잘라 `[발송] ok` 줄을 못 봤고, '안 나갔다'고 **추측만으로** 다시 보내
+같은 브리프가 2번 나갔다(DTB 업로드 132·133, 공유방 59·60). 확인하겠다며 `editMessageText` 로 '내용 비교'를 하다 공유방 10/7 메시지(37)를 덮어썼다(원본 109 로 복원).
+- **`run.sh send` 출력을 head·grep·tail 로 자르지 말 것.** 전체가 `out/send-log-<날짜>.txt` 에 남는다. 그 파일에서 `[발송]` 줄을 확인한다.
+- **발송 기록 `out/sent-<날짜>-draft.json`** — 첫 sendMessage **전에** status=sending 으로 쓰고, message_id·복제본 id 를 그때그때 덧쓴다(작업본·마운트 양쪽). 출력이 잘려도 기록은 남는다.
+- **같은 날 기록이 있으면 `run.sh send` 는 거부한다(종료코드 4, API 호출 0).** 출력이 안 보였어도 기록이 있으면 나간 것이다.
+- 발송 여부가 헷갈리면 **다시 보내지 말고 `bash cowork/run.sh sent`** 를 본다. 기록이 없는데도 확신이 없으면 보내지 말고 알림으로 묻는다.
+- 고친 본을 정말 다시 보내야 할 때만 `bash cowork/run.sh send resend` — 기록된 원본·복제본을 먼저 지우고(이미 없으면 통과), 하나라도 못 지우면 보내지 않는다.
+- **텔레그램 확인용으로 `editMessageText`·`editMessageReplyMarkup`·`forwardMessage` 를 쓰지 말 것.** 내용이 다르면 그대로 덮어쓴다. 확인은 발송 기록으로만 한다.
+- 코드: `cowork/send_telegram.py`(백업 `.bak-20261105`), `cowork/run.sh`(send·sent, 백업 `.bak-20261105`). 정본: 변경이력 11-05 항.
+
 ## ★★★ 2026-11-04 — 사실 먼저, 등급은 나중 (`run.sh facts`, verdict·send 가 자동 호출) ★★★
 사용자: *"사례집으로 추가한들 동일한 실수를 반복할 가능성이 높다 … 근본적인 해결 방안"* → *"실행지침에 반영"*
 11-04 '고' 4건(메타 회사채 완료·구글 학교 정책·챗GPT 옛 보안 우려·엔비디아 네이버 투자금 확정)이 빠지고,
@@ -850,7 +862,8 @@ bash cowork/run.sh verdict     # newfact·case·agenda 를 함께 돌린다
 bash cowork/run.sh send dry        # 길이·메시지 개수 확인
 bash cowork/run.sh verdict-xlsx    # out/판정-<날짜>.xlsx (요약/전수판정/발송본 3시트)
 bash cowork/run.sh push
-bash cowork/run.sh send            # 초안 채널 발송 (push 뒤에 돌린다)
+bash cowork/run.sh send            # 초안 채널 발송 (push 뒤에 돌린다) — **출력 자르지 말 것, 같은 날 두 번째는 거부됨(11-05)**
+bash cowork/run.sh sent            # [2026-11-05] 발송 기록 확인(헷갈리면 재발송 말고 이것)
 bash cowork/run.sh carryover done  # [2026-10-27] 실린 이월 건 consumed 표시 (그 뒤 cloud-push)
 ```
 

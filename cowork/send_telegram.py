@@ -218,6 +218,70 @@ def copy_message(token, to_chat, from_chat, message_id):
     })
 
 
+# ---------------------------------------------------------------------------
+# [2026-11-05 사용자 지시] 중복 발송 차단 — 발송 기록(sent-<날짜>-<채널>.json)
+#   사고: 11-05 첫 발송 출력을 `| head` 로 잘라 [발송] 줄을 못 봤고, '안 나갔다'고
+#   추측해 다시 보내 같은 브리프가 2번 나갔다(DTB 업로드 132·133, 공유방 59·60).
+#   그 뒤 확인하겠다며 editMessageText 로 '내용 비교'를 하다 공유방 10/7 메시지를
+#   덮어썼다. 사용자: "이거 매우 심각한 오류야" → "당장 반영해!!!"
+#   규칙:
+#     1) 첫 sendMessage **전에** 기록을 status=sending 으로 쓴다. 출력이 잘리거나
+#        프로세스가 죽어도 기록은 남는다. 성공한 message_id·복제본 id 는 그때그때 덧쓴다.
+#     2) 같은 날·같은 채널 기록이 있으면 발송을 거부한다(종료코드 4). 출력이 안
+#        보였더라도 기록이 있으면 '나간 것'으로 본다.
+#     3) 정말 다시 보내야 하면 `run.sh send resend` (--resend): 기록된 원본·복제본을
+#        먼저 지우고(이미 없으면 통과), 하나라도 못 지우면 보내지 않는다.
+#     4) 기록은 작업본 out/ 과 마운트 out/(--mnt) 양쪽에 쓰고 양쪽을 본다.
+# ---------------------------------------------------------------------------
+API_DEL = "https://api.telegram.org/bot%s/deleteMessage"
+
+
+def sent_paths(base, mnt, date, to):
+    name = "sent-%s-%s.json" % (date, to)
+    ps = [os.path.join(base, "out", name)]
+    if mnt and os.path.abspath(mnt) != os.path.abspath(base):
+        ps.append(os.path.join(mnt, "out", name))
+    return ps
+
+
+def read_sent(paths):
+    for p in paths:
+        if os.path.exists(p):
+            try:
+                return json.load(open(p, encoding="utf-8")), p
+            except Exception:
+                return {"status": "unreadable", "path": p}, p
+    return None, None
+
+
+def write_sent(paths, rec):
+    rec["updated_at"] = datetime.datetime.now().isoformat(timespec="seconds")
+    for p in paths:
+        try:
+            os.makedirs(os.path.dirname(p), exist_ok=True)
+            tmp = p + ".tmp"
+            with open(tmp, "w", encoding="utf-8") as f:
+                json.dump(rec, f, ensure_ascii=False, indent=1)
+                f.flush()
+                os.fsync(f.fileno())
+            os.replace(tmp, p)
+        except Exception as e:
+            sys.stderr.write("[발송기록] 쓰기 실패 %s: %r\n" % (p, e))
+
+
+def delete_message(token, chat_id, message_id):
+    try:
+        r = _post(API_DEL % token, {"chat_id": chat_id, "message_id": message_id})
+        return bool(r.get("ok")), r.get("description")
+    except urllib.error.HTTPError as e:
+        d = e.read().decode("utf-8", "replace")
+        if "not found" in d.lower():
+            return True, "이미 없음"
+        return False, "HTTP %s %s" % (e.code, d[:200])
+    except Exception as e:
+        return False, repr(e)
+
+
 def fanout_targets(chat):
     """이 chat 으로 보낼 때 복제해야 할 타깃 목록. 해당 없으면 빈 리스트.
 
@@ -251,7 +315,14 @@ def main():
     #   이제 brief-<날짜>.md 하나가 곧 발송본이다.
     ap.add_argument("--stem", default="brief",
                     help="기본 brief(발송본). brief20 은 폐지됨")
+    ap.add_argument("--mnt", default="", help="마운트(저장소) 경로 — 발송 기록을 양쪽에 남긴다")
+    ap.add_argument("--resend", action="store_true",
+                    help="[2026-11-05] 같은 날 기록된 발송본(원본·복제본)을 지운 뒤 다시 보낸다")
     a = ap.parse_args()
+    try:
+        sys.stdout.reconfigure(line_buffering=True)
+    except Exception:
+        pass
 
     base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     load_secrets(base)
@@ -362,6 +433,44 @@ def main():
         print("[오류] cowork/secrets.env 에 TELEGRAM_BOT_TOKEN 과 %s 가 필요합니다." % key)
         sys.exit(1)
 
+    # [2026-11-05] 중복 발송 차단
+    spaths = sent_paths(base, a.mnt, a.date, a.to)
+    prev, prev_path = read_sent(spaths)
+    if prev and not a.resend:
+        print("[중복차단] **%s %s 채널은 이미 발송 기록이 있습니다 — 보내지 않습니다.**"
+              % (a.date, a.to))
+        print("[중복차단] 기록: %s / status=%s / 원본 %s / 복제 %s / 시각 %s"
+              % (prev_path, prev.get("status"), prev.get("message_ids"),
+                 prev.get("copies"), prev.get("updated_at")))
+        print("[중복차단] 출력이 안 보였어도 기록이 있으면 나간 것이다. 다시 보내지 말 것.")
+        print("[중복차단] 고친 본을 꼭 다시 보내야 하면: bash cowork/run.sh send resend"
+              " (기록된 원본·복제본을 먼저 지운다)")
+        sys.exit(4)
+    if prev and a.resend:
+        bad = []
+        for mid in prev.get("message_ids") or []:
+            ok, why = delete_message(token, prev.get("chat") or chat, mid)
+            print("[재발송] 원본 %s 삭제: %s %s" % (mid, "ok" if ok else "실패", why or ""))
+            if not ok:
+                bad.append(mid)
+        for t, ids in (prev.get("copies") or {}).items():
+            for mid in ids:
+                ok, why = delete_message(token, t, mid)
+                print("[재발송] 복제 %s/%s 삭제: %s %s" % (t, mid, "ok" if ok else "실패", why or ""))
+                if not ok:
+                    bad.append("%s/%s" % (t, mid))
+        if bad:
+            print("[재발송] 지우지 못한 메시지가 있어 **보내지 않습니다**: %s" % bad)
+            sys.exit(4)
+        hist = prev.get("history", []) + [{k: prev.get(k) for k in
+                                          ("message_ids", "copies", "updated_at")}]
+    else:
+        hist = []
+    rec = {"date": a.date, "to": a.to, "chat": chat, "stem": a.stem,
+           "status": "sending", "message_ids": [], "copies": {},
+           "articles": n_articles, "history": hist}
+    write_sent(spaths, rec)   # 첫 sendMessage 전에 기록(출력이 잘려도 남는다)
+
     sent_ids = []
     for i, c in enumerate(chunks, 1):
         try:
@@ -375,6 +484,9 @@ def main():
             sys.exit(1)
         mid = r["result"]["message_id"]
         sent_ids.append(mid)
+        rec["message_ids"] = list(sent_ids)
+        rec["status"] = "sent" if i == len(chunks) else "partial"
+        write_sent(spaths, rec)
         print("[발송] %d/%d ok (message_id=%s)" % (i, len(chunks), mid))
         time.sleep(1.2)   # 채널 flood limit 회피
 
@@ -392,6 +504,11 @@ def main():
             except Exception as e:  # 네트워크 등
                 ok, why = False, repr(e)
             if ok:
+                try:
+                    rec["copies"].setdefault(str(t), []).append(r["result"]["message_id"])
+                    write_sent(spaths, rec)
+                except Exception:
+                    pass
                 print("[복제] %d/%d -> %s ok" % (i, len(sent_ids), t))
             else:
                 n_fail += 1
@@ -404,8 +521,11 @@ def main():
 
     tail = "" if not targets else " / 복제 %d방%s" % (
         len(targets), (" (실패 %d건)" % n_fail) if n_fail else "")
+    rec["status"] = "done"
+    write_sent(spaths, rec)
     print("[완료] %s / 기사 %d건 / 메시지 %d개 -> %s%s"
           % (a.date, n_articles, len(chunks), a.to, tail))
+    print("[발송기록] %s" % spaths[-1])
 
 
 if __name__ == "__main__":

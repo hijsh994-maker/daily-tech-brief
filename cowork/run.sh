@@ -1435,6 +1435,12 @@ send)
   #     run.sh send final  -> 운영 채널. **09-22 사용자가 '초안 채널 유지'를
   #                           택했으므로 스케줄 실행은 쓰지 않는다.**
   if [ "${2:-}" = "go" ]; then set -- "send" "draft" "${@:3}"; fi
+  # [2026-11-05 사용자 지시] 중복 발송 차단. 같은 날 발송 기록(out/sent-<날짜>-draft.json)이
+  #   있으면 send_telegram.py 가 거부한다(종료코드 4). 고친 본을 다시 보낼 때만
+  #   `run.sh send resend` — 기록된 원본·복제본을 먼저 지우고 보낸다.
+  #   **send 출력을 head·grep 으로 자르지 말 것.** 전체를 out/send-log-<날짜>.txt 에 남긴다.
+  RESEND=""
+  if [ "${2:-}" = "resend" ]; then RESEND="--resend"; set -- "send" "draft" "${@:3}"; fi
 
   # [2026-09-22] **게이트는 경고만 남기고 발송을 막지 않는다.**
   #   사용자 선택(09-22): '경고만 남기고 무조건 발송'.
@@ -1463,9 +1469,17 @@ send)
 
   case "${2:-draft}" in
     dry)   cd "$W" && python3 cowork/send_telegram.py --date "$DATE" --dry-run --stem "${3:-brief}" ;;
-    final) cd "$W" && python3 cowork/send_telegram.py --date "$DATE" --to final --stem "${3:-brief}" ;;
-    *)     cd "$W" && python3 cowork/send_telegram.py --date "$DATE" --to draft --stem "${3:-brief}" ;;
+    final) cd "$W" && python3 cowork/send_telegram.py --date "$DATE" --to final --stem "${3:-brief}" --mnt "$MNT" ;;
+    *)     cd "$W" && python3 cowork/send_telegram.py --date "$DATE" --to draft --stem "${3:-brief}" --mnt "$MNT" $RESEND \
+             > >(tee "$W/out/send-log-$DATE.txt") 2>&1 ;;
   esac ;;
+
+sent)
+  # [2026-11-05 신설] 오늘 발송 기록 보기. 발송 여부가 헷갈리면 **다시 보내지 말고** 이걸 본다.
+  for f in "$W/out/sent-$DATE-draft.json" "$MNT/out/sent-$DATE-draft.json"; do
+    if [ -f "$f" ]; then echo "[sent] $f"; cat "$f"; exit 0; fi
+  done
+  echo "[sent] $DATE 발송 기록 없음"; exit 1 ;;
 
 push)
   mkdir -p "$MNT/out" "$MNT/logs" "$MNT/index"
