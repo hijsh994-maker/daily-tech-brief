@@ -1,0 +1,13 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-05 09:00:19 KST === 
+Message TS: 1793836819.739679
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-05 · 8건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261104000371|스노우플레이크, 자율형 AI 에이전트 공개…기업 업무 자동화 확대>* (전자신문 (AI))
+*2. [:rocket: BigTech Release] <https://openai.com/index/openai-to-acquire-pierre|OpenAI, Pierre Computer Company, Inc. 인수>* (OpenAI News &amp; Research)
+*3. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/|프로덕션 AI 에이전트를 위한 컨텍스트 엔지니어링의 네 가지 계층: Deep Insight가 이를 작업 코드에 적용하는 방법>* (AWS Machine Learning Blog)
+*4. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/|U Mobile이 Amazon Bedrock AgentCore로 에이전트 텔코 운영을 구축한 방법>* (AWS Machine Learning Blog)
+*5. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/|Almost no one uses AI agents to book their Uber, company says>* (TechCrunch)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/|OpenAI is already trying to shape the 2028 election>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://openai.com/index/a-thousand-fewer-paths-to-root|루트로 가는 경로가 수천 개 줄어들었습니다.>* (OpenAI News &amp; Research)
+*8. [:zap: Optimization] <https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/|Snapchat surpasses 30M paid subscribers>* (TechCrunch)

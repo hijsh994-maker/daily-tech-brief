@@ -1,0 +1,423 @@
+{
+ "date": "2026-11-05",
+ "terms": [
+  {
+   "term": "K-건강검진",
+   "norm": "k건강검진",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "강원경제신문",
+    "뉴스N제주",
+    "대한투데이",
+    "데일리메디팜",
+    "서울동부신문",
+    "의학신문"
+   ],
+   "days": 5,
+   "first": "2026-10-27",
+   "reaction": 4,
+   "community": 0,
+   "titles": [
+    "의학신문(10-27) | 건협, AI K-건강검진으로 아프리카 보건의료 AX 힘 보탠다",
+    "서울동부신문(10-27) | 세계은행, AI 기반 ‘K-건강검진’ 노하우 견학",
+    "강원경제신문(10-28) | 세계은행이 주목한 AI활용 ‘K-건강검진’... 한국건강관리협회와 아프리카 보건의료 AI 협력 모색",
+    "데일리메디팜 | 세계은행이 주목한 AI활용 ‘K-건강검진’...건협과 아프리카 보건의료 AI 협력 모색"
+   ],
+   "score": 22
+  },
+  {
+   "term": "블루쓰나미",
+   "norm": "블루쓰나미",
+   "n_outlets": 14,
+   "n_today": 14,
+   "outlets": [
+    "CBC뉴스",
+    "DealSite경제TV",
+    "뉴데일리",
+    "뉴스1",
+    "뉴시스",
+    "디지털투데이",
+    "마켓인",
+    "매일경제TV"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "블로터 | 美 중간선거 ‘블루쓰나미’…데이터센터 규제 우려에도 빅테크 랠리",
+    "중앙일보 | ‘블루쓰나미’ 앞 AI 데이터센터…아시아 증시 혼란",
+    "한국경제 | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+    "매일경제TV | [굿모닝 오늘의 증시] 월가 덮친 블루쓰나미…삼전닉스 'AI 규제' 쇼크 비상",
+    "뉴데일리 | 현실화된 미국 블루쓰나미 … AI데이터센터 투자 위축 우려에 삼전닉스 긴장",
+    "뉴시스 | 美 '블루쓰나미'에 투자 지형 '흔들'…2차전지 기회, AI 악재?"
+   ],
+   "score": 15
+  },
+  {
+   "term": "희비 교차",
+   "norm": "희비교차",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "KBS 뉴스",
+    "YTN",
+    "강원일보",
+    "뉴시스",
+    "더구루",
+    "연합뉴스TV"
+   ],
+   "days": 4,
+   "first": "2026-10-27",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "강원일보(10-27) | 우상호 ‘동해-강릉’ 도정 평가 희비 교차⋯AI데이터센터 파급력 도민 지지 출렁",
+    "더구루(10-27) | 현대차 5.7% 감소 vs 기아 48.3% 급증, 9월 인도 전기차 시장 '희비 교차'",
+    "KBS 뉴스(10-29) | MS는 웃고 알파벳은 울었다…빅테크 실적 희비 교차",
+    "뉴시스 | [美중간선거]다우, 장중 1500P↑… 빅테크 vs AI 인프라주 '희비 교차'"
+   ],
+   "score": 14
+  },
+  {
+   "term": "AMD Stock Surges",
+   "norm": "amdstocksurges",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "Coinpaper",
+    "The Tech Buzz"
+   ],
+   "days": 2,
+   "first": "2026-11-04",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "The Tech Buzz(11-04) | AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue",
+    "Coinpaper | AMD Stock Surges 7% as AI Data Center Revenue Jumps 97% to $8.55 Billion"
+   ],
+   "score": 12
+  },
+  {
+   "term": "엑사원 넥서스",
+   "norm": "엑사원넥서스",
+   "n_outlets": 9,
+   "n_today": 9,
+   "outlets": [
+    "AI타임스",
+    "ER 이코노믹리뷰",
+    "뉴스드림",
+    "디지털데일리",
+    "머니투데이",
+    "시사코리아",
+    "이뉴스투데이",
+    "천지일보"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴스드림 | LG AI연구원, '엑사원 넥서스' 개발… AI 모델 개발 전 주기에 필수 적용",
+    "머니투데이 | LG '엑사원 넥서스', AI로 저작권 문제 해결…사람보다 45배 빨라 - 머니투데이",
+    "시사코리아 | LG AI연구원, ‘엑사원 넥서스’로 국가지식재산위원장상…해외 공급 추진",
+    "ER 이코노믹리뷰 | LG AI연구원 “AI 저작권 고민, AI에서 해결책 찾는다”…‘엑사원 넥서스’ 기술 고도화",
+    "천지일보 | LG AI연구원, AI 저작권 리스크 자동 분석… ‘엑사원 넥서스’로 국가지식재산위원장상",
+    "한국아이닷컴 | LG AI연구원, '엑사원 넥서스'로 국가지식재산위원장상"
+   ],
+   "score": 11
+  },
+  {
+   "term": "데이터센터붐 중단되나",
+   "norm": "데이터센터붐중단되나",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "한국경제"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "한국경제 | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+    "한국경제 | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Regal Rexnord",
+   "norm": "regalrexnord",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "IndustryWeek",
+    "Investing.com 한국어"
+   ],
+   "days": 2,
+   "first": "2026-11-04",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(11-04) | Regal Rexnord, 데이터센터 매출 급증·실적 예상 상회에 주가 3% 상승",
+    "IndustryWeek | Humanoid Robots Advancing on Nasdaq; Change Afoot at Regal Rexnord: So That Happ"
+   ],
+   "score": 8
+  },
+  {
+   "term": "배움터",
+   "norm": "배움터",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "머니투데이",
+    "이데일리"
+   ],
+   "days": 2,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "이데일리(11-02) | 한경협, 학교 밖 청소년 온라인 배움터 연다…검정고시부터 AI까지",
+    "머니투데이 | 가상세계에 마련한 로봇 '배움터'… 엔비디아도 주목 - 머니투데이"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Geoffrey Hinton",
+   "norm": "geoffreyhinton",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Geoffrey Hinton: it might turn out we were better off without AI"
+   ],
+   "score": 7
+  },
+  {
+   "term": "KKKKhazix",
+   "norm": "kkkkhazix",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GitHub | KKKKhazix/agent-autoloop — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Gulfport Energy",
+   "norm": "gulfportenergy",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Investing.com 한국어"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어 | Gulfport Energy 실적 발표 앞둬…데이터센터 수요와 가스 가격 약세에 주목"
+   ],
+   "score": 6
+  },
+  {
+   "term": "기대 부합",
+   "norm": "기대부합",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "이데일리"
+   ],
+   "days": 1,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "이데일리 | SK텔레콤, 3분기 영업익 '기대 부합'...AIDC 성장성 주목-SK"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "BIXPO 2026",
+   "norm": "bixpo2026",
+   "n_outlets": 22,
+   "n_today": 10,
+   "outlets": [
+    "beSUCCESS",
+    "기계신문",
+    "뉴스핌",
+    "데일리한국",
+    "미디어파인",
+    "미디어펜",
+    "벤처타임즈",
+    "비욘드포스트"
+   ],
+   "days": 4,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "뉴스핌(10-28) | LS일렉트릭, 'BIXPO 2026'서 HVDC 기술 선봬",
+    "아시아투데이(10-28) | LS일렉트릭, HVDC 기술 앞세워 국가 전력망 사업 공략…BIXPO 2026 참가",
+    "핀포인트뉴스(10-28) | LS일렉트릭, BIXPO 2026 참가…차세대 전력망 기술력 선보인다",
+    "미디어펜 | [현장] 전기를 만드는 기술에서 연결하고 관리하는 기술로…BIXPO 2026, 전력산업의 판이 바뀐다",
+    "신아일보 | LS전선·LS마린솔루션, 'BIXPO 2026'서 에너지고속도로·AI 데이터센터 공략",
+    "이코리아 | LS전선·LS마린솔루션, BIXPO 2026 참가…전력망·AI 데이터센터 기술 선보여"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Infisical Raises",
+   "norm": "infisicalraises",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "BankInfoSecurity",
+    "Pasquale Pillitteri",
+    "Pulse 2.0",
+    "StreetInsider",
+    "Unite.AI",
+    "Wowtale",
+    "citybiz",
+    "https://tech-insider.org/"
+   ],
+   "days": 4,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "citybiz(10-28) | Infisical Raises $40 Million Series B at $600 Million Valuation to Expand AI Age",
+    "Unite.AI(10-28) | Infisical Raises $40 Million Series B at $600 Million Valuation to Secure AI Age",
+    "StreetInsider(10-28) | Infisical Raises $40 Million at $600 Million Valuation to Secure the AI Agent Ec",
+    "BankInfoSecurity | Infisical Raises $40M to Secure AI Agent Credentials"
+   ],
+   "score": 10
+  },
+  {
+   "term": "ICMRA",
+   "norm": "icmra",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "대한민국 정책브리핑",
+    "더바이오",
+    "메디소비자뉴스",
+    "메디포뉴스",
+    "한국의약통신",
+    "현대건강신문"
+   ],
+   "days": 4,
+   "first": "2026-10-29",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "대한민국 정책브리핑(10-29) | ICMRA 정상회의, 대한민국에서 처음 열립니다 - 카드/한컷 | 멀티미디어",
+    "한국의약통신(11-03) | 세계 의약품 규제기관 수장 서울 집결…식약처, ICMRA 정상회의 개최",
+    "뉴스1(11-03) | 글로벌 의약품 규제 수장들 서울 집결…식약처, ICMRA 정상회의 개최",
+    "메디포뉴스 | 식약처, ICMRA 서울회의서 AI·의약품 규제 협력 추진"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Cresta",
+   "norm": "cresta",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "CMSWire",
+    "CX Today",
+    "Mi-3.com.au.",
+    "StreetInsider",
+    "TradingView",
+    "Unite.AI",
+    "Yahoo Finance",
+    "https://marketingreport.one/"
+   ],
+   "days": 5,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(10-29) | Money 20/20 USA: Cresta CEO Ping Wu on when AI agents call your bank",
+    "CMSWire(10-30) | Cresta Opens Its AI Agent Platform With End-to-End Self-Service for Developers",
+    "StreetInsider(11-03) | Salesforce to acquire Cresta in AI voice agent deal",
+    "https://marketingreport.one/ | Salesforce to acquire voice AI company Cresta"
+   ],
+   "score": 10
+  },
+  {
+   "term": "SambaNova",
+   "norm": "sambanova",
+   "n_outlets": 6,
+   "n_today": 2,
+   "outlets": [
+    "Data Centre Solutions",
+    "DataCenterDynamics",
+    "Press Release Hub",
+    "The Next Web",
+    "Unite.AI",
+    "巴士的報"
+   ],
+   "days": 4,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "巴士的報(10-28) | SambaNova and Oracle Collaborate to Bring High-Performance Inference to Oracle C",
+    "Press Release Hub(10-30) | SambaNova and Emergys Partner to Accelerate Enterprise Agentic AI Deployment",
+    "Unite.AI(11-04) | Supermicro, SambaNova 기반 AI 추론 시스템 구축·판매",
+    "The Next Web | Supermicro will sell SambaNova’s inference chips alongside Nvidia GPUs",
+    "DataCenterDynamics | SambaNova partners with Supermicro for SN50 RDU deployments"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Dan Driscoll",
+   "norm": "dandriscoll",
+   "n_outlets": 13,
+   "n_today": 4,
+   "outlets": [
+    "Bloomberg.com",
+    "Breaking Defense",
+    "CNBC",
+    "DefenseScoop",
+    "ExecutiveBiz",
+    "Fortune",
+    "Investing.com",
+    "OpenAI"
+   ],
+   "days": 3,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(11-03) | OpenAI taps former US army secretary Dan Driscoll for national security role",
+    "Bloomberg.com(11-03) | OpenAI Says Former Army Secretary Dan Driscoll to Join Company",
+    "Investing.com(11-03) | OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
+    "WSJ | OpenAI Hires Former Army Secretary Dan Driscoll to Cybersecurity Role",
+    "Breaking Defense | Former Army secretary Dan Driscoll heads to OpenAI",
+    "Security Clearance Jobs | From the Pentagon to OpenAI: Dan Driscoll Takes on National Security"
+   ],
+   "score": 9
+  }
+ ]
+}

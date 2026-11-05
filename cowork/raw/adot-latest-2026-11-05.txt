@@ -1,0 +1,122 @@
+[09:30]
+*11월 5일의 뉴스레터가 도착했습니다.*
+총 *5개*의 토픽에서 *50개*의 신규 소식이 업데이트 됐습니다.
+
+*AI모델동향*
+신규 10건
+[삼성생명, AI.임상의학 결합 지역 통합돌봄 모델 '시니어 커넥티드케어' 공개](https://www.sportschosun.com/life/2026-11-04/202611040100030970003247)
+ㄴ스포츠조선 2026.11.04 관련뉴스 1건
+[기업 AI 훔쳐 쓰고 저가에 되파는 ‘LLM 재킹’ 기승...기업은 최대 13억 ‘요금 폭탄’](https://biz.chosun.com/it-science/ict/2026/11/04/MK2Z6ILM55CN3HQEZX4AQYWA44/)
+ㄴ조선비즈 2026.11.04 관련뉴스 2건
+[‘예술·AI 융합 교육기술’...지식재산처, 발레앤모델 AI와 현장간담회](https://www.kukinews.com/article/view/kuk202611040188)
+ㄴ쿠키뉴스 2026.11.04
+['AI·LLM' 접목해 토지행정 혁신...제49회 지적세미나 5일 개최](https://www.news1.kr/realestate/general/6342163)
+ㄴ뉴스1 2026.11.04
+[[M.AX 풀스택 진화]<1>검증된 AI 모델, 옆 공장.협력사.산단으로 번진다](https://www.etnews.com/20261104000368)
+ㄴ전자신문 2026.11.04
+[화학연, AI 총괄 조직 신설 'AI 특화모델 만든다'](https://www.fnnews.com/news/202611031429440157)
+ㄴ파이낸셜뉴스 2026.11.04
+[루닛 "SITC 2026서 AI 바이오마커 공동연구 2건 발표 예정"](https://www.asiae.co.kr/news/view.htm?idxno=2026110509122440617)
+ㄴ아시아경제 2026.11.05
+[AI가 우리 회사 회계 학습... 웹케시, 경리나라 MCP 출시](https://www.sedaily.com/article/20110457)
+ㄴ서울경제 2026.11.05
+[GC메디아이, 올해 영업익 가이던스 26% 상향...‘의사랑 AI’ 타고 메디컬 OS 도약](https://biz.heraldcorp.com/article/10926423)
+ㄴ헤럴드경제 2026.11.05
+[거액 쏟은 AI 업계의 견제에도 규제론자들 美 의회로](https://biz.chosun.com/international/international_general/2026/11/05/D34EBZ7PHZCBXATLCPJ2J6CUPY/)
+ㄴ조선비즈 2026.11.05
+
+
+*AI에이전트*
+신규 10건
+[HS애드, AI 에이전트에 넷플릭스 광고 효과 분석 기능 적용](https://biz.chosun.com/industry/business-venture/2026/11/05/3TTAY3EMNJACFJXECZP3VWDCDI/)
+ㄴ조선비즈 2026.11.05 관련뉴스 1건
+['HBM의 아버지' 김정호, AI 에이전트로 반도체 기술 혁신 나서](https://www.asiae.co.kr/news/view.htm?idxno=2026110509003300520)
+ㄴ아시아경제 2026.11.05
+[E8, 보안 강화 온톨로지 AI 플랫폼 '넥시스' 공개...실행형 에이전트 탑재](https://www.asiae.co.kr/news/view.htm?idxno=2026110508343590317)
+ㄴ아시아경제 2026.11.05
+[한국딥러닝, 신한베트남파이낸스와 금융 AI 에이전트 실증](https://www.sedaily.com/article/20110460)
+ㄴ서울경제 2026.11.05
+[네이버, 통합 에이전트 구축 앞당긴다...카카오.배민도 자연어 AI 검색 확대](https://www.etnews.com/20261104000273)
+ㄴ전자신문 2026.11.04
+[카본링크, 탄소관리 AI 에이전트 '겨리AI' 첫 공개...AX 로드맵 발표](https://www.etnews.com/20261104000388)
+ㄴ전자신문 2026.11.04
+[애플 “AI 에이전트, 지시 어기고 데이터 지울 수도”](https://biz.chosun.com/it-science/ict/2026/11/04/IFYZSPQKEBD5FBCCERBTZZEPI4/)
+ㄴ조선비즈 2026.11.04 관련뉴스 3건
+[크라우드스트라이크, AI 보안 스타트업 2곳 인수...AI 에이전트 ‘킬 스위치’도 공개](https://biz.chosun.com/it-science/ict/2026/11/04/ZCSULSJLBZFFHP6S4FWJSP6M2I/)
+ㄴ조선비즈 2026.11.04
+[비씨카드, 전 직원에 개인 AI 에이전트 제공...업무 혁신 속도](https://www.etnews.com/20261104000202)
+ㄴ전자신문 2026.11.04
+[‘예측 불가능한 작동.데이터 삭제 위험’... 애플도 ‘AI 에이전트’ 경고](https://www.segye.com/newsView/20261104505388)
+ㄴ세계일보 2026.11.04
+
+[09:30]
+*데이터센터시장*
+신규 10건
+[NH證 "SKT, 목표가 12만 5000원 유지...국내 데이터센터 선점 기대"](https://www.news1.kr/finance/market-exr/6343612)
+ㄴ뉴스1 2026.11.05
+[LS일렉트릭, 한전 고장예측 기술 도입...반도체.데이터센터로 사업 확대](https://www.fnnews.com/news/202611050826170274)
+ㄴ파이낸셜뉴스 2026.11.05 관련뉴스 2건
+[“머스크, 선거 최대 패배자”...거액 후원 후보 낙선에 데이터센터 사업도 불똥[미 중간선거]](https://www.khan.co.kr/article/202611050828001)
+ㄴ경향신문 2026.11.05
+[美 중간선거 민주당 압승...AI 데이터센터 건설 제동 우려](https://www.etnews.com/20261105000027)
+ㄴ전자신문 2026.11.05 관련뉴스 4건
+[코트라-데이터센터聯 맞손...데이터센터 외자 유치 총력](https://www.asiae.co.kr/news/view.htm?idxno=2026110507502180690)
+ㄴ아시아경제 2026.11.05 관련뉴스 1건
+[美 ‘블루웨이브’에 다우 3% 급등...데이터센터·반도체株는 급락 [투자360]](https://biz.heraldcorp.com/article/10926311)
+ㄴ헤럴드경제 2026.11.05 관련뉴스 1건
+[데이터센터 건립 갈등 주민손으로...영등포구, '민회' 안건 확정](https://www.asiae.co.kr/news/view.htm?idxno=2026110509281066883)
+ㄴ아시아경제 2026.11.05
+['美 데이터센터 규제' 우려...SK하이닉스 6% 급락[핫종목]](https://www.news1.kr/finance/general-stock/6343748)
+ㄴ뉴스1 2026.11.05
+[법무법인 태평양, '경제·데이터 분석센터' 확대 출범](https://www.asiae.co.kr/news/view.htm?idxno=2026110509011725375)
+ㄴ아시아경제 2026.11.05
+[영등포구, 데이터센터 갈등 등 지역 현안 10건 민회 상정...주민 200명 직접 논의](https://biz.heraldcorp.com/article/10926294)
+ㄴ헤럴드경제 2026.11.05
+
+
+*로봇동향*
+신규 10건
+[“中 휴머노이드 로봇업체, 3년 내 15% 이상 퇴출”](https://www.sedaily.com/article/20110343)
+ㄴ서울경제 2026.11.04
+[ETRI, 로봇에 ‘지능’ 입힌다...휴머노이드·자율주행 등 피지컬AI 기술 공개](https://www.sedaily.com/article/20110319)
+ㄴ서울경제 2026.11.04
+[[포토] 휴머노이드 로봇도 체력관리](https://www.etnews.com/20261104000317)
+ㄴ전자신문 2026.11.04 관련뉴스 5건
+[로보락, 로봇청소기 '구독' 서비스 개시](https://www.etnews.com/20261104000101)
+ㄴ전자신문 2026.11.04 관련뉴스 2건
+[삼성전자, 2년 연속 CES 단독전시관 운영](https://www.segye.com/newsView/20261104517902)
+ㄴ세계일보 2026.11.05
+[11번가 '그랜드십일절' 초반 흥행...AI 추천 거래액 255%↑](https://www.fnnews.com/news/202611050902286218)
+ㄴ파이낸셜뉴스 2026.11.05 관련뉴스 1건
+[파워넷, 로봇 핵심 구동 솔루션 공개...전력전자 기술 기반 신사업 확대](https://www.asiae.co.kr/news/view.htm?idxno=2026110508382684499)
+ㄴ아시아경제 2026.11.05
+[씨앤엠, 오픈패스로보틱스와 로봇 액추에이터 공급계약](https://www.asiae.co.kr/news/view.htm?idxno=2026110508210714450)
+ㄴ아시아경제 2026.11.05
+[이민근 안산시장, 유럽 로봇기업 찾아 “제조 현장 연계 투자협력”](https://www.asiae.co.kr/news/view.htm?idxno=2026110509212377366)
+ㄴ아시아경제 2026.11.05
+[[투자노트] 스페이스X.테슬라 합병한다는데... 단계별 주가 시나리오](https://biz.chosun.com/stock/stock_general/2026/11/05/AWGCHCV245GCLAMFDSMLCUB7B4/)
+ㄴ조선비즈 2026.11.05
+
+
+*AI기술현황*
+신규 10건
+[HS애드, AI 에이전트에 넷플릭스 광고 효과 분석 기능 적용](https://biz.chosun.com/industry/business-venture/2026/11/05/3TTAY3EMNJACFJXECZP3VWDCDI/)
+ㄴ조선비즈 2026.11.05 관련뉴스 1건
+[내달 '경리나라 MCP' 생성형 AI와 연결...체험단 모집](https://www.fnnews.com/news/202611050903270663)
+ㄴ파이낸셜뉴스 2026.11.05
+[생성형 AI가 제작한 애니 '두근두근 멜로츄!'...첫 영상 공개](https://www.news1.kr/life-culture/general-cultural/6343262)
+ㄴ뉴스1 2026.11.05
+['HBM의 아버지' 김정호, AI 에이전트로 반도체 기술 혁신 나서](https://www.asiae.co.kr/news/view.htm?idxno=2026110509003300520)
+ㄴ아시아경제 2026.11.05
+[E8, 보안 강화 온톨로지 AI 플랫폼 '넥시스' 공개...실행형 에이전트 탑재](https://www.asiae.co.kr/news/view.htm?idxno=2026110508343590317)
+ㄴ아시아경제 2026.11.05
+[과기정통부-AMD, AI 반도체 협력 가동...‘어드밴싱 AI’ 국내 첫 개최](https://www.sedaily.com/article/20110236)
+ㄴ서울경제 2026.11.05
+[美 중간선거 여파, 코스피 하락 출발... 반도체.AI주 급락](https://biz.chosun.com/stock/stock_general/2026/11/05/U6UGBQ4WDZDKXEMQD6TMZ53TF4/)
+ㄴ조선비즈 2026.11.05
+[한국딥러닝, 신한베트남파이낸스와 금융 AI 에이전트 실증](https://www.sedaily.com/article/20110460)
+ㄴ서울경제 2026.11.05
+[[속보]필라델피아 반도체 3% 급락...텍사스 AI 데이터센터 건설 중단 우려](https://www.news1.kr/world/international-economy/6343521)
+ㄴ뉴스1 2026.11.05 관련뉴스 2건
+[[美중간선거] AI 투자 둔화 땐...반도체 호황에 기댄 韓재정 '역풍' 우려](https://www.news1.kr/economy/trend/6343361)
+ㄴ뉴스1 2026.11.05 관련뉴스 1건

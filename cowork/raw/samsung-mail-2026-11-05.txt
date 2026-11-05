@@ -1,0 +1,33 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 13개 항목 + 개별 메시지 8건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+1. 깃허브 정조준?…오픈AI, 개발 도구 스타트업 피에르 컴퓨터 인수 (디지털투데이)
+o 링크: [digitaltoday.co.kr/news/articleView.html?idxno=712767](https://www.digitaltoday.co.kr/news/articleView.html?idxno=712767)
+2. [미국 특징주] 애플, 직원 AI 사용 예산 축소…비용 절감 속 AI 투자 딜레마 (뉴스핌)
+o 링크: [newspim.com/news/view/20261105000058](https://www.newspim.com/news/view/20261105000058)
+3. 스페이스X, 400억 달러 AI칩 금융 투자자 모집…대형 딜 소화 시험대 (EBN)
+o 링크: [ebn.co.kr/news/articleView.html?idxno=1730510](https://www.ebn.co.kr/news/articleView.html?idxno=1730510)
+4. 코딩 AI 도구 인수한 메타, 클라우드 20일 종료 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/432925](https://www.tokenpost.kr/news/ai/432925)
+5. 메타, 달러채권 이어 첫 유로화 채권 13.6조원 발행 '영끌' (연합뉴스)
+o 링크: [n.news.naver.com/mnews/article/001/0016422863?…](https://n.news.naver.com/mnews/article/001/0016422863?sid=104)
+6. 구글, 말레이시아 데이터센터 건설에 2년간 20조원 투자 (연합뉴스)
+o 링크: [n.news.naver.com/mnews/article/001/0016422552?…](https://n.news.naver.com/mnews/article/001/0016422552?sid=104)
+7. 크라우드스트라이크, AI 보안기업 2곳 인수…에이전트 보안 강화 (전자신문)
+o 링크: [n.news.naver.com/mnews/article/030/0003481852?…](https://n.news.naver.com/mnews/article/030/0003481852?sid=105)
+8. 텐센트 혼위안 Hy4 정식판, 클라우드서 체험 가능 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/432495](https://www.tokenpost.kr/news/ai/432495)
+_— 개별 메시지(다이제스트 외) —_
+9. 오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작 (AI타임스)
+o 링크: [aitimes.com/news/articleView.html?idxno=216989](https://www.aitimes.com/news/articleView.html?idxno=216989)
+10. 美 텍사스주, 'AI 인프라 반대' 민주당 히노호사 주지사 선출 (한국경제)
+o 링크: [n.news.naver.com/mnews/article/015/0005350313?…](https://n.news.naver.com/mnews/article/015/0005350313?sid=101)
+11. "PC용 램 아까워" 논란 된 올트먼…'램 올트먼'으로 개명? (한국경제)
+o 링크: [n.news.naver.com/mnews/article/015/0005350243?…](https://n.news.naver.com/mnews/article/015/0005350243?sid=105)
+12. 테라울프($WULF), 구글 신용지원으로 앤트로픽 190억달러 임대 추진 (토큰포스트)
+o 링크: [tokenpost.kr/news/breaking/432691](https://www.tokenpost.kr/news/breaking/432691)
+13. 챗GPT, 텍스트·사진으로 GIF 만든다…오픈AI '이미지 2.6' 순차 도입 (디지털투데이)
+o 링크: [digitaltoday.co.kr/news/articleView.html?idxno=712759](https://www.digitaltoday.co.kr/news/articleView.html?idxno=712759)
+링크 미확보
+(생략)
+
+## 텔레그램 - 에이닷비즈뉴스레터

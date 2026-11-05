@@ -1,0 +1,90 @@
+안녕하세요 조승현님,
+Google Drive 'TIR' 폴더에 업로드된 2026년 11월 5일자 조간 뉴스 클리핑 리스트(기사-링크 1:1 매핑 검증
+완료)를 공유드립니다.
+------------------------------
+
+*1. SKT 3분기 영업익 5523억… LG유플러스도 2976억 (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261104/134967340/2
+
+*2. SKT, 3분기 영업익 5523억·1040%↑…고객감사 비용 기저효과 (전자신문)*
+   o 링크: https://www.etnews.com/20261104000121
+
+*3. SKT·LG유플, AI 날개 달고 '깜짝 실적' (매일경제)*
+   o 링크: https://www.mk.co.kr/news/it/12196596
+
+*4. 일회성 비용 줄고 AI 날개…SKT·LGU+ 실적 '껑충' (서울경제)*
+   o 링크: https://www.sedaily.com/article/20110300
+
+*5. SKT·LGU+ 내년부터 AI 데이터센터 매출 본격화 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110463941
+
+*6. "AIDC 돈 되네"…매출 1200억 넘긴 SKT·LGU+, 미래 먹거리 키운다 (이데일리)*
+   o 링크:
+https://www.edaily.co.kr/News/Read?newsId=04877366645642440&mediaCodeNo=257
+
+*7. '블루쓰나미' 앞 AI 데이터센터…아시아 증시 혼란 (중앙일보)*
+   o 링크: https://www.joongang.co.kr/article/25475857
+
+*8. 최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡는다 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110465831
+
+*9. 최태원, 美 AI 투자법인 이사회 의장 맡는다 (서울경제)*
+   o 링크: https://www.sedaily.com/article/20110399
+
+*10. 최대 100억 달러 출자... SK하닉 美인공지능 투자법인명 ‘HYAICO' (한국일보)*
+   o 링크:
+https://www.edaily.co.kr/News/Read?newsId=02145126645641784&mediaCodeNo=257
+
+*11. BCG, 'AI 거품론' 반박 “빅테크, 투자 감당 가능...인터넷 붐 파산과 달라” (조선일보)*
+   o 링크:
+https://www.chosun.com/economy/tech_it/2026/11/04/AGFPTQPPERGS5CSI62ZLOSHVAA/
+
+*12. 연봉 최대 19억원 … 美 기업들 "AI 현장 엔지니어 뽑아요" (매일경제)*
+   o 링크: https://www.mk.co.kr/news/it/12196598
+
+*13. AI비용관리가 기업 경쟁력…'모델 투 데이터' 전략 급부상 (매일경제)*
+   o 링크: https://www.mk.co.kr/news/it/12196492
+
+*14. 로버트 플레이터 "미래 근로자, 로봇 통제하는 운영자로 변신…생산성 높아질 것" (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110463251
+
+*15. 돈 못 벌고, 기술은 정체……… 중국 'AI 절벽' (경향신문)*
+   o 링크: https://aimatters.co.kr/news-report/58081/
+
+*16. ETRI, 5일 킨텍스서 '피지컬 AI' 기술 10개 소개 (전자신문)*
+   o 링크: https://www.etnews.com/20261104000219
+
+*17. 'AI 과학자' 조수는 충분, 박사는 아직 (한국일보)*
+   o 링크: https://devonestep.kr/10/999
+
+*18. 올트먼 “메모리 부족… PC에 D램 두는 건 끔찍”… 머스크 “개인도 자기 램 가질 자격 있어” 반박 (조선일보)*
+   o 링크:
+https://www.chosun.com/economy/tech_it/2026/11/05/FTXO25K2GBAYVM4WKS3BMDCEFQ/
+
+*19. 마돈나 등 스타들도 “AI학습, 저작권료 내야” (동아일보)*
+   o 링크: https://www.donga.com/news/People/article/all/20261105/134968197/2
+
+*20. “北해커, 이직 미끼로 바이낸스 엔지니어 낚아… 5개월간 침투 작전" (동아일보)*
+   o 링크: https://www.donga.com/news/Inter/article/all/20261105/134968364/2
+
+*21. “개인정보 보호” 칼잡은 여권…“한방에 궤멸” 벌벌 떠는 기업 (중앙일보)*
+   o 링크: https://www.joongang.co.kr/article/25475914
+
+*22. KAIST, 가짜 기지국 탐지 시험 플랫폼 '데빌레이' 개발 (한국일보)*
+   o 링크: https://www.etnews.com/20261104000221
+
+*23. 구글, 이달 비공개 공간정보산업 상생포럼 추진…고정밀지도 반출 상생안 제출하나 (전자신문)*
+   o 링크: https://www.etnews.com/20261104000302
+
+*24. 품절이었던 '아이폰 듀오' 바로 산다…주요 매장서 당일 수령 가능 (디지털타임스)*
+   o 링크: https://www.dt.co.kr/article/12093187
+
+*25. 광고 볼까, 요금 더 낼까… OTT 투 트랙 요금제 (조선일보)*
+   o 링크:
+https://www.chosun.com/economy/tech_it/2026/11/05/FSS4WMHUX5FAXOXJOKPNA3RN3U/
+
+*26. 네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대 (전자신문)*
+   o 링크: https://www.etnews.com/20261104000273
+
+*27. SK, 에코플랜트 공개매수로 100% 자회사 추진 (매일경제)*
+   o 링크: https://www.mk.co.kr/news/business/12196649

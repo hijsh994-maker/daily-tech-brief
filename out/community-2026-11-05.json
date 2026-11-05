@@ -1,0 +1,122 @@
+{
+ "date": "2026-11-05",
+ "items": [
+  {
+   "src": "community",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "outlet": "HN",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "pub_date": "2026-11-04",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 1039pt·621댓글",
+   "weight": 1039
+  },
+  {
+   "src": "community",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "outlet": "HN",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "pub_date": "2026-11-04",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 624pt·163댓글",
+   "weight": 624
+  },
+  {
+   "src": "community",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "outlet": "HN",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "pub_date": "2026-11-04",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 586pt·270댓글",
+   "weight": 586
+  },
+  {
+   "src": "community",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "outlet": "HN",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "pub_date": "2026-11-04",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 349pt·91댓글",
+   "weight": 349
+  },
+  {
+   "src": "community",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "outlet": "HN",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "pub_date": "2026-11-04",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 295pt·293댓글",
+   "weight": 295
+  },
+  {
+   "src": "community",
+   "title": "How I use AI (Oct 2026)",
+   "outlet": "HN",
+   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+   "pub_date": "2026-11-03",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 248pt·298댓글",
+   "weight": 248
+  },
+  {
+   "src": "community",
+   "title": "KKKKhazix/agent-autoloop — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+   "outlet": "GitHub",
+   "url": "https://github.com/KKKKhazix/agent-autoloop",
+   "pub_date": "2026-11-03",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★2490·2일·1245/일",
+   "weight": 1245.0
+  },
+  {
+   "src": "community",
+   "title": "HF trending: deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "pub_date": "2026-10-17",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥5267·↓221621",
+   "weight": 5267
+  },
+  {
+   "src": "community",
+   "title": "HF trending: moonshotai/Kimi-K3.1-Pro",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "pub_date": "2026-11-02",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥492·↓797",
+   "weight": 492
+  }
+ ]
+}
