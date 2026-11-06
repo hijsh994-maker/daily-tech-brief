@@ -1,0 +1,50 @@
+## 텔레그램 - 삼성 글로벌 AI/SW 뉴스
+(다이제스트 12개 항목 + 개별 메시지 12건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+1. 메타 "美 밖에 데이터센터 지어야 하나"…오픈AI도 민주당 압승에 고심 (뉴시스)
+o 링크: [newsis.com/view/NISX20261105_0003856315](https://www.newsis.com/view/NISX20261105_0003856315)
+2. 오픈AI, 소프트웨어 보안 취약점 찾아내는 'GPT-6 사이버' 공개 (헤럴드경제)
+o 링크: [n.news.naver.com/mnews/article/016/0002719718](https://n.news.naver.com/mnews/article/016/0002719718)
+3. 오라클, 초대형 데이터센터 지연…"전력인프라 허가 차질" (연합뉴스)
+o 링크: [n.news.naver.com/mnews/article/001/0016425457](https://n.news.naver.com/mnews/article/001/0016425457)
+4. 구글, 데이터센터 규제 역풍에도 와이오밍에 170억弗 투자 (SBS Biz)
+o 링크: [n.news.naver.com/mnews/article/374/0000542048](https://n.news.naver.com/mnews/article/374/0000542048)
+5. Gemini Omni 1.2 Flash GA — 15-second video, $0.07 per second (Shattered)
+o 링크: [shattered.io/gemini-omni-1-2-flash-ga-15-second-video-0-07-per-second-2026](https://shattered.io/gemini-omni-1-2-flash-ga-15-second-video-0-07-per-second-2026/)
+6. 클로드, 최대 24개월 계좌 내역 분석…미국 유료 구독자 대상 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/433578](https://www.tokenpost.kr/news/ai/433578)
+7. 메타, 미국서 뮤즈 음성 대화 시작…아바타도 표정·몸짓 반응 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/433628](https://www.tokenpost.kr/news/ai/433628)
+8. 애플, 10조원 회사채 발행…주문 4배 몰려 (연합뉴스)
+o 링크: [n.news.naver.com/mnews/article/001/0016425303](https://n.news.naver.com/mnews/article/001/0016425303)
+9. "엔비디아 AI칩 60만 개 홍콩에 쌓여…中, 대규모 수입 승인 보류" (뉴스1)
+o 링크: [n.news.naver.com/mnews/article/421/0009273288](https://n.news.naver.com/mnews/article/421/0009273288)
+10. 팔로알토 네트웍스, 클러치 시큐리티 인수 추진…AI 에이전트 인증 관리 (디지털투데이)
+o 링크: [digitaltoday.co.kr/news/articleView.html?idxno=713136](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713136)
+_— 개별 메시지(다이제스트 외) —_
+11. [AI는 지금] 코덱스 힘 싣는 오픈AI, '피에르' 품고 멀티 에이전트 판 키운다 (지디넷코리아)
+o 링크: [n.news.naver.com/mnews/article/092/0002443976](https://n.news.naver.com/mnews/article/092/0002443976)
+12. 오픈AI, '이미지 2.6' 공개…챗GPT·코덱스에 탑재 (지디넷코리아)
+o 링크: [zdnet.co.kr/view?no=20261105135557](https://zdnet.co.kr/view/?no=20261105135557)
+13. "전국 데이터센터 멈춰라"…美민주당 지도부, AI에 칼 빼들었다 (이데일리)
+o 링크: [n.news.naver.com/mnews/article/018/0006404762](https://n.news.naver.com/mnews/article/018/0006404762)
+14. 캣 우, 클로드 코드 떠나 오픈AI 핵심 제품 관리 맡는다 (토큰포스트)
+o 링크: [tokenpost.kr/news/ai/433028](https://www.tokenpost.kr/news/ai/433028)
+15. 오픈AI, 사이버보안 특화 AI 'GPT-6 Cyber' 공개…리눅스 취약점 948건 (제민일보)
+o 링크: [jemin.com/news/articleView.html?idxno=846323](https://www.jemin.com/news/articleView.html?idxno=846323)
+16. 메타 사장 "신규 데이터센터 건설은 매우 어려워질 것" (KBS)
+o 링크: [news.kbs.co.kr/news/pc/view/view.do?ncd=8704879](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704879)
+17. 데이터센터 반대 민심 확인한 오픈AI "전력망 비용 전액 부담" (연합뉴스)
+o 링크: [n.news.naver.com/mnews/article/001/0016425444](https://n.news.naver.com/mnews/article/001/0016425444)
+18. 오픈AI 사장 "내년 상장 가능…매출 과반은 기업 매출" (연합뉴스)
+o 링크: [n.news.naver.com/mnews/article/001/0016424263](https://n.news.naver.com/mnews/article/001/0016424263)
+19. 中 문샷AI, 엔비디아 블랙웰 8000개 임대 논의…美 수출통제 피해 유럽으로 (디지털투데이)
+o 링크: [digitaltoday.co.kr/news/articleView.html?idxno=713212](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713212)
+링크 미확보
+• (다이제스트) 엔비디아 x 아폴로, Brightspeed 통신 인프라 자산 AI 데이터센터 전환 논의
+• (다이제스트) 법률 AI 스타트업 Harvey, IPO 초기 논의 진행 보도
+• (개별) 데이터도그(DDOG US) 3Q26 실적 주요 내용
+• (개별) 마이크로소프트, Nscale의 영국 데이터센터 계약 철회 보도 — 국내 보도는 텍사스 추가 용량 미행사 건으로 내용 불일치
+• (개별) 앤스로픽 IPO 목표 기업가치 1.5조~1.6조 달러 하향 압력 — 확인된 보도가 11-03자(수집 창 밖)
+※ 개별 '구글 와이오밍 170억 달러·Bloom Energy 연료전지'는 다이제스트 4번과 같은 사건이라 생략
+
+## 텔레그램 - 에이닷비즈뉴스레터

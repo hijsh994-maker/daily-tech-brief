@@ -1,0 +1,1 @@
+https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ | 오픈AI 공식 정렬 보고서 원문(회사 공식 게시), 국내 보도는 GPT-6 사이버 등 다른 사건만 검색됨

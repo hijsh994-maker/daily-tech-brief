@@ -1,0 +1,588 @@
+# 후보 전수 판정 목록 2026-11-06 — 총 533건
+# 기계 점수·신호는 **일부러 뺐습니다.** 헤드라인과 아래 사실만으로
+# 고/중/저를 매기세요. 판정 축은 프롬프트의 A~I 를 그대로 씁니다(I=사례집, 가장 최신).
+# 형식: idx | 통로 | 매체 | 발행일 | 보도 | 헤드라인
+#   보도 = 다수(6개 매체 이상) / 소수(2~5) / 단독(1)
+#   ⟨체급⟩ = 주체가 이 바닥에서 누구인가 (config/entities.yaml tiers)
+#     **등급이 아니라 기울기다. 같은 사건 유형끼리 비교할 때만 쓴다.**
+#       프런티어    : 진출·검토 선언만으로도 고 (상징성 자체가 사건)
+#       빅테크      : 출시·인수는 고, 기능 추가는 중
+#       경쟁사      : 신규 서비스·전략·수주는 고 (사업현황 7절)
+#       대기업      : 사건의 크기로 판단. 이름값으로 올리지 않는다
+#       유망스타트업: 기술·자금 규모가 실체면 고
+#       일반        : '세계 최초'·'국내 최초' 수식어로 올리지 않는다.
+#                     파급이 본문에 숫자로 드러나야 검토 대상
+#       체급?       : **'낮음'이 아니다.** 주체가 회사가 아니거나(정부·
+#                     정책·인물) 명단에 없는 것이다. 후자면 그 회사가
+#                     이 바닥에서 누구인지 한 번 묻고 넘어간다.
+#     실측 09-15: ⟨일반⟩한컴 '세계 최초 AI 워크포스'는 편집자가 뺐고,
+#       ⟨프런티어⟩오픈AI '휴머노이드 직접 제조'는 실었다. 같은 '신규
+#       출시'인데 갈린 것은 주체 체급이다.
+#   [기자재어휘] 는 **D축 배제(7) AI DC 기자재 납품** 후보입니다.
+#     발전기·변압기·전선·버스덕트·냉각·공조처럼 '데이터센터에
+#     납품되는 물건' 이야기면 금액이 커도 '저'입니다(F1 보다 우선).
+#     구분선: **무엇이 들어가나**(전력계약·부지·자금조달)는 핵심,
+#     **누가 물건을 파나**(기자재 납품)는 어젠다 밖.
+#     실측 09-17: '제네락·아마존 발전기 공급 계약'을 '빅테크가
+#     발전설비를 직접 조달했다'고 포장해 고로 올렸다가 편집자가 뺌.
+#   [반향: 낱말·매체N·D일·반응N·커뮤니티N] 은 buzz.py 가 잡은 **새 낱말의 확산**입니다.
+#     30일간 없던 이름이 여러 매체에 번지고 제3자 반응(돌풍·열광·오픈소스 구현
+#     잇따라·HN·GitHub)이 붙은 것. **점수가 아니라 사실**이고 등급이 아닙니다.
+#     E축 예외 (f) 커뮤니티 반향으로 판정합니다 — 주체가 무명이어도 제3자
+#     반응이 실체면 고. '세계 최초' 같은 자기 주장(사례29)과 가르는 선입니다.
+#     실측 09-23: '제브'(타입세이프AI)가 사흘간 8건 들어왔는데 무명 주체라
+#     저·저·중으로 걸렀고 임원이 '캐치 못해 아쉽다'고 했다.
+#   === 커뮤니티 === 는 HN·GitHub·HF 통로입니다. 영문·개발자 관점이라 국내
+#     매체보다 D+5~7 빠릅니다. 스타 속도·포인트는 signal 로 헤드라인 뒤에 붙습니다.
+#   [링크없음] 은 URL 을 못 찾은 건입니다. '고'로 판정하면
+#   WebSearch 로 원문을 찾아야 실을 수 있습니다.
+
+
+=== 경쟁사속보 (2건) ===
+L2 | 경쟁사속보 | edaily.co.kr | 11-06 | 단독 | ⟨경쟁사⟩ 카카오 AI 믿고 기다린 개미들 어쩌나…목표가 하향 왜
+L1 | 경쟁사속보 | thebell.co.k | 11-06 | 단독 | ⟨경쟁사⟩ [더벨][IR Briefing] LGU+, AI 투자 속도…투자재원 확보 과제
+
+=== 반향후보 (21건) ===
+7 | 반향후보 | 인포스탁데일리 | 11-05 | 다수 | ⟨체급?⟩ [1106개장체크] 美 증시, 민주당 중간선거 승리 속 AI 규제 공포…나스닥 5.52% 하락 [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+187 | 반향후보 | 연합인포맥스 | 11-05 | 단독 | ⟨체급?⟩ [블루쓰나미 긴급진단] "AI 공급 제약에 네오클라우드 구조조정 가능성" [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+292 | 반향후보 | 뉴스핌 | 11-05 | 단독 | ⟨체급?⟩ 월가, AI '디리스킹'… 중간선거발 규제 공포에 베팅 흔들 [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+262 | 반향후보 | CBC뉴스 | 11-05 | 소수 | ⟨대기업⟩ [현대차·기아 주가] 코스피 급락 속 현대차·기아 3~5% 상승…美 관세 완화 기대감 작용 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+317 | 반향후보 | 이데일리 | 11-05 | 단독 | ⟨체급?⟩ 美 '블루쓰나미’에 흔들린 코스피…'8700 VS 5200' 엇갈린 전망 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+331 | 반향후보 | 뉴스프리존 | 11-05 | 단독 | ⟨체급?⟩ 美 중간선거 블루쓰나미 이후 'AI 돈줄' 시험대 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+264 | 반향후보 | 인포스탁데일리 | 11-05 | 단독 | ⟨체급?⟩ 美 '블루쓰나미'에 반도체주 휘청… 증권가 "투자 중단 아닌 지연" [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+43 | 반향후보 | 인사이트 | 11-05 | 다수 | ⟨빅테크⟩ "데이터센터 지을 수 있나" 민주당 중간선거 승리에 엔비디아 9%·나스닥 5.5% 급락 [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+333 | 반향후보 | Naver Blog | 11-05 | 소수 | ⟨경쟁사⟩ SKT “울산 AIDC, 글로벌 3~4곳과 협의…2029년 하반기 개소 목표” : 네이버 블로그 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+291 | 반향후보 | 연합인포맥스 | 11-05 | 소수 | ⟨체급?⟩ [블루쓰나미 긴급진단] "美 데이터센터 규제공포 과도…저점 후 반전모색" [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+263 | 반향후보 | 주간동아 | 11-05 | 단독 | ⟨대기업⟩ 삼성·SK 경영진, ‘깜짝 방한’ 샘 올트먼 잇달아 만나 [반향: 깜짝 방한·매체7·2일·반응1·커뮤니티0]  [후보만 3회·발송 0건 10-07~10-20]
+300 | 반향후보 | 연합인포맥스 | 11-05 | 소수 | ⟨체급?⟩ [블루쓰나미 긴급진단] "저가매수 기회 아냐"…월가, 증시 추가 하락 경고 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+316 | 반향후보 | Gasgoo | 11-05 | 단독 | ⟨체급?⟩ Baidu Unveils Apollo World, a World Model Designed to Let AI Train AI [반향: Baidu·매체6·4일·반응1·커뮤니티1]
+320 | 반향후보 | 한국경제 | 11-05 | 단독 | ⟨체급?⟩ 블루쓰나미에 중대 기로에선 'AI반도체' 랠리…전문가들의 분석 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+55 | 반향후보 | 주간현대 | 11-05 | 소수 | ⟨경쟁사⟩ LG AI연구원, AI 데이터 저작권·컴플라이언스 해결 ‘엑사원 넥서스’로 식별성 높여 [반향: 엑사원 넥서스·매체9·2일·반응1·커뮤니티0]  [후보만 3회·발송 0건 10-12~11-05]
+299 | 반향후보 | HN | 11-05 | 단독 | ⟨체급?⟩ MCP Explained [반향: MCP Explained·매체1·1일·반응0·커뮤니티1]
+5 | 반향후보 | 머니투데이 | 11-05 | 다수 | ⟨체급?⟩ 블루웨이브발 AI 규제 우려에 코스피·코스닥 나란히 5% 급락…매도 사이드카 - 머니투데이 [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+4 | 반향후보 | 한겨레 | 11-06 | 다수 | ⟨체급?⟩ [“AI 붕괴” 나스닥 -5.5%, S&P500 -4.4% 폭락...반도체 투매 여파] [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+261 | 반향후보 | 매일경제 | 11-06 | 단독 | ⟨체급?⟩ '블루쓰나미'에 파랗게 질린 삼전닉스 [반향: 블루쓰나미·매체24·2일·반응1·커뮤니티0]
+186 | 반향후보 | 비즈워치 | 11-06 | 단독 | ⟨체급?⟩ "구체적 입법도 없는데"...선반영된 AI 규제 공포에 반도체 '직격탄' [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+3 | 반향후보 | 이투데이 | 11-06 | 다수 | ⟨체급?⟩ [뉴욕증시, 데이터센터 규제 우려에 AI주 투매...반도체지수 장중 12%↓[종합]] [반향: 규제 공포·매체31·2일·반응2·커뮤니티0]
+
+=== tier0-사람큐레이션 (50건) ===
+34 | tier0-사람큐레이션 | OrcaRouter | 11-05 | 소수 | ⟨빅테크⟩ Gemini Omni 1.2 Flash vs Qwen3.8-Omni-Flash: 읽기 vs 쓰기  [후보만 2회·발송 0건 10-29~10-30]
+46 | tier0-사람큐레이션 | 지디넷코리아 | 11-06 | 소수 | ⟨프런티어⟩ 오픈AI, '이미지 2.6' 공개…챗GPT·코덱스에 탑재
+137 | tier0-사람큐레이션 | 한국경제 | 11-06 | 단독 | ⟨체급?⟩ 쿠팡 정보유출 4천억 과징금 법원, 효력정지 신청 거부
+12 | tier0-사람큐레이션 | 한국경제 | 11-06 | 다수 | ⟨체급?⟩ 과기정통부, 내년 기초연구에 2조9102억원 지원 '역대 최대'
+107 | tier0-사람큐레이션 | 디지털타임스 | 11-06 | 단독 | ⟨경쟁사⟩ “AI 많이 쓰는 게 능사 아냐" 홍범식 LG유플러스 대표  [후보만 7회·발송 0건 10-26~11-05]
+190 | tier0-사람큐레이션 | 중앙일보 | 11-06 | 단독 | ⟨대기업⟩ 최태원, 9440억 SK(주)주식 매각……재산분할 대금 마련  [후보만 3회·발송 0건 10-07~10-20]
+23 | tier0-사람큐레이션 | 연합뉴스 | 11-06 | 소수 | ⟨프런티어⟩ 오픈AI 사장 "내년 상장 가능…매출 과반은 기업 매출"
+108 | tier0-사람큐레이션 | 디지털타임스 | 11-06 | 소수 | ⟨체급?⟩ 반도체·스마트 제조 인재 양성센터 출범 과기정통부, 연구센터 5곳 선정  [후보만 4회·발송 0건 10-07~11-03]
+332 | tier0-사람큐레이션 | 전자신문 | 11-06 | 다수 | ⟨유망스타트업⟩ SK텔레콤, 부산불꽃축제 통신망 이상무
+85 | tier0-사람큐레이션 | 토큰포스트 | 11-06 | 소수 | ⟨빅테크⟩ 메타, 미국서 뮤즈 음성 대화 시작…아바타도 표정·몸짓 반응
+313 | tier0-사람큐레이션 | 매일경제 | 11-06 | 단독 | ⟨체급?⟩ 글로벌 통신연합체서 中 입김 커지고 韓은 밀려나
+10 | tier0-사람큐레이션 | 조선일보 | 11-06 | 다수 | ⟨체급?⟩ 美선거에 AI 데이터센터 날벼락… 주지사 당선인 절반 이상 “규제” 글로벌 AI·반도체株 '휘청'
+109 | tier0-사람큐레이션 | 토큰포스트 | 11-06 | 소수 | ⟨프런티어⟩ 클로드, 최대 24개월 계좌 내역 분석…미국 유료 구독자 대상
+61 | tier0-사람큐레이션 | 매일경제 | 11-06 | 소수 | ⟨체급?⟩ 329만원 주고 산 아이폰 듀오 인기앱 3개 중 2개 '반쪽화면'
+87 | tier0-사람큐레이션 | 지디넷코리아 | 11-06 | 소수 | ⟨프런티어⟩ [AI는 지금] 코덱스 힘 싣는 오픈AI, '피에르' 품고 멀티 에이전트 판 키운다
+136 | tier0-사람큐레이션 | 디지털타임스 | 11-06 | 소수 | ⟨경쟁사⟩ 하늘길 통신 넘어 데이터 사업까지 KT, UAM서 새 먹거리 찾는다
+59 | tier0-사람큐레이션 | 디지털타임스 | 11-06 | 다수 | ⟨경쟁사⟩ “AI로 산업현장 안전관리 혁신" LG, 계열사 우수 운영사례 공유
+265 | tier0-사람큐레이션 | 전자신문 | 11-06 | 단독 | ⟨빅테크⟩ 美, 위성사업자 주파수 면허 허용 스페이스X·아마존 '직접통신' 날개..…韓, 제도정비 과제
+11 | tier0-사람큐레이션 | 서울신문 | 11-06 | 소수 | ⟨프런티어⟩ 메타·오픈AI, 코딩 기업 인수… 빅테크 'AI 생태계' 장악 노린다
+14 | tier0-사람큐레이션 | 중앙일보 | 11-06 | 다수 | ⟨경쟁사⟩ “카카오 에이전틱AI, 시장 기대에 못 미쳤다" 정신아 대표 "뼈아픈 평가" 인정  [후보만 3회·발송 0건 11-03~11-05]
+64 | tier0-사람큐레이션 | 한국경제 | 11-06 | 소수 | ⟨빅테크⟩ 리벨리온 등 엔비디아와 간담회 AI 스타트업 해외진출 길 열리나
+304 | tier0-사람큐레이션 | 서울신문 | 11-06 | 단독 | ⟨체급?⟩ 가짜 정보 만들고 식당 예약하고… '통제 밖 AI'에 일상 꼬였다
+2 | tier0-사람큐레이션 | SBS Biz | 11-06 | 다수 | ⟨빅테크⟩ 구글, 데이터센터 규제 역풍에도 와이오밍에 170억弗 투자
+305 | tier0-사람큐레이션 | 한국경제 | 11-06 | 단독 | ⟨체급?⟩ '일의 양극화'…… AI 잘하는 직원에 집중 'AI發 인력 재배치' 세션
+273 | tier0-사람큐레이션 | 조선일보 | 11-06 | 단독 | ⟨체급?⟩ 게임·정부 홈피서 다운받은 앱도 '해킹 통로'
+29 | tier0-사람큐레이션 | 토큰포스트 | 11-06 | 소수 | ⟨프런티어⟩ 캣 우, 클로드 코드 떠나 오픈AI 핵심 제품 관리 맡는다
+193 | tier0-사람큐레이션 | 이데일리 | 11-06 | 소수 | ⟨대기업⟩ SK에코플랜트 체질 바꾼 장동현 용퇴
+45 | tier0-사람큐레이션 | 이데일리 | 11-06 | 소수 | ⟨체급?⟩ "전국 데이터센터 멈춰라"…美민주당 지도부, AI에 칼 빼들었다
+19 | tier0-사람큐레이션 | 디지털투데이 | 11-06 | 소수 | ⟨빅테크⟩ 中 문샷AI, 엔비디아 블랙웰 8000개 임대 논의…美 수출통제 피해 유럽으로
+30 | tier0-사람큐레이션 | 제민일보 | 11-06 | 소수 | ⟨프런티어⟩ 오픈AI, 사이버보안 특화 AI 'GPT-6 Cyber' 공개…리눅스 취약점 948건
+6 | tier0-사람큐레이션 | 연합뉴스 | 11-06 | 다수 | ⟨빅테크⟩ 애플, 10조원 회사채 발행…주문 4배 몰려
+188 | tier0-사람큐레이션 | 경향신문 | 11-06 | 단독 | ⟨체급?⟩ 한 달 새 금융사 37곳에서 개인정보 유출…자금 탈취도 10억원
+51 | tier0-사람큐레이션 | 파이낸셜뉴스 | 11-06 | 다수 | ⟨경쟁사⟩ KT·서울대 AI 보안 인재 육성 융합보안 계약학과 신설 협약  [후보만 4회·발송 0건 10-07~11-03]
+310 | tier0-사람큐레이션 | 동아일보 | 11-06 | 단독 | ⟨체급?⟩ 인력 대폭 줄인 빅테크 'AI 비용' 지원도 줄인다
+266 | tier0-사람큐레이션 | 중앙일보 | 11-06 | 소수 | ⟨체급?⟩ “AI, 잘못된 지름길 택할 수도…책임은 인간·기업 몫” AI 연구자 '2026 중앙포럼' 대담
+267 | tier0-사람큐레이션 | 매일경제 | 11-06 | 단독 | ⟨체급?⟩ 기초연구 R&D 평가서 논문 수 제출 폐지 과기정통부, 양 아닌 질 평가
+1 | tier0-사람큐레이션 | 뉴스1 | 11-06 | 다수 | ⟨체급?⟩ [美 AI주 하루 2조달러 증발...민주당 압승에 데이터센터 투자 공포]
+315 | tier0-사람큐레이션 | 파이낸셜뉴스 | 11-06 | 단독 | ⟨체급?⟩ 2.5배 늘어난 통신분쟁조정... 피해구제 강화나서
+22 | tier0-사람큐레이션 | 헤럴드경제 | 11-06 | 다수 | ⟨프런티어⟩ 오픈AI, 소프트웨어 보안 취약점 찾아내는 'GPT-6 사이버' 공개
+58 | tier0-사람큐레이션 | 파이낸셜뉴스 | 11-06 | 소수 | ⟨빅테크⟩ 메타 독주 AI안경, 삼성도 출격… '폰 없이 길안내' 등 승부수  [후보만 2회·발송 0건 10-12~10-13]
+28 | tier0-사람큐레이션 | 뉴스1 | 11-06 | 소수 | ⟨빅테크⟩ "엔비디아 AI칩 60만 개 홍콩에 쌓여…中, 대규모 수입 승인 보류"  [후보만 3회·발송 0건 10-26~10-29]
+311 | tier0-사람큐레이션 | 국민일보 | 11-06 | 단독 | ⟨체급?⟩ 혈액 냉장실도 당했다…… 초연결 기술 ‘보안 위협' 부메랑으로
+15 | tier0-사람큐레이션 | KBS | 11-06 | 다수 | ⟨빅테크⟩ 메타 사장 "신규 데이터센터 건설은 매우 어려워질 것"
+8 | tier0-사람큐레이션 | 조선일보 | 11-06 | 소수 | ⟨대기업⟩ “2100조원 투자, 정상적인가 싶었지만 이렇게 베팅 안하면 쫓아갈 방법 없어” 최태원 SK 회장 서울대 강연  [후보만 2회·발송 0건 10-12~10-14]
+312 | tier0-사람큐레이션 | 이데일리 | 11-06 | 단독 | ⟨체급?⟩ 스타링크가 촉발한 국내 통신 지각변동
+20 | tier0-사람큐레이션 | 연합뉴스 | 11-06 | 소수 | ⟨빅테크⟩ 오라클, 초대형 데이터센터 지연…"전력인프라 허가 차질"
+303 | tier0-사람큐레이션 | 동아일보 | 11-06 | 단독 | ⟨체급?⟩ AI안경 쓰고 수학 문제 보니, 20초만에 고난도 4점짜리 풀어
+27 | tier0-사람큐레이션 | 헤럴드경제 | 11-06 | 소수 | ⟨프런티어⟩ [데이터센터 반대 민심 폭발에...오픈AI “전력 비용 우리가 낸다”]
+44 | tier0-사람큐레이션 | 디지털투데이 | 11-06 | 단독 | ⟨체급?⟩ 팔로알토 네트웍스, 클러치 시큐리티 인수 추진…AI 에이전트 인증 관리
+21 | tier0-사람큐레이션 | 전자신문 | 11-06 | 다수 | ⟨체급?⟩ 스페이스X·퀄컴, 美 전역에 5G 이통망 깐다
+
+=== tier0-봇큐레이션 (7건) ===
+327 | tier0-봇큐레이션 | ? |  | 단독 | ⟨프런티어⟩ Merge는 OpenAI 기술로 제품 및 비즈니스 툴을 구축합니다.
+192 | tier0-봇큐레이션 | ? |  | 단독 | ⟨유망스타트업⟩ Perplexity, 업무용 AI 에이전트에 대한 자체 인수 착수
+328 | tier0-봇큐레이션 | ? |  | 단독 | ⟨체급?⟩ GPT ‑ 6 사이버: 정렬된 사이버 보안 에이전트의 경계 발전
+306 | tier0-봇큐레이션 | 아시아경제 | 11-05 | 단독 | ⟨유망스타트업⟩ [[아시아AI대상]모티프테크놀로지스, 독자 모델로 글로벌 최상위권 성능 입증]
+329 | tier0-봇큐레이션 | 서울신문 | 11-06 | 단독 | ⟨체급?⟩ [데이터센터 갈등, 구민 지혜로 푼다]
+330 | tier0-봇큐레이션 | 조선비즈 | 11-06 | 단독 | ⟨대기업⟩ [롯데호텔앤리조트, ‘AX.DX 서비스 어워드’ 2년 연속 수상]  [후보만 3회·발송 0건 10-07~10-20]
+325 | tier0-봇큐레이션 | 쿠키뉴스 | 11-06 | 단독 | ⟨체급?⟩ [외국인 반도체 지분율 2013년 이후 최저...“AI 불신에 깊어지는 조정”]  [후보만 4회·발송 0건 10-13~11-04]
+
+=== tier0+교차 (41건) ===
+88 | tier0+교차 | ? |  | 다수 | ⟨체급?⟩ 테이텀, AI 에이전트 보안 플랫폼 '클릭' 출시
+135 | tier0+교차 | ? |  | 소수 | ⟨프런티어⟩ OpenAI released a new cybersecurity model. Is that enough?
+301 | tier0+교차 | ? |  | 다수 | ⟨경쟁사⟩ Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents
+106 | tier0+교차 | ? |  | 다수 | ⟨프런티어⟩ 웹케시, '경리나라 MCP' 12월 출시…클로드·챗GPT 등과 연결
+13 | tier0+교차 | ? |  | 다수 | ⟨프런티어⟩ OpenAI president Greg Brockman says company could be IPO ready in 2027
+270 | tier0+교차 | 전자신문 | 11-05 | 소수 | ⟨체급?⟩ [포티투닷, 우수 개발자 확보...“AI 자율주행부터 LLM까지”]
+105 | tier0+교차 | 파이낸셜뉴스 | 11-05 | 다수 | ⟨체급?⟩ ["발레 동작에서 찾은 피지컬 AI 해법"... 발레앤모델 AI, ‘정밀 동작 원천기술’로 로봇 시장 조준]
+294 | tier0+교차 | 서울경제 | 11-05 | 소수 | ⟨체급?⟩ [“수백쪽 자료도 30분 만에”...농협銀 업무 돕는 AI 에이전트]
+308 | tier0+교차 | 아시아경제 | 11-05 | 소수 | ⟨체급?⟩ [[아시아AI대상]크래프톤, AI 에이전트로 채용·플레이 혁신 주도]
+268 | tier0+교차 | 전자신문 | 11-05 | 다수 | ⟨체급?⟩ [SOOP 계열 플레이디, 사내 AI 에이전트 플랫폼 '파이' 구축]
+138 | tier0+교차 | 뉴스1 | 11-05 | 다수 | ⟨체급?⟩ [한국항공대, 12일 '피지컬 AI와 월드 모델' 전문가 세미나 개최]
+63 | tier0+교차 | 뉴스1 | 11-05 | 다수 | ⟨체급?⟩ [안산시, 휴머노이드 로봇 기업 '팔 로보틱스'와 투자협력 간담회]
+191 | tier0+교차 | 파이낸셜뉴스 | 11-05 | 다수 | ⟨체급?⟩ [애피어,에이전틱 AI 마케팅 활용 전략 공유한다]
+62 | tier0+교차 | 경향신문 | 11-05 | 다수 | ⟨체급?⟩ [미 민주 ‘데이터센터 규제 강화’ 기조...한국 반도체 ‘숨 고르기’]
+297 | tier0+교차 | 전자신문 | 11-05 | 소수 | ⟨체급?⟩ [[ET시론]AI에이전트 대중화 시대, AI 3중 안전망이 경쟁력이다]
+321 | tier0+교차 | 스포츠조선 | 11-05 | 소수 | ⟨체급?⟩ ["K-건강검진과 AI의 만남"... 건협, 중앙아시아 4개국 고위공무원에 'AI 검진 모델' 노하우 전수]
+307 | tier0+교차 | 아시아경제 | 11-05 | 소수 | ⟨체급?⟩ [[아시아AI대상]류제명 차관 "세계 최고 수준 프런티어 AI 모델 도전"]
+309 | tier0+교차 | 파이낸셜뉴스 | 11-05 | 소수 | ⟨체급?⟩ [유안타증권, 임직원 AI 역량 키운다...바이브코딩.AI 에이전트 교육 확대]
+189 | tier0+교차 | 쿠키뉴스 | 11-05 | 소수 | ⟨체급?⟩ [원주 찾은 우상호 강원도지사 “‘반도체공장’보다 ‘AI 데이터센터’ 적합”]
+323 | tier0+교차 | 뉴스1 | 11-05 | 소수 | ⟨체급?⟩ [AI가 대신 쇼핑하면 광고도 AI 겨냥...美유통업계 수익모델 변신 중]
+56 | tier0+교차 | 전자신문 | 11-05 | 다수 | ⟨체급?⟩ [KAIST 테라랩, HBM.HBF 설계에 AI 에이전트 접목 연구 성과 공유]
+65 | tier0+교차 | 전자신문 | 11-05 | 다수 | ⟨체급?⟩ [개인정보위, AI 에이전트.피지컬 AI 개인정보 보호 기술 논의]
+302 | tier0+교차 | 파이낸셜뉴스 | 11-06 | 소수 | ⟨체급?⟩ [한온시스템, 협력사 85곳 모아 AI 데이터센터 열관리 트렌드 공유...자선 기부로 8000만원 조성]
+322 | tier0+교차 | 뉴스1 | 11-06 | 소수 | ⟨체급?⟩ ['블루웨이브'에 꺾인 반도체주..."AI 성장 유효, 조정 거쳐 반등할 것"]
+139 | tier0+교차 | 아시아경제 | 11-06 | 다수 | ⟨체급?⟩ [쿠콘, DSRV와 온체인 금융데이터·AI에이전트 결제사업 협약]
+140 | tier0+교차 | 파이낸셜뉴스 | 11-06 | 소수 | ⟨프런티어⟩ [오픈AI "비밀협약 안 맺고 일자리 늘린다"...데이터센터 민심 달래기]
+298 | tier0+교차 | 이투데이 | 11-06 | 소수 | ⟨체급?⟩ [[오늘의 투자전략] AI 패닉셀링 여진...반도체 투매보다 관망할 때]
+60 | tier0+교차 | 헤럴드경제 | 11-06 | 소수 | ⟨경쟁사⟩ [카카오, AI 판단 특화 모델 공개...GPT-6보다 43배 빨라]
+319 | tier0+교차 | 뉴스1 | 11-06 | 소수 | ⟨대기업⟩ [SK인텔릭스, 요양기관서 '나무엑스' 실증...낙상 감지.순찰 자동화]  [후보만 3회·발송 0건 10-07~10-20]
+314 | tier0+교차 | 전자신문 | 11-06 | 소수 | ⟨체급?⟩ [쓰레기통을 알아서 내놓는 '로봇']
+272 | tier0+교차 | 파이낸셜뉴스 | 11-06 | 소수 | ⟨체급?⟩ [반도체지수 6년7개월만에 최대폭 하락...AI 투매 쇼크]
+271 | tier0+교차 | 서울경제 | 11-06 | 소수 | ⟨체급?⟩ [엑스와이지·데이톤, 휴머노이드 로봇 활용 확대 ‘맞손’]
+86 | tier0+교차 | 아시아경제 | 11-06 | 다수 | ⟨대기업⟩ [SK바이오팜, AI 신약개발 특화 모델 구축...실제 연구 적용 추진]
+318 | tier0+교차 | 서울경제 | 11-06 | 소수 | ⟨대기업⟩ [‘장중 8% 급등’ 현대차 “무슨 일 있나요?”...30% 폭락하더니 급반등한 이유]  [후보만 3회·발송 0건 10-07~10-20]
+57 | tier0+교차 | 아시아경제 | 11-06 | 다수 | ⟨체급?⟩ [나우로보틱스, '2026 로보월드'서 신규 다관절 로봇 'NX 시리즈' 6종 공개]
+326 | tier0+교차 | 뉴스1 | 11-06 | 소수 | ⟨체급?⟩ [교육부, 반도체·AI 해외 교육성과 공유...우수 학생 6명 시상]
+141 | tier0+교차 | 전자신문 | 11-06 | 소수 | ⟨빅테크⟩ [MS, 엔스케일 美 데이터센터 추가 계약 포기]  [후보만 2회·발송 0건 10-20~10-21]
+293 | tier0+교차 | 아시아경제 | 11-06 | 소수 | ⟨체급?⟩ ["AI 에이전트의 개인정보 접근·활용 통제해야...공통 기술 규칙 필요"]
+269 | tier0+교차 | 파이낸셜뉴스 | 11-06 | 소수 | ⟨대기업⟩ [글로벌 주요 암병원 석학들 삼성서울병원 집결한다...AI 암 치료 논의]  [후보만 3회·발송 0건 10-07~10-20]
+295 | tier0+교차 | 아시아경제 | 11-06 | 소수 | ⟨체급?⟩ ["부캉이 떠나니 한산"...부산시의원 "똑같은 AI 로봇 상어 띄우자"]
+324 | tier0+교차 | 경향신문 | 11-06 | 소수 | ⟨체급?⟩ [진짜 사람은 둘 중 하나뿐...구별할 수 없다면, 대체돼도 되는가]
+
+=== 커뮤니티 (2건) ===
+296 | 커뮤니티 | HN | 11-05 | 소수 | ⟨프런티어⟩ Claude Code sends your email address to websites
+110 | 커뮤니티 | HN | 11-05 | 소수 | ⟨빅테크⟩ GPT-6 Astra covertly underperforms on safety research
+
+=== tier2 (220건) ===
+53 | tier2 | 중앙일보 | 11-05 | 소수 | ⟨빅테크⟩ 매출 42% 쥔 MS도 발 뺐다…‘40조 상장’ 노리는 엔스케일, 전력망 암초에 흔들｜Global Money Club  [후보만 3회·발송 0건 11-03~11-04]
+148 | tier2 | Ynetnews | 11-05 | 소수 | ⟨체급?⟩ Israeli cybersecurity startup Brava raises $15 million to expose gaps in AI-driven threat detection
+257 | tier2 | 연합인포맥스 | 11-05 | 단독 | ⟨체급?⟩ "스페이스X, 데이터센터 확장 시 AI 사업 가치 11조달러 전망"
+177 | tier2 | 카카오 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, 에이전트의 판단과 선택 돕는 모델 ‘Kanana-2-v-decide’ 오픈소스 공개
+89 | tier2 | 24/7 Wall St | 11-05 | 소수 | ⟨프런티어⟩ Beijing Reportedly Feared Chinese Robot Data Could End Up Training OpenAI's Models. So It Blocked SoftBank's $5.4 Billion Purchase Of ABB's Robotics Unit
+154 | tier2 | 조선일보 | 11-05 | 다수 | ⟨체급?⟩ U.S. Election Sparks AI Data Center Regulatory Storm
+31 | tier2 | 재경일보 | 11-05 | 다수 | ⟨체급?⟩ China blocks SoftBank's acquisition of ABB Robotics over technology transfer fears : Global : JKN
+25 | tier2 | 서울경제 | 11-05 | 다수 | ⟨체급?⟩ 스페이스X 중추 텍사스도 민주당 손에…머스크 “선거용 레이저 이번엔 작동 안 해”[미 중간선거]
+112 | tier2 | Fortune | 11-05 | 소수 | ⟨체급?⟩ AI agents went shopping for TVs and laptops—and messed up nearly 50% of the time, study shows
+335 | tier2 | 한국신용신문 | 11-05 | 단독 | ⟨대기업⟩ SK하이닉스, 애플 '홈팟 미니 2'에 2GB 메모리 공급
+210 | tier2 | 뉴데일리 | 11-05 | 소수 | ⟨대기업⟩ 마이크론 17%, 삼성 10%, 하닉 13% 줄폭락 … 美 민주당 AI 규제에 반도체주 '추풍낙엽'  [후보만 3회·발송 0건 10-08~10-21]
+128 | tier2 | Benzinga | 11-05 | 단독 | ⟨빅테크⟩ AMD, AI 데이터센터 보증 규모 85억 달러···엔비디아 추격에 재무 부담 커지나
+209 | tier2 | 네이버 프리미엄콘텐츠 | 11-05 | 소수 | ⟨경쟁사⟩ [LG유플러스] LG유플러스, 파주 200MW AIDC 본격화…통신주가 AI주로 바뀐다 (2026년_3Q)  [후보만 7회·발송 0건 10-26~11-05]
+235 | tier2 | 슬로우뉴스 | 11-05 | 단독 | ⟨체급?⟩ 데이터센터 백래시에 AI 기술주 폭락, 시가총액 3.2조 달러 빠졌다: 슬로우레터 11월6일.
+67 | tier2 | Benzinga | 11-05 | 다수 | ⟨대기업⟩ AI Stocks Crater as Citi Research Flags New Data Center Risk - Advanced Micro Devices (NASDAQ:AMD), Micro  [후보만 3회·발송 0건 10-07~10-20]
+142 | tier2 | PR Newswire | 11-05 | 소수 | ⟨체급?⟩ EDB Acquires Altinity to Bring Together the Two Leading Open Source Databases, Advancing Its Sovereign AI Data System and Reducing Overall Costs for Customers
+125 | tier2 | 아이뉴스24 | 11-05 | 단독 | ⟨체급?⟩ 데이터센터 막은 美 표심⋯K전력기기 37조 수주, '착공 시차' 변수
+173 | tier2 | AI포스트 | 11-05 | 소수 | ⟨프런티어⟩ AI 코딩 분야서 앤트로픽에 밀리더니…오픈AI, 'GPT-5.6 솔' 내세워 매출 폭등
+158 | tier2 | 디지털투데이 | 11-05 | 소수 | ⟨체급?⟩ 샤오미 휴머노이드 로봇, 공장서 8시간 '풀근무'…사람 없이 가능한 시대 오나
+153 | tier2 | Tech Funding | 11-05 | 소수 | ⟨체급?⟩ Five years after its Series A, insurance AI startup Kalepa raises $75M at $470M valuation
+39 | tier2 | CBC뉴스 | 11-05 | 소수 | ⟨빅테크⟩ [속보] 뉴욕증시, 오라클 5.85%·AMD 3.65% 급등…엔비디아·마이크론 강세, 애플·테슬라 하락
+284 | tier2 | Seeking Alph | 11-05 | 다수 | ⟨빅테크⟩ Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report (NVDA:NASDAQ)
+81 | tier2 | 토큰포스트 | 11-05 | 단독 | ⟨체급?⟩ 쉴드AI, 에코다인 53억달러 인수 합의…기업가치 288억달러
+152 | tier2 | The Register | 11-05 | 다수 | ⟨프런티어⟩ OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'
+69 | tier2 | Pensions & I | 11-05 | 소수 | ⟨프런티어⟩ ETF issuers are getting creative in the race to offer pre-IPO Anthropic exposure
+147 | tier2 | Business Wir | 11-05 | 소수 | ⟨체급?⟩ SAM Acquires SSP Innovations and 3-GIS to Support Continued Innovation and Expand AI-Enabled Digital Solutions
+114 | tier2 | CyberSecurit | 11-05 | 소수 | ⟨체급?⟩ One Hacker Uses 12 AI Agents to Breach Taiwan's Emergency Services and Steal Sensitive Data
+217 | tier2 | 재경일보 | 11-05 | 다수 | ⟨빅테크⟩ 김보연, 두 자녀 IT 기업 근무 “딸은 메타, 아들은 엔비디아” : 연예
+96 | tier2 | Yahoo Financ | 11-05 | 다수 | ⟨프런티어⟩ Market Chatter: OpenAI President Predicts 2027 IPO, Says Enterprise Generates Business
+91 | tier2 | GeekWire | 11-05 | 소수 | ⟨경쟁사⟩ Shield AI to buy Bill Gates-backed radar maker Echodyne in $5.3B deal, doubling down on Seattle area
+37 | tier2 | Yahoo Financ | 11-05 | 소수 | ⟨빅테크⟩ Microsoft Opts Against Expanding Nscale Texas Data Centre Agreement Ahead of Planned $35 Billion IPO
+102 | tier2 | 재경일보 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI, 코딩 AI로 실적 반등했지만…300억달러 자금조달은 난항 : 국제
+219 | tier2 | Unite.AI | 11-05 | 단독 | ⟨체급?⟩ Humble Robotics, 자율주행 화물 운송 발전 위해 시리즈 A에서 5,100만 달러 조달
+32 | tier2 | 코리아포스트 한글판 | 11-05 | 소수 | ⟨빅테크⟩ [글로벌 경제·AI 인프라] 구글, 말레이시아에 20조원 투자…동남아 AI 데이터센터 패권 경쟁 본격화
+117 | tier2 | Business Ins | 11-05 | 단독 | ⟨빅테크⟩ A former Apple and Uber engineer raised $51 million to rethink the self-driving truck
+278 | tier2 | Free Press J | 11-05 | 소수 | ⟨체급?⟩ South Korea Current Account Surplus Hits Record $61.5 Billion In September As AI Boom Fuels Chip Exports
+130 | tier2 | 연합인포맥스 | 11-05 | 단독 | ⟨경쟁사⟩ LG그룹 유일 저PBR 기업 LG헬로비전, 기업가치 제고 시험대
+182 | tier2 | AI타임스 | 11-05 | 단독 | ⟨빅테크⟩ 엔비디아 중국 고객사, 94조 규모 'RTX' 칩 주문에도 1%만 공급받아
+92 | tier2 | TMX Newsfile | 11-05 | 소수 | ⟨체급?⟩ iSpecimen Expands Into AI-Powered Drug Discovery and Disease Trend Monitoring With Acquisition of Foldlab AI Products
+241 | tier2 | 토큰포스트 | 11-05 | 단독 | ⟨프런티어⟩ 앤트로픽 최대 IPO 확률 31.7%…스페이스X 65~66.5%
+123 | tier2 | 토큰포스트 | 11-05 | 소수 | ⟨프런티어⟩ 190억달러 계약, 앤스로픽 미납 땐 구글이 레일런데이터 지분 취득 가능
+72 | tier2 | Seeking Alph | 11-05 | 다수 | ⟨프런티어⟩ Predictions markets see virtually no Anthropic IPO before the end of November
+240 | tier2 | 뉴스웨이 | 11-05 | 단독 | ⟨경쟁사⟩ 모두의 AI 앞둔 KT, 통합 로그인 '시동'···보안 리스크는 '숙제'  [후보만 2회·발송 0건 10-22~10-28]
+252 | tier2 | 테크수다 | 11-05 | 다수 | ⟨프런티어⟩ 오픈AI, 이미지 생성 모델 '이미지 2.6' 공개…생성 속도 50% 높이고 편집 기능 강화
+116 | tier2 | Konsulteer | 11-05 | 다수 | ⟨유망스타트업⟩ NEURA Robotics, E.ON and enviaM Partner to Bring Physical AI to Energy Grid Operations  [후보만 2회·발송 0건 10-27~10-28]
+74 | tier2 | Naver Blog | 11-05 | 소수 | ⟨경쟁사⟩ 다원넥스뷰, 169억 투입해 공장 증설 추진…수주 증가 대응 : 네이버 블로그
+287 | tier2 | Barron's | 11-05 | 소수 | ⟨프런티어⟩ Anthropic’s IPO Is Making Some Young People Rich. How the Parents Deal With It.
+127 | tier2 | 데일리25 | 11-05 | 소수 | ⟨대기업⟩ “삼성전자·SK하이닉스 폭락하자”…최태원 “증시 롤러코스터 계속된다” 경고
+84 | tier2 | 아주경제 | 11-05 | 단독 | ⟨빅테크⟩ 미국, 중국 AI 우회로 차단...텐센트 9조원 GPU 임대 무산
+214 | tier2 | 신아일보 | 11-05 | 다수 | ⟨경쟁사⟩ 카카오, 커머스 효과 3Q 실적 UP…정신아 "AI MAU, 연내 1000만 달성"  [후보만 3회·발송 0건 10-13~10-15]
+143 | tier2 | TIKR.com | 11-05 | 소수 | ⟨빅테크⟩ Tesla Sinks 12%, SpaceX Down 9% as Midterm Sweep Puts Merger on “A Much Tougher Regulatory Roadmap”
+144 | tier2 | Business Wir | 11-05 | 소수 | ⟨체급?⟩ Mercer Advisors Acquires AI-Native Tax Firm Fifteenth, Adding Proprietary Technology and Top AI & Tax Talent to its Partnership
+220 | tier2 | 뉴스스페이스 | 11-05 | 다수 | ⟨빅테크⟩ [이슈&논란] 소비자단체, 테슬라 FSD 관련 공정위에 신고…904만원에 판 ‘곧 출시’ 논란 확산일로
+198 | tier2 | 비즈니스포스트 | 11-05 | 소수 | ⟨대기업⟩ 삼성전자·SK하이닉스 주가 '미국 중간선거 후폭풍'에 변동성 커져, '미국 이란 종전 기대감' 수급 청신호 되나
+124 | tier2 | 톱스타뉴스 | 11-05 | 다수 | ⟨빅테크⟩ [미국 뉴욕증시 전망] 나스닥 선물 0.6% 하락…엔비디아·퀄컴 약세, 다우는 상승  [후보만 3회·발송 0건 10-28~11-05]
+170 | tier2 | Yahoo Financ | 11-05 | 단독 | ⟨프런티어⟩ OpenAI and Anthropic IPOs, volatility in markets after blue wave
+113 | tier2 | Kingy AI | 11-05 | 소수 | ⟨프런티어⟩ OpenAI Moves to Acquire Pierre Computer: A Major Step Toward Making Codex the Ultimate AI Coding Platform
+35 | tier2 | Moomoo | 11-05 | 다수 | ⟨빅테크⟩ Microsoft (MSFT.US) abandons potential multibillion-dollar expansion order with Nscale, prompting repricing of AI data center construction and computing power demand
+260 | tier2 | 지디넷코리아 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI, 기업용 AI 매출 두 배로…내년 상장 자신감
+104 | tier2 | 아주경제 | 11-05 | 소수 | ⟨빅테크⟩ [NNA] 구글, 말레이시아에 150억 달러 투자…데이터센터 증설 등
+48 | tier2 | Shield AI | 11-05 | 소수 | ⟨체급?⟩ Shield to acquire Echodyne in a transaction valued at $5.3 billion and raise $2.5 billion at a $28.8 billion valuation
+201 | tier2 | Hokanews | 11-05 | 소수 | ⟨프런티어⟩ Riot Platforms Signs $28 Billion Anthropic AI Deal With Potential 12% Interest Payments
+26 | tier2 | 중앙이코노미뉴스 | 11-05 | 다수 | ⟨대기업⟩ 삼성전자, 글로벌 D램 점유율 38%로 세계 1위 수성…SK하이닉스도 마이크론과 격차 확대
+156 | tier2 | S저널 | 11-05 | 다수 | ⟨대기업⟩ [KT 인사이드] KT·삼성전자, AI로 고속철도 통신 끊김 줄였다…기지국 운영 혁신 시험대  [후보만 3회·발송 0건 10-07~10-20]
+95 | tier2 | 데이터투자 | 11-05 | 단독 | ⟨빅테크⟩ 메타, 150억 달러 달러화 선순위 채권 최종 조건 공시…인수 할인 뺀 수입금 149억 4707만 달러
+175 | tier2 | Unite.AI | 11-05 | 단독 | ⟨빅테크⟩ AI 데이터센터 증설 속 애플, 7개 시리즈 선순위 채권 발행 제안
+334 | tier2 | 굿모닝경제 | 11-05 | 소수 | ⟨대기업⟩ [SK AIDC] SK, SK에코플랜트 지분 매수키로… AIDC 사업 탄력성 시험대
+250 | tier2 | 뉴스투데이 | 11-05 | 단독 | ⟨체급?⟩ 스페이스X, 미국 5G·위성망에 최소 1000억 달러? 추정에 담긴 비용은
+75 | tier2 | 뉴시스 | 11-05 | 소수 | ⟨체급?⟩ 증시 불안에 상장도 못한다…글로벌 반도체 기업, 줄줄이 IPO '보류'  [후보만 2회·발송 0건 10-20~10-23]
+49 | tier2 | Konsulteer | 11-05 | 다수 | ⟨유망스타트업⟩ Agility Robotics Plans Public Listing as Humanoid Robot Commercialisation Faces Its Biggest Test
+168 | tier2 | 재경일보 | 11-05 | 소수 | ⟨빅테크⟩ 테슬라 뉴욕 증시서 10%대 급락 마감 합병 전망 등 의문 제기 : 기업주식정보
+211 | tier2 | 중앙일보 | 11-05 | 소수 | ⟨경쟁사⟩ "AI 서비스 확산 지체 뼈아프다" 컨콜서 반성문 쓴 정신아, 카카오 에이전트 전략 바꾼다 [팩플]  [후보만 3회·발송 0건 10-13~10-21]
+41 | tier2 | marketscreen | 11-05 | 다수 | ⟨빅테크⟩ Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight
+340 | tier2 | 시사안성 | 11-05 | 단독 | ⟨대기업⟩ 범대위, 이천 SK하이닉스에서 집회...“2021년 상생협약 재논의”요구  [후보만 3회·발송 0건 10-07~10-20]
+279 | tier2 | 뉴스N제주 | 11-05 | 소수 | ⟨체급?⟩ [인터뷰]“제주 데이터센터, AI 시대 새로운 성장동력”…틸론 최백준 대표, 글로벌 빅테크 유치·지역경제 선순환 강조
+181 | tier2 | 지디넷코리아 | 11-05 | 소수 | ⟨빅테크⟩ 메가존소프트, 구글클라우드 AI 최고 등급 인증 2개 획득…AX 사업 확대
+145 | tier2 | 네이버 프리미엄콘텐츠 | 11-05 | 소수 | ⟨대기업⟩ SK하이닉스·삼성전자 2.7조 투매에 사이드카 발동! 폭락장 속 연기금·외국인이 동시에 매수한 섹터는?(11.05)
+239 | tier2 | 재경일보 | 11-05 | 소수 | ⟨빅테크⟩ 엔비디아 목표주가 25% 낮춘 멜리우스리서치…“AI 투자 자금이 최대 위험” : 금융
+159 | tier2 | 이데일리 | 11-05 | 다수 | ⟨빅테크⟩ [TODAY엔비디아]H200칩 60만개, 중국 인도 위해 홍콩서 대기…개장전 200달러 하회
+131 | tier2 | 이데일리 | 11-05 | 단독 | ⟨체급?⟩ 블루웨이브 후폭풍…美기술주 3300조원 시총 증발  [후보만 4회·발송 0건 10-26~11-02]
+208 | tier2 | Benzinga | 11-05 | 소수 | ⟨빅테크⟩ Nvidia, Micron Lead 10 AI Stocks Below 200-Day Average - NVIDIA (NASDAQ:NVDA)
+228 | tier2 | 지디넷코리아 | 11-05 | 단독 | ⟨빅테크⟩ 슈퍼마이크로, IBM 및 엔비디아와 추론 성능이 막강한 KV 캐시 솔루션 출시
+224 | tier2 | AI News | 11-05 | 단독 | ⟨프런티어⟩ Anthropic creates Public Benefit Fund that grows with company valuation
+129 | tier2 | BeInCrypto | 11-05 | 단독 | ⟨체급?⟩ $5억 달러 미스터리 매도자…AI 주식 폭락 후 데이터센터 대출 덤핑 누구
+253 | tier2 | 일간투데이 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI GPT-6 두 달…Astra→Sol·Luna→6.1까지 숨 가쁜 출시
+16 | tier2 | citybiz | 11-05 | 다수 | ⟨체급?⟩ Dropbox Plans to Acquire Tigris Data, Launches AI Infrastructure Platform and New Agentic Features
+83 | tier2 | 뉴스N연합 | 11-05 | 단독 | ⟨체급?⟩ 중국 영상 AI 샌드에이아이, 2억 달러 투자 유치 발표…모델·해외사업에 투입
+50 | tier2 | 글로벌이코노믹 | 11-05 | 단독 | ⟨경쟁사⟩ 베트남 67조 투자 유치 이면에 멈춰 선 설비…삼성·LG 현지화 정책 주시
+157 | tier2 | Investing.co | 11-05 | 소수 | ⟨대기업⟩ 삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost
+243 | tier2 | TechTarget | 11-05 | 단독 | ⟨체급?⟩ EnterpriseDB acquires Altinity to unify open-source database engines
+161 | tier2 | 중앙이코노미뉴스 | 11-05 | 다수 | ⟨빅테크⟩ 구글·메타·틱톡, 美 청소년 SNS 규제에 집단 반발…알고리즘 금지에 소송전
+259 | tier2 | PNN | 11-05 | 단독 | ⟨빅테크⟩ ‘유비소프트’도 인수 제안... MS, 아케인스튜디오 매각 추진  [후보만 3회·발송 0건 10-07~10-29]
+174 | tier2 | 이데일리 | 11-05 | 단독 | ⟨체급?⟩ "AI 데이터센터 대출채권 사실 분?"…6800억원 익명 매물 나와
+204 | tier2 | Dealroom | 11-05 | 단독 | ⟨빅테크⟩ NovuMicro raises $150M Series C extension as inference demand fuels in-memory chip bets
+183 | tier2 | 리드경제 | 11-05 | 단독 | ⟨대기업⟩ SK하이닉스, 美 AI 투자사 '하이코' 설립…100억달러 규모  [후보만 3회·발송 0건 10-07~10-20]
+9 | tier2 | 중앙이코노미뉴스 | 11-05 | 다수 | ⟨대기업⟩ 삼성전자·SK하이닉스·마이크론, 中 상하이서 '소캠2' 격돌…HBM 이을 AI 메모리 경쟁
+231 | tier2 | 코인리더스 | 11-05 | 단독 | ⟨체급?⟩ AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?
+47 | tier2 | The Manila T | 11-05 | 다수 | ⟨체급?⟩ Asper.ai acquires Pricing One's RGM expertise and key assets to Strengthen Its Agentic RGM Platform and Expand its European Presence
+254 | tier2 | 디지털투데이 | 11-05 | 단독 | ⟨프런티어⟩ "위험해도 공개"…딥시크 엔지니어, 보안 우려에도 '오픈소스' 고수
+165 | tier2 | Unite.AI | 11-05 | 소수 | ⟨체급?⟩ Nemi Plans Nasdaq Listing After SPAC Merger with BHAV Acquisition Corp
+275 | tier2 | AI넷 | 11-05 | 소수 | ⟨프런티어⟩ “당신의 AI 금융 비서”… 앤트로픽, 클로드(Claude)에 ‘개인 재정 관리’ 기능 탑재 - 미래 과학기술 매체 ‘퓨처리즘(Futurism)’ 보도… 앤트로픽, 클로드에 은행·신용카드 연동하는 ‘개인 재정 관리’ 도구 베타 출시
+282 | tier2 | Business Wir | 11-05 | 소수 | ⟨프런티어⟩ SpecterOps Joins OpenAI Partner Network to Bring Daybreak Red Capabilities to Support Enterprise Security Teams
+242 | tier2 | 세계일보 | 11-05 | 소수 | ⟨체급?⟩ “AI·K컬처로 10조 유치”…하남시, ‘미래 자족도시’ 청사진 제시  [후보만 3회·발송 0건 10-14~10-23]
+100 | tier2 | 매일신문 | 11-05 | 소수 | ⟨빅테크⟩ `1일천하` 나스닥, AI 기술주 던지자 5.5% 폭삭…테슬라·스페이스X 500조 증발
+150 | tier2 | Stock Titan | 11-05 | 소수 | ⟨체급?⟩ Revenue rises 13% as Five9 (FIVN) signs a cash deal to acquire Level AI.
+225 | tier2 | marketscreen | 11-05 | 소수 | ⟨빅테크⟩ Microsoft reportedly walks away from multibillion-dollar deal with Nscale - FT
+286 | tier2 | AI Insider | 11-05 | 단독 | ⟨빅테크⟩ Trajectory Secures $45M Series A Led by Sequoia to Help AI Models Learn From Feedback
+341 | tier2 | 글로벌이코노믹 | 11-05 | 단독 | ⟨대기업⟩ SK하이닉스 ADR 13% 폭락…반도체 수요 '절벽' 공포
+249 | tier2 | 한국신용신문 | 11-05 | 단독 | ⟨경쟁사⟩ S&P, 네이버 신용등급 'A-' 유지…12조 AI 투자 부채로 산입
+206 | tier2 | Android Auth | 11-05 | 다수 | ⟨프런티어⟩ Anthropic rolls out Claude Personal Finance with spending analysis and bill tracking
+146 | tier2 | Washington E | 11-05 | 다수 | ⟨프런티어⟩ OpenAI releases new data center guidelines after communities approve moratoriums in midterm elections
+151 | tier2 | Akron Beacon | 11-05 | 소수 | ⟨체급?⟩ Kihan Launches Constitutional Computing to Bring Enforceable Authority to Enterprise AI Agents
+162 | tier2 | 데이터투자 | 11-05 | 단독 | ⟨빅테크⟩ 브루커, 공간생물학 사업 잔여 영업권 전액 손상…미메타스 지분 94% 인수 내역 공개
+163 | tier2 | 제민일보 | 11-05 | 단독 | ⟨프런티어⟩ 브로드컴, 앤스로픽에 91조원 규모 AI 인프라 금융 지원…반도체 공급 넘어 자금 구조까지 참여  [후보만 3회·발송 0건 10-27~10-29]
+36 | tier2 | 데이터투자 | 11-05 | 소수 | ⟨빅테크⟩ 메타, 보통주 추가 매수 옵션 600만 주 전량 행사로 추가 선도매출 계약…150억 달러 채권 발행 완료
+166 | tier2 | Business Wir | 11-05 | 소수 | ⟨체급?⟩ Higher Logic Acquires Mission Fuel AI to Expand Education Services for Associations
+256 | tier2 | 뉴스웨이 | 11-05 | 다수 | ⟨경쟁사⟩ 카카오, 인적분할 일정 한 달 연기···카카오AI 출범 내년 2월로  [후보만 3회·발송 0건 10-21~10-22]
+171 | tier2 | 토큰포스트 | 11-05 | 소수 | ⟨프런티어⟩ 라이엇플랫폼스 910MW 앤트로픽 임대…280억달러·37.7조원 추정
+222 | tier2 | 한국경제 | 11-05 | 단독 | ⟨빅테크⟩ 엔비디아 ‘강력 매수’ 유지…루멘텀 인수 경쟁 가능성 부각[월가 업&다운]
+76 | tier2 | 서울경제 | 11-05 | 소수 | ⟨대기업⟩ 삼성, 천안아산 46조 ‘메가프로젝트’ 본격화…이재용, HBM 공장 착공식 참석
+280 | tier2 | TechSpot | 11-05 | 다수 | ⟨체급?⟩ The first humanoid robot company is going public with $1.8 million in revenue and a $138.1 million loss
+71 | tier2 | 블록미디어 | 11-05 | 소수 | ⟨체급?⟩ 머스크, 공화당 참패 이후 재산 600억달러 증발…4억4600만달러 후원도 ‘물거품’  [후보만 4회·발송 0건 10-26~11-02]
+283 | tier2 | CoinDesk | 11-05 | 단독 | ⟨프런티어⟩ Anthropic이 채무 불이행할 경우 구글이 비트코인 채굴업체 TeraWulf의 AI 프로젝트 지분을 인수할 수 있어
+79 | tier2 | Cryptopolita | 11-05 | 단독 | ⟨빅테크⟩ 엔비디아 투자사 아질리티, 나스닥 상장…유니트리 500억 달러 데뷔 뒤이어
+122 | tier2 | 대한경제 | 11-05 | 다수 | ⟨체급?⟩ 화성특례시, ‘2026 공공AX포럼 화성’ 성황리 개최… 공공부문 AI 전환 공유
+167 | tier2 | 위키트리 | 11-05 | 다수 | ⟨프런티어⟩ 챗GPT 이미지 2.6, 프롬프트 한 줄로 GIF 생성…전 요금제 대상이지만 순차 배포
+134 | tier2 | 데일리카 | 11-05 | 단독 | ⟨프런티어⟩ 딥시크, 中 로봇 AI 스타트업에 투자..과연 기업가치는?  [후보만 4회·발송 0건 10-27~11-05]
+33 | tier2 | WSJ | 11-05 | 소수 | ⟨프런티어⟩ Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation
+289 | tier2 | 파이낸셜포스트 | 11-05 | 다수 | ⟨경쟁사⟩ [상생경영] 미래 세대와 접점 확대…LG전자, 美 대학에 '라이프스굿 라운지' 개관
+38 | tier2 | Investing.co | 11-05 | 소수 | ⟨빅테크⟩ 마이크로소프트, 약 35조 달러 IPO 앞둔 Nscale의 텍사스 확장 거절
+238 | tier2 | 헬로티 | 11-05 | 다수 | ⟨유망스타트업⟩ 포티투마루, GPU 일체형 AX 솔루션 어플라이언스42 출시…인프라 진입장벽 해소
+17 | tier2 | TradingView | 11-05 | 다수 | ⟨체급?⟩ Shield AI To Hit $28.8 Billion Value With $5.3 Billion Radar Acquisition - Bloomberg News
+199 | tier2 | BW Disrupt | 11-05 | 소수 | ⟨체급?⟩ Venomics AI Raises $2.7 Mn In Pre-Seed Round Led By Speciale Invest, South Park Commons
+119 | tier2 | 팍스경제TV | 11-05 | 다수 | ⟨빅테크⟩ 볼보자동차, 엔비디아와 자율주행 협력 확대…“자율주행 안전 기술 개발 가속"
+237 | tier2 | 와이드경제 | 11-05 | 다수 | ⟨경쟁사⟩ "2028년 AI 손익분기점 달성 순항"…카카오, 에이전틱 AI·클라우드 전략으로 승부수
+70 | tier2 | CEO스코어데일리 | 11-05 | 다수 | ⟨대기업⟩ 최태원, SK 글로벌 AI 투자 직접 챙긴다…13조 실탄, ‘HYAICO 코퍼레이션’ 의장 ‘등판’
+80 | tier2 | KBS 뉴스 | 11-05 | 소수 | ⟨빅테크⟩ 구글, 와이오밍주 데이터센터 건설 발표…연료전지 사용  [후보만 2회·발송 0건 10-08~10-14]
+227 | tier2 | 뉴스핌 | 11-05 | 소수 | ⟨빅테크⟩ [GAM]AMD 3조달러 AI 영토 장악 나섰다 ② 오픈 생태계로 엔비디아 맹추격
+230 | tier2 | AI타임스 | 11-05 | 소수 | ⟨프런티어⟩ 문샷 AI, ‘키미 K3.1 프로’ 가중치 공개…"딥시크 희소 어텐션 결합"  [후보만 2회·발송 0건 10-26~10-27]
+276 | tier2 | AI넷 | 11-05 | 소수 | ⟨체급?⟩ “배달 로봇 넘어 기술 플랫폼으로”… 서브 로보틱스, ‘물리적 AI 서비스’ 신사업 진출 - 우버 분사 자율주행 배달 로봇사 ‘서브 로보틱스(Serve Robotics)’, 타 로봇사에 기술 공급 선언
+223 | tier2 | The Jerusale | 11-05 | 소수 | ⟨체급?⟩ Windward acquires Azimut.ai, adding visual intelligence layer to maritime AI platform
+169 | tier2 | WyoFile | 11-05 | 소수 | ⟨빅테크⟩ Google commits to spending $17B on AI data centers in Wyoming
+213 | tier2 | 비즈니스포스트 | 11-05 | 단독 | ⟨대기업⟩ 'HBM 선점' SK하이닉스 HBF로 낸드도 뒤집는다, 곽노정 샌디스크와 2년 내 상용화 '속도'
+73 | tier2 | 네이버 프리미엄콘텐츠 | 11-05 | 다수 | ⟨경쟁사⟩ [카카오페이] 카카오페이, 영업이익 105% 급증…스테이블코인이 다음 성장동력 될까?(2026년_3Q)
+66 | tier2 | Yahoo Financ | 11-05 | 소수 | ⟨프런티어⟩ Anthropic Is ‘Betting Its Entire Existence On Optimism’: Michael Burry Flags Risks After AI Firm’s Updated S-1, Says Won’t Pursue IPO Shares  [후보만 3회·발송 0건 10-27~11-03]
+40 | tier2 | 전기신문 | 11-05 | 다수 | ⟨경쟁사⟩ [단독] LG에너지솔루션, 3차 ESS 중앙계약입찰 불참...‘삼성SDI·SK온’ 2파전 압축  [후보만 3회·발송 0건 10-12~11-03]
+336 | tier2 | 더트래커 | 11-05 | 단독 | ⟨경쟁사⟩ SKT, 독파모 1위 모델로 국민 AI 공략…통신망 기반 서비스 차별화
+94 | tier2 | 톱스타뉴스 | 11-05 | 다수 | ⟨빅테크⟩ 세계 최고 부자의 위험한 베팅…일론 머스크, 미국 중간선거에 6천억원 쏟고 테슬라·스페이스X 동반 급락  [후보만 6회·발송 0건 10-22~10-29]
+202 | tier2 | 매일산업뉴스 | 11-05 | 소수 | ⟨경쟁사⟩ LG AI연구원 비전 AI, 글로벌 화학 솔루션 ‘리액시스’ 탑재… 문헌 속 구조식 이미지 데이터로 전환
+133 | tier2 | 토큰포스트 | 11-05 | 단독 | ⟨체급?⟩ AI 칩 스타트업, 5억달러 기업가치 가능성…추가 투자 협상  [후보만 4회·발송 0건 10-27~11-05]
+93 | tier2 | TIKR.com | 11-05 | 소수 | ⟨빅테크⟩ Nvidia’s Chinese Clients Will Get Just 1% of $70 Billion in RTX Chip Orders
+97 | tier2 | 시장경제신문 | 11-05 | 다수 | ⟨경쟁사⟩ 카카오, 인적분할 전 1500억원 규모 자사주 소각... AI 신설법인 자산 3.2조원으로 확대  [후보만 3회·발송 0건 10-21~10-22]
+195 | tier2 | 여성소비자신문 | 11-05 | 다수 | ⟨대기업⟩ 한화오션, ABB와 부유식 데이터센터 전력·제어 시스템 기술협력 업무협약 체결...잠수함 워터램 방식 수평발사장치 국산화
+232 | tier2 | 머니투데이 | 11-05 | 단독 | ⟨빅테크⟩ AI 지출 우려 뚫은 애플… 75억 달러 채권 흥행 성공 - 머니투데이
+149 | tier2 | CTech | 11-05 | 소수 | ⟨체급?⟩ Priority acquires AI-powered CRM company Fireberry in deal valued at over $30 million
+234 | tier2 | 이코노미트리뷴 | 11-05 | 소수 | ⟨경쟁사⟩ 네이버 AI 데이터센터 내년 상반기 가동…'AI가 AI 데이터센터 관리' 시대 성큼
+196 | tier2 | 전자신문 | 11-05 | 소수 | ⟨체급?⟩ 전북, 1조3000억원 투입해 피지컬 AI 국가거점 도전···제조·농생명·로봇 잇는 산업생태계 구축
+233 | tier2 | The Business | 11-05 | 단독 | ⟨체급?⟩ Chicago data startup Ocient raises $100M as AI adoption accelerates
+245 | tier2 | Investing.co | 11-05 | 소수 | ⟨프런티어⟩ Behind Wall Street’s plunge: AI liquidation threatens Anthropic’s mega-IPO
+212 | tier2 | 더페어 | 11-05 | 다수 | ⟨경쟁사⟩ "광고 세팅부터 성과 개선까지 AI가 전담"…네이버, '네이버애즈' 개편으로 중소상공인 도약 이끈다
+24 | tier2 | Kingy AI | 11-05 | 다수 | ⟨빅테크⟩ Meta Acquires Conductor: The AI Coding Startup That Could Transform How Developers Work With Multiple AI Agents
+78 | tier2 | 파이낸셜포스트 | 11-05 | 소수 | ⟨대기업⟩ D램 38% 삼성 1위 굳건…초호황 속 HBM4 왕좌 놓고 SK와 진검승부
+178 | tier2 | Axios | 11-05 | 소수 | ⟨체급?⟩ Exclusive: Snaplii raises $15M to give AI agents a wallet
+337 | tier2 | Investing.co | 11-05 | 소수 | ⟨체급?⟩ 팔란티어 테크 주가, 오늘 10% 넘게 급락한 이유는?
+111 | tier2 | ACROFAN USA | 11-05 | 소수 | ⟨유망스타트업⟩ Cohere and Singapore's Centre for Strategic Infocomm Technologies Partner to Advance Secure, Enterprise-Grade AI for National Security Operations
+176 | tier2 | 다나와 자동차 | 11-05 | 소수 | ⟨체급?⟩ "내년 말까지 로보택시 2000대" 우버, 100억 달러 투자 자율주행 사업 확대
+99 | tier2 | 머니투데이 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, 분할 후 복잡한 사업구조 해소…주주환원 정책 기다릴 -한화 - 머니투데이
+118 | tier2 | astig.ph | 11-05 | 다수 | ⟨체급?⟩ A humanoid robot maker listed on Nasdaq at $2.5 billion. Its 2025 sales were $1.8 million
+207 | tier2 | Heartlander  | 11-05 | 소수 | ⟨빅테크⟩ Nvidia squeezes China’s backdoor access to US AI chips with this unwritten rule
+290 | tier2 | 내외경제TV | 11-05 | 다수 | ⟨체급?⟩ [UP! START] 그래파이, ISO 27001:2022 인증 획득…기업용 AI 데이터 보안체계 강화
+247 | tier2 | Unite.AI | 11-05 | 단독 | ⟨체급?⟩ Kimi, 기업용 AI 워크로드를 위한 호스팅 에이전트 정식 출시
+115 | tier2 | PRWeb | 11-05 | 소수 | ⟨빅테크⟩ KuppingerCole Analysts Names Lightbeam in Data Security Platforms Leadership Compass as Agentic AI Redefines Enterprise Security
+179 | tier2 | tech-insider | 11-05 | 단독 | ⟨체급?⟩ AMD Taalas Acquisition: US$2.9B Toronto Deal [2026]
+120 | tier2 | 땅집고 | 11-05 | 단독 | ⟨빅테크⟩ [단독]구글의 1300억 인수 거절했던 로봇회사 대표, 청담동 PH129 155억에 처분  [후보만 3회·발송 0건 11-03~11-05]
+172 | tier2 | METR | 11-05 | 소수 | ⟨프런티어⟩ Independent Assessment of AI R&D Acceleration at Anthropic in October 2026
+132 | tier2 | 토큰포스트 | 11-05 | 단독 | ⟨프런티어⟩ 400억 달러 스페이스X AI 칩 금융안, 투자자 물색  [후보만 2회·발송 0건 10-26~11-05]
+226 | tier2 | 디지털데일리 | 11-05 | 다수 | ⟨체급?⟩ "AI 데이터센터 전력 손실 줄인다"…인피니언·솔루엠, IBC·BBU·PSU 3대 축 확대
+185 | tier2 | YTN 사이언스 | 11-05 | 단독 | ⟨체급?⟩ 지난 9월 경상수지 614.6억 달러 흑자...역대 최대
+281 | tier2 | 이코노미블록 | 11-05 | 소수 | ⟨프런티어⟩ 구글, 앤트로픽 임대료 미지급 시 테라울프 AI 데이터센터 지분 취득 가능
+52 | tier2 | 네이버 프리미엄콘텐츠 | 11-05 | 소수 | ⟨대기업⟩ [연금] AI 데이터센터 지연이 삼성전자 SK하이닉스8% 하락 이유?... 심리적 마지노선에서 다시 매수
+68 | tier2 | 제민일보 | 11-05 | 다수 | ⟨빅테크⟩ 오라클, 텐센트와 AI 칩 공급 협력 중단 보도…미·중 기술 갈등에 사업 변수 확대
+229 | tier2 | 머니투데이 | 11-05 | 소수 | ⟨경쟁사⟩ AI 에이전트 신기술 띄운 카카오…"5000만 카톡이 AI 거점 된다" - 머니투데이
+205 | tier2 | Distribution | 11-05 | 소수 | ⟨경쟁사⟩ Grainger Expands AI Inventory Services as Zoro and Data Center Demand Fuel Growth
+160 | tier2 | 민심뉴스 | 11-05 | 소수 | ⟨빅테크⟩ 비트코인 채굴업체 테라울프, 구글과의 새로운 계약으로 AI 사업 확장 가능성은?
+90 | tier2 | StreetInside | 11-05 | 소수 | ⟨체급?⟩ Priority Software Expands its Business Management Portfolio with the Acquisition of Fireberry, Accelerating Its AI-First Vision for the Future of Business Management
+203 | tier2 | TIKR.com | 11-05 | 소수 | ⟨체급?⟩ Micron Sinks 13% as Chip Rout Deepens and $4.5 Billion Taiwan Plant Stalls
+200 | tier2 | StockStory | 11-05 | 소수 | ⟨체급?⟩ AMPL Q3 2026 deep dive: enterprise AI adoption and new products drive revenue growth
+42 | tier2 | 토큰포스트 | 11-05 | 소수 | ⟨빅테크⟩ 엔비디아 주가 하루 9.26% 급락…500대 부호 자산 하루 약 248조원 감소
+216 | tier2 | 조선일보 | 11-05 | 소수 | ⟨대기업⟩ 서버 병목 해결, 수학 난제 연구… 삼성, 916개 과제에 1.2조원 투입
+215 | tier2 | 워크투데이 | 11-05 | 다수 | ⟨경쟁사⟩ KT, 기업 AX 도입 돕는 전문 포털 'AX 비즈 포털’ 오픈 … AI 전환 전략부터 실행까지 지원
+277 | tier2 | TIKR.com | 11-05 | 다수 | ⟨빅테크⟩ CoreWeave Sinks 9% as Microsoft Rejects Nscale’s Texas Expansion: “The First Person Who’s Going to Suffer”
+126 | tier2 | 신아일보 | 11-05 | 소수 | ⟨빅테크⟩ [뉴욕증시] MS 계약 재검토에 AI 투자 지연 우려…나스닥 5.52% 급락  [후보만 3회·발송 0건 10-28~11-05]
+236 | tier2 | 넷제로뉴스 | 11-05 | 단독 | ⟨체급?⟩ 독립생존 능력 확보 ‘소버린 AI’ 인간 통제상실 ‘빨간불’…‘K-소버린 AI’는?
+180 | tier2 | UA.NEWS | 11-05 | 소수 | ⟨체급?⟩ Shield AI to acquire Echodyne for $5.3 billion — Breaking Defense
+248 | tier2 | 연합뉴스 한민족센터 | 11-05 | 소수 | ⟨대기업⟩ 삼성, D램 3분기 점유율 38% 1위…SK하이닉스 29%로 반등
+155 | tier2 | 더구루 | 11-05 | 다수 | ⟨대기업⟩ 현대차, 카자흐스탄 미래형 스마트시티 구축 '진두지휘'…로봇·피지컬 AI 도시 인프라 적용
+101 | tier2 | 더퍼블릭 | 11-05 | 소수 | ⟨대기업⟩ 삼성전자, 파운드리 부활하나… "테일러 2공장 AMD HBM 물량 확보" |
+338 | tier2 | 한국경제 | 11-05 | 단독 | ⟨체급?⟩ 대구TP, 리빙 AI로 ‘모두의 AI’ 시작  [후보만 3회·발송 0건 10-14~10-23]
+98 | tier2 | Seeking Alph | 11-05 | 소수 | ⟨체급?⟩ SpaceX faces local opposition to massive Arizona AI data center (SPCX:NASDAQ)
+121 | tier2 | Wisconsin St | 11-05 | 소수 | ⟨체급?⟩ Alliant Energy in talks with 7 new potential AI data center sites in Wisconsin, Iowa  [후보만 2회·발송 0건 10-27~10-28]
+54 | tier2 | 뉴스워커 | 11-05 | 다수 | ⟨체급?⟩ 중국, 소프트뱅크의 54억 달러 로봇사업 인수 제동…AI 기술·데이터 유출 우려
+251 | tier2 | 이데일리 | 11-06 | 단독 | ⟨대기업⟩ [마켓인]TPG, 롯데렌탈 잔여지분 공개매수…자진 상장폐지 추진
+339 | tier2 | 아시아뉴스통신 | 11-06 | 소수 | ⟨대기업⟩ SK하이닉스 주가 하락 중
+77 | tier2 | FourWeekMBA | 11-06 | 단독 | ⟨프런티어⟩ One Anthropic IPO Investor Floats $1T, 14.7x Its Q3 Pace
+18 | tier2 | 디지털데일리 | 11-06 | 단독 | ⟨프런티어⟩ 앤트로픽, 11월 IPO 지연 가능성… 1조5000억달러 기업가치에 투자자 부담
+285 | tier2 | 뉴스티앤티 | 11-06 | 다수 | ⟨경쟁사⟩ KT, 제21회 부산불꽃축제 특별 통신대책 가동…5G·LTE 망 보강하고 안전관제 전용회선 지원
+184 | tier2 | 와우테일 | 11-06 | 단독 | ⟨체급?⟩ 자율이동 AI ‘유로보틱스’, 400억 규모 시리즈A 투자 유치  [후보만 4회·발송 0건 10-27~10-30]
+288 | tier2 | 미디어펜 | 11-06 | 다수 | ⟨체급?⟩ [미르의 글로벌 레이더]국내 로봇기업 윔, 글로벌 산업용 로봇 제조사 미국 현장 실증 추진
+82 | tier2 | 토큰포스트 | 11-06 | 단독 | ⟨프런티어⟩ 앤트로픽 IPO 가치 1조달러 가능성 거론…상장 연기 의문도
+246 | tier2 | 파이낸스투데이 | 11-06 | 소수 | ⟨체급?⟩ 미국 민주당 상·하원 장악에 AI 규제 강화 전망…데이터센터 투자 위축 우려
+164 | tier2 | 포인트데일리 | 11-06 | 소수 | ⟨체급?⟩ 코스피, '미 반도체 폭락' 후폭풍에 8%대 급락…5000선 무너지며 서킷브레이커 발동
+194 | tier2 | 뉴시안 | 11-06 | 다수 | ⟨경쟁사⟩ [2026 프로야구 한국시리즈] 3차전 삼성 에이스 아리엘 후라도 출격, kt는 삼성에 강한 소형준 선발
+221 | tier2 | 스타트업레시피 | 11-06 | 소수 | ⟨프런티어⟩ [AI서머리] 몰로코, 연례 행사 ‘몰로콘 26’ 개최‧오픈AI, 보안 특화 GPT-6 사이버 공개
+197 | tier2 | 이투데이 | 11-06 | 소수 | ⟨대기업⟩ 삼성 146조·SK 130조 시총 증발…삼성전자·하이닉스서만 225조 빠져 [美 선거발 증시 쇼크]  [후보만 4회·발송 0건 10-26~11-02]
+258 | tier2 | 서울경제TV | 11-06 | 단독 | ⟨경쟁사⟩ 카카오, AI 에이전트 판단 돕는 멀티모달 모델 공개
+218 | tier2 | 인포스탁데일리 | 11-06 | 소수 | ⟨경쟁사⟩ “로봇 상용화, 통합 운영에 달렸다”…카카오모빌리티, IRBC 2026서 비전 제시
+274 | tier2 | 뉴스웍스 | 11-06 | 단독 | ⟨경쟁사⟩ [IT라운지] 카모 'IRBC 참가'·'카나나-2-v-디사이드' 공개·AI트릭스 'OASES 파트너'·'예약 루키 캠페인'·콘진원 '아세안 진출 지원'·쿠콘-DSRV 'MOU'·카카오-MUST '워크숍'·알바몬 '겨울 캠페인'·알바천국 'AI 구직'·'타이완 어때'
+244 | tier2 | TradingView | 11-06 | 소수 | ⟨프런티어⟩ AI backlash could threaten Anthropic IPO timing, potential investors say
+103 | tier2 | 뉴스핌 | 11-06 | 단독 | ⟨체급?⟩ AI 규제 리스크에 '데이터센터 대출' 5억달러어치 급매 출현
+255 | tier2 | 스마트비즈 | 11-06 | 단독 | ⟨대기업⟩ 삼성바이오로직스, 2.7조 베팅···스위스 폴리펩타이드 인수 확정
+
+=== 링크미확보 (190건) ===
+N134 | 링크미확보 | Unite.AI | 11-05 | 단독 | ⟨빅테크⟩ Leah, 비즈니스 목표를 거버넌스가 적용된 AI 애플리케이션으로 구현하는 Harness Builder 출시 [링크없음]
+N190 | 링크미확보 | 공공뉴스 | 11-05 | 단독 | ⟨경쟁사⟩ 플랫폼으로 웃은 카카오, AI로 다음 승부수 [링크없음]
+N29 | 링크미확보 | OrcaRouter | 11-05 | 소수 | ⟨체급?⟩ GPT-6 Cyber: $20/$100 가격 책정, 비판적 평가, 제한된 접근 [링크없음]
+N96 | 링크미확보 | The Straits  | 11-05 | 소수 | ⟨빅테크⟩ US midterms: Will Trump take a tougher stance on China after his election setback? [링크없음]
+N63 | 링크미확보 | 연합인포맥스 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI, 보안 양날의 검 'GPT-6 사이버' 공개…첫 최고 위험 등급 [링크없음]
+N27 | 링크미확보 | ISSUE ON (이슈 | 11-05 | 단독 | ⟨체급?⟩ 기술특례상장 첫 관문 통과 잇따라…평가기관 26곳→16곳 축소, 문턱 높아져 [링크없음]
+N62 | 링크미확보 | Unite.AI | 11-05 | 단독 | ⟨체급?⟩ 여행 계획·예약·고객 지원을 위한 AI 여행 에이전트 출시 계획 [링크없음]
+N18 | 링크미확보 | 테크42 | 11-05 | 소수 | ⟨체급?⟩ [스타트업 안테나] 올거나이즈 日 상장·전력망 AI 실증·원자력 창업 성과…기술·투자 저변 확장 [링크없음]  [후보만 4회·발송 0건 10-27~11-05]
+N123 | 링크미확보 | 인공지능신문 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, 3분기 영업이익 2403억원…12월 AI 비서 ‘카나나 스페이스’ 출시로 성장동력 확대 [링크없음]
+N44 | 링크미확보 | Yahoo Financ | 11-05 | 단독 | ⟨빅테크⟩ Nvidia has lost nearly $1.4 trillion since its October record [링크없음]
+N167 | 링크미확보 | 머니투데이 | 11-05 | 소수 | ⟨경쟁사⟩ 네이버, '광고주센터→네이버애즈' 명칭 변경…AI 에이전트 기능 추가 - 머니투데이 [링크없음]
+N185 | 링크미확보 | 필드뉴스 | 11-05 | 단독 | ⟨경쟁사⟩ 인적분할 앞두고 수익성 챙긴 카카오…AI 수익 모델도 입증 나선다 [링크없음]  [후보만 3회·발송 0건 10-21~10-22]
+N72 | 링크미확보 | 토큰포스트 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI·JP모건, 엔지니어링·사이버보안 AI 협력 발표 [링크없음]
+N168 | 링크미확보 | 더팩트 | 11-05 | 단독 | ⟨경쟁사⟩ 네이버, AI 광고 에이전트 도입…중소형 광고주 지원 강화 [링크없음]
+N137 | 링크미확보 | 데일리안 | 11-05 | 소수 | ⟨체급?⟩ AI 규제 우려에 미국 증시 급락…정부, 국내 금융시장 과민 반응 경계 [링크없음]
+N159 | 링크미확보 | 이코노미스트 | 11-05 | 소수 | ⟨경쟁사⟩ “의심 거래 주의하세요” 카카오뱅크, ‘AI-Safety 콜봇’ 도입해 금융사기 예방 [링크없음]
+N81 | 링크미확보 | 전자신문 | 11-05 | 소수 | ⟨체급?⟩ 과기정통부, 내년 기초연구사업 2.9조 투자…역대 최대 [링크없음]
+N10 | 링크미확보 | BigGo Financ | 11-05 | 소수 | ⟨프런티어⟩ Anthropic's Internal AI Progress Has Doubled in a Year, Outside Auditor Finds Ahead of Record IPO [링크없음]
+N73 | 링크미확보 | 토큰포스트 | 11-05 | 단독 | ⟨체급?⟩ 팔로알토네트웍스, AI 보안사 5억달러 인수 협상 [링크없음]
+N139 | 링크미확보 | 토큰포스트 | 11-05 | 소수 | ⟨체급?⟩ 나스닥 장중 4.2% 하락…크레이머, AI 투자 지속 가능성 언급 [링크없음]
+N38 | 링크미확보 | 한스경제 | 11-05 | 단독 | ⟨대기업⟩ [지분View] 삼성바이오, 펩타이드 인수 눈앞…지분 97.98% 확보 [링크없음]
+N144 | 링크미확보 | 뉴스H | 11-05 | 단독 | ⟨체급?⟩ 한양대 교원창업기업 유니코어로보틱스, 세계 최대 ITS 총회서 자율주행·주행보조 기술 공개 [링크없음]
+N182 | 링크미확보 | 중소기업신문 | 11-05 | 단독 | ⟨경쟁사⟩ 카카오 "AI사업 2028년 BP 돌파" [링크없음]
+N30 | 링크미확보 | 임팩트온 | 11-05 | 단독 | ⟨빅테크⟩ EU, ESPR 수리 규제 소형가전까지 확대 추진…구글은 설계, 로지텍은 부품부터 바꿨다 [링크없음]
+N175 | 링크미확보 | 바끄로뉴스 | 11-05 | 소수 | ⟨경쟁사⟩ KT-서울대, AI 시대 이끌 융합보안 전문인재 키운다 [링크없음]
+N46 | 링크미확보 | 시사저널e | 11-05 | 소수 | ⟨대기업⟩ 인피니언, 韓 AI 전력 인프라 협력 속도···삼성전자 등 첨단 패키징도 주목 [링크없음]  [후보만 2회·발송 0건 10-08~10-21]
+N52 | 링크미확보 | 인사이트코리아 | 11-05 | 단독 | ⟨프런티어⟩ 앤트로픽 IPO에 국내 증권사 줄줄이 불참…환율 부담에 수익성까지 [링크없음]
+N155 | 링크미확보 | 세계일보 | 11-05 | 단독 | ⟨경쟁사⟩ 카카오, 연내 AI 서비스 3종 출시 [링크없음]  [후보만 3회·발송 0건 10-13~10-15]
+N34 | 링크미확보 | 올포칩 | 11-05 | 소수 | ⟨대기업⟩ 에이아이웍스, 중국 ‘GSF 2026’서 피지컬 AI 검증 기술 선보여… 로봇 산업화 가속 [링크없음]
+N92 | 링크미확보 | WRAL | 11-05 | 소수 | ⟨체급?⟩ Could putting AI data centers in space solve an environmental problem, or create a new one? [링크없음]
+N84 | 링크미확보 | 머니투데이 | 11-05 | 소수 | ⟨대기업⟩ 수원은 맛보기였다, 라팍에서는 제대로 미친다! 달아오른 삼성 좌타 라인, 홈 3연전서 대폭발 예고...88.9% 확률 잡을까 [KS] - 머니투데이 [링크없음]
+N132 | 링크미확보 | 한국경제 | 11-05 | 소수 | ⟨체급?⟩ 루닛, 의료 특화 파운데이션 모델 '러닝유닛 2.0' 공개…9개 병원서 진료·행정 실증 [링크없음]
+N160 | 링크미확보 | 팝콘뉴스 | 11-05 | 소수 | ⟨경쟁사⟩ 덕성여대-서울여대-성신여대, 네이버와 AI 교육 협력 위해 ‘맞손‘ [링크없음]
+N136 | 링크미확보 | 디지털데일리 | 11-05 | 단독 | ⟨경쟁사⟩ [컨콜] 카카오, AI 업무 도구 `칸바스` 사내 베타 돌입…연내 출시 [링크없음]
+N170 | 링크미확보 | 글로벌이코노믹 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, AI 서비스 4종 선보인다…광고·커머스 연계로 수익화 추진 [링크없음]
+N164 | 링크미확보 | 지디넷코리아 | 11-05 | 단독 | ⟨경쟁사⟩ [AI 리더스] 네이버클라우드 "아시아 대표 AI 팩토리 기업 도약…글로벌 공략 박차" [링크없음]
+N131 | 링크미확보 | 뉴스톱 | 11-05 | 단독 | ⟨대기업⟩ 현대차 출신 품은 LG… CEO 직속 조직으로 로봇 영토 확장 [링크없음]  [후보만 2회·발송 0건 10-15~10-26]
+N104 | 링크미확보 | Mi-3.com.au. | 11-05 | 단독 | ⟨체급?⟩ Retailers bet on AI for competitive edge as customer acquisition costs bite: Kudosity [링크없음]
+N145 | 링크미확보 | Unite.AI | 11-05 | 단독 | ⟨체급?⟩ EXL, 현장 배치형 AI 전문성 강화를 위해 Aimpoint Digital 인수 [링크없음]
+N140 | 링크미확보 | IT Channel O | 11-05 | 소수 | ⟨빅테크⟩ Bechtle Aims For M&A ‘balance’ As It Buys AI Ally Bespoke XYZ [링크없음]
+N114 | 링크미확보 | 로봇신문 | 11-05 | 단독 | ⟨체급?⟩ 브이원텍 자회사 시스콘로보틱스, 반도체 소재 가공공정용 MTR 34억원 수주 쾌거 [링크없음]
+N152 | 링크미확보 | m.edaily.co. | 11-05 | 단독 | ⟨경쟁사⟩ 제각각 움직이는 군 로봇…네이버, ‘공통 두뇌’로 연결한다 [링크없음]
+N47 | 링크미확보 | 시사저널e | 11-05 | 소수 | ⟨경쟁사⟩ 카카오모빌리티, 로봇 보안 표준 마련 착수···"국가 공인 보안기구와 협의 중" | [링크없음]  [후보만 3회·발송 0건 10-20~10-27]
+N74 | 링크미확보 | 싱글리스트 | 11-05 | 소수 | ⟨프런티어⟩ 오픈AI 브록먼 "내년 IPO 가능"…기업 매출 비중 절반 넘어 [링크없음]
+N79 | 링크미확보 | IT조선 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI 브록먼 “내년 IPO 가능”… 기업 매출 확대에 자신감 [링크없음]
+N85 | 링크미확보 | 머니투데이 | 11-05 | 소수 | ⟨경쟁사⟩ '10라운드 100순위 입단→KT 방출' 25세 투수, LG 재취업 테스트...제2의 김진성 될까, 염경엽 “나쁘지 않다” - 머니투데이 [링크없음]
+N188 | 링크미확보 | 연합뉴스 | 11-05 | 단독 | ⟨경쟁사⟩ [AI픽] 카카오, 톡에서 송금까지 하는 AI…12월 시범 운영 [링크없음]
+N50 | 링크미확보 | 한국공공정책신문 | 11-05 | 단독 | ⟨프런티어⟩ AI가 컴퓨터까지 직접 조작한다…오픈AI, 비용 절반 낮춘 ‘GPT-6.1 테라’ 공개 [링크없음]
+N48 | 링크미확보 | 브릿지경제 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, 연말 ‘AI 에이전트’ 융단폭격⋯ ‘카나나•칸바스’ 출격 대기 [링크없음]
+N20 | 링크미확보 | Yellow.com | 11-05 | 단독 | ⟨프런티어⟩ 2026년 앤트로픽 IPO 공모 청약, 어디서 할까? 투자자에게 열려 있는 7개 주요 플랫폼 비교 [링크없음]
+N97 | 링크미확보 | 재경일보 | 11-05 | 단독 | ⟨프런티어⟩ OpenAI rebounds with coding AI, but faces struggles in $30 billion fundraising : Global : JKN [링크없음]
+N94 | 링크미확보 | TechStory | 11-05 | 단독 | ⟨빅테크⟩ Google’s Massive Minnesota AI Data Center Gets Approved After Protests Shut Down Two City Meetings [링크없음]
+N42 | 링크미확보 | marketech ap | 11-05 | 단독 | ⟨체급?⟩ JAPAN AI leverages multi-channel campaign to scale enterprise client acquisition [링크없음]
+N111 | 링크미확보 | WJCL | 11-05 | 소수 | ⟨프런티어⟩ Effingham County delays decision on proposed OpenAI data center once again [링크없음]
+N75 | 링크미확보 | 한국경제TV | 11-05 | 단독 | ⟨체급?⟩ ＂9조원 계약 날아갔다＂…중국 AI 기업들 ＇비상＇ [링크없음]
+N17 | 링크미확보 | 아이러브PC방 | 11-05 | 소수 | ⟨체급?⟩ 에이수스, 로컬 에이전트 AI를 위한 ‘UGen 인텔 아크 Pro B70 32GB’ 출시 [링크없음]
+N174 | 링크미확보 | ER 이코노믹리뷰 | 11-05 | 단독 | ⟨경쟁사⟩ [IT큐레이션] 카카오 AI "지금 무릎을 꿇은 것은 추진력을 얻기 위함이다!" [링크없음]
+N11 | 링크미확보 | Dealroom | 11-05 | 소수 | ⟨체급?⟩ UK's Sovereign AI backs chemistry startup Potential Sciences in eight-figure seed round [링크없음]
+N138 | 링크미확보 | 데일리연합 | 11-05 | 단독 | ⟨프런티어⟩ [심층분석] 구글 딥마인드의 에이전트형 케모인포매틱스가 드러낸 산업·안보·규제 [링크없음]
+N67 | 링크미확보 | 파이낸셜뉴스 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI, 해킹 예방하는 AI 'GPT-6 사이버' 공개[글로벌AI브리핑] [링크없음]
+N71 | 링크미확보 | 딜사이트 | 11-05 | 단독 | ⟨대기업⟩ IPO 전략 바꾸는 SK…반도체·AI 중심축은 유지 [링크없음]
+N7 | 링크미확보 | markets.busi | 11-05 | 소수 | ⟨프런티어⟩ JuvrixAI Launches on NEAR Blockchain: A No-Code Platform for AI Agents on Near With Their Own Native Wallets [링크없음]
+N187 | 링크미확보 | 한스경제 | 11-05 | 단독 | ⟨경쟁사⟩ [마켓H] 카카오 10%대 급등에도…증권가 "AI 성과 확인해야" [링크없음]  [후보만 2회·발송 0건 10-29~11-02]
+N186 | 링크미확보 | 아시아경제 | 11-05 | 단독 | ⟨경쟁사⟩ [아시아AI대상]'네이버메이트'로 창작자들과 AI 시대 콘텐츠 생태계 확장 [링크없음]
+N120 | 링크미확보 | 중부일보 | 11-05 | 소수 | ⟨경쟁사⟩ “카카오·네이버 폭파한다”…경찰, 다중이용시설 테러 게시자 상대 손해배상 소송 [링크없음]
+N59 | 링크미확보 | Investing.co | 11-05 | 소수 | ⟨빅테크⟩ IREN 주가 18% 급락…마이크로소프트, 데이터센터 지연 우려 [링크없음]
+N23 | 링크미확보 | Big News Net | 11-05 | 다수 | ⟨체급?⟩ AIQ highlights AI agent security, governance in energy sector at ADIPEC 2026 [링크없음]  [후보만 2회·발송 0건 10-27~10-28]
+N35 | 링크미확보 | 데이터투자 | 11-05 | 단독 | ⟨체급?⟩ 브하브 애퀴지션, 피지컬 AI 제조업체 네미와 기업결합 계약…합병 전 지분가치 4억 달러 [링크없음]
+N76 | 링크미확보 | 아주경제 | 11-05 | 단독 | ⟨체급?⟩ [NNA] 글로벌웨이퍼스 5억 달러 사채, 마이크론이 인수 [링크없음]  [후보만 3회·발송 0건 10-12~11-05]
+N106 | 링크미확보 | 뉴스드림 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, "AI 에이전트 연동 다변화로 비용 100분의 1 절감"… 2028년 BEP 정조준 [링크없음]
+N69 | 링크미확보 | Briefs Finan | 11-05 | 단독 | ⟨유망스타트업⟩ Agility Robotics IPO: Digit 5 Secures $300M Orders [링크없음]
+N91 | 링크미확보 | W.Media | 11-05 | 다수 | ⟨체급?⟩ Brazil earmarks US$ 68 million in leftover 5G auction funds for sovereign AI data center [링크없음]
+N142 | 링크미확보 | 뉴시안 | 11-05 | 단독 | ⟨대기업⟩ [초점] 美 의회 권력 교체…삼성·SK 'AI 반도체 방정식' 꼬이나 [링크없음]
+N36 | 링크미확보 | 포인트데일리 | 11-05 | 소수 | ⟨체급?⟩ AI 데이터센터 '1MW 랙 시대' 대비…인피니언, 800V DC 전력 인프라 공략 [링크없음]
+N41 | 링크미확보 | Securities.i | 11-05 | 소수 | ⟨유망스타트업⟩ Anon Acquisition Adds Browser Automation to Sierra’s AI Agents [링크없음]
+N156 | 링크미확보 | 뉴데일리 | 11-05 | 소수 | ⟨경쟁사⟩ "전공 무관 AI 역량 키운다" … 덕성·서울·성신여대, 네이버 커넥트재단과 AI 인재양성 '맞손' [링크없음]  [후보만 3회·발송 0건 10-20~10-23]
+N102 | 링크미확보 | TechCrunch | 11-05 | 다수 | ⟨빅테크⟩ Meta warns that election backlash against data centers could make AI expansion harder [링크없음]
+N82 | 링크미확보 | Columbia Mis | 11-05 | 단독 | ⟨프런티어⟩ Anthropic IPO [링크없음]
+N162 | 링크미확보 | kjtimes | 11-05 | 단독 | ⟨경쟁사⟩ [스케치] ‘AX·통신·보안 삼각편대 구축’한 KT, AI 시대 디지털 경쟁력 키운다 [링크없음]
+N166 | 링크미확보 | 데일리뉴스 | 11-05 | 소수 | ⟨경쟁사⟩ 네이버, AI 탭 국제표준 인증 획득…에이전틱 AI 안전관리 체계 인정 [링크없음]  [후보만 2회·발송 0건 11-03~11-04]
+N68 | 링크미확보 | Unite.AI | 11-05 | 단독 | ⟨프런티어⟩ OpenAI의 기업 영업 매출이 과반 차지…Brockman, IPO 준비 가능성 시사 [링크없음]
+N16 | 링크미확보 | Beinsure | 11-05 | 단독 | ⟨체급?⟩ Lazarus AI raises $43 mn with backing from QBE and State Farm Ventures [링크없음]
+N105 | 링크미확보 | 머니투데이 | 11-05 | 소수 | ⟨체급?⟩ 보급형 2족보행 로봇 만든다…XYZ, 40억대 휴머노이드 과제 참여 - 머니투데이 [링크없음]
+N13 | 링크미확보 | Ohio Tech Ne | 11-05 | 소수 | ⟨체급?⟩ Path Robotics is hiring for more than 50 Columbus roles in physical AI [링크없음]
+N37 | 링크미확보 | 이코노미블록 | 11-05 | 단독 | ⟨프런티어⟩ 골드만삭스·아폴로, 스페이스X AI 칩 조달용 약 400억달러 자금 모집 착수 [링크없음]  [후보만 2회·발송 0건 11-03~11-05]
+N53 | 링크미확보 | AI타임스 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI, 코드 저장 스타트업 피에르 인수...코덱스로 깃허브에 도전 [링크없음]
+N129 | 링크미확보 | 뉴스투데이 | 11-05 | 소수 | ⟨체급?⟩ [이태희의 JOB채(103)] AI데이터센터 규제와 AI 속도조절론, 미국 정치 ‘태풍의 눈’ 부상 [링크없음]
+N66 | 링크미확보 | 코인리더스 | 11-05 | 단독 | ⟨프런티어⟩ 앤트로픽 IPO, 기술주 구원투수?...월가 거물들 시선집중 [링크없음]
+N3 | 링크미확보 | 중앙일보 | 11-05 | 소수 | ⟨빅테크⟩ [단독] 108조 쏟아부어 경쟁자 키웠다…MS, ‘데이터센터 외주’에 브레이크 건 속내｜Global Money Club [링크없음]  [후보만 3회·발송 0건 11-03~11-04]
+N163 | 링크미확보 | 디지털데일리 | 11-05 | 소수 | ⟨경쟁사⟩ "뉴스가 저작권 보호 대상?"…지상파 3사-네이버 `AI 학습` 법정 공방 [링크없음]
+N45 | 링크미확보 | 더구루 | 11-05 | 단독 | ⟨프런티어⟩ 오픈AI, 전력망 보호 '그리드 프로텍터' 공개…反 데이터센터 여론 반전 모색 [링크없음]
+N90 | 링크미확보 | https://www. | 11-05 | 소수 | ⟨체급?⟩ 위험 현장 대신 들어가는 에너지 인프라 로봇…E.ON·노이라 로보틱스, 피지컬 AI 전력망 도입 실증 착수 [링크없음]
+N125 | 링크미확보 | 디지털투데이 | 11-05 | 소수 | ⟨빅테크⟩ 애플, 사내 AI 사용 한도 축소…마음껏 쓰라더니 결국 돈줄 죄었다 [링크없음]
+N103 | 링크미확보 | citybiz | 11-05 | 단독 | ⟨체급?⟩ MARA Receives FERC Approval for Long Ridge Energy Acquisition, Advancing AI Infrastructure Expansion [링크없음]  [후보만 2회·발송 0건 10-27~10-28]
+N126 | 링크미확보 | Startup Fort | 11-05 | 단독 | ⟨체급?⟩ Moonshot AI Releases Full Weights For 2.8 Trillion Parameter Kimi K3.1 Pro [링크없음]  [후보만 2회·발송 0건 10-26~10-27]
+N157 | 링크미확보 | 톱스타뉴스 | 11-05 | 다수 | ⟨경쟁사⟩ [AI 플랫폼 산업 전망] 카카오 2028년 손익분기 목표…NAVER·카카오, AI 수익화 경쟁 본격화 [링크없음]
+N161 | 링크미확보 | 연합인포맥스 | 11-05 | 단독 | ⟨경쟁사⟩ 카카오, 5천만 관계망으로 AI 차별화…광고에도 AI 도입 | [링크없음]
+N151 | 링크미확보 | 위키리크스한국 | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, 플랫폼 성장에 실적 개선…이제부턴 AI 수익화 '집중' [링크없음]
+N149 | 링크미확보 | 지디넷코리아 | 11-05 | 단독 | ⟨체급?⟩ [기고] 기업 AI 주권, 규제와 성과를 동시에 푸는 기술적 해법 [링크없음]
+N39 | 링크미확보 | 더퍼블릭 | 11-05 | 소수 | ⟨빅테크⟩ “주식 안 팔았는데 양도세?”...테슬라·스페이스X 합병설에 서학개미 국회 청원 [링크없음]
+N113 | 링크미확보 | 데일리포스트 | 11-05 | 소수 | ⟨체급?⟩ 에브리봇, 中 DDT 손잡고 B2B 사족보행 로봇 시장 진출…‘제2의 나무엑스’ 구축 [링크없음]  [후보만 2회·발송 0건 10-13~10-29]
+N189 | 링크미확보 | 연합뉴스 | 11-05 | 단독 | ⟨경쟁사⟩ [게시판] 카카오뱅크, 금융사기 의심되면 AI가 자동 전화로 안내 [링크없음]  [후보만 2회·발송 0건 10-22~10-26]
+N147 | 링크미확보 | 이데일리 | 11-05 | 단독 | ⟨체급?⟩ [사설] 25조 PRS 시장 혼란, 투자 막는 ‘회계 불확실성’ 끝내야 [링크없음]
+N122 | 링크미확보 | 소비자가 만드는 신문 | 11-05 | 소수 | ⟨경쟁사⟩ KT·LGU+·SKB, IPTV 디즈니+ 요금 줄줄히 인상...SKT는 "예정 없어" [링크없음]
+N143 | 링크미확보 | 한국경제 | 11-05 | 소수 | ⟨체급?⟩ "하루 만에 4300조 증발"…AI 공포에 뉴욕증시 무너졌다 [종합] [링크없음]
+N180 | 링크미확보 | 뉴스토마토 | 11-05 | 단독 | ⟨경쟁사⟩ 카카오, 3분기 매출·영업익 동반성장…AI 수익모델 확보 관건 [링크없음]
+N89 | 링크미확보 | Capital-Ries | 11-05 | 단독 | ⟨체급?⟩ Kabilio closes €10 million funding round with participation from CDTI, Picus Capital and Visionaries Club [링크없음]
+N181 | 링크미확보 | 굿모닝경제 | 11-05 | 단독 | ⟨경쟁사⟩ AI 성과 절실한 카카오…서비스 확장에 집중 [링크없음]
+N184 | 링크미확보 | JTBC | 11-05 | 단독 | ⟨경쟁사⟩ 수원 KT위즈파크 뒤덮은 무지갯빛 ‘비트배트’..일상과 만난 AI기술 [링크없음]
+N171 | 링크미확보 | 데일리머니 | 11-05 | 단독 | ⟨빅테크⟩ 엔비디아, 네이버에 1.3조 납입…'AI 동맹' 초읽기 [링크없음]  [후보만 3회·발송 0건 10-30~11-02]
+N9 | 링크미확보 | 진주인터넷뉴스 | 11-05 | 단독 | ⟨대기업⟩ 삼성SDS 구미 AI 데이터센터 착공…4,273억 투자, 영남권 60조 원 프로젝트 시동 [링크없음]
+N80 | 링크미확보 | Financial Ti | 11-05 | 단독 | ⟨프런티어⟩ So, about that Anthropic IPO . . . [링크없음]
+N83 | 링크미확보 | Tom's Hardwa | 11-05 | 소수 | ⟨빅테크⟩ Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI [링크없음]
+N115 | 링크미확보 | 데일리시큐 | 11-05 | 단독 | ⟨빅테크⟩ 메타 AI 개발환경서 보안 취약점 발견…내부 대화·인증 토큰 노출 위험 [링크없음]
+N40 | 링크미확보 | 엠투데이 | 11-05 | 소수 | ⟨빅테크⟩ AI발 메모리값 폭등⋯애플 아이폰18 프로 저장용량 원가 4.4배 급증 [링크없음]
+N55 | 링크미확보 | Reuters | 11-05 | 소수 | ⟨프런티어⟩ Breakingviews - COMMENTARY: Tech wreckage now hinges on Anthropic IPO [링크없음]
+N99 | 링크미확보 | https://www. | 11-05 | 단독 | ⟨빅테크⟩ 구글·맨디언트, ‘LLM재킹’ 위협 보고서 발표… 하루 10만달러 넘는 요금 폭탄 주의보 [링크없음]
+N124 | 링크미확보 | 굿모닝베트남미디어 | 11-05 | 단독 | ⟨빅테크⟩ [전자상거래] 아마존, 베트남 국가 대표 브랜드 글로벌 진출 지원 프로그램 발표 [링크없음]
+N150 | 링크미확보 | 지디넷코리아 | 11-05 | 단독 | ⟨빅테크⟩ [AI는 지금] 메타, AI 코딩 스타트업 품었다…'에이전트 군단' 확보 [링크없음]
+N8 | 링크미확보 | BigGo Financ | 11-05 | 소수 | ⟨체급?⟩ Export-Import Bank of Korea to Provide $170 Million Loan for AI Education Institution in Tanzania [링크없음]
+N133 | 링크미확보 | 파이낸셜뉴스 | 11-05 | 소수 | ⟨체급?⟩ 'AI 공격, AI로 막는다'…금융권 망분리 규제 '전면 해제' 재시동 [링크없음]  [후보만 2회·발송 0건 10-08~10-12]
+N93 | 링크미확보 | TradingView | 11-05 | 소수 | ⟨빅테크⟩ Supermicro Launches KV Cache Solution with IBM and NVIDIA Demonstrating Significant Inference Performance Benefits [링크없음]
+N172 | 링크미확보 | Chosunbiz | 11-05 | 단독 | ⟨경쟁사⟩ 네이버클라우드, 자격증 ‘3년 유효기간’ 백지화… 기존 취득자 소급 적용에 발목 [링크없음]  [후보만 4회·발송 0건 10-15~11-03]
+N100 | 링크미확보 | 시장경제신문 | 11-05 | 단독 | ⟨경쟁사⟩ "KT 등 해킹 은폐 통신사 강력 제재" 공감 80.5% [시경-리얼미터 여론조사] [링크없음]  [후보만 2회·발송 0건 10-26~10-27]
+N141 | 링크미확보 | Cryptopolita | 11-05 | 소수 | ⟨유망스타트업⟩ Nvidia-backed Agility lists on Nasdaq, trailing Unitree’s $50B debut [링크없음]
+N130 | 링크미확보 | 이투데이 | 11-05 | 단독 | ⟨경쟁사⟩ 휴머노이드 상용화 속도에 부품사도 분주…삼성전기·LG이노텍 공급 확대 [링크없음]
+N110 | 링크미확보 | Simply Wall  | 11-05 | 단독 | ⟨대기업⟩ Lumentum Holdings (LITE) Enters Definitive All Stock Acquisition Deal In AI Optics [링크없음]
+N127 | 링크미확보 | Yahoo Financ | 11-05 | 단독 | ⟨대기업⟩ SupportNinja Brings AI-Native CX Solutions to Ecommerce Through Aventus Acquisition [링크없음]
+N5 | 링크미확보 | BigGo Financ | 11-05 | 다수 | ⟨유망스타트업⟩ Agility Robotics Debuts on Nasdaq as First US Humanoid IPO, Valued at $2.5 Billion [링크없음]
+N77 | 링크미확보 | 파이낸셜뉴스 | 11-05 | 단독 | ⟨체급?⟩ "2100조 투자… AI 적응 속도가 국운 좌우" [링크없음]
+N14 | 링크미확보 | Reuters | 11-05 | 소수 | ⟨체급?⟩ Blue tsunami wipes out $2.5 trillion from Nasdaq, as investors fret about AI trade [링크없음]
+N148 | 링크미확보 | 위키리크스한국 | 11-05 | 단독 | ⟨경쟁사⟩ KT, '토큰팩토리' 사업화 속도…기업 AX 고객 확보 나선다 [링크없음]
+N65 | 링크미확보 | https://www. | 11-05 | 단독 | ⟨빅테크⟩ 엔비디아, '1조3000억 투자' 주당 발행가 20만4500원 [링크없음]
+N64 | 링크미확보 | 토큰포스트 | 11-05 | 단독 | ⟨빅테크⟩ 손그림으로 앱 시제품 만든다…구글, 제미나이 제작법 공개 [링크없음]
+N158 | 링크미확보 | 테크M | 11-05 | 소수 | ⟨경쟁사⟩ 카카오, AI 모델 '선택과 집중' 전략...이용자 편의성 높이고 비용은 줄인다 [링크없음]
+N28 | 링크미확보 | AI포스트 | 11-05 | 소수 | ⟨빅테크⟩ 애플, 엔지니어 일일 AI 예산 '300달러→200달러' 삭감…"토큰 맘대로 쓰지 마" [링크없음]
+N165 | 링크미확보 | 핀포인트뉴스 | 11-05 | 단독 | ⟨프런티어⟩ 챗GPT·제미나이 확산에 AI 챗봇주 들썩… 카카오·NAVER '함박웃음' [링크없음]
+N43 | 링크미확보 | Barron's | 11-05 | 단독 | ⟨프런티어⟩ Why This Analyst Still Thinks Anthropic’s IPO Will Get Done [링크없음]
+N135 | 링크미확보 | 아시아타임즈 | 11-05 | 소수 | ⟨체급?⟩ [AT 현장] K바이오 대혁신으로 미래 성장…"투자 확대·AI 데이터·규제 혁신" [링크없음]
+N78 | 링크미확보 | 토큰포스트 | 11-05 | 단독 | ⟨프런티어⟩ 앤트로픽 2배 ETF 6종, IPO 뒤 거래 준비 [링크없음]  [후보만 2회·발송 0건 10-29~10-30]
+N58 | 링크미확보 | 매일경제 | 11-05 | 다수 | ⟨경쟁사⟩ 네이버, 광고주센터 ‘네이버애즈’로 개편...AI 에이전트가 진단·실행까지 [링크없음]
+N70 | 링크미확보 | 디지털투데이 | 11-05 | 단독 | ⟨빅테크⟩ 메타, AI 에이전트 '뮤즈'와 영상 통화 기능 미국에 출시 [링크없음]
+N98 | 링크미확보 | 중부매일 | 11-05 | 다수 | ⟨빅테크⟩ TYM, ‘KIEMSTA’ 참가… 레벨 3 자율주행 컨셉 트랙터·신제품 공개 [링크없음]
+N19 | 링크미확보 | THE 복지타임즈 | 11-05 | 소수 | ⟨체급?⟩ 과학기술정보통신부, 2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원 [링크없음]
+N107 | 링크미확보 | 디지털포커스 | 11-05 | 단독 | ⟨프런티어⟩ 앤트로픽 텍스트 워터마크, 구형 클로드 모델서 우회 가능, 파라미터 하나로 피해 [링크없음]
+N86 | 링크미확보 | BigGo Financ | 11-05 | 소수 | ⟨체급?⟩ Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe [링크없음]
+N88 | 링크미확보 | 데이터투자 | 11-05 | 소수 | ⟨빅테크⟩ 메타비아, DA-1726 임상 1상 파트 3B 중간 분석서 간 지방 68%·체중 13.5% 감소 효과 확인 [링크없음]
+N179 | 링크미확보 | 딜사이트 | 11-05 | 단독 | ⟨경쟁사⟩ 카카오 “내년이 AI 사업 손익분기점”…카카오톡 수익 창출 본격화 [링크없음]
+N33 | 링크미확보 | Investing.co | 11-05 | 소수 | ⟨빅테크⟩ Nvidia explores retrofitting old telecom buildings for AI data centers - Information [링크없음]
+N15 | 링크미확보 | 파이낸셜뉴스 | 11-05 | 소수 | ⟨프런티어⟩ OpenAI unveils AI model 'GPT-6 Cyber' to prevent hacking [Global AI Briefing] [링크없음]
+N119 | 링크미확보 | ER 이코노믹리뷰 | 11-05 | 소수 | ⟨빅테크⟩ "메타 영상 편집 앱 에디츠 맥 버전 등판" 모바일 5000만 명 데스크톱으로 옮긴다 [링크없음]
+N24 | 링크미확보 | CNBC | 11-05 | 단독 | ⟨프런티어⟩ Alex Kantrowitz: Anthropic doesn't have a lot of flexibility on timing of its IPO [링크없음]
+N57 | 링크미확보 | AI타임스 | 11-05 | 단독 | ⟨프런티어⟩ 앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도 [링크없음]
+N177 | 링크미확보 | 뉴스1 | 11-05 | 단독 | ⟨경쟁사⟩ "AI에 대한 최종 지휘권은 사람이 가져야"…카카오의 AI안전 원칙 [링크없음]
+N128 | 링크미확보 | 이투데이 | 11-05 | 소수 | ⟨대기업⟩ 삼성證 “삼전·하닉, 다운턴 공포 과도…현 주가는 메모리 급락까지 선반영” [링크없음]
+N176 | 링크미확보 | YTN 사이언스 | 11-05 | 단독 | ⟨경쟁사⟩ KT, AI 보이스피싱 탐지 강화...말투·발화 속도 분석 [링크없음]
+N4 | 링크미확보 | BigGo Financ | 11-05 | 다수 | ⟨체급?⟩ Palo Alto Networks Weighs $500 Million Purchase of AI Credential Startup Clutch Security [링크없음]
+N117 | 링크미확보 | OhmyNews | 11-05 | 단독 | ⟨체급?⟩ 화성, AI 엑스포서 투자유치·공공행정 혁신 동시 추진… 첨단산업 도시 도약 시동 [링크없음]
+N56 | 링크미확보 | 서울경제 | 11-05 | 소수 | ⟨체급?⟩ ‘美 AI 규제’ 현실화되나…삼전닉스 프리장서 10%대 급락 [마켓시그널] [링크없음]
+N109 | 링크미확보 | The Armenian | 11-05 | 소수 | ⟨체급?⟩ Armenia Plans $14 Million Push Into AI and Robotics Across Three Universities [링크없음]
+N22 | 링크미확보 | Electronics  | 11-05 | 소수 | ⟨대기업⟩ 5 Things Engineers Should Know About STMicroelectronics’ Approach to Humanoid Robot Architecture [링크없음]
+N61 | 링크미확보 | 디지털투데이 | 11-05 | 단독 | ⟨빅테크⟩ 박스, 엔비디아 '네모트론' 기반 AI 에이전트 퍼스트 검색 기능 공개 [링크없음]
+N12 | 링크미확보 | Machine Desi | 11-05 | 다수 | ⟨체급?⟩ Beyond the Physical AI Demo: Successfully integrating AI driven robotics on the factory floor [링크없음]
+N178 | 링크미확보 | 블로터 | 11-05 | 단독 | ⟨경쟁사⟩ 카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다 [링크없음]
+N112 | 링크미확보 | 디지털투데이 | 11-05 | 소수 | ⟨경쟁사⟩ 삼성D vs LGD, 차량용·휴머노이드 '탠덤 OLED' 선점 경쟁 본격화 [링크없음]
+N6 | 링크미확보 | BigGo Financ | 11-05 | 소수 | ⟨체급?⟩ Seven Global Companies Including Amkor and nScale to Invest $2 Billion in South Korea, With 97% Going Outside Seoul Capital Area [링크없음]
+N153 | 링크미확보 | 바이라인네트워크 | 11-05 | 단독 | ⟨경쟁사⟩ AI 에이전트 제휴사 늘리지 못하던 카카오의 해법은? [링크없음]
+N49 | 링크미확보 | 디지털투데이 | 11-06 | 단독 | ⟨프런티어⟩ 앤트로픽, 비공개 AI 모델로 차세대 모델 훈련…안전 연구진이 짚은 3가지 [링크없음]
+N60 | 링크미확보 | 지디넷코리아 | 11-06 | 소수 | ⟨체급?⟩ 미국, AI 투자 제동 걸리나…규제 우려에 나스닥 급락 [링크없음]
+N183 | 링크미확보 | 빅데이터뉴스 | 11-06 | 단독 | ⟨경쟁사⟩ [이커머스 톺아보기②] 네이버, 멤버십·AI로 쿠팡 추격…커머스 영토 확장 본격화 [링크없음]
+N32 | 링크미확보 | 토큰포스트 | 11-06 | 단독 | ⟨빅테크⟩ 아마존, 데이터센터 투자액 50억달러 추정…원전 전력 20년 계약 [링크없음]  [후보만 3회·발송 0건 10-07~10-08]
+N87 | 링크미확보 | Investing.co | 11-06 | 다수 | ⟨빅테크⟩ "수리 요청 너무 많아 교체 불가"…애플 ’아이폰 듀오’ 결함 이어 AS 논란 확산 By EBN [링크없음]  [후보만 2회·발송 0건 10-27~10-28]
+N101 | 링크미확보 | NPR | 11-06 | 소수 | ⟨빅테크⟩ Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks [링크없음]
+N146 | 링크미확보 | 코리아리포트 | 11-06 | 단독 | ⟨대기업⟩ [데스크칼럼] 삼성전자 100조·AI 에이전트 시대, ‘스마트한’ 사람만이 희망이다 [링크없음]
+N25 | 링크미확보 | Investing.co | 11-06 | 소수 | ⟨프런티어⟩ 오픈AI, 데이터센터 전력망 비용 전액 부담…美 주민 반발에 대응 By EBN [링크없음]  [후보만 6회·발송 0건 10-21~11-05]
+N154 | 링크미확보 | 파이낸셜포스트 | 11-06 | 단독 | ⟨경쟁사⟩ 카카오엔터프라이즈, 몽골 국립 곽기대와 클라우드 기술 워크숍 [링크없음]
+N121 | 링크미확보 | 충청시사신문 | 11-06 | 단독 | ⟨경쟁사⟩ 3G 휴대전화 역사 속으로 사라지나…KT·SKT 신규 가입 중단 [링크없음]
+N95 | 링크미확보 | 스포츠조선 | 11-06 | 다수 | ⟨경쟁사⟩ '9타수4안타 3홈런' 가을수호신이 넘어야 할 '벽', KT '빈볼 악연' 청산할까[KS] [링크없음]
+N31 | 링크미확보 | 이데일리 | 11-06 | 소수 | ⟨경쟁사⟩ 플랜티넷 자회사 ‘모아진’, LG유플러스 제휴 가입자 20만명 돌파 [링크없음]  [후보만 7회·발송 0건 10-26~11-05]
+N2 | 링크미확보 | BigGo Financ | 11-06 | 소수 | ⟨프런티어⟩ Anthropic's $1.5 Trillion IPO Valuation Faces Investor Pushback as AI Selloff Weighs on Timing [링크없음]
+N21 | 링크미확보 | KBAK | 11-06 | 다수 | ⟨대기업⟩ Midterm voters elect AI watchdogs, pass ballot measures limiting new data centers [링크없음]
+N118 | 링크미확보 | 아이뉴스24 | 11-06 | 소수 | ⟨체급?⟩ 이형일 "증시 과잉반응 않게 선제 조치"…美 중간선거發 AI 규제 우려 점검 [링크없음]
+N54 | 링크미확보 | New York Pos | 11-06 | 단독 | ⟨프런티어⟩ Anthropic’s IPO timing threatened by AI backlash, historic tech rout [링크없음]
+N169 | 링크미확보 | 위키트리 | 11-06 | 소수 | ⟨경쟁사⟩ 정답 딱 '두 글자'…카카오뱅크 AI 이모지 퀴즈 정답 (11월 6일) [링크없음]
+N26 | 링크미확보 | 디지털투데이 | 11-06 | 단독 | ⟨체급?⟩ 美 첫 휴머노이드 상장으로 드러난 민낯…화려한 기대 뒤엔 1900억원 적자 [링크없음]
+N116 | 링크미확보 | 토큰포스트 | 11-06 | 소수 | ⟨빅테크⟩ 구글, 학교 검색에서 AI 기능만 끄는 설정 없다…제미나이는 별도 허용 [링크없음]
+N173 | 링크미확보 | 뉴스핌 | 11-06 | 단독 | ⟨경쟁사⟩ [모닝 리포트] "카카오, 본업 안정적 성장 속 AI 수익화 검증 필요" [링크없음]
+N1 | 링크미확보 | 아시아투데이 | 11-06 | 단독 | ⟨대기업⟩ 통신사 반등 돌파구 ‘5G SA' 시대 서막 [링크없음]
+N108 | 링크미확보 | 데일리팝 | 11-06 | 소수 | ⟨대기업⟩ 삼성미래기술육성사업, 14년 만에 첫 시상…우수 연구자 10명엔 후속 연구 지원 [링크없음]
+N51 | 링크미확보 | 중앙일보 | 11-06 | 단독 | ⟨프런티어⟩ 삼전닉스 폭락때 50% 뛰었다…앤트로픽 상장뒤 터질 이 종목 [링크없음]  [후보만 2회·발송 0건 10-13~10-14]

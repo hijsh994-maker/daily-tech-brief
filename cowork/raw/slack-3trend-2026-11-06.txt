@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-06 09:00:20 KST === 
+Message TS: 1793923220.667279
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-06 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261105000252|KAIST 테라랩, HBM·HBF 설계에 AI 에이전트 접목 연구 성과 공유>* (전자신문 (AI))
+*2. [:shield: Agent Infra] <https://www.etnews.com/20261105000338|웹케시, '경리나라 MCP' 12월 출시…클로드·챗GPT 등과 연결>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://www.etnews.com/20261105000340|개인정보위, AI 에이전트·피지컬 AI 개인정보 보호 기술 논의>* (전자신문 (AI))
+*4. [:robot_face: AI Agent] <https://www.etnews.com/20261105000067|테이텀, AI 에이전트 보안 플랫폼 '클릭' 출시>* (전자신문 (AI))
+*5. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work|Perplexity, 업무용 AI 에이전트에 대한 자체 인수 착수>* (The Verge)
+*6. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/|OpenAI president Greg Brockman says company could be IPO ready in 2027>* (TechCrunch)
+*7. [:rocket: BigTech Release] <https://openai.com/index/merge-builds-with-openai|Merge는 OpenAI 기술로 제품 및 비즈니스 툴을 구축합니다.>* (OpenAI News &amp; Research)
+*8. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/|Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/|OpenAI released a new cybersecurity model. Is that enough?>* (TechCrunch)
+*10. [:rocket: BigTech Release] <https://openai.com/index/introducing-gpt-6-cyber|GPT ‑ 6 사이버: 정렬된 사이버 보안 에이전트의 경계 발전>* (OpenAI News &amp; Research)

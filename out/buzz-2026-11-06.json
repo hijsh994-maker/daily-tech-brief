@@ -1,0 +1,434 @@
+{
+ "date": "2026-11-06",
+ "terms": [
+  {
+   "term": "Baidu",
+   "norm": "baidu",
+   "n_outlets": 6,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "Crypto Briefing",
+    "Gasgoo",
+    "HuggingFace",
+    "TechTarget",
+    "The Decoder"
+   ],
+   "days": 4,
+   "first": "2026-11-04",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace(11-02) | HF trending: baidu/Unlimited-OCR-2",
+    "Crypto Briefing(11-04) | Baidu unveils Apollo World, an agent-driven world model for physical AI",
+    "TechTarget(11-05) | Baidu’s new world model highlights value, challenge of physical AI",
+    "Gasgoo | Baidu Unveils Apollo World, a World Model Designed to Let AI Train AI",
+    "The Decoder | Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-sourc"
+   ],
+   "score": 19
+  },
+  {
+   "term": "규제 공포",
+   "norm": "규제공포",
+   "n_outlets": 31,
+   "n_today": 31,
+   "outlets": [
+    "BBS불교방송",
+    "KBC광주방송",
+    "MBC 뉴스",
+    "국제신문",
+    "글로벌경제신문",
+    "글로벌금융신문",
+    "뉴스1",
+    "뉴스로드"
+   ],
+   "days": 2,
+   "first": "2026-11-06",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "핀포인트뉴스(11-05) | 코어위브 9.9%·헛8 23.2% 급락…AI 인프라 규제 공포 확산",
+    "한국경제 | 삼전닉스, 프리마켓서 10% 넘게 폭락…\"데이터센터 규제 공포\"",
+    "미디어펜 | [美증시] 데이터센터 규제 공포 3대 지수 대폭락…AI·반도체주 '붕괴'",
+    "생생비즈플러스 | AI·데이터센터 규제 공포에 美 증시 기술주 '패닉셀'...나스닥 5.5%·반도체지수 12% 폭락",
+    "비즈워치 | \"구체적 입법도 없는데\"...선반영된 AI 규제 공포에 반도체 '직격탄'",
+    "전자신문 | 하루 만에 4300조 증발…AI 규제 공포가 뉴욕증시 덮쳤다"
+   ],
+   "score": 16
+  },
+  {
+   "term": "블루쓰나미",
+   "norm": "블루쓰나미",
+   "n_outlets": 24,
+   "n_today": 15,
+   "outlets": [
+    "CBC뉴스",
+    "DealSite경제TV",
+    "KB Think",
+    "Naver Blog",
+    "OhmyNews",
+    "뉴데일리",
+    "뉴스1",
+    "뉴스프리존"
+   ],
+   "days": 2,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "블로터(11-05) | 美 중간선거 ‘블루쓰나미’…데이터센터 규제 우려에도 빅테크 랠리",
+    "중앙일보(11-05) | ‘블루쓰나미’ 앞 AI 데이터센터…아시아 증시 혼란",
+    "한국경제(11-05) | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+    "Naver Blog | 美 중간선거 '블루쓰나미'…AIDC 투자에 새 변수 : 네이버 블로그",
+    "연합인포맥스 | [블루쓰나미 긴급진단] \"데이터센터 규제 우려 과도…반도체 비중 확대 기회\"",
+    "KB Think | [블루쓰나미 긴급진단] \"美증시 급락은 과민반응…AI투자 우려 선반영\""
+   ],
+   "score": 12
+  },
+  {
+   "term": "엑사원 넥서스",
+   "norm": "엑사원넥서스",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "ER 이코노믹리뷰",
+    "뉴스드림",
+    "디지털데일리",
+    "머니투데이",
+    "시사코리아",
+    "이뉴스투데이",
+    "주간현대",
+    "천지일보"
+   ],
+   "days": 2,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "뉴스드림(11-05) | LG AI연구원, '엑사원 넥서스' 개발… AI 모델 개발 전 주기에 필수 적용",
+    "머니투데이(11-05) | LG '엑사원 넥서스', AI로 저작권 문제 해결…사람보다 45배 빨라 - 머니투데이",
+    "시사코리아(11-05) | LG AI연구원, ‘엑사원 넥서스’로 국가지식재산위원장상…해외 공급 추진",
+    "머니투데이 | LG '엑사원 넥서스', AI로 저작권 문제 해결…사람보다 45배 빨라 - 머니투데이",
+    "주간현대 | LG AI연구원, AI 데이터 저작권·컴플라이언스 해결 ‘엑사원 넥서스’로 식별성 높여"
+   ],
+   "score": 12
+  },
+  {
+   "term": "깜짝 방한",
+   "norm": "깜짝방한",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "경향신문",
+    "서울경제",
+    "연합뉴스",
+    "주간동아",
+    "중앙일보",
+    "코리아리포트",
+    "한국경제"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "서울경제(11-02) | “자금조달 압박에 HBM값 급등”…오픈AI 올트먼, 삼성·SK 깜짝 방한 왜[biz-플러스]",
+    "한국경제(11-02) | 샘 올트먼, 1박2일 깜짝 방한…삼성·SK와 'AI 협업' 논의",
+    "경향신문(11-02) | 메모리 급한 올트먼 ‘깜짝 방한’…삼성·SK와 ‘AI동맹’ 굳히기",
+    "주간동아 | 삼성·SK 경영진, ‘깜짝 방한’ 샘 올트먼 잇달아 만나"
+   ],
+   "score": 12
+  },
+  {
+   "term": "AI 규제론",
+   "norm": "ai규제론",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "KBS 뉴스",
+    "연합뉴스",
+    "펜앤마이크"
+   ],
+   "days": 2,
+   "first": "2026-11-06",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "연합뉴스(11-05) | [美중간선거] 빅테크 거액 낙선운동 무색…AI 규제론자들 잇단 당선",
+    "KBS 뉴스(11-05) | [중간선거] AI 규제론자들 잇단 당선…‘규제 완화’ 기조에 영향?",
+    "펜앤마이크 | [재계핫이슈] 삼전닉스가 주목해야 할 美 민주당 실세 2인…‘AI 규제론’ 중심 캔트웰과 팔론"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Pierre Computer Company",
+   "norm": "pierrecomputercompany",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HN",
+    "OpenAI"
+   ],
+   "days": 2,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "OpenAI(11-05) | OpenAI, Pierre Computer Company, Inc. 인수 예정",
+    "OpenAI(11-05) | OpenAI to acquire Pierre Computer Company, Inc.",
+    "HN | OpenAI to acquire Pierre Computer Company"
+   ],
+   "score": 9
+  },
+  {
+   "term": "MCP Explained",
+   "norm": "mcpexplained",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | MCP Explained"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Synaptics Appears",
+   "norm": "synapticsappears",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Use Legal Threats",
+   "norm": "uselegalthreats",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver"
+   ],
+   "score": 7
+  },
+  {
+   "term": "AI로 급증",
+   "norm": "ai로급증",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "보안뉴스"
+   ],
+   "days": 1,
+   "first": "2026-11-06",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "보안뉴스 | ‘활동 중’ 신생 랜섬웨어 조직만 59곳 식별... “AI로 급증”"
+   ],
+   "score": 6
+  },
+  {
+   "term": "Trending Industry Today",
+   "norm": "trendingindustrytoday",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "Moomoo"
+   ],
+   "days": 1,
+   "first": "2026-11-06",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Moomoo | Trending Industry Today: Advanced Micro Devices Leads Losses In Physical AI Stoc"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Compute Campuses",
+   "norm": "computecampuses",
+   "n_outlets": 20,
+   "n_today": 2,
+   "outlets": [
+    "Advanced Manufacturing",
+    "BigGo Finance",
+    "Business Insider",
+    "Data Center Dynamics",
+    "ExtremeTech",
+    "Forbes",
+    "FourWeekMBA",
+    "Gadget Review"
+   ],
+   "days": 5,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Business Insider(11-02) | OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'",
+    "TechCrunch(11-02) | OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "Mezha.net(11-02) | OpenAI may rebrand data centers as ‘AI compute campuses’",
+    "Forbes | ‘Compute Campuses’ Data Center Rebrand Kicks Off Big Tech’s Attempt To Woo Democ",
+    "The Hill | OpenAI rebrands data centers as ‘compute campuses,’ unveils new framework"
+   ],
+   "score": 10
+  },
+  {
+   "term": "GEO Festa",
+   "norm": "geofesta",
+   "n_outlets": 10,
+   "n_today": 3,
+   "outlets": [
+    "건설이코노미뉴스",
+    "머니투데이",
+    "세계일보",
+    "아시아경제",
+    "연합뉴스",
+    "이데일리",
+    "중앙일보",
+    "지디넷코리아"
+   ],
+   "days": 4,
+   "first": "2026-10-30",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "건설이코노미뉴스(10-30) | 공간정보·피지컬AI·입법체계 한눈에…K-GEO Festa 콘퍼런스 개최",
+    "연합뉴스(11-04) | 국토부, 4∼6일 킨텍스서 공간정보 박람회 'K-Geo Festa'",
+    "커넥트 데일리(11-04) | 지오 인텔리전스 시대의 서막…‘2026 K-Geo Festa’ 개최:커넥트 데일리",
+    "중앙일보 | 하이퍼클라우드, 실내 공간정보에 AI·AR 접목… K-Geo Festa서 공간지능 기술 활용 사례 공개",
+    "이데일리 | 스패이드, ‘2026 K-Geo Festa’서 AI 철도 사업검토 플랫폼 ‘AIRA’ 공개",
+    "아시아경제 | 웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Imperial",
+   "norm": "imperial",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "AI Insider",
+    "FelixOnline",
+    "Imperial College London",
+    "Press Release Hub",
+    "Renewable Energy Magazine",
+    "Tech Funding News",
+    "The Business Journals",
+    "WSJ"
+   ],
+   "days": 5,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "AI Insider(10-28) | Imperial College London Spinout Machenta Raises $40M in Seed Funding For Instant",
+    "Imperial College London(10-28) | Imperial AI spinout Machenta raises $40 million to make robots instant learners",
+    "The Business Journals(10-28) | Energy company inks $9 millon partnership with Imperial College London",
+    "Imperial College London | Imperial experts explore the next generation of AI at NVIDIA GTC Berlin"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Pronto",
+   "norm": "pronto",
+   "n_outlets": 8,
+   "n_today": 1,
+   "outlets": [
+    "BW Disrupt",
+    "Business Today",
+    "CIOL",
+    "Dealroom",
+    "Education Times",
+    "Elets CIO",
+    "Inc42",
+    "Moneycontrol.com"
+   ],
+   "days": 6,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Education Times(10-28) | Anjali Sardana: Pronto founder launches US-based AI startup Provision Labs after",
+    "BW Disrupt(10-29) | Pronto Founder Anjali Sardana Introduces Physical AI Venture Provision Labs",
+    "Elets CIO(11-02) | Pronto Founder Anjali Sardana Launches Provision Labs to Build the Data Layer fo",
+    "Business Today | Pronto's Anjali Sardana is betting on a future beyond household help with physic"
+   ],
+   "score": 10
+  },
+  {
+   "term": "SambaNova",
+   "norm": "sambanova",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "Data Centre Solutions",
+    "Fierce Network",
+    "Press Release Hub",
+    "The Next Web",
+    "Unite.AI",
+    "巴士的報"
+   ],
+   "days": 5,
+   "first": "2026-10-28",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "巴士的報(10-28) | SambaNova and Oracle Collaborate to Bring High-Performance Inference to Oracle C",
+    "Press Release Hub(10-30) | SambaNova and Emergys Partner to Accelerate Enterprise Agentic AI Deployment",
+    "Unite.AI(11-04) | Supermicro, SambaNova 기반 AI 추론 시스템 구축·판매",
+    "Fierce Network | Supermicro taps SambaNova to power AI inference racks alongside Nvidia"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Fiddler",
+   "norm": "fiddler",
+   "n_outlets": 18,
+   "n_today": 1,
+   "outlets": [
+    "CSO Online",
+    "ChannelLife New Zealand",
+    "Crypto Briefing",
+    "Cyber Magazine",
+    "CyberScoop",
+    "Dealroom",
+    "Investing.com 한국어",
+    "OODA Loop"
+   ],
+   "days": 3,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(11-04) | CrowdStrike, AI 에이전트 관측 기업 Fiddler AI 인수",
+    "Unite.AI(11-04) | CrowdStrike, AI 보안을 위해 Fiddler와 Dreadnode 인수 추진",
+    "Yahoo Finance(11-04) | CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+    "Cyber Magazine | CrowdStrike Tackles Rogue AI With Kill Switch and Fiddler"
+   ],
+   "score": 9
+  }
+ ]
+}
