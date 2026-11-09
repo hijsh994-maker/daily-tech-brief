@@ -24,6 +24,16 @@
   - 같은 섹션 중복 출현  -> 실패
   - 섹션 안 번호가 1부터 연속이 아님 -> 실패
 
+[강제 / 종료코드 1]  [2026-11-09 사용자 지시] 배치표 — 판정 순서를 건마다 적고 그대로 놓았는가
+  out/placement-<날짜>.csv  (url,배치번호,근거,헤드라인)
+  - 발송본의 모든 기사(원문 URL 기준)에 행이 있어야 한다. 없으면 실패.
+  - 배치번호 = brief.py CATEGORY_RULES 의 '처음 예가 나온 번호'(0~10) 또는 '경계'.
+    번호가 가리키는 카테고리와 실제로 놓은 섹션이 다르면 실패. 0(실적)은 싣지 않는다 → 실패.
+  - 근거는 본문 사실로 10자 이상. 9번이면 '8번 아님:', 10번이면 '8번 아님:'·'9번 아님:' 이 근거에 있어야 한다
+    (11-09 SK바이오팜 '신약개발 특화 AI 모델 구축'을 8번을 건너뛰고 10번 Enterprise AI 에 넣은 사고).
+  - 쓰는 법: `bash cowork/run.sh cats --template` 로 빈 표를 만든 뒤, **발송본을 쓰기 전에**
+    기사마다 0번부터 차례로 묻고 첫 '예'의 번호와 근거를 채운다. 그 표대로 섹션에 놓는다.
+
 [경고 / 종료코드에 영향 없음]  기계 분류 대조
   후보 JSONL 의 category 와 내 배치를 비교해 불일치를 찍는다.
   **기계 분류가 정답이라는 뜻이 아니다.** 실측 09-15: 기계는 트럼프·젠슨 황
@@ -161,18 +171,114 @@ def check_rules(path):
             hits.append((sec, head, p[0], p[1]))
     return hits
 
+
+# [2026-11-09 사용자 지시] 배치표 강제 — 번호 -> 놓을 수 있는 섹션
+PLACEMENT_FROM = "2026-11-09"
+RULE_CAT = {
+    "0": set(),  # 실적은 싣지 않음
+    "1": {"국책과제"},
+    "2": {"AI 투자&시장"},
+    "3": {"AI Model", "AI Agent", "AI DC & Infra"},
+    "4": {"AI 보안&정책"},
+    "5": {"AI 보안&정책"},
+    "6": {"AI DC & Infra"},
+    "7": {"Physical AI"},
+    "8": {"AI Model"},
+    "9": {"AI Agent"},
+    "10": {"Enterprise AI"},
+    "경계": {"AI 투자&시장", "AI DC & Infra", "AI Agent"},  # CATEGORY_RULES '경계 결정' 줄
+}
+
+
+def parse_brief_urls(path):
+    """[(섹션명, 번호, 헤드라인, url), ...]"""
+    out, cur = [], None
+    for line in open(path, encoding="utf-8"):
+        line = line.rstrip("\n")
+        ms = re.match(r"^\*\*■\s*(.+?)\*\*\s*$", line)
+        if ms:
+            cur = ms.group(1).strip()
+            continue
+        mi = re.match(r"^\*\*(\d+)\\?\.\s*(.+?)\*\*\s*\(.*?\]\((https?://[^)]+)\)", line)
+        if mi and cur is not None:
+            out.append((cur, int(mi.group(1)), mi.group(2).strip(), mi.group(3).strip()))
+    return out
+
+
+def placement_path(day):
+    return os.path.join(ROOT, "out", "placement-%s.csv" % day)
+
+
+def write_placement_template(path, day):
+    import csv
+    pp = placement_path(day)
+    if os.path.exists(pp):
+        print("[cats] 배치표가 이미 있습니다(덮어쓰지 않음): %s" % pp)
+        return
+    with open(pp, "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["url", "배치번호", "근거", "헤드라인"])
+        for sec, _, head, url in parse_brief_urls(path):
+            w.writerow([url, "", "", head])
+    print("[cats] 빈 배치표 저장: %s" % pp)
+    print("       기사마다 0번부터 차례로 묻고 첫 '예'의 번호·근거를 채운 뒤 그 표대로 섹션에 놓을 것.")
+
+
+def check_placement(path, day):
+    """오류 문자열 목록. PLACEMENT_FROM 이전 날짜는 검사하지 않는다."""
+    import csv
+    if day < PLACEMENT_FROM:
+        return []
+    pp = placement_path(day)
+    if not os.path.exists(pp):
+        return ["배치표 없음: %s — `run.sh cats --template` 로 만들고 기사마다 판정 순서 번호·근거를 채울 것" % os.path.basename(pp)]
+    rows = {}
+    for r in csv.DictReader(open(pp, encoding="utf-8")):
+        rows[(r.get("url") or "").strip()] = r
+    errs = []
+    for sec, num, head, url in parse_brief_urls(path):
+        r = rows.get(url)
+        tag = "%s %d번 '%s'" % (sec, num, head[:30])
+        if not r:
+            errs.append("배치표에 행 없음: %s (url 기준 — 링크를 바꿨으면 표도 다시 채울 것)" % tag)
+            continue
+        n = (r.get("배치번호") or "").strip()
+        why = (r.get("근거") or "").strip()
+        if n not in RULE_CAT:
+            errs.append("배치번호가 0~10·'경계' 가 아님(%r): %s" % (n, tag))
+            continue
+        if n == "0":
+            errs.append("0번(실적)은 싣지 않습니다: %s" % tag)
+            continue
+        if sec not in RULE_CAT[n]:
+            errs.append("배치번호 %s 는 %s 인데 %s 에 놓음: %s" % (n, "/".join(sorted(RULE_CAT[n])), sec, tag))
+        if len(why) < 10:
+            errs.append("근거가 비었거나 너무 짧음(10자 미만): %s" % tag)
+        if n == "9" and "8번 아님" not in why:
+            errs.append("9번인데 근거에 '8번 아님:<왜 모델 자체의 출시·성능·학습이 아닌가>' 가 없음: %s" % tag)
+        if n == "10" and ("8번 아님" not in why or "9번 아님" not in why):
+            errs.append("10번인데 근거에 '8번 아님:'·'9번 아님:' 이 없음(11-09 SK바이오팜 사고): %s" % tag)
+    return errs
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=datetime.date.today().isoformat())
     ap.add_argument("--stem", default="brief")
     ap.add_argument("--strict", action="store_true",
                     help="배치 불일치 경고도 종료코드 1 로 올린다")
+    ap.add_argument("--template", action="store_true",
+                    help="[2026-11-09] 빈 배치표 out/placement-<날짜>.csv 를 만든다(있으면 두고)")
     a = ap.parse_args()
 
     path = os.path.join(ROOT, "out", "%s-%s.md" % (a.stem, a.date))
     if not os.path.exists(path):
         print("[cats] [실패] %s 없음" % path)
         sys.exit(2)
+
+    if a.template:
+        write_placement_template(path, a.date)
+        sys.exit(0)
 
     order = load_order()
     secs = parse_brief(path)
@@ -213,6 +319,9 @@ def main():
         nums = [i for i, _ in items]
         if nums != list(range(1, len(nums) + 1)):
             errors.append("'%s' 섹션 번호가 1부터 연속이 아닙니다: %s" % (n, nums))
+
+    # (4-1) [2026-11-09 사용자 지시] 배치표 대조 — 강제
+    errors.extend(check_placement(path, a.date))
 
     # (5) 기계 분류 대조 - 경고 전용
     machine = load_machine_cats(a.date)
