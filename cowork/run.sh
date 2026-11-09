@@ -889,6 +889,30 @@ config)
   #   **여기에 숫자를 하드코딩하면 사본이 하나 더 느는 것이므로 금지.**
   cd "$W" && python3 cowork/config_sheet.py ;;
 
+prejudge)
+  # [2026-11-09 사용자 지시] 스포츠·시황·실적처럼 기계로 거를 수 있는 '저'를 코드가 먼저 채우고(사유 '자동:'),
+  #   남은 후보만 out/candidates-focus-<날짜>.txt 로 모은다. 판정은 focus 목록으로 한다. blind 바로 뒤에 부른다.
+  shift || true
+  cd "$W" && python3 "$MNT/cowork/prejudge.py" --date "$DATE" "$@" ;;
+
+gocheck)
+  # [2026-11-09 사용자 지시] '고' 확인표 out/gocheck-<날짜>.csv — 주체검색어로 30일 발송본(헤드라인+주요 내용)을 코드가 검색하고,
+  #   리드인용·흐름·판단을 사람이 채운다. --template → (검색어·리드인용) → --search → (흐름·판단) → gocheck(검사). verdict 가 자동 호출.
+  shift || true
+  cd "$W" && python3 "$MNT/cowork/go_check.py" --date "$DATE" --mnt "$MNT" "$@" ;;
+
+indep)
+  # [2026-11-09 사용자 지시] '고' 독립 검토. --pack 으로 자료를 만들고 Agent(general-purpose)에 docs/독립검토-프롬프트.md 를 준다.
+  #   검토 결과 out/indep-review-<날짜>.csv 와 내 판정을 대조해 불일치마다 '처리' 칸(반영:/유지:)을 요구한다.
+  shift || true
+  cd "$W" && python3 "$MNT/cowork/indep_review.py" --date "$DATE" --mnt "$MNT" "$@" ;;
+
+checklist)
+  # [2026-11-09 사용자 지시] 실행 체크리스트. 단계별 흔적을 대조해 out/checklist-<날짜>.md 를 만들고 미완 항목을 찍는다.
+  #   --oneline 을 알림·보고 둘째 줄(stats 다음)에 붙인다. 발송은 막지 않는다.
+  shift || true
+  cd "$W" && python3 "$MNT/cowork/checklist.py" --date "$DATE" --mnt "$MNT" "$@" ;;
+
 cats)
   # [2026-09-15 신설] 발송본 카테고리 검사. **정본은 brief.py 의 CATEGORY_ORDER.**
   #   09-15 에 폐기된 '독파모 & 모두의 AI' 섹션을 되살리고 순서도 틀렸는데
@@ -1287,6 +1311,8 @@ PY
   ( cd "$W" && python3 "$MNT/cowork/rescue_gate.py" "$DATE" ) || _v=1
   # [2026-11-04 신설] 사실 먼저 게이트. facts 파일이 없으면(종료코드 2) 판정 무효로 본다.
   ( cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W" ) || _v=1
+  # [2026-11-09 신설] '고' 확인표 — 30일 발송본 검색·리드인용·흐름이 facts 와 맞는지(브룩필드·텍사스 중복 발송 사고).
+  ( cd "$W" && python3 "$MNT/cowork/go_check.py" --date "$DATE" --mnt "$MNT" ) || _v=1
   exit $_v
   ;;
 novelty)
@@ -1459,6 +1485,8 @@ send)
     (cd "$W" && python3 "$MNT/cowork/style_check.py" --date "$DATE" --stem "${3:-brief}") || GATE_FAIL="$GATE_FAIL style(서술형종결)"
     (cd "$W" && python3 "$MNT/cowork/kr_alt.py" --date "$DATE" --stem "${3:-brief}") || GATE_FAIL="$GATE_FAIL kr-alt(국문기사있는영문)"
     (cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W") || GATE_FAIL="$GATE_FAIL facts(사실-등급불일치)"
+    (cd "$W" && python3 "$MNT/cowork/go_check.py" --date "$DATE" --mnt "$MNT") || GATE_FAIL="$GATE_FAIL gocheck('고'확인표)"
+    (cd "$W" && python3 "$MNT/cowork/indep_review.py" --date "$DATE" --mnt "$MNT") || GATE_FAIL="$GATE_FAIL indep(독립검토)"
     if [ -n "$GATE_FAIL" ]; then
       echo "[send] **[경고] 게이트 실패:$GATE_FAIL — 그래도 발송합니다(2026-09-22 사용자 선택).**" >&2
       echo "[send]   보고·알림에 실패한 게이트 이름과 사유를 반드시 적을 것." >&2

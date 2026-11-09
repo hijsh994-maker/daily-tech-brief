@@ -40,6 +40,11 @@ def main():
     if not os.path.exists(path):
         print("[spread] 판정 파일 없음: %s" % path); return 0
     rows = [r for r in list(csv.reader(open(path, encoding="utf-8")))[1:] if len(r) >= 3]
+    # [2026-11-09] run.sh prejudge 가 채운 '자동:' 사유(스포츠·시황·실적)는 사람이 쓴 판정이 아니므로 집계에서 뺀다.
+    auto_n = sum(1 for r in rows if r[2].strip().startswith("자동:"))
+    rows = [r for r in rows if not r[2].strip().startswith("자동:")]
+    if auto_n:
+        print("[spread] 자동 '저'(prejudge) %d건은 집계 제외" % auto_n)
     if not rows:
         print("[spread] 판정 0건"); return 0
 
