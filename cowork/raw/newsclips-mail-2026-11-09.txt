@@ -1,0 +1,91 @@
+*1. 위기를 기회로 바꾼 1년… 고객보호부터 외부 검증까지 (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261108/134980041/2
+
+*2. 미국발 데이터센터 쇼크… 뒤에서 웃는 韓기업들 (한국경제)*
+   o 링크: https://www.hankyung.com/article/202611060854i
+
+*3. 한국인 1800만명 챗GPT 쓴다... 사용시간 두 배 증가 (파이낸셜뉴스)*
+   o 링크: https://www.fnnews.com/news/202611081827420631
+
+*4. AI 이용료 인하 경쟁에 기업지출 증가세 꺾여 (동아일보)*
+   o 링크: https://www.donga.com/news/article/all/20261108/134987342/2
+
+*5. “짓던 데이터센터 계속 짓게 해달라”… AI업계, 美민주에 '간청' (매일경제)*
+   o 링크: https://www.mk.co.kr/news/it/12201875
+
+*6. 미 '데이터센터 건설' 규제…한국에 기회? 리스크? (경향신문)*
+   o 링크: https://www.sedaily.com/article/20111131
+
+*7. 일단 멈춘 MS… 오픈AI는 정면돌파 택했다 (머니투데이)*
+   o 링크: https://www.mt.co.kr/world/2026/11/08/2026110811144644845
+
+*8. 국내도 '데이터센터 갈등' 좌불안석 (한겨레)*
+   o 링크: https://www.hani.co.kr/arti/society/environment/1286303.html
+
+*9. '反데이터센터'의 역습 … AI 판 흔든다 (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110833141
+
+*10. 데이터센터 강국마저… “국가전력 30% 잡아먹는 에너지 흡혈귀" (한국경제)*
+   o 링크: https://www.hankyung.com/article/2026110832841
+
+*11. '블루 쓰나미' 휩쓸린 美 AI산업, 뒤돌아 웃는 中 (동아일보)*
+   o 링크: https://www.donga.com/news/Economy/article/all/20261108/134987373/2
+
+*12. 중국, 박리다매 전술… 개방형 AI시장 89% 장악 (조선일보)*
+   o 링크:
+https://www.chosun.com/economy/tech_it/2026/11/09/5ZYZA343RZCSXE3SIZWQYNLC4A/
+
+*13. 4년 뒤 핵심기술 판도 바뀔까……“중국이 17개 중 8개 선도" (중앙일보)*
+   o 링크: https://www.joongang.co.kr/article/25476804
+
+*14. '中스파이 연인설' 터진 젠슨 황, 美 안보 리스크로… 장녀는 방한 취소 (조선일보)*
+   o 링크:
+https://www.chosun.com/economy/tech_it/2026/11/09/UYBZGTHCYBEQNO7LH7YUODP4BE/
+
+*15. GPU 100배 되면 한국 몫 늘까………“빅테크 내부 쟁탈전도 치열” (중앙일보)*
+   o 링크: https://www.joongang.co.kr/article/25476837
+
+*16. “AI 스스로 후속 모델 구축”…앤트로픽 개선 속도 2배 빨라졌다 (국민일보)*
+   o 링크: https://mobile.newsis.com/view/NISX20261106_0003858412
+
+*17. AI 비관론에…투자금 3분의 1밖에 못채운 오픈AI (중앙일보)*
+   o 링크: https://www.joongang.co.kr/article/25476806
+
+*18. 아이폰 듀오 잇단 결함…… 갤폴드 '반사이익' (세계일보)*
+   o 링크: https://www.segye.com/newsView/20261108509207
+
+*19. 정부, '엔비디아 GTC' 내년 한국 유치 추진 (이데일리)*
+   o 링크:
+https://www.edaily.co.kr/News/Read?newsId=02010646645643752&mediaCodeNo=257
+
+*20. KOREN, AI네트워크 연구망 도약 (전자신문)*
+   o 링크: https://www.etnews.com/20261106000249
+
+*21. KT, 214억 규모 국방 AX 수주…공공 확장 속도 (전자신문)*
+   o 링크: https://www.etnews.com/20261106000286
+
+*22. KT '마이AI' 실행형 에이전트 전환 (전자신문)*
+   o 링크: https://www.etnews.com/20261106000258
+
+*23. LGU+ 수능맞이 혜택 확대 (서울경제)*
+   o 링크: https://www.sedaily.com/article/20111634
+
+*24. LGU+, 현대차 로봇으로 5G SA 기술 실증 (파이낸셜뉴스)*
+   o 링크: https://www.fnnews.com/news/202611081818046310
+
+*25. 뚫리는 가전…스마트홈 강국 韓이 위험하다 (이데일리)*
+   o 링크: https://marketin.edaily.co.kr/News/ReadE?newsId=02368166645643752
+
+*26. 자율 보안에 구멍 '숭숭' 병원 혈액고까지 뚫릴판 (이데일리)*
+   o 링크:
+https://www.edaily.co.kr/News/Read?newsId=01853206645644080&mediaCodeNo=257
+
+*27. “IoT 망 분리하고, 인증 장벽 촘촘히 세워야" (이데일리)*
+   o 링크:
+https://www.edaily.co.kr/News/Read?newsId=01859766645644080&mediaCodeNo=257
+
+*28. “AI로 함께 사는 따뜻한 세상…인간 중심 기술혁신 앞장" (전자신문)*
+   o 링크: https://www.etnews.com/20261105000479
+
+*29. 전기·물·땅 '세 박자' 착착……… 광주 반도체 기지 ‘계획대로' (서울신문)*
+   o 링크: https://amp.seoul.co.kr/go/20261109022001

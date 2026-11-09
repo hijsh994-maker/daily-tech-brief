@@ -1,0 +1,435 @@
+{
+ "date": "2026-11-09",
+ "terms": [
+  {
+   "term": "Baidu",
+   "norm": "baidu",
+   "n_outlets": 7,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "Crypto Briefing",
+    "Foro3D",
+    "Gasgoo",
+    "GeekNews",
+    "HuggingFace",
+    "TechTarget"
+   ],
+   "days": 5,
+   "first": "2026-11-04",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace(11-02) | HF trending: baidu/Unlimited-OCR-2",
+    "Crypto Briefing(11-04) | Baidu unveils Apollo World, an agent-driven world model for physical AI",
+    "TechTarget(11-05) | Baidu’s new world model highlights value, challenge of physical AI",
+    "GeekNews | Baidu, 사전학습 기반 모델 ERNIE 5.5 Flash Base 공개",
+    "Foro3D | Baidu releases ERNIE-5.5-Flash-Base, an open 280 billion MoE"
+   ],
+   "score": 19
+  },
+  {
+   "term": "Rune",
+   "norm": "rune",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "CIO",
+    "Channel Insider",
+    "Chosunbiz",
+    "Dealroom",
+    "HN",
+    "Pluang",
+    "Resilience Media",
+    "ShiftDelete.Net"
+   ],
+   "days": 4,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "The Tech Buzz(11-02) | Salesforce Snaps Up Defense AI Startup Rune for $375M",
+    "ShiftDelete.Net(11-02) | Salesforce Rune Acquisition Brings AI to Military Logistics",
+    "Tectonic Defense(11-02) | Salesforce to Buy Rune in its “Most Significant” Defense Acquisition to Date",
+    "HN | Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web"
+   ],
+   "score": 15
+  },
+  {
+   "term": "블루쓰나미",
+   "norm": "블루쓰나미",
+   "n_outlets": 25,
+   "n_today": 11,
+   "outlets": [
+    "CBC뉴스",
+    "DealSite경제TV",
+    "KB Think",
+    "Naver Blog",
+    "OhmyNews",
+    "YTN",
+    "뉴데일리",
+    "뉴스1"
+   ],
+   "days": 3,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "블로터(11-05) | 美 중간선거 ‘블루쓰나미’…데이터센터 규제 우려에도 빅테크 랠리",
+    "중앙일보(11-05) | ‘블루쓰나미’ 앞 AI 데이터센터…아시아 증시 혼란",
+    "한국경제(11-05) | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+    "포쓰저널 | 블루쓰나미에 막힌 AI데이터센터, \"우주로 사막으로\"",
+    "연합뉴스 | '블루쓰나미'에 빅테크들 데이터센터 해외·사막으로 눈돌려",
+    "잡포스트 | 美 '블루쓰나미' 후폭풍 직격탄 맞은 AI 반도체...'패닉셀'에 성장판 닫히나"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Nvidia Board",
+   "norm": "nvidiaboard",
+   "n_outlets": 8,
+   "n_today": 7,
+   "outlets": [
+    "Bloomberg",
+    "FourWeekMBA",
+    "HN",
+    "Investor's Business Daily",
+    "The Washington Post",
+    "Unite.AI",
+    "Yahoo",
+    "shattered.io"
+   ],
+   "days": 2,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Yahoo(11-03) | Elizabeth Warren Says Nvidia Board and Jensen Huang 'Owe Congress Answers’ Over ",
+    "FourWeekMBA | AI Daily: Anthropic Buys 1.7GW as Nvidia Board Opens Probe",
+    "Bloomberg | Nvidia Board to Probe Spying Case After CEO Admits Affair",
+    "The Washington Post | Nvidia board to investigate CEO over relationship with suspected Chinese spy",
+    "Investor's Business Daily | Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+    "Unite.AI | NVIDIA Board Opens Review After Reported Foreign Intelligence Effort"
+   ],
+   "score": 13
+  },
+  {
+   "term": "EV5",
+   "norm": "ev5",
+   "n_outlets": 4,
+   "n_today": 4,
+   "outlets": [
+    "서울경제TV",
+    "연합뉴스",
+    "이투데이",
+    "파이낸셜뉴스"
+   ],
+   "days": 1,
+   "first": "2026-11-09",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "연합뉴스 | 현대차·기아 전기차 10월에 두배 팔렸다…EV5 판매 '껑충'",
+    "서울경제TV | 현대차·기아 전기차 10월 판매 2배↑…EV5 모델이 성장 견인",
+    "파이낸셜뉴스 | EV5가 끌고 아이오닉이 밀고…현대차·기아 전기차 판매 96% 급증",
+    "이투데이 | 현대차·기아, 10월 국내 전기차 판매 95.9% 증가…EV5 209% 급증"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Lightricks",
+   "norm": "lightricks",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HuggingFace",
+    "quasa.io"
+   ],
+   "days": 2,
+   "first": "2026-11-04",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace(11-04) | HF trending: Lightricks/LTX-2.5",
+    "quasa.io | Lightricks 리뷰: 누구나 사용할 수 있는 AI 창작 도구"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Hangzhou Marathon",
+   "norm": "hangzhoumarathon",
+   "n_outlets": 4,
+   "n_today": 1,
+   "outlets": [
+    "Asianet Newsable",
+    "Global Times",
+    "Hindustan Times",
+    "Yahoo Finance"
+   ],
+   "days": 3,
+   "first": "2026-11-02",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Global Times(11-02) | Humanoid robot traffic police on duty at 2026 Hangzhou Marathon",
+    "Hindustan Times(11-04) | Humanoid robots join traffic police at China’s Hangzhou Marathon, detect violati",
+    "Asianet Newsable(11-04) | No Human Traffic Cops? China Deploys Humanoid Robots to Manage Crowds at Hangzho",
+    "Yahoo Finance | DEEP Robotics Humanoid Robots Support Traffic Management at the 2026 Hangzhou Ma"
+   ],
+   "score": 11
+  },
+  {
+   "term": "CRCL",
+   "norm": "crcl",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "CoinDesk",
+    "Yahoo Finance"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(11-02) | Circle Internet Group (CRCL) Showed AI Agent USDC Payments With Verified Identit",
+    "CoinDesk | 애플과 메타, OKXICE 토큰화 주식 계획 거부…주목해야 할 종목은 MSTR, COIN, CRCL"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Ramp Data Shows",
+   "norm": "rampdatashows",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "TechCrunch",
+    "The Tech Buzz"
+   ],
+   "days": 1,
+   "first": "2026-11-09",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "The Tech Buzz | AI Spending Stalls Despite Usage Surge, Ramp Data Shows",
+    "TechCrunch | Ramp data shows AI spending stalling just as Anthropic nears its IPO"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Goodbye Claude",
+   "norm": "goodbyeclaude",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Goodbye Claude, hello Pi"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Microsoft Research",
+   "norm": "microsoftresearch",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | The end of Microsoft Research's AI Frontiers group"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Frontiers",
+   "norm": "frontiers",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | The end of Microsoft Research's AI Frontiers group"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Fiddler",
+   "norm": "fiddler",
+   "n_outlets": 18,
+   "n_today": 1,
+   "outlets": [
+    "CSO Online",
+    "ChannelLife New Zealand",
+    "Crypto Briefing",
+    "Cyber Magazine",
+    "CyberScoop",
+    "Dealroom",
+    "Investing.com 한국어",
+    "OODA Loop"
+   ],
+   "days": 4,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Investing.com 한국어(11-04) | CrowdStrike, AI 에이전트 관측 기업 Fiddler AI 인수",
+    "Unite.AI(11-04) | CrowdStrike, AI 보안을 위해 Fiddler와 Dreadnode 인수 추진",
+    "Yahoo Finance(11-04) | CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+    "Yahoo Finance | Will CRWD's Acquisitions of Fiddler and Dreadnode Boost its AI Growth?"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Mount Tai",
+   "norm": "mounttai",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "AOL.co.uk",
+    "China Economic Net",
+    "Euronews.com",
+    "Root-Nation.com",
+    "Seoul Economic Daily",
+    "The Cool Down",
+    "WION",
+    "巴士的報"
+   ],
+   "days": 5,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "巴士的報(11-02) | Robot training in full swing for first CMG World Robot Mount Tai Climbing Compet",
+    "Euronews.com(11-03) | Video. Humanoid robots climb China’s Mount Tai in unusual challenge",
+    "WION(11-03) | From smooth climbs to collapses: Humanoid robots take on Mount Tai carrying eggs",
+    "The Cool Down | 'Natural extreme testing ground': Robots tackle over 3,000 steps on Mount Tai in"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Geo Festa",
+   "norm": "geofesta",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "머니투데이",
+    "서울경제TV",
+    "세계일보",
+    "연합뉴스",
+    "이데일리",
+    "중앙일보",
+    "지디넷코리아",
+    "커넥트 데일리"
+   ],
+   "days": 4,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "연합뉴스(11-04) | 국토부, 4∼6일 킨텍스서 공간정보 박람회 'K-Geo Festa'",
+    "커넥트 데일리(11-04) | 지오 인텔리전스 시대의 서막…‘2026 K-Geo Festa’ 개최:커넥트 데일리",
+    "이데일리(11-04) | 지도 넘어 AI로…'K-Geo Festa' 4일 개막",
+    "서울경제TV | 하이퍼클라우드, ‘2026 K-Geo Festa’ 참가…공간지능 실내 내비게이션 선봬",
+    "파이낸셜뉴스 | AI로 국토 변화 예측·재난 탐지…K-Geo Festa 1만6000명 방문"
+   ],
+   "score": 10
+  },
+  {
+   "term": "STMicroelectronics",
+   "norm": "stmicroelectronics",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance",
+    "Business Weekly",
+    "EE Times",
+    "Electronics Media",
+    "GlobeNewswire",
+    "Quantisnow",
+    "Unite.AI"
+   ],
+   "days": 4,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "BigGo Finance(11-02) | STMicroelectronics: \"About $600 of Semiconductors per Humanoid Robot; the Battle",
+    "EE Times(11-05) | STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI",
+    "Unite.AI(11-05) | STMicroelectronics Unifies STM32 for Physical AI and Automotive",
+    "Business Weekly | Arm and STMicroelectronics collaborate to advance Cortex-M in $200bn a year mark"
+   ],
+   "score": 10
+  },
+  {
+   "term": "에피데이",
+   "norm": "에피데이",
+   "n_outlets": 19,
+   "n_today": 1,
+   "outlets": [
+    "녹색경제신문",
+    "뉴스인",
+    "더나은미래",
+    "데일리팝",
+    "데일리포스트",
+    "메디칼업저버",
+    "바이오스펙테이터",
+    "바이오타임즈"
+   ],
+   "days": 3,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "녹색경제신문(11-03) | 한미약품, 국산 AI '에피데이' 구축…헬스케어 소버린AI 주축된다",
+    "보건신문(11-03) | 한미약품, 국내 AI 기업 3사와 MOU… '에피데이' 챗봇 국산 인프라 구축",
+    "메디칼업저버(11-03) | 한미약품, 에피데이 챗봇에 '한국형 AI' 입힌다",
+    "파이낸셜뉴스 | 한미약품, 디지털 비만관리 앱 '에피데이' 출시"
+   ],
+   "score": 9
+  },
+  {
+   "term": "FISITA",
+   "norm": "fisita",
+   "n_outlets": 17,
+   "n_today": 1,
+   "outlets": [
+    "EV라운지",
+    "Hyundai Motor Group",
+    "PRESS9",
+    "https://www.mocar.kr/",
+    "경인뷰",
+    "뉴스핌",
+    "뉴시스",
+    "다나와 자동차"
+   ],
+   "days": 3,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "뉴시스(11-05) | 현대차그룹, 미래차 해법 모색…국내 첫 'FISITA 월드 모빌리티 서밋' 개최",
+    "Hyundai Motor Group(11-05) | 현대차그룹, ‘FISITA 월드 모빌리티 서밋’에서 AI·전동화로 여는 미래 모빌리티 기술 방향 제시 | 뉴스 | 현대자동차그룹",
+    "한국경제(11-05) | 현대차그룹, FISITA 서밋 개최…글로벌 모빌리티 협력 주도",
+    "경인뷰 | 현대차그룹 ‘FISITA 월드 모빌리티 서밋’에서 AI·전동화로 여는 미래 모빌리티 기술 방향 제시"
+   ],
+   "score": 9
+  }
+ ]
+}

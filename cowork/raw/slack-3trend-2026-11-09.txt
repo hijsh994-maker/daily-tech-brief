@@ -1,0 +1,13 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-09 09:00:32 KST === 
+Message TS: 1794182432.013059
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-09 · 8건)
+*1. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/|Amazon ECS Fargate에서 AI 에이전트 데이터 레이크 액세스를 위한 서버리스 MCP 서버>* (AWS Machine Learning Blog)
+*2. [:robot_face: AI Agent] <https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic|Apple은 Siri를 보다 에이전트적으로 만들기 위해 경쟁하고 있습니다.>* (The Verge)
+*3. [:rocket: BigTech Release] <https://openai.com/index/partnering-with-hacktron|Hacktron과 협력하여 OpenAI 시스템의 취약점 찾기>* (OpenAI News &amp; Research)
+*4. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/|Amazon Quick의 에이전트 프리미티브 분류 체계>* (AWS Machine Learning Blog)
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/|Okta Cross App Access 및 Amazon Bedrock AgentCore로 AI 에이전트 액세스 관리 – 2부>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/|Okta Cross App Access 및 Amazon Bedrock AgentCore로 AI 에이전트 액세스 관리 – 1부>* (AWS Machine Learning Blog)
+*7. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/|Taxbit Assist: Amazon Bedrock AgentCore의 기반이 되는 역할 인식 AI 에이전트>* (AWS Machine Learning Blog)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/|OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation>* (TechCrunch)
