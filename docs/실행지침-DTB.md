@@ -52,7 +52,7 @@
 |---|---|---|
 | 4-1 | `run.sh bodygo` → 찍힌 '고' 리드를 **전부 읽는다**(출력을 걸러 보지 않는다). 본문 없는 '고'는 `run.sh find … --body 2` 로 본문 확보. 끝에 `run.sh bodypeek --check` | **M2** |
 | 4-2 | `run.sh hist` → `run.sh repeat` (해명 요구가 나오면 사유에 `재심:`·`중복검토:`) | |
-| 4-3 | `run.sh gocheck --template` → 주체검색어(국문·영문 모두)·리드인용(본문 그대로) 기입 → `run.sh gocheck --search` → **검색결과를 읽고** 흐름(신규/MM-DD)·판단(`새사실:` 또는 `다른 사건:`) 기입 | 같은 사건이면 '고'를 내린다 |
+| 4-3 | `run.sh gocheck --template` → 주체검색어(국문·영문 모두)·리드인용(본문 그대로) 기입 → `run.sh gocheck --search` → **검색결과·이전판정(최근 7일 같은 사건 판정)을 읽고** 흐름(신규/MM-DD)·판단(`새사실:`·`다른 사건:`·`재판정:`) 기입 | 같은 사건이면 '고'를 내린다 |
 | 4-4 | `run.sh facts --template` → `out/facts-<날짜>.csv` 를 본문을 보고 채운다. '고' 행의 흐름은 gocheck 와 같게. **스크립트 기본값으로 채우지 않는다** | |
 | 4-5 | 순위: 판정기준-요약 3절대로 '고'에 rank 1..N, 같은 값을 `out/handrank-<날짜>.csv`(idx,발송순위,발송순위 사유)에도 | |
 | 4-6 | `run.sh verdict` 종료코드 0 (gocheck·facts·repeat·agenda·newfact·spread·novelty·rescue 포함) | 실패 게이트는 등급을 고쳐서 통과(문구로 통과 금지) |

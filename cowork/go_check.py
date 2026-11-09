@@ -14,6 +14,9 @@
     검색결과   : **코드가 채운다**(--search). 최근 30일 out/brief-*.md 의 헤드라인·주요 내용에서 검색어가 걸린 기사
     흐름       : 신규 | MM-DD (이미 실은 같은 사건의 발송일)
     판단       : 흐름=MM-DD 이면 '새사실:<그때 없던 것>' / 검색결과가 있는데 신규라 적으면 '다른 사건:<왜 다른가>'
+    이전판정   : **코드가 채운다**(--search, 11-09 추가). 최근 7일 판정(verdict·blind)에서 헤드라인 낱말이 절반 이상 겹치는(같은 사건으로 보이는) 후보와 그때 등급.
+                 같은 사건을 전에 '중'·'저'로 판정했는데 오늘 '고'면 판단에 '재판정:<무엇이 달라졌나>' 필수
+                 (11-09 SK바이오팜: 11-06 후보 86 을 '중'으로 판정, 11-09 에 같은 사건을 '고'로 올림 — 발송본 검색만으로는 못 잡음)
 
   bash cowork/run.sh gocheck --template   # '고' 행 만들기(있는 행은 보존)
   (주체검색어·리드인용 기입)
@@ -26,7 +29,7 @@
 """
 import argparse, csv, datetime, glob, json, os, re, sys
 
-COLS = ["idx", "헤드라인", "주체검색어", "리드인용", "검색결과", "흐름", "판단"]
+COLS = ["idx", "헤드라인", "주체검색어", "리드인용", "검색결과", "이전판정", "흐름", "판단"]
 
 def norm(s):
     return re.sub(r"[\s　·…\.\,\"'“”‘’\[\]\(\)]+", "", s or "").lower()
@@ -76,6 +79,43 @@ def search(items, terms):
             hits.append("%s %s" % (it["date"], it["head"][:40]))
     return " ; ".join(hits) if hits else "없음"
 
+def prior_verdicts(day, days=7):
+    """최근 days 일 판정: [(MM-DD, idx, 등급, 헤드라인)] — 발송되지 않은 판정까지(오늘 제외)."""
+    d0 = datetime.date.fromisoformat(day); out = []
+    for vp in sorted(glob.glob(os.path.join("out", "verdict-20??-??-??.csv"))):
+        ds = os.path.basename(vp)[8:18]
+        try: d = datetime.date.fromisoformat(ds)
+        except ValueError: continue
+        if not (d0 - datetime.timedelta(days=days) <= d < d0): continue
+        heads = {}
+        bp = os.path.join("out", "candidates-blind-%s.txt" % ds)
+        if os.path.exists(bp):
+            for l in open(bp, encoding="utf-8"):
+                m = re.match(r"^([NLC]?\d+) \| [^|]+\| [^|]+\| [^|]*\| [^|]+\| (.*)$", l)
+                if m: heads[m.group(1)] = re.sub(r"⟨[^⟩]*⟩\s*", "", m.group(2))
+        for r in csv.DictReader(open(vp, encoding="utf-8")):
+            i = (r.get("idx") or "").strip()
+            if i in heads:
+                out.append((ds[5:], i, (r.get("grade") or "").strip(), heads[i]))
+    return out
+
+PSTOP = set("AI 인공지능 위해 통해 대한 관련 등 및 더 첫 새 기자 속보 종합 단독 공개 추진 나서 확대 링크없음".split())
+
+def _toks(h):
+    h = re.sub(r"[\[\]\(\)「」『』“”\"'‘’…·]", " ", h or "")
+    return {t for t in re.findall(r"[가-힣A-Za-z0-9]{2,}", h) if t not in PSTOP}
+
+def prior_search(prior, headline):
+    """같은 사건으로 보이는 과거 판정(헤드라인 낱말 겹침 50% 이상·3낱말 이상) — 주체만 같은 건 걸지 않는다."""
+    A = _toks(headline); hits = []
+    for d, i, g, h in prior:
+        B = _toks(h)
+        if len(A) < 2 or len(B) < 2: continue
+        sh = A & B
+        if len(sh) >= 3 and len(sh) / min(len(A), len(B)) >= 0.5:
+            hits.append("%s #%s %s %s" % (d, i, g, h[:30]))
+    return " ; ".join(hits) if hits else "없음"
+
 def body_of(cache, c):
     u = (c or {}).get("url")
     return cache.get(u, "") if u else ""
@@ -114,17 +154,20 @@ def main():
         return 0
 
     items = sent_items(a.mnt, a.date)
+    prior = prior_verdicts(a.date)
     if a.search:
         n = 0
         for i in gold:
             r = rows.get(i)
             if r and r.get("주체검색어", "").strip():
-                r["검색결과"] = search(items, r["주체검색어"]); n += 1
+                r["검색결과"] = search(items, r["주체검색어"])
+                r["이전판정"] = prior_search(prior, (cand.get(i) or {}).get("headline", "")); n += 1
         save()
         print("[gocheck] 최근 30일 발송 %d건에서 %d행 검색 → %s" % (len(items), n, path))
         for i in gold:
             r = rows.get(i) or {}
-            print("   %-5s [%s] %s" % (i, r.get("주체검색어", "")[:24], (r.get("검색결과") or "-")[:150]))
+            print("   %-5s [%s] 발송: %s" % (i, r.get("주체검색어", "")[:24], (r.get("검색결과") or "-")[:150]))
+            print("         이전 판정: %s" % (r.get("이전판정") or "-")[:200])
         print("[gocheck] 검색결과를 **읽고** 흐름(신규|MM-DD)·판단을 채울 것")
         return 0
 
@@ -149,6 +192,11 @@ def main():
         fresh = search(items, terms)
         if (r.get("검색결과") or "").strip() != fresh.strip():
             errs.append("검색 결과가 표와 다름(검색을 안 돌렸거나 검색어를 바꿈) — `--search` 후 다시 읽을 것: " + tag)
+        pfresh = prior_search(prior, (cand.get(i) or {}).get("headline", ""))
+        if (r.get("이전판정") or "").strip() != pfresh.strip():
+            errs.append("이전 판정 검색 결과가 표와 다름 — `--search` 후 다시 읽을 것: " + tag)
+        if re.search(r" (중|저) ", " " + pfresh) and "재판정:" not in (r.get("판단") or ""):
+            errs.append("최근 7일에 같은 사건으로 보이는 후보를 '중'·'저'로 판정했는데 '재판정:<무엇이 달라졌나 / 다른 사건>' 이 없음: " + tag)
         q = (r.get("리드인용") or "").strip()
         body = body_of(cache, cand.get(i))
         if q.startswith("본문없음:"):
