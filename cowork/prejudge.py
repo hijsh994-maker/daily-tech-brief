@@ -16,7 +16,7 @@
   bash cowork/run.sh prejudge          # 채우기 + focus 목록
   bash cowork/run.sh prejudge --dry    # 무엇이 자동 '저'가 되는지만 찍기
 """
-import argparse, csv, os, re, sys, datetime
+import argparse, csv, json, os, re, sys, datetime
 
 SPORTS = re.compile(r"\[KS\d?\]|\bKS\d\b|한국시리즈|프로야구|프로농구|프로배구|감독 \"|감독,|선발|홈런|만루|MVP|준우승|이닝|타석|\d+-\d+ (제압|승|패)|구자욱|이강철|PS \d+G")
 MARKET = re.compile(r"순매수|순매도|수익률 \d|인버스|레버리지|SOXL|목표가|\[주간증시전망\]|\[마감시황\]|증시전망|주가동향|코스피 \d{4}|5000선|시가총액 .*(증발|사라)|시총 .*(증발|사라)|재산 .*증발|ETF.{0,6}상장|상장.{0,6}ETF|자사주 소각|배당|주가|증시|나스닥|코스피|코스닥|뉴욕증시|폭락|급락|급등|반등|매수세|시총")
@@ -54,9 +54,21 @@ def main():
         for r in csv.DictReader(open(vpath, encoding="utf-8")):
             if (r.get("grade") or "").strip():
                 existing[r["idx"].strip()] = r
+    # [2026-11-09] 페이지 발행일이 7일 넘게 이른 옛 기사(구글뉴스 RSS 날짜 오기) — run.sh pagedate 결과
+    pd = {}
+    pdp = os.path.join("out", "pagedate-%s.json" % a.date)
+    if os.path.exists(pdp):
+        pd = json.load(open(pdp, encoding="utf-8"))
+    else:
+        print("[prejudge] [경고] %s 없음 — run.sh pagedate 를 먼저(옛 기사 걸러내기 생략됨)" % pdp)
+    day = datetime.date.fromisoformat(a.date)
     auto = {}
     for i in order:
         if i in existing:
+            continue
+        v = pd.get(i) or {}
+        if v.get("page") and not v.get("official") and (day - datetime.date.fromisoformat(v["page"])).days > 7:
+            auto[i] = "자동:창밖(페이지 발행일 %s, 수집 날짜 %s)" % (v["page"], v.get("rss") or "?")
             continue
         c = classify(heads[i])
         if c:

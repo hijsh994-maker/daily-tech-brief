@@ -42,7 +42,7 @@
 ## 3. 전수 판정
 | # | 할 일 | 확인 |
 |---|---|---|
-| 3-1 | `run.sh carryover inject` → `run.sh late` → `run.sh blind` → `run.sh timeline` → **`run.sh prejudge`** | 자동 '저' 건수 |
+| 3-1 | `run.sh carryover inject` → `run.sh late` → `run.sh blind` → `run.sh timeline` → **`run.sh pagedate`**(후보 페이지의 실제 발행일) → **`run.sh prejudge`** | 옛 기사·자동 '저' 건수 |
 | 3-2 | **판정 전에 `docs/판정기준-요약.md` 와 `docs/사례집.md` 최근 10건을 읽는다** | **M1** 적용 사례 번호 |
 | 3-3 | `out/candidates-focus-<날짜>.txt`(남은 후보)를 50~80건씩 **실제로 읽고** `out/verdict-<날짜>.csv` 에 한 줄씩(`idx,grade,reason,rank`). 맨 위 경쟁사속보·반향·커뮤니티부터. 이월(C) 건은 등급 고정 | 키워드 스크립트로 사유를 찍지 않는다 |
 | 3-4 | 고 사유·중 축·저 코드는 판정기준-요약 2절 형식대로 | |

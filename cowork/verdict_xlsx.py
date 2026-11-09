@@ -197,6 +197,25 @@ def main():
         return 1
 
     blind = parse_blind("out/candidates-blind-%s.txt" % d)
+    # [2026-11-09] 발행일 열은 페이지 발행일(연도 포함)을 쓴다. 수집(구글뉴스 RSS) 날짜와 3일 넘게 다르면 함께 적는다.
+    #   (11-09 JTBC 2025-06-23 기사가 RSS 날짜 '11-07' 로 찍혀 사용자가 지적)
+    _pdp = "out/pagedate-%s.json" % d
+    if os.path.exists(_pdp):
+        _pd = json.load(open(_pdp, encoding="utf-8"))
+        for _i, _b in list(blind.items()):
+            _v = _pd.get(_i) or {}
+            if _v.get("page"):
+                _s = _v["page"]
+                if _v.get("gap") is not None and _v["gap"] > 3:
+                    _s += " (수집 %s)" % (_v.get("rss") or "?")
+                blind[_i] = (_b[0], _b[1], _s) + tuple(_b[3:])
+    # 페이지 날짜가 없는 건도 연도를 붙여 'MM-DD' 만 보이지 않게 한다(수집 날짜 기준).
+    _y = int(d[:4]); _m = int(d[5:7])
+    for _i, _b in list(blind.items()):
+        _mm = re.fullmatch(r"(\d\d)-(\d\d)", _b[2] or "")
+        if _mm:
+            _yy = _y - 1 if int(_mm.group(1)) > _m else _y
+            blind[_i] = (_b[0], _b[1], "%d-%s (수집)" % (_yy, _b[2])) + tuple(_b[3:])
     urls, cats, mscore = parse_prompt("out/prompt-%s.txt" % d)
 
     # [2026-09-10 수정] 순위 근거 열이 09-08~09-10 사흘간 통째로 비어 있었다.

@@ -889,6 +889,11 @@ config)
   #   **여기에 숫자를 하드코딩하면 사본이 하나 더 느는 것이므로 금지.**
   cd "$W" && python3 cowork/config_sheet.py ;;
 
+pagedate)
+  # [2026-11-09 사용자 지시] 후보 페이지의 실제 발행일 확인(구글뉴스 RSS 날짜 오기 — JTBC 2025-06-23 기사가 11-07 로 들어옴).
+  #   out/pagedate-<날짜>.json. blind 다음·prejudge 앞. prejudge 가 7일 넘게 이른 옛 기사를 '저'로 채우고 엑셀 발행일이 페이지 날짜가 된다.
+  cd "$W" && python3 "$MNT/cowork/pagedate.py" --date "$DATE" ;;
+
 prejudge)
   # [2026-11-09 사용자 지시] 스포츠·시황·실적처럼 기계로 거를 수 있는 '저'를 코드가 먼저 채우고(사유 '자동:'),
   #   남은 후보만 out/candidates-focus-<날짜>.txt 로 모은다. 판정은 focus 목록으로 한다. blind 바로 뒤에 부른다.

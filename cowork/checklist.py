@@ -44,7 +44,7 @@ def main():
         ("A4", "tier2·community·buzz", ex(O("tier2-%s.json" % d)) and ex(O("community-%s.json" % d)) and ex(O("buzz-%s.json" % d))),
         ("A5", "brief·extend(링크 미확보 블록)", ext_ok),
         ("A6", "blind·timeline", ex(O("candidates-blind-%s.txt" % d)) and ex(O("timeline-%s.md" % d))),
-        ("A7", "prejudge(자동 '저'·focus 목록)", ex(O("candidates-focus-%s.txt" % d))),
+        ("A7", "pagedate·prejudge(옛 기사·자동 '저'·focus 목록)", ex(O("pagedate-%s.json" % d)) and ex(O("candidates-focus-%s.txt" % d))),
         ("A8", "facts 표", ex(O("facts-%s.csv" % d))),
         ("A9", "'고' 확인표 gocheck 통과", run([py, os.path.join(M, "cowork/go_check.py"), "--date", d, "--mnt", M])),
         ("A10", "hist·bodypeek 기록", ex(O("signals-%s.json" % d)) and ex(O("peeked-%s.json" % d))),
