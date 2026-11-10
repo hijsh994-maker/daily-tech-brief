@@ -1,0 +1,63 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-11-10 09:33:48 KST === 
+Message TS: 1794270828.727659
+_[텔레그램 로그 2026-11-10] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 11개 항목 + 개별 메시지 19건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+1. 앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개 (조선일보)
+o 링크: <https://n.news.naver.com/mnews/article/023/0004008731?sid=105|n.news.naver.com/mnews/article/023/0004008731?…>
+2. 10일 앤스로픽 IPO 로드쇼 개시 전망…IFR 보도 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/435428|tokenpost.kr/news/breaking/435428>
+3. 메타, 에이전트용 경량 모델 '뮤즈 엠버' 공개 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/news/articleView.html?idxno=713999|digitaltoday.co.kr/news/articleView.html?idxno=713999>
+4. 스페이스X, 텍사스에 32조원 가스발전·AI센터 추진 (연합뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/001/0016432261?sid=101|n.news.naver.com/mnews/article/001/0016432261?…>
+5. 구글 알파벳, 홍콩·싱가포르서 첫 채권 4조원 규모 발행 검토 (IT조선)
+o 링크: <https://it.chosun.com/news/articleView.html?idxno=3000000000576|it.chosun.com/news/articleView.html?idxno=3000000000576>
+6. 파이어웍스, 고객 데이터 무단 접근…미완성 모델도 포함 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/435436|tokenpost.kr/news/breaking/435436>
+7. 100회 연속 편집 지원…바이트댄스, 시드림 5.5 공개 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/435126|tokenpost.kr/news/breaking/435126>
+8. 中 AI 딥시크, 하루 이용자 154만명… 한 달만에 5배 껑충 (IT조선)
+o 링크: <https://it.chosun.com/news/articleView.html?idxno=3000000000592|it.chosun.com/news/articleView.html?idxno=3000000000592>
+_— 개별 메시지(다이제스트 외) —_
+9. 오픈AI, 사이버보안 특화 AI 모델 'GPT-6 사이버' 공개 (전자신문)
+o 링크: <https://n.news.naver.com/mnews/article/030/0003482974?sid=105|n.news.naver.com/mnews/article/030/0003482974?…>
+10. AI 역풍에 앤스로픽 IPO 11월 상장 먹구름 (파이낸셜뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/014/0005600500?sid=101|n.news.naver.com/mnews/article/014/0005600500?…>
+11. 반도체·AI 인프라주 반등…아이렌 실적 호조에 네오클라우드 투심 회복 (한국경제TV)
+o 링크: <https://n.news.naver.com/mnews/article/215/0001272080?sid=101|n.news.naver.com/mnews/article/215/0001272080?…>
+12. 텍사스 주지사 당선인 "주민 보호책 마련까지 데이터센터 사업 중단" (뉴시스)
+o 링크: <https://n.news.naver.com/mnews/article/003/0014306020?sid=104|n.news.naver.com/mnews/article/003/0014306020?…>
+13. 내 통장·카드 2년치 AI가 읽는다…클로드, 새는 돈 찾아준다 (뉴시스)
+o 링크: <https://n.news.naver.com/mnews/article/003/0014306742?sid=104|n.news.naver.com/mnews/article/003/0014306742?…>
+14. [美증시 특징주] 클라우드플레어 깜짝 실적 시간외 15% 폭등 (미디어펜)
+o 링크: <https://www.mediapen.com/news/view/1135627|mediapen.com/news/view/1135627>
+15. Anthropic's AI development has doubled in speed despite slowdown calls, research group says (Fast Company/AP)
+o 링크: <https://www.fastcompany.com/91636791/anthropic-metr-ai-claude-acceleration|fastcompany.com/91636791/anthropic-metr-ai-claude-acceleration>
+16. AI 역풍 맞은 앤스로픽 IPO…몸값 2728조원서 '반토막' 우려 (이데일리)
+o 링크: <https://n.news.naver.com/mnews/article/018/0006406203?sid=101|n.news.naver.com/mnews/article/018/0006406203?…>
+17. 구글, 데이터센터 규제 역풍에도 와이오밍에 170억弗 투자 (SBS Biz)
+o 링크: <https://biz.sbs.co.kr/article_hub/20000344633?division=NAVER|biz.sbs.co.kr/article_hub/20000344633?division=NAVER>
+18. MS, 오라클과 클라우드 계약 단계적 종료…AI 열기 식나 (이데일리)
+o 링크: <https://n.news.naver.com/mnews/article/018/0006405437?sid=101|n.news.naver.com/mnews/article/018/0006405437?…>
+19. 선거 후 AI 규제 우려에도… 오픈AI "데이터센터 투자·자금 조달 계속" (머니투데이)
+o 링크: <https://n.news.naver.com/mnews/article/008/0005437947?sid=104|n.news.naver.com/mnews/article/008/0005437947?…>
+20. 메타, 말하면 나만의 AI 비서 만들어준다…'뮤즈 스페이스' 공개 (이데일리)
+o 링크: <https://n.news.naver.com/mnews/article/018/0006405951?sid=105|n.news.naver.com/mnews/article/018/0006405951?…>
+21. 美민주 주지사에 손내민 IT업계…코어위브 "데이터센터 협력을" (연합뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/001/0016428508?sid=104|n.news.naver.com/mnews/article/001/0016428508?…>
+22. 앤스로픽, 4.6조 발전기 구매…AI 전력 확보전 확대 (조선일보)
+o 링크: <https://n.news.naver.com/mnews/article/023/0004008572?sid=105|n.news.naver.com/mnews/article/023/0004008572?…>
+23. "아내와 아이들에게 상처 줬다"…젠슨 황 사과 편지 전문 (KBS)
+o 링크: <https://n.news.naver.com/mnews/article/056/0012289900?sid=121|n.news.naver.com/mnews/article/056/0012289900?…>
+24. 구글, 차세대 TPU 2종 공개…추론 속도 높이고 보안까지 잡는다 (ZDNet Korea)
+o 링크: <https://n.news.naver.com/mnews/article/092/0002444558?sid=105|n.news.naver.com/mnews/article/092/0002444558?…>
+링크 미확보: 메타, 엔터프라이즈 AI 영업조직 구축 및 컨설팅 파트너십 확대 추진 / 코어위브, 자율주행 AI 기업 Wayne와 다년간 클라우드 공급 계약 / 알리바바, T-Head '27년 홍콩 IPO 추진(최대 30억 달러) / 앤스로픽 3Q 매출 168억 달러(최초 보도 10-15, 창 밖) / Silicon Data GPU 임대료 상승 / 오픈AI 신규 펀딩 목표 200억 달러로 축소
+(뉴스 사건 아님 4건 제외: 애널리스트 코멘트·보도 정리·인물 발언)
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-11-10 08:54:43 KST === 
+Message TS: 1794268483.940689
+
+Files: [2026년 11월 10일] 조간 뉴스 클리핑 (ID: F0CG7RF8UDU, text/html, 50.7 KB)

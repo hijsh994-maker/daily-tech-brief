@@ -1,0 +1,14 @@
+url,배치번호,근거,헤드라인
+https://n.news.naver.com/mnews/article/023/0004008731?sid=105,8,0~7 아님(지분·국가사업·정책·사고·인프라·로봇 아님) / 8번 예: 클로드 페이블·미토스 5.2 모델 자체 출시,"앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개"
+https://www.digitaltoday.co.kr/news/articleView.html?idxno=713999,8,0~7 아님 / 8번 예: 경량 모델 뮤즈 엠버 출시(모델 자체),"메타, 에이전트용 경량 모델 '뮤즈 엠버' 공개"
+https://www.tokenpost.kr/news/breaking/435126,8,0~7 아님 / 8번 예: 이미지 생성 모델 시드림 5.5 출시,"100회 연속 편집 지원…바이트댄스, 시드림 5.5 공개"
+https://www.yna.co.kr/view/AKR20261109072000017,9,0~7 아님 / 8번 아님: 모델이 아니라 기기 출시 / 9번 예: AI 기기(AI 안경),"삼성·구글 AI 안경, 12일 예약판매…메타 독주에 도전"
+https://biz.chosun.com/it-science/ict/2026/11/09/N2CEELEMLRDLRHPIC2VERSO6IE/,9,0~7 아님 / 8번 아님: 모델 출시·성능 아님 / 9번 예: 자율 수행 AI 에이전트 제품 개발,"존 터너스 애플 CEO, AI 에이전트 개발 속도전 주문…시리 넘어 자율형 AI 승부수"
+https://www.chosun.com/economy/tech_it/2026/11/10/NUZGOJZGMVGY7GCIESOBLOR5RI/,6,0~2 아님 / 3번 아님: 정부 국가 AI 사업 선정이 아닌 3사 MOU / 4·5 아님 / 6번 예: NPU-GPU 이기종 AI 데이터센터 인프라,"국산 NPU, 엔비디아 시스템에 올라탈 길 열려"
+https://n.news.naver.com/mnews/article/001/0016432261?sid=101,6,0~2 아님 / 3번 아님: 민간 해외 DC / 4·5 아님 / 6번 예: 데이터센터·자체 발전소 물리 인프라,"스페이스X, 텍사스에 32조원 가스발전·AI센터 추진"
+https://n.news.naver.com/mnews/article/092/0002444558?sid=105,6,0~5 아님 / 6번 예: TPU 컴퓨팅 인프라(가속기 시스템),"구글, 차세대 TPU 2종 공개…추론 속도 높이고 보안까지 잡는다"
+https://www.sedaily.com/article/20112170,5,0~4 아님 / 5번 예: 개인정보 유출 사고,"앤트로픽도 뚫렸다…""韓기업 계정 112개 유출"""
+https://www.fnnews.com/news/202611092056376991,2,0~1 아님 / 2번 예: 엔비디아의 국내 스타트업 지분 투자,"엔비디아, 국내 AI 스타트업 4곳 투자 추진…기술 협력 확대"
+https://www.digitaltoday.co.kr/news/articleView.html?idxno=713695,2,0~1 아님 / 2번 예: Vona Robotics 인수(지분 이동) — 로봇 주제지만 2번이 7번보다 먼저,"아마존, 200만원 로봇 '아스트로' 부진에도 재도전…이번엔 가정용 휴머노이드"
+https://www.tekedia.com/nominal-raises-240m-at-3bn-valuation-as-ai-investment-expands-into-industrial-engineering/,2,0~1 아님 / 2번 예: 시리즈C 펀딩(지분 이동),Nominal Raises $240m At $3bn Valuation As AI Investment Expands Into Industrial Engineering
+https://www.citybiz.co/article/930940/dulo-raises-130m-seed-round-to-develop-ai-models-for-engineering-hardware-design/,2,0~1 아님 / 2번 예: 시드 펀딩(지분 이동),"Dulo Raises $130M Seed Round to Develop AI Models for Engineering, Hardware Design"

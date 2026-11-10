@@ -1,0 +1,428 @@
+{
+ "date": "2026-11-10",
+ "terms": [
+  {
+   "term": "블루쓰나미",
+   "norm": "블루쓰나미",
+   "n_outlets": 25,
+   "n_today": 2,
+   "outlets": [
+    "CBC뉴스",
+    "DealSite경제TV",
+    "KB Think",
+    "Naver Blog",
+    "OhmyNews",
+    "YTN",
+    "뉴데일리",
+    "뉴스1"
+   ],
+   "days": 4,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "블로터(11-05) | 美 중간선거 ‘블루쓰나미’…데이터센터 규제 우려에도 빅테크 랠리",
+    "중앙일보(11-05) | ‘블루쓰나미’ 앞 AI 데이터센터…아시아 증시 혼란",
+    "한국경제(11-05) | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+    "한국경제 | \"AI 규제 법안 쏟아진다\"…현실화하는 '블루쓰나미' 공포 [이슈+]",
+    "머니투데이 | '블루쓰나미'에 ETF 400조 붕괴…반도체·테크 ETF 한 달 새 22조 증발 - 머니투데이"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Blue Tsunami",
+   "norm": "bluetsunami",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "Business Insider",
+    "ION Analytics",
+    "NBC News",
+    "Reuters",
+    "Scranton Times-Tribune",
+    "Telangana Today",
+    "The Intercept",
+    "The Motley Fool"
+   ],
+   "days": 4,
+   "first": "2026-11-06",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Telangana Today(11-05) | Editorial: Blue tsunami sweeps America",
+    "Transformer | Substack(11-05) | What the blue tsunami means for AI policy",
+    "NBC News(11-05) | Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
+    "The Motley Fool | A Blue Tsunami in State and Local Government Elections May Have Just Driven a Da",
+    "ION Analytics | Anthropic faces near impossible IPO choice after AI stocks felled by Blue Tsunam"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Muse Ember",
+   "norm": "museember",
+   "n_outlets": 13,
+   "n_today": 13,
+   "outlets": [
+    "HN",
+    "Interesting Engineering",
+    "MLQ.ai",
+    "Mezha.net",
+    "Pasquale Pillitteri",
+    "Startup Fortune",
+    "TechCrunch",
+    "The Decoder"
+   ],
+   "days": 1,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI | Meta, 에이전트 및 코딩 작업 비용을 낮추는 Muse Ember 출시",
+    "Mezha.net | Meta, 에이전트 작업용 경량 모델 Muse Ember 출시",
+    "디지털포커스 | 메타 'Muse Ember' 출시, 작업당 0.14달러로 대형 모델 대비 저렴",
+    "TechCrunch | Meta releases Muse Ember, a new lightweight model for agent execution",
+    "Startup Fortune | Meta Launches Muse Ember, Its Smallest AI Model, on the Day Anthropic Unveiled F",
+    "MLQ.ai | Meta releases Muse Ember, a $0.10-per-million-token model for high-volume agent "
+   ],
+   "score": 12
+  },
+  {
+   "term": "불륜 파문",
+   "norm": "불륜파문",
+   "n_outlets": 5,
+   "n_today": 4,
+   "outlets": [
+    "뉴스1",
+    "디지털투데이",
+    "파이낸셜포스트",
+    "한국일보",
+    "헤럴드경제"
+   ],
+   "days": 2,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "한국일보(11-09) | 젠슨 황 불륜 파문… 엔비디아, 33년 만에 CEO 교체 '초유의 리스크'",
+    "디지털투데이 | 젠슨 황 불륜 파문에도 AI 산업 '이상무'…美 기업엔 기회",
+    "파이낸셜포스트 | 젠슨 황 '불륜 파문'에 엔비디아 흔들… 삼성·SK HBM 사업 변수되나",
+    "헤럴드경제 | 스파이 접촉 ‘美의회 칼끝’에 AI규제까지…주가도 흔들리나 [젠슨황 불륜 파문]",
+    "뉴스1 | 머스크도 \"GPU 달라\"…젠슨 황 '불륜 파문'에 AI 업계 '엔비디아 의존' 주목",
+    "헤럴드경제 | 엔비디아, 국내 기업 협력은 지속... 네카오·삼성·SK ‘AI데이’ 예정대로 [젠슨황 불륜 파문]"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Flide",
+   "norm": "flide",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Flide: Make Jev-like decision models up to 9.5x faster"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Make Jev",
+   "norm": "makejev",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Flide: Make Jev-like decision models up to 9.5x faster"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Humanoid Robot Stocks Surge",
+   "norm": "humanoidrobotstockssurge",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance"
+   ],
+   "days": 1,
+   "first": "2026-11-10",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "BigGo Finance | China's Unitree Robotics briefly tops 300 billion yuan market value as humanoid ",
+    "BigGo Finance | China's Humanoid Robot Stocks Surge; Unitree Robotics Jumps Over 10%, Xiangming "
+   ],
+   "score": 10
+  },
+  {
+   "term": "OnePWR",
+   "norm": "onepwr",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "Dealroom",
+    "Hoodline",
+    "Tom's Hardware"
+   ],
+   "days": 2,
+   "first": "2026-11-09",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Dealroom(11-09) | Anthropic pays $3.4B for 1.7GW of gas-fired generators, taking over OnePWR's Cat",
+    "Tom's Hardware | Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generato",
+    "Hoodline | Anthropic's $3.4B Generator Deal With OnePWR Solutions"
+   ],
+   "score": 9
+  },
+  {
+   "term": "민낮",
+   "norm": "민낮",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "경기신문",
+    "청년일보"
+   ],
+   "days": 2,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "청년일보(11-05) | 영업이익 1천40% 급증의 \"민낮\"…SK텔레콤, 본업 매출 정체에 AI 성장 \"급제동\"",
+    "경기신문 | [데스크 칼럼] 안전마저 옵션인가… 현대차의 '민낮'"
+   ],
+   "score": 8
+  },
+  {
+   "term": "More Autonomous Agent System",
+   "norm": "moreautonomousagentsystem",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "GitHub(11-02) | deepseek-ai/dsh-superagent-prototype — Towards a More Autonomous Agent System",
+    "GitHub | deepseek-ai/dsh-superagent-prototype — Towards a More Autonomous Agent System"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Mika",
+   "norm": "mika",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "GitHub(11-02) | wangzan101/Mika — An on-device AI agent for Android that operates apps and the w",
+    "GitHub | wangzan101/Mika — An on-device AI agent for Android that operates apps and the w"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Highest So Far",
+   "norm": "highestsofar",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Dan Driscoll",
+   "norm": "dandriscoll",
+   "n_outlets": 14,
+   "n_today": 1,
+   "outlets": [
+    "Bloomberg.com",
+    "Breaking Defense",
+    "CNBC",
+    "DefenseScoop",
+    "ExecutiveBiz",
+    "Fortune",
+    "Investing.com",
+    "OpenAI"
+   ],
+   "days": 4,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Yahoo Finance(11-03) | OpenAI taps former US army secretary Dan Driscoll for national security role",
+    "Bloomberg.com(11-03) | OpenAI Says Former Army Secretary Dan Driscoll to Join Company",
+    "Investing.com(11-03) | OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
+    "https://internationalfinance.com/ | OpenAI appoints former US army secretary Dan Driscoll in its AI safety push"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Wyoming",
+   "norm": "wyoming",
+   "n_outlets": 14,
+   "n_today": 4,
+   "outlets": [
+    "Bloomberg.com",
+    "Buffalo Bulletin",
+    "Cody Enterprise",
+    "Coinpaper",
+    "Crusoe.ai",
+    "Mezha.net",
+    "Reuters",
+    "TechCrunch"
+   ],
+   "days": 4,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Buffalo Bulletin(11-02) | Nearly All Wyoming Residents Oppose Selling Public Lands; Most Oppose More AI Da",
+    "WyoFile(11-06) | Google commits to spending $17B on AI data centers in Wyoming",
+    "Bloomberg.com(11-06) | Google Plans to Spend $17 Billion on Wyoming Data Center",
+    "Cody Enterprise | Google commits to spending $17B on AI data centers in Wyoming",
+    "TechRadar | Google pledges millions in local taxes and STEM grants for Wyoming project",
+    "shattered.io | Google Crusoe Wyoming Data Center: $17B vs $30.9B [2026]"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Sentra Raises",
+   "norm": "sentraraises",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "AOL.com",
+    "BankInfoSecurity",
+    "CTech",
+    "FinTech Global",
+    "Hoodline",
+    "SiliconANGLE",
+    "Unite.AI",
+    "Ventureburn"
+   ],
+   "days": 4,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "SiliconANGLE(11-05) | Sentra raises $150M to control what AI agents can reach in corporate data",
+    "Hoodline(11-05) | Sentra Raises $150M for AI Agent Data Security",
+    "WSJ(11-05) | Exclusive | AI Security Startup Sentra Raises $150 Million to Police Autonomous ",
+    "BankInfoSecurity | Sentra Raises $150M to Link AI Agents, Data and Identity"
+   ],
+   "score": 10
+  },
+  {
+   "term": "제미나이 아카데미",
+   "norm": "제미나이아카데미",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "국제신문",
+    "대학IN",
+    "데일리한국",
+    "베리타스알파",
+    "아시아투데이",
+    "중앙일보",
+    "투데이안",
+    "핀포인트뉴스"
+   ],
+   "days": 4,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "핀포인트뉴스(11-03) | 숙명여대, 구글과 ‘제미나이 아카데미’ 개최… 대학생 AI 실무역량 강화",
+    "한국강사신문(11-03) | 숙명여자대학교, 구글과 손잡고 ‘제미나이 아카데미’ 개최…대학생 AI 실무역량 강화",
+    "아시아투데이(11-03) | 숙명여대, 구글과 함께 하는 ‘제미나이 아카데미’ 개최 “대학생 AI 실무역량 강화”",
+    "투데이안 | 전주대, 구글 AI 도구 활용 ‘제미나이 아카데미’ 운영",
+    "베리타스알파 | 전주대 대학일자리플러스센터 구글 AI 도구 실습 '제미나이 아카데미' 운영"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Dropbox",
+   "norm": "dropbox",
+   "n_outlets": 14,
+   "n_today": 2,
+   "outlets": [
+    "AI Insider",
+    "AiThority",
+    "BigGo Finance",
+    "Crunchbase News",
+    "Dataconomy",
+    "IT Pro",
+    "Pulse 2.0",
+    "SiliconANGLE"
+   ],
+   "days": 3,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Crunchbase News(11-06) | Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisit",
+    "TechCrunch(11-06) | Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "citybiz(11-06) | Dropbox Plans to Acquire Tigris Data, Launches AI Infrastructure Platform and Ne",
+    "AI Insider | Dropbox Acquires Tigris Data for $350M to Build AI Infrastructure for Agents",
+    "Pulse 2.0 | Dropbox: Tigris Data Acquisition Plan And DBX Agent Cloud Launch Expand AI Infra"
+   ],
+   "score": 9
+  },
+  {
+   "term": "키프",
+   "norm": "키프",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "글로벌E",
+    "뉴스1",
+    "디지털데일리",
+    "라이센스뉴스",
+    "시사오늘",
+    "이데일리",
+    "파이낸셜뉴스"
+   ],
+   "days": 3,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "글로벌E(11-03) | 크래프톤, 피지컬·버추얼 AI 양날개 가동···루디 0.2 공개·키프 론칭",
+    "라이센스뉴스(11-03) | [게임 Pick] 크래프톤, 피프티피프티 AI 챗 '키프' 출시…카카오게임즈, '엑자일콘 2026' 생중계",
+    "이데일리(11-03) | 크래프톤, AI 캐릭터 채팅 시장 참전…'키프(Kiff)' 출시",
+    "뉴스1 | [체험기] 내 최애, AI가 기억하네…크래프톤 '키프'와 덕질해보니"
+   ],
+   "score": 9
+  }
+ ]
+}

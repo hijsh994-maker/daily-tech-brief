@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-10 09:00:30 KST === 
+Message TS: 1794268830.802009
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-10 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261109000280|AI에 직급 주고 개발 문턱 낮춘다…'AI 네이티브 조직' 확산>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/|이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3.5 Super VL을 사용할 수 있습니다.>* (AWS Machine Learning Blog)
+*3. [:robot_face: AI Agent] <https://openai.com/index/coderabbit-codex-daybreak|CodeRabbit은 에이전트 소프트웨어 개발을 확장하고 20배 더 출하합니다.>* (OpenAI News &amp; Research)
+*4. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/|Amazon Bedrock Managed Knowledge Base를 사용한 단일 샷 및 에이전트 검색>* (AWS Machine Learning Blog)
+*5. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/|CrossnoKaye가 Amazon Bedrock AgentCore로 물리적 AI를 접지하는 방법>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/|플러그 가능 에이전트 AI 프레임워크: Amazon Bedrock AgentCore의 7계층 컴포저블 엔터프라이즈 에이전트 AI 참조 아키텍처>* (AWS Machine Learning Blog)
+*7. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/|Anthropic releases new Mythos and Fable models amid RSI concerns>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/|Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2|Anthropic, 새로운 Claude Fable 및 Mythos 5.2 모델 출시>* (The Verge)
+*10. [:rocket: BigTech Release] <https://openai.com/index/control-room|제어실: 연구 인프라 전반에 걸친 모델 작업 부하를 추적하고 중지하는 중앙 시스템>* (OpenAI News &amp; Research)
