@@ -309,9 +309,10 @@ samsung-tme)
 
 rfp-fetch)
   # [2026-10-22 신설] 국책과제 ① 수집 — 과기정통부·IITP·IRIS 공고(목록·본문·첨부 텍스트)를 이 서버에서 직접 받는다.
+  #   [2026-11-11] NTIS(국가R&D통합공고)·NIPA(사업공고) 추가 — 기본 사이트 = msit,iitp,iris,ntis,nipa.
   #   사용자 지시: GitHub Actions(ai-rfp-fetch) 없이, 다른 작업 결과를 읽지 말고 직접 확인할 것.
   #   결과: $MNT/out/rfp/latest/{meta.json,index.md,items/*.md}. 기업마당은 접속이 끊겨 WebFetch 로 따로 본다.
-  #     bash cowork/run.sh rfp-fetch [--days N] [--sites msit,iitp,iris,bizinfo]     # timeout 175000
+  #     bash cowork/run.sh rfp-fetch [--days N] [--sites msit,iitp,iris,ntis,nipa,bizinfo]     # timeout 175000
   shift; python3 "$MNT/cowork/rfp_fetch.py" "$@" ;;
 
 log)

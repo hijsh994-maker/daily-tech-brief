@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
-"""[2026-10-22] 국책과제 ① 수집기 — 과기정통부·IITP·IRIS 공고를 **이 서버에서 직접** 받는다.
+"""[2026-10-22] 국책과제 ① 수집기 — 과기정통부·IITP·IRIS·NTIS·NIPA 공고를 **이 서버에서 직접** 받는다.
 
 출처: 사용자 저장소 ai-rfp-fetch/fetch.py (GitHub Actions 에서 돌던 것)를 그대로 가져와 손봤다.
   사용자 지시(10-22): "GitHub Actions 는 이제 필요 없으니까" — 예약 미실행으로 10-22 수집본이 전날 것이었다.
 바뀐 점:
-  * 기본 사이트 = msit,iitp,iris. 기업마당(bizinfo)은 이 컨테이너의 직접 접속을 끊으므로(ConnectionReset)
+  * 기본 사이트 = msit,iitp,iris,ntis,nipa ([2026-11-11] NTIS·NIPA 추가 — 사용자 지시). 기업마당(bizinfo)은 이 컨테이너의 직접 접속을 끊으므로(ConnectionReset)
     기본에서 뺐다 — 에이전트가 WebFetch 로 목록 1페이지(selectSIIA200View.do?rbsIdx=128)를 연다. `--sites` 로 바꿀 수 있다.
   * 출력 = <저장소>/out/rfp/latest/{meta.json,index.md,items/} + out/rfp/history/<날짜>.md (형식은 종전과 같다).
   * 기본 수집 창 = 3일(--days). 전일·당일 공고를 보는 용도라 7일은 필요 없다.
   * 사이트 단위 재시도 대기 60초 → 20초.
-사용법:  bash cowork/run.sh rfp-fetch [--days N] [--sites msit,iitp,iris,bizinfo] [--date YYYY-MM-DD]
+사용법:  bash cowork/run.sh rfp-fetch [--days N] [--sites msit,iitp,iris,ntis,nipa,bizinfo] [--date YYYY-MM-DD]
 의존:    requests olefile pypdf holidays (0단계 pip install 에 포함)
 """
 import datetime as dt
@@ -68,6 +68,12 @@ IRIS_LIST = "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituList.do"
 IRIS_VIEW = "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId={id}"
 IRIS_CHECK = "https://www.iris.go.kr/comm/file/retrieveCheckFileDownload.do"
 IRIS_DOWN = "https://www.iris.go.kr/comm/file/fileDownload.do"
+NTIS_LIST = "https://www.ntis.go.kr/rndgate/eg/un/ra/mng.do"
+NTIS_VIEW = "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do"
+NTIS_VIEW_LINK = "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid={id}"
+NTIS_DOWN = "https://www.ntis.go.kr/rndgate/eg/cmm/file/download.do"
+NIPA_LIST = "https://www.nipa.kr/home/2-2?curPage={page}"
+NIPA_VIEW = "https://www.nipa.kr/home/2-2/{id}"
 
 
 # ───────────────────────────── 공통 유틸 ─────────────────────────────
@@ -108,7 +114,7 @@ def strip_tags(s: str) -> str:
 
 def filename_from_headers(resp, fallback):
     cd = resp.headers.get("Content-Disposition", "")
-    m = re.search(r"filename\*=(?:UTF-8'')?([^;]+)", cd) or re.search(r'filename="?([^";]+)"?', cd)
+    m = re.search(r"filename\*=\s*(?:UTF-8'')?([^;]+)", cd)  # NIPA 는 'filename*= UTF-8''...' (= 뒤 공백) or re.search(r'filename="?([^";]+)"?', cd)
     if not m:
         return fallback
     name = m.group(1).strip().strip('"')
@@ -449,6 +455,149 @@ def fetch_iris(s, since):
     return items
 
 
+def _dot_date(x):
+    """'2026.11.06' → '2026-11-06' (빈 값이면 '')."""
+    m = re.search(r"(\d{4})[.\-](\d{2})[.\-](\d{2})", x or "")
+    return f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else ""
+
+
+def fetch_ntis(s, since):
+    """[2026-11-11] NTIS 국가R&D통합공고. 사용자 지시: "국책과제 공고 점검하는 사이트에 NTIS ... 추가".
+    목록은 rndMngForm 을 POST 로 흉내 낸다. 목록 행에는 공고일이 없어(접수일·마감일만) 공고일 필터
+    searchCondition2(시작)~searchCondition3(끝, yyyy-mm-dd)를 서버에 넘기고, 공고일은 상세에서 다시 읽어 확인한다.
+    상세는 GET view.do?roRndUid=<id> 로도 열린다. 첨부는 download.do POST(wfUid, roTextUid).
+    NTIS 는 IRIS·각 부처 공고를 모아 싣는 곳이라 IRIS 공고와 겹칠 수 있다(원 공고 링크는 본문 첫 줄)."""
+    s.get(NTIS_LIST, timeout=TIMEOUT)  # 세션 쿠키
+    items = []
+    for page in range(1, 6):
+        r = s.post(NTIS_LIST, data=dict(pageIndex=page, pageUnit=100, searchCondition2=since, searchCondition3="2099-12-31",
+                                        searchKeyword="", searchCondition="", searchCondition9="", searchCondition10="",
+                                        searchFormList="", searchStatusList="", searchDeptList="",
+                                        isFileSearch="false", isRoDptNameSearch="false"),
+                   headers={"Referer": NTIS_LIST}, timeout=TIMEOUT)
+        r.raise_for_status()
+        h = r.text
+        total = re.search(r'id="totalCount"\s+value="(\d+)"', h)
+        if not total:
+            raise RuntimeError(f"NTIS 목록 응답에 검색결과(totalCount)가 없음 — 페이지 구조 변경 의심 (HTTP {r.status_code}, {len(h)}B)")
+        tbody = h.split('class="basic_list"', 1)[-1].split("</table>", 1)[0]
+        rows = re.findall(r"<tr>(.*?)</tr>", tbody, flags=re.S)
+        n = 0
+        for row in rows:
+            m = re.search(r"fn_view\('(\d+)'\)", row)
+            if not m:
+                continue
+            n += 1
+            uid = m.group(1)
+            if any(x["id"] == uid for x in items):
+                continue
+            td = dict((k, strip_tags(v)) for k, v in re.findall(r'<td data-title="([^"]+)"[^>]*>(.*?)</td>', row, flags=re.S))
+            title = re.search(r'fn_view\(\'\d+\'\);[^>]*title="([^"]*)"', row, flags=re.S)
+            title = html.unescape(title.group(1)).strip() if title else td.get("공고명", "")
+            items.append(dict(site="ntis", id=uid, title=re.sub(r"\s+", " ", title), status=td.get("현황", ""),
+                              ministry=td.get("부처명", ""),
+                              period=f'{_dot_date(td.get("접수일"))} ~ {_dot_date(td.get("마감일"))}',
+                              link=NTIS_VIEW_LINK.format(id=uid)))
+        if n < 100 or len(items) >= int(total.group(1)):
+            break
+    keep = []
+    for it in items:
+        h = s.get(it["link"], headers={"Referer": NTIS_LIST}, timeout=TIMEOUT).text
+        info = {k.strip(): strip_tags(v) for k, v in re.findall(r"<li[^>]*>\s*<span>([^<:]+?)\s*:\s*</span>(.*?)</li>", h, flags=re.S)}
+        it["posted"] = _dot_date(info.get("공고일"))
+        if it["posted"] and it["posted"] < since:
+            continue  # 서버 공고일 필터를 한 번 더 확인
+        if not it["posted"]:
+            it["posted"] = since  # 상세에 공고일이 비어 있으면 서버 필터(공고일 ≥ since)를 믿는다
+        it["agency"] = info.get("공고기관명", "")
+        if info.get("부처명"):
+            it["ministry"] = info["부처명"]
+        if info.get("접수마감시간") and it.get("period"):
+            it["period"] += f' {info["접수마감시간"]}'
+        it["offer_type"] = " / ".join(x for x in (info.get("공고유형", ""), info.get("공고형태", "")) if x)
+        it["category"] = info.get("사업명", "")
+        orig = re.search(r'class="btn_doc">\s*<a href="([^"]+)"', h)
+        seg = h.split('class="notice_cont"', 1)[-1].split('class="update"', 1)[0] if 'class="notice_cont"' in h else ""
+        body = strip_tags(seg)
+        head = []
+        if orig and orig.group(1).startswith("http"):
+            head.append(f"[원 공고문 바로가기] {html.unescape(orig.group(1))}")
+        for k in ("공고금액", "문의처"):
+            if info.get(k):
+                head.append(f"{k}: {info[k]}")
+        it["body"] = "\n".join(head + [body]).strip()
+        atts = []
+        for wf, tx, name in re.findall(r"fn_fileDownload\('(\d+)',\s*'([^']+)'\);[^>]*>(.*?)</a>", h, flags=re.S):
+            if any(a["post"]["wfUid"] == wf for a in atts):
+                continue
+            atts.append(dict(name=strip_tags(name) or f"첨부{wf}", url=NTIS_DOWN, keep_name=True,
+                             post=dict(wfUid=wf, roTextUid=tx)))
+        it["attachments"] = atts
+        download_all(s, it, referer=NTIS_VIEW)
+        keep.append(it)
+    return keep
+
+
+def fetch_nipa(s, since):
+    """[2026-11-11] NIPA(정보통신산업진흥원) 사업공고 게시판 https://www.nipa.kr/home/2-2 .
+    www.nipa.kr/ 는 iframe(→/home/index) 만 든 3KB 셸이라 게시판 주소를 직접 연다. 목록은 GET ?curPage=N
+    (10건/쪽, 등록일 내림차순), 상세는 /home/2-2/<번호>, 첨부는 /comm/getFile?... GET.
+    11-11 사전 점검 때 /home/2-2 가 connection reset 난 적이 있다(같은 날 재시험에선 200) → 접속 실패면 원인이 드러나게 예외를 던진다."""
+    items = []
+    for page in range(1, 6):
+        url = NIPA_LIST.format(page=page)
+        try:
+            r = s.get(url, timeout=TIMEOUT)
+        except requests.exceptions.RequestException as e:
+            raise RuntimeError(f"NIPA 사업공고 게시판 접속 불가({url}): {type(e).__name__}: {e}") from e
+        r.raise_for_status()
+        h = r.text
+        if "/home/2-2/" not in h:
+            raise RuntimeError(f"NIPA 사업공고 목록에 공고 링크가 없음 — 셸/점검 페이지 의심 (HTTP {r.status_code}, {len(h)}B)")
+        oldest = None
+        for row in re.findall(r"<tr>(.*?)</tr>", h, flags=re.S):
+            m = re.search(r'href="/home/2-2/(\d+)"[^>]*>(.*?)</a>', row, flags=re.S)
+            if not m:
+                continue
+            dates = re.findall(r'<span class="bco">\s*(\d{4}-\d{2}-\d{2})\s*</span>', row)
+            reg = dates[-1] if dates else ""
+            oldest = reg or oldest
+            if not reg or reg < since:
+                continue
+            nid = m.group(1)
+            if any(x["id"] == nid for x in items):
+                continue
+            cat = re.search(r'<span class="box[^"]*">(.*?)</span>', row, flags=re.S)
+            per = re.search(r"신청기간\s*:\s*([^<]+)", row)
+            dday = re.search(r'<div class="point[^"]*">\s*<b>(.*?)</b>', row, flags=re.S)
+            tds = re.findall(r"<td[^>]*>(.*?)</td>", row, flags=re.S)
+            items.append(dict(site="nipa", id=nid, title=re.sub(r"\s+", " ", strip_tags(m.group(2))), posted=reg,
+                              period=re.sub(r"\s+", " ", per.group(1)).strip() if per else "",
+                              category=strip_tags(cat.group(1)) if cat else "",
+                              status=strip_tags(dday.group(1)) if dday else "",
+                              charger=strip_tags(tds[3]) if len(tds) > 4 else "",
+                              ministry="과학기술정보통신부", agency="정보통신산업진흥원",
+                              link=NIPA_VIEW.format(id=nid)))
+        if not oldest or oldest < since:
+            break
+    for it in items:
+        h = s.get(it["link"], headers={"Referer": NIPA_LIST.format(page=1)}, timeout=TIMEOUT).text
+        seg = h.split('class="tc bg_lightgray">내용</td>', 1)[-1]
+        seg = re.split(r'class="tc bg_lightgray">첨부파일</td>|</table>', seg, maxsplit=1)[0]
+        seg = re.sub(r"<script.*?</script>", " ", seg, flags=re.S)
+        it["body"] = strip_tags(seg)
+        atts = []
+        for href, name in re.findall(r'<a href="(/comm/getFile\?[^"]+)"[^>]*>(.*?)</a>', h, flags=re.S):
+            url = "https://www.nipa.kr" + html.unescape(href)
+            if any(a["url"] == url for a in atts):
+                continue
+            name = re.sub(r"\s*\(파일크기:.*$", "", strip_tags(name), flags=re.S).strip()
+            atts.append(dict(name=name or "첨부", url=url))
+        it["attachments"] = atts
+        download_all(s, it, referer=it["link"])
+    return items
+
+
 def download_all(s, it, referer):
     for a in it.get("attachments", []):
         try:
@@ -472,7 +621,8 @@ def download_all(s, it, referer):
             if len(data) > MAX_ATTACH_BYTES:
                 a["texts"] = [(a["name"], "[너무 커서 건너뜀]")]
                 continue
-            a["name"] = filename_from_headers(r, a["name"])
+            if not a.get("keep_name"):  # NTIS 는 헤더 파일명이 '?' 로 깨져 와서 목록의 파일명을 그대로 쓴다
+                a["name"] = filename_from_headers(r, a["name"])
             a["bytes"] = len(data)
             ctype = r.headers.get("Content-Type", "")
             if data[:200].lstrip().lower().startswith((b"<!doctype", b"<html")) or "text/html" in ctype:
@@ -484,9 +634,11 @@ def download_all(s, it, referer):
 
 
 # ───────────────────────────── 출력 ─────────────────────────────
-SITE_NAMES = dict(bizinfo="기업마당(bizinfo)", msit="과학기술정보통신부 사업공고", iitp="IITP 사업공고", iris="IRIS 사업공고")
+SITE_NAMES = dict(bizinfo="기업마당(bizinfo)", msit="과학기술정보통신부 사업공고", iitp="IITP 사업공고", iris="IRIS 사업공고",
+                  ntis="NTIS 국가R&D통합공고", nipa="NIPA 사업공고")
 SITE_LINKS = dict(bizinfo=BIZINFO_LIST.format(page=1).replace("rows=50", "rows=15"),
-                  msit=MSIT_LIST.format(page=1), iitp=IITP_PAGE, iris=IRIS_PAGE)
+                  msit=MSIT_LIST.format(page=1), iitp=IITP_PAGE, iris=IRIS_PAGE,
+                  ntis=NTIS_LIST, nipa=NIPA_LIST.format(page=1))
 
 
 def write_item(dirpath, it):
@@ -514,7 +666,7 @@ def write_item(dirpath, it):
 
 def main():
     args = sys.argv[1:]
-    days, today, sites = 3, None, ["msit", "iitp", "iris"]
+    days, today, sites = 3, None, ["msit", "iitp", "iris", "ntis", "nipa"]
     while args:
         a = args.pop(0)
         if a == "--days":
@@ -548,7 +700,7 @@ def main():
     index = [f"# 사업공고 수집 결과 — {iso(today)}({meta['weekday']})", "",
              f"- 수집 시각: {meta['fetched_at']}", f"- 수집 범위: 공고일 {since} ~ {iso(today)} (최근 {days}일)",
              f"- 공휴일 여부(holidays KR): {'공휴일(' + hol + ')' if hol else '평일'}"] + ([index_note] if index_note else []) + [""]
-    fetchers = dict(bizinfo=fetch_bizinfo, msit=fetch_msit, iitp=fetch_iitp, iris=fetch_iris)
+    fetchers = dict(bizinfo=fetch_bizinfo, msit=fetch_msit, iitp=fetch_iitp, iris=fetch_iris, ntis=fetch_ntis, nipa=fetch_nipa)
     got = {}
     for site in sites:
         fn = fetchers[site]
