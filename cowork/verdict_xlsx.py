@@ -218,6 +218,37 @@ def main():
             blind[_i] = (_b[0], _b[1], "%d-%s (수집)" % (_yy, _b[2])) + tuple(_b[3:])
     urls, cats, mscore = parse_prompt("out/prompt-%s.txt" % d)
 
+    # [2026-11-11 사용자 지시] 수집통로를 출처 기준 6분류로 바꾼다:
+    #   1 반향 / 2 뉴스 클립 / 3 삼성 AI/SW 뉴스 / 4 에이닷 뉴스 / 5 슬랙 트렌드 채널 / 6 tier 2
+    #   반향 = 반향후보·커뮤니티(HN·GitHub·HF) 통로. tier0 건은 out/tier0-<날짜>.json 의 src
+    #   (newsclips·samsung·adot·slack)를 URL·제목으로 맞춰 정하고, 여러 출처면 위 순서가 앞선 것.
+    #   tier0 에 없으면 tier 2.
+    ROUTE6 = ["반향", "뉴스 클립", "삼성 AI/SW 뉴스", "에이닷 뉴스", "슬랙 트렌드 채널", "tier 2"]
+    _SRC = {"newsclips": "뉴스 클립", "samsung": "삼성 AI/SW 뉴스", "adot": "에이닷 뉴스", "slack": "슬랙 트렌드 채널"}
+    def _nt(s):
+        return re.sub(r"[^가-힣A-Za-z0-9]", "", (s or "").lower())
+    _t0u, _t0t = {}, {}
+    _t0p = "out/tier0-%s.json" % d
+    if os.path.exists(_t0p):
+        for _it in (json.load(open(_t0p, encoding="utf-8")).get("items") or []):
+            _ss = set([_it.get("src")] + list(_it.get("seen_in") or []))
+            _labs = {_SRC[x] for x in _ss if x in _SRC}
+            if _it.get("url"):
+                _t0u.setdefault(_it["url"].rstrip("/"), set()).update(_labs)
+            if _it.get("title"):
+                _t0t.setdefault(_nt(_it["title"])[:40], set()).update(_labs)
+    else:
+        print("[verdict-xlsx] [경고] %s 없음 - tier0 출처를 못 가려 tier 2 로 찍힙니다" % _t0p)
+    for _i, _b in list(blind.items()):
+        _r = _b[0]
+        if _r in ("반향후보", "커뮤니티"):
+            _lab = "반향"
+        else:
+            _labs = set(_t0u.get((urls.get(_i) or "").rstrip("/"), set()))
+            _labs |= _t0t.get(_nt(_b[4])[:40], set())
+            _lab = next((x for x in ROUTE6 if x in _labs), "tier 2")
+        blind[_i] = (_lab,) + tuple(_b[1:])
+
     # [2026-09-10 수정] 순위 근거 열이 09-08~09-10 사흘간 통째로 비어 있었다.
     #   원인: 09-09 에 rankscore.py 를 학습모델로 전면 교체하면서 `load()` 를
     #   지웠는데, 여기 `except Exception: RSC={}` 가 ImportError 를 조용히
@@ -271,7 +302,7 @@ def main():
     ws = wb.active
     ws.title = "요약"
     cnt = Counter(r["grade"] for r in verdict)
-    route_cnt = OrderedDict()
+    route_cnt = OrderedDict((x, Counter()) for x in ROUTE6)
     for r in verdict:
         b = blind.get(r["idx"])
         route = b[0] if b else "?"
