@@ -1,0 +1,122 @@
+{
+ "date": "2026-11-11",
+ "items": [
+  {
+   "src": "community",
+   "title": "AI usage generates a fragile codebase",
+   "outlet": "HN",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "pub_date": "2026-11-10",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 352pt·391댓글",
+   "weight": 352
+  },
+  {
+   "src": "community",
+   "title": "Gemini 4 Carbon is now available",
+   "outlet": "HN",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "pub_date": "2026-11-10",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 272pt·147댓글",
+   "weight": 272
+  },
+  {
+   "src": "community",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "outlet": "HN",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "pub_date": "2026-11-10",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 246pt·69댓글",
+   "weight": 246
+  },
+  {
+   "src": "community",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "outlet": "HN",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "pub_date": "2026-11-10",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 191pt·186댓글",
+   "weight": 191
+  },
+  {
+   "src": "community",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "outlet": "HN",
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "pub_date": "2026-11-10",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 159pt·60댓글",
+   "weight": 159
+  },
+  {
+   "src": "community",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "outlet": "HN",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "pub_date": "2026-11-10",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 153pt·122댓글",
+   "weight": 153
+  },
+  {
+   "src": "community",
+   "title": "janestreet/agent_skills — Agent skills",
+   "outlet": "GitHub",
+   "url": "https://github.com/janestreet/agent_skills",
+   "pub_date": "2026-11-03",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★3831·8일·479/일",
+   "weight": 478.875
+  },
+  {
+   "src": "community",
+   "title": "HF trending: speridlabs/idol",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "pub_date": "2026-10-28",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥1871·↓26470",
+   "weight": 1871
+  },
+  {
+   "src": "community",
+   "title": "HF trending: NousResearch/Arete-27B",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/NousResearch/Arete-27B",
+   "pub_date": "2026-11-06",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥404·↓3431",
+   "weight": 404
+  }
+ ]
+}

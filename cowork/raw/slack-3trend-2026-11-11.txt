@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-11 09:00:29 KST === 
+Message TS: 1794355229.923299
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-11 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261110000406|센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261110000314|티맥스티베로, GIX 2026서 'DB 기반 AI' 전략 발표…AI 에이전트 '아울AI'도 선봬>* (전자신문 (AI))
+*3. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/|OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect>* (TechCrunch)
+*4. [:robot_face: AI Agent] <https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/|Lazare, veni foras: 휴면 뉴런을 백도어 AI 에이전트로 재프로그래밍>* (Microsoft Research Blog)
+*5. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/|TCS가 Amazon Bedrock AgentCore로 에이전트 테스트 오케스트레이터를 구축한 방법>* (AWS Machine Learning Blog)
+*6. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/|Meta’s AI agent Muse lands on Apple Watch and Android Wear OS>* (TechCrunch)
+*7. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/|Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly>* (TechCrunch)
+*8. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/|OpenAI acquires Odessia, travel startup created by Sonder founder>* (TechCrunch)
+*9. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/|All 7 Anthropic founders will each cash out about $250M in IPO>* (TechCrunch)
+*10. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/|OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google>* (TechCrunch)

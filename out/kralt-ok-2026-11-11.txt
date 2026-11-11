@@ -1,0 +1,3 @@
+https://uk.finance.yahoo.com/news/ibm-microsoft-announce-ai-agent-130000185.html | 국내 보도 3건은 다른 사건(CJ제일제당·크래프톤), find 'IBM 마이크로소프트 에이전트 플랫폼' 같은 사건 국문 기사 없음
+https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor | 국내 보도 6건은 구글 TPU 등 다른 사건, find '파이어웍스 노션 보안' 0건 — 당사자 공지 원문 유지
+https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/ | 국내 보도 9건은 다른 사건, find '머코어 200억달러'·'Mercor 투자 유치' 0건

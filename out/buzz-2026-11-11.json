@@ -1,0 +1,409 @@
+{
+ "date": "2026-11-11",
+ "terms": [
+  {
+   "term": "블루쓰나미",
+   "norm": "블루쓰나미",
+   "n_outlets": 27,
+   "n_today": 2,
+   "outlets": [
+    "CBC뉴스",
+    "DealSite경제TV",
+    "KB Think",
+    "Naver Blog",
+    "OhmyNews",
+    "YTN",
+    "뉴데일리",
+    "뉴스1"
+   ],
+   "days": 5,
+   "first": "2026-11-05",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "블로터(11-05) | 美 중간선거 ‘블루쓰나미’…데이터센터 규제 우려에도 빅테크 랠리",
+    "중앙일보(11-05) | ‘블루쓰나미’ 앞 AI 데이터센터…아시아 증시 혼란",
+    "한국경제(11-05) | \"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+    "매일경제 | ‘블루쓰나미’ 직격탄 반도체, 본격 반등은 언제? … “이란 전쟁 끝나야”",
+    "아시아경제 | [실전재테크]블루쓰나미 이후 美증시 어디로...투자자가 살펴야할 포인트"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Muse Ember",
+   "norm": "museember",
+   "n_outlets": 15,
+   "n_today": 3,
+   "outlets": [
+    "GIGAZINE",
+    "HN",
+    "Interesting Engineering",
+    "MLQ.ai",
+    "Mezha.net",
+    "OODA Loop",
+    "Pasquale Pillitteri",
+    "SiliconANGLE"
+   ],
+   "days": 2,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(11-10) | Meta, 에이전트 및 코딩 작업 비용을 낮추는 Muse Ember 출시",
+    "Mezha.net(11-10) | Meta, 에이전트 작업용 경량 모델 Muse Ember 출시",
+    "디지털포커스(11-10) | 메타 'Muse Ember' 출시, 작업당 0.14달러로 대형 모델 대비 저렴",
+    "OODA Loop | Meta Unveils Muse Ember, a Lightweight Model Built for High-Frequency AI Agent E",
+    "GIGAZINE | Meta's smallest and lowest-cost AI model, 'Muse Ember': Benchmark results, is it",
+    "SiliconANGLE | Meta introduces Muse Ember to power cost-efficient AI agents"
+   ],
+   "score": 13
+  },
+  {
+   "term": "JavaScript",
+   "norm": "javascript",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 2,
+   "first": "2026-11-02",
+   "reaction": 1,
+   "community": 2,
+   "titles": [
+    "HN(11-02) | The AI cost of JavaScript frameworks",
+    "HN | Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Pocus",
+   "norm": "pocus",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "CCBS뉴스",
+    "얼리어답터뉴스",
+    "한국공공정책신문"
+   ],
+   "days": 4,
+   "first": "2026-11-03",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "한국공공정책신문(11-03) | [Pocus AI 에이전트 분석] 모바일 AI 에이전트 피클(Pickle)… 나만을 위한 일상의 개인 비서",
+    "얼리어답터뉴스(11-09) | [Pocus AI 에이전트 분석] 사람과 AI가 함께 쓰는 브라우저 '에고 라이트(ego lite)'… 클로드 코드·코덱스를 내 웹 업무 비서로",
+    "CCBS뉴스(11-10) | [Pocus AI 실용 해설] GPTs·제미나이 젬스 종료와 스킬 전환… 내 지침과 자료 지키는 법",
+    "얼리어답터뉴스 | [Pocus 심층 검증 기획] GEO·llms.txt 열풍과 진실… 구글·퍼플렉시티 AI 검색 인용의 실체"
+   ],
+   "score": 11
+  },
+  {
+   "term": "비에이치아이",
+   "norm": "비에이치아이",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "머니투데이",
+    "핀포인트뉴스"
+   ],
+   "days": 2,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "핀포인트뉴스(11-02) | [주간 코스닥 외국인] 지엔씨에너지·비에이치아이 집중 매수 RF머트리얼즈 팔았다",
+    "머니투데이 | [종목상담 주식민원처리반] 데이터센터 건립에 소형 원전 필수 주목 '비에이치아이' - 머니투데이"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Claude Sheets",
+   "norm": "claudesheets",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "Engadget",
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Engadget | Anthropic Takes On Google And Microsoft With Claude Sheets",
+    "HN | Claude Whiteboards, Claude Sheets, and Claude Data"
+   ],
+   "score": 8
+  },
+  {
+   "term": "제21회 국제로봇콘테스트",
+   "norm": "제21회국제로봇콘테스트",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "BBS불교방송",
+    "전자신문"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문 | 대구시, 13·14일 이틀간 엑스코에서 '제21회 국제로봇콘테스트' 개최",
+    "BBS불교방송 | '로봇들의 뜨거운 대결'…대구서 미래 기술 겨룬다 '제21회 국제로봇콘테스트'"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Claude Whiteboards",
+   "norm": "claudewhiteboards",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Claude Whiteboards, Claude Sheets, and Claude Data"
+   ],
+   "score": 7
+  },
+  {
+   "term": "Claude Data",
+   "norm": "claudedata",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Claude Whiteboards, Claude Sheets, and Claude Data"
+   ],
+   "score": 7
+  },
+  {
+   "term": "국장 투매",
+   "norm": "국장투매",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "비즈니스포스트"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "비즈니스포스트 | AI 데이터센터 투자 둔화 우려 '국장 투매' 진정 분위기, 기판주 '심텍' '티엘비' 저가매수 기회 주목"
+   ],
+   "score": 6
+  },
+  {
+   "term": "1위 돌풍",
+   "norm": "1위돌풍",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "미주중앙일보"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "미주중앙일보 | ‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]"
+   ],
+   "score": 6
+  },
+  {
+   "term": "HALO Ignites Physical",
+   "norm": "haloignitesphysical",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "BigGo Finance"
+   ],
+   "days": 1,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "BigGo Finance | Apple's HALO Ignites Physical AI; Manycore Tech Surges 30% in Afternoon Hong Kon"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "ADNOC",
+   "norm": "adnoc",
+   "n_outlets": 20,
+   "n_today": 1,
+   "outlets": [
+    "Energy Connects",
+    "Energy Digital Magazine",
+    "Forbes",
+    "Forbes Middle East",
+    "IndexBox",
+    "NewsBytes",
+    "Reuters",
+    "Rigzone"
+   ],
+   "days": 4,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "IndexBox(11-03) | ADNOC·OpenAI·G42, ADIPEC에서 다년 AI 협력 발표 - 뉴스 및 통계",
+    "뉴스1(11-03) | ADNOC \"에너지 사업에 AI 도입…오픈AI·G42와 협력\"",
+    "TradingView(11-03) | 샘 올트먼이 아랍에미리트(UAE)를 방문한 가운데, 아부다비의 ADNOC와 G42가 오픈AI와 계약을 체결했다",
+    "https://debuglies.com | Agentic AI and National Security: The New Architecture of Industrial Sovereignty"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Wyoming",
+   "norm": "wyoming",
+   "n_outlets": 15,
+   "n_today": 1,
+   "outlets": [
+    "Bloomberg.com",
+    "Buffalo Bulletin",
+    "Cody Enterprise",
+    "Coinpaper",
+    "Crusoe.ai",
+    "Mezha.net",
+    "Powell Tribune",
+    "Reuters"
+   ],
+   "days": 5,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Buffalo Bulletin(11-02) | Nearly All Wyoming Residents Oppose Selling Public Lands; Most Oppose More AI Da",
+    "WyoFile(11-06) | Google commits to spending $17B on AI data centers in Wyoming",
+    "Bloomberg.com(11-06) | Google Plans to Spend $17 Billion on Wyoming Data Center",
+    "Powell Tribune | Google to spend $17B on AI data centers in Wyoming"
+   ],
+   "score": 10
+  },
+  {
+   "term": "블루웨이브 쇼크",
+   "norm": "블루웨이브쇼크",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "JTBC",
+    "Naver Blog",
+    "국제신문",
+    "네이버페이 머니스토리",
+    "뉴스로드",
+    "뉴시스",
+    "디지털데일리",
+    "법률방송뉴스"
+   ],
+   "days": 4,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "연합뉴스(11-06) | 블루웨이브 쇼크 '검은 목요일'…데이터센터 규제 우려에 증시 급락(종합)",
+    "뉴스로드(11-06) | ‘블루웨이브 쇼크’에 코스피·코스닥 5% 폭락…AI·반도체 직격탄",
+    "JTBC(11-06) | 미 ‘블루웨이브 쇼크’에 코스피 300포인트 ‘뚝’…삼성전자 7%·SK하이닉스 9%대 급락",
+    "법률방송뉴스 | '블루웨이브 쇼크'에 젠슨 황 스캔들까지... K반도체 불확실성 확대"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Meta Acquires Conductor",
+   "norm": "metaacquiresconductor",
+   "n_outlets": 10,
+   "n_today": 1,
+   "outlets": [
+    "DevOps.com",
+    "InfoWorld",
+    "Kingy AI",
+    "Mezha",
+    "Techzine Global",
+    "Wowtale",
+    "YourStory.com",
+    "https://tech-insider.org/"
+   ],
+   "days": 4,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "https://tech-insider.org/(11-05) | Meta Acquires Conductor: AI Coding Deal Facts [2026]",
+    "shattered.io(11-05) | Meta Acquires Conductor: Cloud Closes Nov. 20 [2026]",
+    "InfoWorld(11-06) | Meta acquires Conductor as AI coding shifts toward multi-agent development",
+    "Wowtale | Meta Acquires Conductor, the App That Runs AI Coding Agents in Parallel"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Gumi",
+   "norm": "gumi",
+   "n_outlets": 8,
+   "n_today": 5,
+   "outlets": [
+    "BigGo Finance",
+    "Data Center Dynamics",
+    "Data Centre Magazine",
+    "Seoul Economic Daily",
+    "매일경제",
+    "아시아경제",
+    "파이낸셜뉴스",
+    "헤럴드경제"
+   ],
+   "days": 4,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "파이낸셜뉴스(11-03) | Samsung SDS Breaks Ground on Gumi AI Data Center, with Capacity of up to 120 MW",
+    "BigGo Finance(11-03) | South Korea's Samsung SDS Breaks Ground on 60MW AI Data Center in Gumi, First St",
+    "매일경제(11-04) | Samsung launches $45bn physical AI drive with Gumi AI data center",
+    "헤럴드경제 | Gumi sends delegation to China to benchmark humanoid robot production",
+    "매일경제 | Delegates from Gumi City, including Mayor Kim Jang-ho and Gumi City, visited the",
+    "Seoul Economic Daily | Gumi Officials Tour China's Robot Hubs to Expand Manufacturing Into Humanoids"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Blaze",
+   "norm": "blaze",
+   "n_outlets": 7,
+   "n_today": 1,
+   "outlets": [
+    "Analytics India Magazine",
+    "Business Upturn",
+    "ET Telecom",
+    "Electronics Media",
+    "TechGig",
+    "scanx.trade",
+    "varindia"
+   ],
+   "days": 4,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "scanx.trade(11-03) | E2E Networks launches Blaze pay-per-token AI inference service",
+    "Business Upturn(11-03) | E2E Networks launches Blaze AI inference service globally",
+    "Analytics India Magazine(11-04) | E2E Networks Launches Blaze To Offer Pay-Per-Token AI Inference Services",
+    "varindia | E2E Networks unveils Blaze, a pay-per-token inference service for open AI models"
+   ],
+   "score": 10
+  }
+ ]
+}

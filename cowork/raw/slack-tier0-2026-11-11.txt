@@ -1,0 +1,53 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-11-11 09:34:33 KST === 
+Message TS: 1794357273.218609
+_[텔레그램 로그 2026-11-11] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 8개 항목 + 개별 메시지 11건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 앤스로픽, IPO 공모주 최대 20% 개인 배정 예상 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/436128|tokenpost.kr/news/breaking/436128>
+2. 앤트로픽 IPO 청약, 공모 물량 전량 채울 만큼 몰렸다는 보도 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/435987|tokenpost.kr/news/breaking/435987>
+3. 오픈AI, 여행 AI 스타트업 오데시아 인수…창업자도 합류 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/436246|tokenpost.kr/news/breaking/436246>
+4. 엔비디아 투자받은 英 엔스케일, 350억달러 IPO 연기 검토 (뉴스핌)
+o 링크: <https://www.newspim.com/news/view/20261111000272|newspim.com/news/view/20261111000272>
+5. 젠슨황 조사 맡은 한국계 김준현은 누구…쿠오모 성희롱 조사 이끌어 (이데일리)
+o 링크: <https://www.edaily.co.kr/News/Read?newsId=01826966645644736&mediaCodeNo=257|edaily.co.kr/News/Read?newsId=01826966645644736&mediaCodeNo=257>
+6. 美부처들 제재 요구에도 상무부 제동…中 반도체 통제 논란 (한국경제)
+o 링크: <https://www.hankyung.com/article/202611119052i|hankyung.com/article/202611119052i>
+_— 개별 메시지(다이제스트 외) —_
+7. '하이쿠' 성능에 비용은 3분의 1…메타, 에이전트용 '뮤즈 엠버' 출시 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=217209|aitimes.com/news/articleView.html?idxno=217209>
+8. 앤스로픽, AI 성능 1위 탈환…신형 모델 내놓고 API 가격 20% 인하 (이데일리)
+o 링크: <https://www.edaily.co.kr/News/Read?newsId=03020886645644408&mediaCodeNo=257|edaily.co.kr/News/Read?newsId=03020886645644408&mediaCodeNo=257>
+9. WSJ "앤스로픽 19일 또는 20일 상장…기업 가치에 관심 집중" (파이낸셜뉴스)
+o 링크: <https://www.fnnews.com/news/202611100926453970|fnnews.com/news/202611100926453970>
+10. 앤스로픽, '93조원 IPO' 자료 돌연 철회…공모가격 오류 (이데일리)
+o 링크: <https://www.edaily.co.kr/News/Read?newsId=04395206645644408&mediaCodeNo=257|edaily.co.kr/News/Read?newsId=04395206645644408&mediaCodeNo=257>
+11. 구글 Gemini 4 Carbon 전면 출시 보도…API로 전 세계 개방 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/436025|tokenpost.kr/news/breaking/436025>
+12. 문샷AI, 엔비디아 B300 탑재 서버 32대 임차 보도 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/breaking/435781|tokenpost.kr/news/breaking/435781>
+13. 그록 4.8 강화학습 진입…이번 주 후반 일부 이용자 시험 제공 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/ai/435790|tokenpost.kr/news/ai/435790>
+14. WSJ "앤트로픽 19일 또는 20일 상장…기업가치에 관심 집중"(종합) (연합뉴스)
+o 링크: <https://www.yna.co.kr/view/AKR20261110021451009|yna.co.kr/view/AKR20261110021451009>
+15. 코어위브, 매출·손실 모두 급증세…실적 전망 상향에 주가 약 2% 상승 (머니투데이)
+o 링크: <https://www.mt.co.kr/world/2026/11/11/2026111106370882172|mt.co.kr/world/…/2026111106370882172>
+16. 앤스로픽, 사무용 AI 도구 출시…MS·구글과 경쟁 (뉴스핌)
+o 링크: <https://www.newspim.com/news/view/20261111000027|newspim.com/news/view/20261111000027>
+링크 미확보
+•  
+    b. 앤스로픽, 로드쇼에서 장기 조정 영업이익률 목표 35% 이상 제시
+•  
+    h. 메타, Muse에 독립적인 이메일 주소를 부여하는 기능 출시
+•  
+    r. 오픈AI, 2분기 매출 성장 둔화, 앤스로픽에 추월
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>
+
+=== Message from Slackbot (USLACKBOT) at 2026-11-11 09:18:22 KST === 
+Message TS: 1794356302.541039
+
+Files: [2026년 11월 11일] 조간 뉴스 클리핑 (ID: F0CG6M2UJMV, text/html, 44.4 KB)
