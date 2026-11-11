@@ -1,0 +1,247 @@
+<title>Weekly Tech Brief 11월 1주차</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* 레이아웃: 한 단 보고서. 위에서부터 결론 → 세 가지 판단 → 흐름 → 인사이트 → 제언 → 다음 주. 숫자는 고정폭, 강조는 한 색만. */
+:root{
+  --bg:#f5f7f9; --surface:#ffffff; --ink:#18242f; --muted:#5b6b79; --line:#d9e0e6;
+  --accent:#0d5c75; --accent-soft:#e3eff3; --signal:#a8590b; --signal-soft:#fbf0e0;
+  --display:"IBM Plex Sans KR","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --body:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f161c; --surface:#172029; --ink:#e6edf2; --muted:#9aa9b6; --line:#2a3743;
+    --accent:#6cc1d8; --accent-soft:#16303a; --signal:#e6a65a; --signal-soft:#33271a; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0f161c; --surface:#172029; --ink:#e6edf2; --muted:#9aa9b6; --line:#2a3743;
+  --accent:#6cc1d8; --accent-soft:#16303a; --signal:#e6a65a; --signal-soft:#33271a; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.75;word-break:keep-all}
+.page{max-width:920px;margin:0 auto;padding-block:48px 72px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance;line-height:1.35}
+p{margin:0}
+a{color:var(--accent);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.label{font-family:var(--display);font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--accent)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* 머리 */
+.head{display:flex;flex-direction:column;gap:16px;padding-bottom:32px;border-bottom:2px solid var(--ink)}
+.head .meta{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:14px;color:var(--muted)}
+.head h1{font-size:clamp(28px,5vw,42px);font-weight:700;letter-spacing:-.01em}
+.head .thesis{font-size:18px;color:var(--muted);max-width:40em}
+
+/* 세 가지 판단 */
+.section{display:flex;flex-direction:column;gap:20px}
+.section > h2{font-size:22px;font-weight:700}
+.takes{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:0;padding:0;list-style:none}
+.takes li{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:20px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.takes .n{font-family:var(--mono);font-size:13px;color:var(--accent)}
+.takes strong{font-family:var(--display);font-size:17px;line-height:1.45}
+.takes span{font-size:15px;color:var(--muted);line-height:1.65}
+
+/* 흐름 */
+.flows{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.flow{display:grid;grid-template-columns:200px 1fr 1fr;gap:8px 28px;padding:20px 0;border-bottom:1px solid var(--line)}
+.flow > *{min-width:0}
+.flow h3{font-size:16px;font-weight:600}
+.flow p{font-size:15px;line-height:1.7}
+.flow .mean{color:var(--muted)}
+.flow .mean::before{content:"뜻하는 바";display:block;font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.06em;color:var(--accent);margin-bottom:2px}
+
+/* 조달 막대 */
+.raise{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:20px;display:flex;flex-direction:column;gap:12px}
+.raise .cap{font-size:14px;color:var(--muted)}
+.bars{display:grid;grid-template-columns:auto 1fr auto;gap:10px 14px;align-items:center;font-size:14px}
+.bars .track{height:12px;background:var(--accent-soft);border-radius:2px;min-width:0}
+.bars .fill{display:block;height:100%;background:var(--accent);border-radius:2px}
+.bars .v{text-align:right;white-space:nowrap}
+
+/* 인사이트 */
+.insight{display:flex;flex-direction:column;gap:12px;padding-top:24px;border-top:1px solid var(--line)}
+.insight:first-of-type{padding-top:0;border-top:0}
+.insight h3{font-size:19px;font-weight:700}
+.insight .body{max-width:42em}
+.evidence{background:var(--accent-soft);border-radius:6px;padding:14px 18px;font-size:14.5px;line-height:1.7;max-width:46em}
+.evidence b{font-family:var(--display);color:var(--accent);margin-right:6px}
+.chain{display:flex;flex-wrap:wrap;gap:8px;align-items:stretch;margin:4px 0;padding:0;list-style:none;font-size:14px}
+.chain li{flex:1 1 150px;min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:12px 14px;display:flex;flex-direction:column;gap:2px}
+.chain b{font-family:var(--display);font-size:14.5px}
+.chain span{color:var(--muted);font-size:13px;line-height:1.5}
+.chain li.weak{border-color:var(--signal);background:var(--signal-soft)}
+.chain li.weak b{color:var(--signal)}
+
+/* 제언 */
+.recs{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.rec{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:22px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.rec .when{font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.06em;color:var(--muted)}
+.rec h3{font-size:17px;font-weight:700}
+.rec dl{margin:0;display:flex;flex-direction:column;gap:12px}
+.rec dt{font-family:var(--display);font-size:12.5px;font-weight:600;letter-spacing:.06em;color:var(--accent)}
+.rec dd{margin:2px 0 0;font-size:15px;line-height:1.65}
+.rec dt.sig{color:var(--signal)}
+
+/* 다음 주 */
+.next{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.next li{display:grid;grid-template-columns:220px 1fr;gap:4px 28px;padding:16px 0;border-bottom:1px solid var(--line)}
+.next li > *{min-width:0}
+.next b{font-family:var(--display);font-weight:600}
+.next span{color:var(--muted);font-size:15px}
+
+/* 꼬리 */
+.foot{display:flex;flex-direction:column;gap:16px;font-size:14px;color:var(--muted);line-height:1.8}
+.foot h2{font-size:15px;font-weight:600;color:var(--ink)}
+.foot ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px}
+.foot li b{color:var(--ink);font-weight:500;margin-right:6px}
+.note{border-left:3px solid var(--line);padding-left:14px}
+
+@media (max-width:720px){
+  .takes,.recs{grid-template-columns:1fr}
+  .flow,.next li{grid-template-columns:1fr}
+  .page{gap:44px;padding-block:32px 56px}
+}
+</style>
+
+<main class="page">
+  <header class="head">
+    <div class="meta"><span class="label">WEEKLY TECH BRIEF</span><span>2026년 11월 1주차 · 11/2(월)~11/6(금)</span><span>일간 브리프 86건 기반 · 초안</span></div>
+    <h1>AI 산업의 위험, 기술에서 신용과 정치로 이동</h1>
+    <p class="thesis">모델·칩 출시는 이어졌으나, 한 주의 중심은 누가 돈을 대고 누가 허가를 내주느냐의 문제</p>
+  </header>
+
+  <section class="section" aria-labelledby="t1">
+    <h2 id="t1">경영진이 가져갈 세 가지</h2>
+    <ol class="takes">
+      <li><span class="n">01</span><strong>AI 데이터센터, 금융 사업으로 전환</strong><span>용량보다 임차인 신용이 사업 가치를 좌우</span></li>
+      <li><span class="n">02</span><strong>미국에서 막힌 수요, 아시아로 이동</strong><span>전력비 부담과 고객 심사 조건 동반</span></li>
+      <li><span class="n">03</span><strong>에이전트 승부처는 원가와 통제</strong><span>모델 성능보다 감당 가능한 비용·보안 구조가 경쟁력</span></li>
+    </ol>
+  </section>
+
+  <section class="section" aria-labelledby="t2">
+    <h2 id="t2">한 주의 흐름</h2>
+    <div class="flows">
+      <article class="flow">
+        <h3>빚으로 짓는 AI 인프라</h3>
+        <p>오라클·메타·알파벳, 한 주에 잇달아 채권 발행, 아마존은 장비 담보 대출 약정 체결</p>
+        <p class="mean">빅테크도 현금만으로 투자 감당 불가, 조달 금리가 투자 속도 변수로 부상</p>
+      </article>
+      <article class="flow">
+        <h3>미국 인허가 제동</h3>
+        <p>중간선거 뒤 텍사스 등에서 신규 데이터센터 제한 움직임, 오라클 <span class="num">1,650</span>억달러 단지는 심사 지연</p>
+        <p class="mean">병목이 전력에서 정치로 이동, 자금으로 해소 불가능한 지연 발생</p>
+      </article>
+      <article class="flow">
+        <h3>국내 AIDC 선점 경쟁</h3>
+        <p>엔비디아, 네이버 지분 <span class="num">4.13%</span> 확보, LGU+는 파주 4개 동 고객 전량 확보, 현대차·삼성은 자체 구축 확정</p>
+        <p class="mean">수요와 자본의 선점 가속, 후발 진입 여지 축소</p>
+      </article>
+      <article class="flow">
+        <h3>에이전트의 대중화와 비용</h3>
+        <p>챗GPT, 대화와 업무 기능 통합, 그록은 서빙 비용 부담으로 한도 축소, 바이낸스 <span class="num">63</span>억달러 해킹은 사내 AI 도구가 침투 경로 중 하나</p>
+        <p class="mean">에이전트가 기본 기능으로 정착, 원가와 보안 부담도 동시 부각</p>
+      </article>
+    </div>
+    <div class="raise">
+      <p class="cap">지난주 발표된 빅테크 AI 인프라 조달 (억달러)</p>
+      <div class="bars">
+        <span>아마존 장비 담보 약정</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="v num">최대 800</span>
+        <span>오라클 채권·주식</span><span class="track"><span class="fill" style="width:25%"></span></span><span class="v num">200</span>
+        <span>메타 회사채</span><span class="track"><span class="fill" style="width:18.75%"></span></span><span class="v num">150</span>
+        <span>알파벳 유로채</span><span class="track"><span class="fill" style="width:8.4%"></span></span><span class="v num">67</span>
+      </div>
+      <p class="cap">알파벳은 60억유로를 보도 기준 67억달러로 환산</p>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="t3">
+    <h2 id="t3">인사이트</h2>
+
+    <article class="insight">
+      <h3>1. AIDC의 위험은 공실이 아닌 임차인 신용</h3>
+      <p class="body">현재의 데이터센터 붐은 적자 상태인 모델 기업 한두 곳의 장기 약정에 의존, 그 위험은 보증을 선 빅테크와 자금을 댄 채권시장이 분담하는 구조, 수요 규모와 수요의 지불 능력은 별개 문제</p>
+      <ol class="chain" aria-label="AIDC 자금 사슬">
+        <li class="weak"><b>모델 기업이 약정</b><span>앤트로픽 약정 8,954억달러, 3분기 영업적자</span></li>
+        <li><b>임대 사업자가 건설</b><span>Riot 15년 280억달러, 테라울프 190억달러</span></li>
+        <li><b>빅테크가 보증</b><span>구글이 테라울프 차입에 신용지원</span></li>
+        <li><b>채권시장이 자금</b><span>메타 회사채에 580억달러 주문</span></li>
+      </ol>
+      <p class="evidence"><b>근거</b>MS, 엔스케일 추가 용량 포기, 오픈AI는 조달 목표를 300억에서 200억달러로 축소, S&amp;P는 메타 등급 전망을 '부정적'으로 하향</p>
+    </article>
+
+    <article class="insight">
+      <h3>2. 미국에서 밀려난 수요의 아시아 유입, 단 조건 동반</h3>
+      <p class="body">미국의 인허가 지연은 아시아 입지에 기회, 국내 수요는 그룹 자체 구축과 선점 계약으로 이미 잠기는 중이라 국내 사업자의 성장은 해외 수요 유치 여부에 좌우, 다만 전력비 사업자 부담 요구와 중국 고객 배제 압력이라는 두 조건 동반</p>
+      <p class="evidence"><b>근거</b>구글, 말레이시아 150억달러 투자와 함께 전력비 전액 부담 약속, 엔비디아는 파트너에 비중국 고객 51% 이상 요구, 오라클은 텐센트와의 70억달러 계약 취소</p>
+    </article>
+
+    <article class="insight">
+      <h3>3. 에이전트는 개발보다 감당이 과제</h3>
+      <p class="body">에이전트 경쟁력은 낮은 건당 원가, 이용자가 매일 여는 접점, 수행 내역을 증명하고 중단시킬 수 있는 통제력의 세 가지로 수렴, 국내 경쟁사는 모두 접점을 앞세우는 중이며 원가와 통제를 내세운 곳은 아직 부재</p>
+      <p class="evidence"><b>근거</b>그록, 구독료로 서빙 비용 감당 실패, 현대차는 핵심 부서의 외부 AI 차단, 네이버는 통합 에이전트·카카오는 관계망·KT는 통합 로그인 제시</p>
+    </article>
+  </section>
+
+  <section class="section" aria-labelledby="t4">
+    <h2 id="t4">제언</h2>
+    <div class="recs">
+      <article class="rec">
+        <span class="when">이번 분기에 기준 확정</span>
+        <h3>AIDC 수주, 용량 아닌 신용 기준으로 심사</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>임차인 한 곳의 비중 상한, 보증인·선납 요건, 중도 해지 시 GPU 재판매 가치 가정</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>앤트로픽 상장 후 주가, 메타·오라클 회사채 금리</dd></div>
+        </dl>
+      </article>
+      <article class="rec">
+        <span class="when">이번 분기에 기준 확정</span>
+        <h3>미국에서 밀려난 수요 겨냥한 제안 선제 마련</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>확보된 전력과 가동 시점, 수출통제에 걸리지 않는 고객 구성, 전력비·용수 공개 기준</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>텍사스 인허가 중단의 실제 시행, 빅테크의 아시아 추가 투자</dd></div>
+        </dl>
+      </article>
+      <article class="rec">
+        <span class="when">내년 상반기 상품 경쟁 대비</span>
+        <h3>에이전트, 과금·원가 설계부터 확정</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>작업별 건당 원가 목표, 단순 작업의 경량 모델 처리 구조, 사용량 연동 요금</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>주요 서비스의 한도 축소·요금 개편, 네이버·카카오 출시 일정</dd></div>
+        </dl>
+      </article>
+      <article class="rec">
+        <span class="when">내년 상반기 상품 경쟁 대비</span>
+        <h3>'통제 가능한 AI'를 B2B 상품의 중심으로</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>에이전트 권한 관리, 활동 기록, 즉시 중단, 폐쇄형 구축을 묶은 상품 구성</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>대기업의 외부 AI 차단 확산, 국방·공공 AX 수주전</dd></div>
+        </dl>
+      </article>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="t5">
+    <h2 id="t5">다음 주에 볼 것</h2>
+    <ul class="next">
+      <li><b>앤트로픽 상장 (19일 추진)</b><span>공모가 70~78달러 제시, AIDC 약정 이행 능력에 대한 시장의 첫 평가</span></li>
+      <li><b>텍사스의 신규 승인 중단</b><span>예고가 시행으로 이어질 경우 대체 입지 수요 가시화</span></li>
+      <li><b>KT의 임차형 확장</b><span>1GW 중 80%를 임차로 확보할 계획 공개, 자기 자본 부담이 적은 쪽이 속도 우위</span></li>
+    </ul>
+  </section>
+
+  <footer class="foot">
+    <p class="note">11월 2일~6일 Daily Tech Brief 발송본 86건만을 근거로 한 초안, 숫자는 발송본의 보도 수치이며 제언에는 사내 투자 계획과 계약 현황 미반영</p>
+    <h2>근거 기사</h2>
+    <ul>
+      <li><b>AI 인프라 재원</b><a href="https://leprivatebanker.com/2026/11/02/oracle-launches-20-billion-bond-and-stock-sale-using-full-funding-cap-days-after-investor-day/">오라클 조달</a> · <a href="https://www.yna.co.kr/view/AKR20261104028500009">메타 회사채</a> · <a href="https://live.euronext.com/en/financial-news/alphabet-kicks-eu6-billion-bond-sale-tests-appetite-tech-debt">알파벳 유로채</a> · <a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4442291">아마존 담보 대출</a> · <a href="https://www.fnnews.com/news/202611030521460281">앤트로픽 S-1</a> · <a href="https://en.bloomingbit.io/feed/news/123679">Riot 임대</a> · <a href="https://www.tokenpost.kr/news/breaking/432691">구글 신용지원</a> · <a href="https://www.etnews.com/20261106000020">MS 엔스케일</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=216856">오픈AI 조달 축소</a> · <a href="https://www.edaily.co.kr/News/Read?newsId=01157846645641456">S&amp;P 메타 전망</a></li>
+      <li><b>미국 인허가와 아시아</b><a href="https://www.seoulfn.com/news/articleView.html?idxno=641948">중간선거 결과</a> · <a href="https://n.news.naver.com/mnews/article/001/0016425457">오라클 단지 지연</a> · <a href="https://n.news.naver.com/mnews/article/001/0016422552?sid=104">구글 말레이시아</a> · <a href="https://www.fnnews.com/news/202611031820566511">엔비디아 51%</a> · <a href="https://it.chosun.com/news/articleView.html?idxno=3000000000245">오라클·텐센트</a></li>
+      <li><b>국내 AIDC</b><a href="https://www.cbci.co.kr/news/articleView.html?idxno=622776">엔비디아·네이버</a> · <a href="https://www.asiae.co.kr/article/2026110415183634872">LGU+ 파주</a> · <a href="https://www.mtnews.net/news/articleView.html?idxno=26391">현대차 새만금</a> · <a href="https://biz.heraldcorp.com/article/10923558">삼성SDS 구미</a></li>
+      <li><b>에이전트</b><a href="https://www.fnnews.com/news/202611030827593211">챗GPT 통합</a> · <a href="https://www.wikitree.co.kr/articles/1171183">그록 서빙 비용</a> · <a href="https://www.ddaily.co.kr/page/view/2026110405435518640">바이낸스 해킹</a> · <a href="https://www.mk.co.kr/news/business/12195136">현대차 AI 차단</a> · <a href="https://www.etnews.com/20261104000273">네이버 통합 에이전트</a> · <a href="https://www.newsis.com/view/NISX20261105_0003855788">카카오</a> · <a href="https://newsway.co.kr/news/view?ud=2026110515485409062">KT 통합 로그인</a></li>
+    </ul>
+  </footer>
+</main>
