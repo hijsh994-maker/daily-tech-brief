@@ -400,6 +400,12 @@ def main():
             "카테고리", "매체", "발행일", "보도", "체급", "헤드라인", "판정 사유",
             "본문확인", "반복후보", "발송이력", "게이트", "사례집",
             "링크없음", "중복의심", "URL"]
+    # [2026-11-11 사용자 지시 — 앞으로도 계속 유지] 헤드라인·판정 사유를 E·F열로 앞당긴다.
+    #   (발송순위 사유 등 나머지 열은 그 뒤로 밀린다. 헤드라인은 바로 읽히게 넓게.)
+    _front = ["idx", "판정", "순위(모델)", "발송순위(편집)", "헤드라인", "판정 사유"]
+    _order = [head.index(x) for x in _front] + [k for k, x in enumerate(head) if x not in _front]
+    _orig_head = head
+    head = [_orig_head[k] for k in _order]
     ws.append(head)
     matched = set()   # 제목 보조매칭을 1:1 로 묶어 같은 사건의 다른 후보가
                       # 중복으로 '발송' 표시되는 것을 막는다.
@@ -440,7 +446,7 @@ def main():
         casetxt = " ".join("사례%s" % x for x in mcase)
         peektxt = "O" if i in PEEK else ("" if r["grade"] != "고" else "-")
         hr = HR.get(i, ("", ""))
-        ws.append([i, r["grade"], r.get("rank") or "",
+        _row = ([i, r["grade"], r.get("rank") or "",
                    int(hr[0]) if str(hr[0]).isdigit() else hr[0], hr[1],
                    sc["total"] if sc else "", sc["route_w"] if sc else "",
                    sc["spread_w"] if sc else "", sc["tag_w"] if sc else "",
@@ -451,6 +457,7 @@ def main():
                    r.get("reason", ""),
                    peektxt, b[8], histtxt, gatetxt, casetxt,
                    b[5], b[6], url])
+        ws.append([_row[k] for k in _order])
     for row in ws.iter_rows(min_row=2, max_row=ws.max_row, max_col=len(head)):
         for cell in row:
             cell.font = Font(name=FONT)
@@ -459,8 +466,12 @@ def main():
         if g in GRADE_FILL:
             row[1].fill = GRADE_FILL[g]
     style_header(ws, len(head))
-    autosize(ws, [7, 7, 9, 11, 50, 10, 10, 8, 9, 10, 8, 24, 12, 7, 18, 20, 14, 10, 7,
-                  12, 62, 40, 9, 22, 16, 22, 10, 9, 30, 60])
+    _w = [7, 7, 9, 11, 50, 10, 10, 8, 9, 10, 8, 24, 12, 7, 18, 20, 14, 10, 7,
+          12, 62, 40, 9, 22, 16, 22, 10, 9, 30]
+    _w = [_w[k] for k in _order]
+    _w[head.index("헤드라인")] = 90      # 사용자 지시: 헤드라인을 바로 볼 수 있게 넓게
+    _w[head.index("판정 사유")] = 60
+    autosize(ws, _w)
 
     # ---------- 시트 3: 발송본 ----------
     ws = wb.create_sheet("발송본")
