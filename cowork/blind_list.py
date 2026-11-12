@@ -50,15 +50,111 @@ OUT = os.path.join(BASE, "out")
 
 # 통로 그룹: 훑는 순서를 정한다. tier0(사람·봇이 거른 입력)을 맨 앞에 둔다.
 # 종전에는 점수 상위가 맨 앞이었고, 그래서 tier0 하위 구간이 늘 마지막에 왔다.
-GROUP_ORDER = ["전일이월", "사용자추천(여유시)", "경쟁사속보", "반향후보", "tier0-사람큐레이션", "tier0-봇큐레이션", "tier0+교차",
+GROUP_ORDER = ["전일이월", "사용자추천(여유시)", "SK그룹행사", "경쟁사속보", "반향후보", "tier0-사람큐레이션", "tier0-봇큐레이션", "tier0+교차",
                "커뮤니티", "tier1", "tier2", "링크미확보"]
 # [2026-09-23] '반향후보' = buzz.py 가 잡은 낱말이 붙은 건(refine 의 반향+3 신호).
 #   '커뮤니티' = HN·GitHub·HF 에서 온 건. 둘 다 점수가 아니라 **통로**라 blind 원칙에 맞다.
 
 
+# ---------------------------------------------------------------------------
+# [2026-11-12 사용자 지시] 묶음 대표 제목에 가려 놓치지 않게 **같은 묶음의 다른 제목**을 함께 보여준다.
+#   11-12 실측: 대표 '삼성 사장단 … "AI 대전환 결의"' 한 줄만 보고 '중'을 줬는데 같은 묶음에
+#   '[단독]샘 올트먼 "삼성과 포스트 스마트폰 만들고 싶다"'가 있었다(사용자 추가).
+#   - 대표와 다른 제목을 최대 4개 `↳ 같은 묶음:` 줄로 붙이고 [묶음다름:N] 표시
+#   - 그 제목에 주요 인물·프런티어/빅테크 + 사건어가 있으면 [묶음주의] (verdict 가 `묶음확인:` 요구)
+#   - 제목 전체가 따옴표이거나 인터뷰 표지가 있으면 [발언형] (verdict 가 `화자:` 요구)
+#   - SK 그룹 주요 경영진 행사는 [SK행사] + 맨 위 그룹 (verdict 가 `SK행사:` 요구)
+_CFG = None
+
+
+def _cfg():
+    global _CFG
+    if _CFG is None:
+        try:
+            import yaml
+            _CFG = yaml.safe_load(open(os.path.join(BASE, "config", "keywords.yaml"), encoding="utf-8")) or {}
+        except Exception:
+            _CFG = {}
+    return _CFG
+
+
+def _norm_title(t):
+    t = re.sub(r"\[[^\]]{0,40}\]|\([^)]*\)", " ", t or "")
+    return re.sub(r"[^0-9A-Za-z가-힣]+", "", t).lower()
+
+
+def load_members(day):
+    """대표 제목(정규화) -> 같은 묶음 제목들. refine 이 남긴 ranked-<날짜>.json 을 읽는다."""
+    out = {}
+    try:
+        d = json.load(open(os.path.join(OUT, "ranked-%s.json" % day), encoding="utf-8"))
+    except Exception:
+        return out
+    for r in d.get("items") or []:
+        ms = [m for m in (r.get("members") or []) if m]
+        if len(ms) >= 2:
+            out[_norm_title(r.get("title") or "")] = ms
+            out[(r.get("title") or "").strip()] = ms
+    return out
+
+
+def other_titles(head, members, limit=4):
+    import difflib
+    nh = _norm_title(head)
+    scored = []
+    seen = {nh}
+    for m in members or []:
+        nm = _norm_title(m)
+        if not nm or nm in seen:
+            continue
+        seen.add(nm)
+        ratio = difflib.SequenceMatcher(None, nh, nm).ratio()
+        if ratio < 0.5:
+            scored.append((ratio, re.sub(r"\s+", " ", m).strip()))
+    scored.sort()
+    return [m for _, m in scored[:limit]]
+
+
+_KEY_SUBJ = re.compile(
+    r"오픈AI|OpenAI|올트먼|Altman|앤트로픽|앤스로픽|Anthropic|아모데이|구글|Google|딥마인드|하사비스|피차이|"
+    r"메타|저커버그|마이크로소프트|나델라|엔비디아|Nvidia|젠슨|애플|Apple|아마존|Amazon|xAI|머스크|"
+    r"최태원|이재용|정의선|구광모|손정의", re.I)
+_KEY_EVENT = re.compile(
+    r"제안|만들고 싶|공동\s?개발|출시|공개|인수|투자|계약|체결|협력|선정|수주|착수|도입|합의|"
+    r"propos|launch|acqui|invest|partner|unveil", re.I)
+_QUOTE_OPEN = "\"“‘'「"
+_QUOTE_CLOSE = "\"”’'」"
+
+
+def is_statement(head):
+    """제목 전체가 인용문이거나 인터뷰 표지가 있는가."""
+    im = ((_cfg().get("people") or {}).get("interview_markers")) or r"인터뷰|대담|일문일답"
+    t = (head or "").strip()
+    if re.search(im, t):
+        return True
+    t = re.sub(r"^\[(.*)\]$", r"\1", t).strip()                 # tier0 의 [제목] 표기
+    t = re.sub(r"^(\[[^\]]{1,12}\]\s*)+", "", t).strip()         # [단독] 같은 머리표
+    if len(t) < 12 or t[0] not in _QUOTE_OPEN:
+        return False
+    k = _QUOTE_OPEN.index(t[0])
+    return t[-1] == _QUOTE_CLOSE[k] and t.count(t[0]) + (t.count(t[-1]) if t[0] != t[-1] else 0) <= 2
+
+
+def sk_event(head, members=None):
+    se = ((_cfg().get("people") or {}).get("sk_group_events")) or {}
+    if not se.get("subject"):
+        return False
+    for t in [head] + list(members or []):
+        if t and re.search(se["subject"], t) and any(re.search(e, t) for e in se.get("events") or []):
+            return True
+    return False
+
+
 def group_of(d):
     tier = d.get("tier") or ""
     sig = " ".join(d.get("signals") or [])
+    if d.get("_sk"):
+        return "SK그룹행사"
     # [2026-10-27] run.sh late 가 붙인 오전 수집 이후 경쟁사 속보. 맨 앞에서 본다.
     if (d.get("tier") or "") == "carryover":   # [2026-10-27] 전일 '고' 미발송 이월
         return "전일이월"
@@ -151,6 +247,12 @@ def main():
         h = hashlib.md5(("%s|%s" % (a.date, d["idx"])).encode()).hexdigest()
         return (GROUP_ORDER.index(g), d.get("pub_date") or "", h)
 
+    _mem = load_members(a.date)
+    for d in cands:
+        _h = (d.get("headline") or "").strip()
+        d["_members"] = _mem.get(_h) or _mem.get(_norm_title(_h)) or []
+        d["_sk"] = sk_event(_h, d["_members"])
+
     cands.sort(key=sort_key)
 
     lines = []
@@ -190,6 +292,17 @@ def main():
     lines.append("#     저·저·중으로 걸렀고 임원이 '캐치 못해 아쉽다'고 했다.")
     lines.append("#   === 커뮤니티 === 는 HN·GitHub·HF 통로입니다. 영문·개발자 관점이라 국내")
     lines.append("#     매체보다 D+5~7 빠릅니다. 스타 속도·포인트는 signal 로 헤드라인 뒤에 붙습니다.")
+    lines.append("#   ↳ 같은 묶음: 은 대표 제목과 **다른 제목으로 실린 같은 묶음 기사**입니다(2026-11-12).")
+    lines.append("#     대표 한 줄만 보고 판정하지 말 것 — 11-12 에 대표 '삼성 사장단 AI 대전환 결의'만 보고")
+    lines.append("#     '중'을 줘 같은 묶음의 '올트먼, 삼성에 AI 디바이스 공동개발 제안'을 놓쳤다.")
+    lines.append("#     [묶음주의] 는 그 제목에 주요 인물·프런티어/빅테크 + 사건어가 있다는 표시입니다.")
+    lines.append("#     '중'·'저' 로 내리려면 사유에 `묶음확인:<그 제목을 보고도 내리는 이유>` (verdict 가 요구).")
+    lines.append("#     그 제목이 더 중요한 사건이면 그 기사로 '고' 판정하고 `run.sh find` 로 링크를 잡는다.")
+    lines.append("#   [발언형] 은 인터뷰·대담이거나 제목 전체가 인용문인 건입니다. '분석이라 중'으로 기계적으로")
+    lines.append("#     내리지 말고 본문에서 **누가 말했는지** 확인합니다(판정기준-요약 1절 2-1).")
+    lines.append("#     '중'·'저' 면 사유에 `화자:<이름·직함 / 내린 이유>`, '고' 면 `화자:` 와 `인사이트:<본문 인용>`.")
+    lines.append("#   [SK행사] 는 SK 그룹 주요 경영진 행사(CEO 세미나·이천포럼·확대경영회의·SK AI 서밋·그룹 인사)입니다.")
+    lines.append("#     예고·개최 단계라도 '고'(예고 1회 + 결과 1회, F9 예외). 내리려면 `SK행사:<사유 — 예: 예고 MM-DD 기발송>`.")
     lines.append("#   [링크없음] 은 URL 을 못 찾은 건입니다. '고'로 판정하면")
     lines.append("#   WebSearch 로 원문을 찾아야 실을 수 있습니다.")
     lines.append("")
@@ -225,10 +338,21 @@ def main():
         #   어긋나지 않는다(매체·발행일과 같은 층위). 09-15 에 한컴을
         #   '세계 최초' 수식만 보고 실었다가 편집자가 뺐다 — 사용자:
         #   "오픈AI와 한컴이 같은 가중치를 가지지는 않을 것 아냐."
+        _others = other_titles(head, d.get("_members"))
+        if _others:
+            flags += " [묶음다름:%d]" % len(_others)
+            if any(_KEY_SUBJ.search(m) and _KEY_EVENT.search(m) for m in _others):
+                flags += " [묶음주의]"
+        if is_statement(head):
+            flags += " [발언형]"
+        if d.get("_sk"):
+            flags += " [SK행사]"
         lines.append("%s | %s | %s | %s | %s | ⟨%s⟩ %s%s" % (
             d["idx"], g, (d.get("outlet") or "?")[:12],
             (d.get("pub_date") or "?")[5:], outlets_band(d.get("n_outlets")),
             _subject_tag(head), head, flags))
+        for _m in _others:
+            lines.append("        ↳ 같은 묶음: %s" % _m[:110])
 
     path = os.path.join(OUT, "candidates-blind-%s.txt" % a.date)
     open(path, "w", encoding="utf-8").write("\n".join(lines) + "\n")

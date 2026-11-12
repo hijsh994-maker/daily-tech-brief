@@ -91,9 +91,14 @@ def main():
     fpath = os.path.join("out", "candidates-focus-%s.txt" % a.date)
     with open(fpath, "w", encoding="utf-8") as f:
         f.write("# 사람 판정 대상만 (자동 '저' %d건·기판정 %d건 제외) — %s\n" % (len(auto), len(existing), a.date))
+        _skip = False
         for l in lines:
             m = re.match(r"^([NLC]?\d+) \| ", l)
-            if m and m.group(1) in done:
+            if m:
+                _skip = m.group(1) in done
+            elif _skip and l.lstrip().startswith("↳"):
+                continue                      # [2026-11-12] 뺀 건의 '같은 묶음' 줄도 함께 뺀다
+            if m and _skip:
                 continue
             f.write(l + "\n")
     print("[prejudge] 저장: %s (판정 %d행) / 판정 목록: %s" % (vpath, len(rows), fpath))

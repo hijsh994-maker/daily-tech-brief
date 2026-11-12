@@ -301,7 +301,7 @@ def cluster(items, canon, min_shared=3, min_jaccard=0.34):
     """
     order = sorted(range(len(items)),
                    key=lambda i: (items[i]["src"] in TRUSTED,
-                                  len(SR.distinctive(txt(items[i])))),
+                                  len(SR.distinctive(cluster_text(items[i])))),
                    reverse=True)
 
     reps = []                     # [{base, ents, kor, members}]
@@ -310,8 +310,8 @@ def cluster(items, canon, min_shared=3, min_jaccard=0.34):
 
     for i in order:
         it = items[i]
-        base = SR.distinctive(txt(it))
-        ents = entity_ids(txt(it), canon)
+        base = SR.distinctive(cluster_text(it))
+        ents = entity_ids(cluster_text(it), canon)
         kor = is_korean(it)
         u = it.get("url")
         if u and u in byurl:                    # URL 같으면 무조건 동일 기사
@@ -390,8 +390,48 @@ def cluster(items, canon, min_shared=3, min_jaccard=0.34):
     return [rp["members"] for rp in reps]
 
 
+# [2026-11-12 사용자 지시] 묶음 대표 제목에 가려 중요한 기사를 놓치지 않게 한다.
+#   11-12 실측: 파이낸셜뉴스 연재 4건(꼬리표 '[오픈AI, 삼성에 러브콜]')이 한 묶음이 됐고
+#   대표가 '삼성 사장단 … 자필 메시지로 "AI 대전환 결의"'(반응형·제목 김)로 뽑혀,
+#   같은 묶음의 '[단독]샘 올트먼 "삼성과 포스트 스마트폰 만들고 싶다"'(사건형)가 판정에서 묻혔다.
+#   (1) 연재 꼬리표는 묶을 때 뗀다  (2) 대표는 사건형 제목을 반응형보다 먼저 뽑는다.
+_SERIES_TAG = re.compile(r"\s\[[^\[\]]{4,40}\]\s*$")
+_REACT_TITLE = re.compile(r"결의|다짐|촉각|관심 집중|후폭풍|들썩|술렁|화답|만남 이후|회동 이후")
+_EVENT_TITLE = re.compile(r"제안|만들고 싶|공동\s?개발|출시|공개|인수|투자|계약|체결|협력|선정|수주|착수|도입|합의")
+
+
+def strip_series_tag(title):
+    """제목 끝의 연재·기획 꼬리표를 뗀다. 제목 전체가 대괄호인 tier0 표기는 건드리지 않는다."""
+    t = title or ""
+    m = _SERIES_TAG.search(t)
+    if m and m.start() >= 10:
+        return t[:m.start()]
+    return t
+
+
+def cluster_text(it):
+    return "%s %s" % (strip_series_tag(it.get("title")), it.get("summary") or "")
+
+
+def _title_kind(title):
+    t = title or ""
+    return (1 if _EVENT_TITLE.search(t) else 0) - (1 if _REACT_TITLE.search(t) else 0)
+
+
+def sk_event_key(title, cfg):
+    """SK 그룹 주요 경영진 행사 제목이면 그 행사 패턴을 돌려준다(keywords.yaml people.sk_group_events)."""
+    se = (cfg.get("people") or {}).get("sk_group_events") or {}
+    t = title or ""
+    if not se.get("subject") or not re.search(se["subject"], t):
+        return None
+    for e in se.get("events") or []:
+        if re.search(e, t):
+            return e
+    return None
+
+
 def pick_representative(group):
-    """대표 기사: 한글 기사 > 큐레이션 소스 > 링크 보유 > 한국 매체 > 제목 김.
+    """대표 기사: 한글 기사 > 큐레이션 소스 > 링크 보유 > 사건형 제목 > 한국 매체 > 제목 김.
 
     한글 우선을 최상위 기준으로 둔다(영문 대표가 뽑히면 브리프에 영문이 나감).
     """
@@ -400,6 +440,7 @@ def pick_representative(group):
             1 if is_korean(x) else 0,
             1 if x["src"] in TRUSTED else 0,
             1 if x.get("url") else 0,
+            _title_kind(x.get("title")),
             1 if re.search(r"[가-힣]", x.get("outlet") or "") else 0,
             len(x.get("title") or ""),
         )
@@ -747,6 +788,12 @@ def score(rep, group, cfg, cat=None):
         s += 1
         why.append("VIP+1(%s)" % vip[0])
 
+    # [2026-11-12 사용자 지시] 인터뷰·대담은 판정 목록에 오르게 한다(화자·인사이트 판단은 사람이).
+    _im = (cfg.get("people") or {}).get("interview_markers")
+    if _im and re.search(_im, rep.get("title") or ""):
+        s += 2
+        why.append("인터뷰+2")
+
     d, dwhy = demote_score(rep, cfg)
     if d:
         s += d
@@ -921,10 +968,33 @@ def main():
     log("클러스터 %d개 (평균 %.2f건, 최대 %d건)"
         % (len(groups), len(items) / len(groups), max(len(g) for g in groups)))
 
+    # [2026-11-12 사용자 지시] SK 그룹 주요 경영진 행사: 같은 행사 기사를 한 묶음으로 합치고 컷에 고정.
+    #   11-12 실측: 'SK CEO 세미나' 기사가 묶음 2개(4점·2점)로 갈려 둘 다 컷(7점) 밖이었다.
+    sk_of = {}
+    merged, sk_first = [], {}
+    for g in groups:
+        k = None
+        for x in g:
+            k = sk_event_key(x.get("title"), cfg)
+            if k:
+                break
+        if k and k in sk_first:
+            sk_first[k].extend(g)
+            continue
+        if k:
+            sk_first[k] = g
+            sk_of[id(g)] = k
+        merged.append(g)
+    if sk_first:
+        log("SK 그룹 행사 %d종 -> 묶음 병합·컷 고정 (%s)"
+            % (len(sk_first), ", ".join("%s %d건" % (k[:12], len(g)) for k, g in sk_first.items())))
+    groups = merged
+
     rows = []
     row_group = {}          # id(row) -> 원본 클러스터. tier0 보존 점검 전용
     for g in groups:
-        rep = pick_representative(g)
+        _sk = sk_of.get(id(g))
+        rep = pick_representative([x for x in g if sk_event_key(x.get("title"), cfg) == _sk] if _sk else g)
         # 카테고리를 먼저 정한다. score() 가 주제 적합도 가점에 쓴다.
         cat = categorize(rep, cfg)
         sc, why, must = score(rep, g, cfg, cat)
@@ -949,6 +1019,10 @@ def main():
         #   잘리므로(74건짜리 클러스터도 있다) 직렬화된 값으로 세면 오탐이
         #   난다. 원본 그룹을 id 로 붙여 두고 아래 점검에서만 쓴다.
         row_group[id(rows[-1])] = g
+        if _sk:
+            rows[-1]["sk_event"] = _sk
+            rows[-1]["score"] += 5
+            rows[-1]["why"].append("SK행사+5")
     rows.sort(key=lambda r: -r["score"])
 
     # [2026-09-23] 반향(버즈) 후보. 임원 피드백: "타입세이프AI·오픈클로처럼 새로운
@@ -991,7 +1065,9 @@ def main():
     def from_tier0(r):
         # 클러스터 단위 레코드라 개별 src 가 아니라 sources(집합)를 본다.
         # [2026-09-23] 반향 낱말이 붙은 건도 고정한다(buzz.py).
-        return bool(set(r.get("sources") or []) & CURATED) or bool(r.get("buzz"))
+        # [2026-11-12] SK 그룹 주요 경영진 행사도 고정한다(사용자 지시).
+        return (bool(set(r.get("sources") or []) & CURATED) or bool(r.get("buzz"))
+                or bool(r.get("sk_event")))
 
     scored = [r for r in rows if r["score"] >= a.min_score]
     cut = scored[:a.max_items]

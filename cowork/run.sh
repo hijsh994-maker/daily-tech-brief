@@ -1210,6 +1210,48 @@ if _need:
     print("[verdict]   09-15 앤트로픽 IPO 를 이 표시를 보고도 실어 편집자가 뺐습니다.")
     dup_bad = True
 
+# [2026-11-12 사용자 지시] 묶음주의·발언형·SK행사 — blind 목록의 표시를 보고도 내린 이유를 남기게 한다.
+#   11-12 에 (1) 대표 제목만 보고 '올트먼-삼성 AI 디바이스 제안'을 '중'으로 묻었고
+#   (2) 영향력 있는 화자의 인터뷰를 '분석이라 평이'로 내렸고 (3) SK CEO 세미나는 판정에도 못 올랐다.
+#   - [묶음주의] 를 '중'·'저' 로 두려면 `묶음확인:<같은 묶음 제목을 보고도 내리는 이유>`
+#   - [발언형] 은 `화자:<이름·직함>`(고는 `인사이트:<본문 인용>` 도) 또는 `발언형아님:<사건 보도>`
+#   - [SK행사] 를 '중'·'저' 로 두려면 `SK행사:<사유 — 예: 예고 MM-DD 기발송>`
+#   - 인터뷰('고' 사유에 `화자:`)는 하루 최대 2건
+flag_bad = False
+_flags = {}
+try:
+    for _l in open("out/candidates-blind-%s.txt" % day, encoding="utf-8"):
+        _m = re.match(r"^([NLC]?\d+) \| ", _l)
+        if _m:
+            _flags[_m.group(1)] = [f for f in ("[묶음주의]", "[발언형]", "[SK행사]") if f in _l]
+except Exception:
+    pass
+_CLOSED = re.compile(r"^\s*(자동:|중복|시황실적|AI무관|배제|운영공지|채용인력)")
+_fl_fail = []
+for r in rows:
+    fl = _flags.get(r["idx"].strip()) or []
+    if not fl:
+        continue
+    g_, rs = r["grade"].strip(), (r.get("reason") or "")
+    if "[묶음주의]" in fl and g_ in ("중", "저") and "묶음확인:" not in rs:
+        _fl_fail.append((r["idx"], "[묶음주의] — `묶음확인:` 없음"))
+    if "[SK행사]" in fl and g_ in ("중", "저") and "SK행사:" not in rs:
+        _fl_fail.append((r["idx"], "[SK행사] — `SK행사:` 없음(예고·개최 단계라도 기본 '고')"))
+    if "[발언형]" in fl and "발언형아님:" not in rs:
+        if g_ == "고" and not ("화자:" in rs and "인사이트:" in rs):
+            _fl_fail.append((r["idx"], "[발언형] '고' — `화자:`·`인사이트:` 또는 `발언형아님:` 없음"))
+        elif g_ in ("중", "저") and "화자:" not in rs and not _CLOSED.match(rs):
+            _fl_fail.append((r["idx"], "[발언형] — `화자:<이름·직함 / 내린 이유>` 또는 `발언형아님:` 없음"))
+_interviews = [r["idx"] for r in gos_r if "화자:" in (r.get("reason") or "")]
+if len(_interviews) > 2:
+    _fl_fail.append((",".join(_interviews), "인터뷰 '고' %d건 — 하루 최대 2건(11-12 사용자 결정)" % len(_interviews)))
+if _fl_fail:
+    print("[verdict] **묶음·발언형·SK행사 표시를 해명하지 않은 건 %d건**" % len(_fl_fail))
+    for i_, w_ in _fl_fail[:30]:
+        print("[verdict]   idx %-5s %s" % (i_, w_))
+    print("[verdict]   blind 목록의 '↳ 같은 묶음' 줄과 본문(run.sh bodypeek)을 보고 사유를 적을 것.")
+    flag_bad = True
+
 # [2026-09-15 신설] 역전(B) 을 쓸 때 사유를 남기게 한다.
 #   사용자 선택 B: "파급이 매우 크면 1축(사업적용)을 역전해 상단 허용".
 #   역전 자체는 옳다 — 우리 사업에 안 걸리는 빅테크 지각변동이 구조적으로
@@ -1293,7 +1335,8 @@ print("[verdict] '고' %d건 (rank 순): %s"
       % (len(gos), ", ".join("%s:%s" % ((r.get("rank") or "-").strip(), r["idx"])
                              for r in order)))
 sys.exit(1 if (missing or extra or bad or rank_bad or rank_bad_cat
-               or jung_bad or ref_bad or nf_bad or dup_bad or rev_bad or r2_bad) else 0)
+               or jung_bad or ref_bad or nf_bad or dup_bad or rev_bad or r2_bad
+               or flag_bad) else 0)
 PY
   _v=$?
   # [2026-09-16 신설] 위 게이트는 '새사실: 을 적었는가' 만 본다. 본문을 안 읽고
