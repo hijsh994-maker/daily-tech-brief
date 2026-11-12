@@ -1,0 +1,45 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-11-12 09:33:24 KST === 
+Message TS: 1794443604.496399
+_[텔레그램 로그 2026-11-12] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 11개 항목 + 개별 메시지 11건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. Google Says Gemini App Rolling Out on Apple CarPlay Starting Today (MacRumors)
+o 링크: <https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/|macrumors.com/2026/11/11/google-gemini-apple-carplay>
+2. AlphaGenome 2: Deciphering how cells read DNA to better understand disease (Google DeepMind)
+o 링크: <https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/|deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease>
+3. 메타, AI 인프라 수장 사임…후임에는 AWS 출신 선임 (SBS Biz)
+o 링크: <https://n.news.naver.com/mnews/article/374/0000543144?sid=104|n.news.naver.com/mnews/article/374/0000543144?…>
+4. 코어위브 CEO "지분 매각계획 중단"…깜짝실적에 20%대 주가폭등 (연합뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/001/0016437087?sid=104|n.news.naver.com/mnews/article/001/0016437087?…>
+5. "'엔비디아칩 대중 유출 단속' 거듭 지시에도 러트닉 상무가 뭉갰다" (뉴스핌)
+o 링크: <https://www.newspim.com/news/view/20261112000194|newspim.com/news/view/20261112000194>
+_— 개별 메시지(다이제스트 외) —_
+6. 앤트로픽, 클로드용 '엑셀' 공개…IPO 앞두고 MS·구글과 경쟁 확대 (ZDNet Korea)
+o 링크: <https://n.news.naver.com/mnews/article/092/0002444765?sid=105|n.news.naver.com/mnews/article/092/0002444765?…>
+7. 美데이터센터서 10조 손실…손정의 'AI 올인' 시험대 [도쿄나우] (한국경제)
+o 링크: <https://n.news.naver.com/mnews/article/015/0005352546?sid=104|n.news.naver.com/mnews/article/015/0005352546?…>
+8. 전체 한도 1회 무료 초기화…클로드 Pro·Max·Ultra·Team 대상 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/ai/436238|tokenpost.kr/news/ai/436238>
+9. 오픈AI, 기업도 챗GPT 입점 시대…상품 올리고 고객 반응 확인한다 (이데일리)
+o 링크: <https://n.news.naver.com/mnews/article/018/0006408022?sid=105|n.news.naver.com/mnews/article/018/0006408022?…>
+10. 몸값 낮췄더니 주문 몰렸다…앤트로픽, 1.5조달러로 다시 올리나 (뉴시안)
+o 링크: <https://www.newsian.co.kr/news/articleView.html?idxno=101101|newsian.co.kr/news/articleView.html?idxno=101101>
+11. 구글, 최대 1000개 질문 한 번에 판별하는 제미나이 API 공개 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/ai/436777|tokenpost.kr/news/ai/436777>
+12. "엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의" (연합뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/001/0016437195?sid=104|n.news.naver.com/mnews/article/001/0016437195?…>
+링크 미확보
+• (다이제스트) 앤스로픽·사모펀드 합작사 Ode, AI 성과 연동 수수료 모델 확대
+• (다이제스트) 구글, Gemini 4 Flash 추정 모델 Hydrogen 내부 테스트
+• (다이제스트) 스페이스XAI, Grok Bot 1.0 출시
+• (다이제스트) 코어위브, 최소 40억 달러 투자적격 등급 담보 대출 추진
+• (다이제스트) 바이트댄스, 메타 Muse 유사 개인용 AI 에이전트 출시 준비
+• (다이제스트) 세쿼이아, AI 기반 기업 인수 플랫폼 Sequence Holdings 투자 계획
+• (개별) 오픈AI 2분기 매출 성장 둔화, 앤스로픽에 추월
+• (개별) 앤스로픽 S-1 수정본(Ver 2) 신규 추가 및 변경 내용
+• (개별) 오픈AI, Codex 업데이트 및 사용량 한도 초기화 암시
+• (개별) 앤스로픽, 10월 OpenRouter 내 주요 고객군 지출 증가세 재가속
+(개별 메시지 중 애널리스트 코멘트·리뷰 3건은 뉴스 사건이 아니라 제외)
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

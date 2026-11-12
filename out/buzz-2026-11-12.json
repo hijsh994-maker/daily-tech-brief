@@ -1,0 +1,439 @@
+{
+ "date": "2026-11-12",
+ "terms": [
+  {
+   "term": "Lightricks",
+   "norm": "lightricks",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "HuggingFace",
+    "quasa.io"
+   ],
+   "days": 3,
+   "first": "2026-11-04",
+   "reaction": 2,
+   "community": 2,
+   "titles": [
+    "HuggingFace(11-04) | HF trending: Lightricks/LTX-2.5",
+    "quasa.io(11-09) | Lightricks 리뷰: 누구나 사용할 수 있는 AI 창작 도구",
+    "HuggingFace | HF trending: Lightricks/LTX-2.5"
+   ],
+   "score": 18
+  },
+  {
+   "term": "OpenAI Revenue Hits",
+   "norm": "openairevenuehits",
+   "n_outlets": 7,
+   "n_today": 6,
+   "outlets": [
+    "Coinpaper",
+    "Crypto Briefing",
+    "Dataconomy",
+    "Forbes",
+    "Indian Television Dot Com",
+    "PYMNTS.com",
+    "SuaraGarut.ID"
+   ],
+   "days": 2,
+   "first": "2026-11-12",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "Crypto Briefing(11-11) | OpenAI revenue hits $10 billion in Q3 as enterprise demand surges",
+    "Forbes | OpenAI Revenue Hits $10 Billion In Q3 As Loss Per Dollar Falls To $1.09",
+    "Dataconomy | OpenAI Revenue Hits $10 Billion As Operating Losses Widen",
+    "Forbes | OpenAI Revenue Hits $10 Billion As Losses Reach $10.9 Billion",
+    "Indian Television Dot Com | OpenAI revenue hits $10 billion in Q3 as operating loss widens to $10.9 billion",
+    "SuaraGarut.ID | OpenAI Revenue Hits 10 Billion Dollars as Enterprise Sales Surge"
+   ],
+   "score": 16
+  },
+  {
+   "term": "Nvidia Board",
+   "norm": "nvidiaboard",
+   "n_outlets": 13,
+   "n_today": 3,
+   "outlets": [
+    "Analytics Insight",
+    "Bloomberg",
+    "FourWeekMBA",
+    "HN",
+    "Investor's Business Daily",
+    "Kansas City Star",
+    "Techiexpert.com",
+    "The Defiant"
+   ],
+   "days": 5,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Yahoo(11-03) | Elizabeth Warren Says Nvidia Board and Jensen Huang 'Owe Congress Answers’ Over ",
+    "FourWeekMBA(11-09) | AI Daily: Anthropic Buys 1.7GW as Nvidia Board Opens Probe",
+    "Bloomberg(11-09) | Nvidia Board to Probe Spying Case After CEO Admits Affair",
+    "The Defiant | Nvidia Board to Discuss Huang's Future, FT Reports",
+    "The Tech Buzz | Nvidia Board Moves to Oust Jensen Huang After Spy Scandal",
+    "Kansas City Star | Nvidia board meets to decide CEO Huang's future, source says"
+   ],
+   "score": 15
+  },
+  {
+   "term": "젠슨황 스캔들",
+   "norm": "젠슨황스캔들",
+   "n_outlets": 21,
+   "n_today": 14,
+   "outlets": [
+    "IT조선",
+    "Investing.com 한국어",
+    "YTN",
+    "YTN 사이언스",
+    "경향신문",
+    "노컷뉴스",
+    "뉴스1",
+    "매일경제"
+   ],
+   "days": 3,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "연합뉴스 한민족센터(11-10) | \"'젠슨황 스캔들' 여성, 中 투자자들에 '엔비디아 친분' 과시\"",
+    "연합뉴스(11-10) | 젠슨황 스캔들 '對中안보·AI규제' 파장 확산…美민주 파상공세",
+    "노컷뉴스(11-10) | 젠슨황 스캔들 후폭풍 일파만파…대중(對中) 안보·AI규제 강화",
+    "신아일보 | '젠슨황 스캔들' 삼전닉스, HBM 공급 차질 없다…\"공급망 다변화 기회\"",
+    "연합뉴스 | 젠슨황 스캔들로 美의회 '對中 칩규제 3법' 탄력…韓영향 주목",
+    "파이낸셜포스트 | [젠슨황 스캔들] 미국 의회 불똥 튄 K-반도체…'對中 칩 규제 3법' 리스크"
+   ],
+   "score": 13
+  },
+  {
+   "term": "United Airlines",
+   "norm": "unitedairlines",
+   "n_outlets": 16,
+   "n_today": 16,
+   "outlets": [
+    "CBS News",
+    "CNBC",
+    "FL360aero",
+    "GeekNews",
+    "HN",
+    "KRON4",
+    "New York Post",
+    "PYOK"
+   ],
+   "days": 1,
+   "first": "2026-11-12",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews | United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
+    "CNBC | United Airlines moves to block AI agents from its platform over security concern",
+    "CBS News | United Airlines bans AI agents from booking flights on behalf of travelers",
+    "Unite.AI | United Airlines Bars Unauthorized AI Agents From Booking Travel",
+    "FL360aero | United Airlines vs AI Agents: Is the Airline Industry Preparing to Fight the Nex",
+    "WSJ | Exclusive | United Airlines Is Banning AI Bots From Booking Flights"
+   ],
+   "score": 12
+  },
+  {
+   "term": "Enterprise Sales Surge",
+   "norm": "enterprisesalessurge",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "NewsBytes",
+    "SuaraGarut.ID"
+   ],
+   "days": 2,
+   "first": "2026-11-12",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "NewsBytes(11-06) | OpenAI plans market debut in 2027 as enterprise sales surge",
+    "SuaraGarut.ID | OpenAI Revenue Hits 10 Billion Dollars as Enterprise Sales Surge"
+   ],
+   "score": 12
+  },
+  {
+   "term": "IREN Surges",
+   "norm": "irensurges",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "24/7 Wall St."
+   ],
+   "days": 2,
+   "first": "2026-11-09",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "24/7 Wall St.(11-09) | TeraWulf Rises 4% After Q3 Beat and Google-Backed Anthropic Lease; IREN Surges 1",
+    "24/7 Wall St. | Applied Digital Rallies 8% as CoreWeave's Results Revive the AI Data Center Trad"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Yogurt",
+   "norm": "yogurt",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Yogurt – Free, private, open-source alternative to Granola"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Granola",
+   "norm": "granola",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Yogurt – Free, private, open-source alternative to Granola"
+   ],
+   "score": 11
+  },
+  {
+   "term": "MiniMaxAI",
+   "norm": "minimaxai",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HuggingFace"
+   ],
+   "days": 1,
+   "first": "2026-11-12",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HuggingFace | HF trending: MiniMaxAI/MiniMax-H3-Image"
+   ],
+   "score": 11
+  },
+  {
+   "term": "제21회 국제로봇콘테스트",
+   "norm": "제21회국제로봇콘테스트",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "BBS불교방송",
+    "드론매거진 뉴스",
+    "전자신문"
+   ],
+   "days": 2,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(11-11) | 대구시, 13·14일 이틀간 엑스코에서 '제21회 국제로봇콘테스트' 개최",
+    "BBS불교방송(11-11) | '로봇들의 뜨거운 대결'…대구서 미래 기술 겨룬다 '제21회 국제로봇콘테스트'",
+    "드론매거진 뉴스 | 드론 군무부터 휴머노이드 점원까지… '제21회 국제로봇콘테스트' 역대 최대 규모 개막"
+   ],
+   "score": 9
+  },
+  {
+   "term": "Chainalysis",
+   "norm": "chainalysis",
+   "n_outlets": 3,
+   "n_today": 2,
+   "outlets": [
+    "Dynamis LLP",
+    "PANews",
+    "深潮TechFlow"
+   ],
+   "days": 2,
+   "first": "2026-11-12",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Dynamis LLP(11-05) | Chainalysis Hack: AI Agents, DOJ & Criminal Liability",
+    "PANews | Chainalysis: 미국 수출 규제를 우회하는 중국 AI 대형 모델 '증류 열풍' 배후의 온체인 그림자 시장",
+    "深潮TechFlow | Chainalysis Report: The On-Chain Shadow Market Behind China’s AI Large Model “Di"
+   ],
+   "score": 9
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Nvidia H200",
+   "norm": "nvidiah200",
+   "n_outlets": 20,
+   "n_today": 12,
+   "outlets": [
+    "ABP Live English",
+    "Chosunbiz",
+    "GV Wire",
+    "GuruFocus",
+    "Hindustan Times",
+    "Hokanews",
+    "Livemint",
+    "New York Post"
+   ],
+   "days": 5,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "digitimes(11-03) | Iluvatar CoreX Tiangai 300 tops Nvidia H200 in select AI inference tests, with l",
+    "Silicon UK(11-03) | Shanghai’s Iluvatar CoreX Says Chip Equals Nvidia H200",
+    "Hokanews(11-06) | Nvidia H200 AI Chips 600,000 Units Reportedly Stuck in Hong Kong as China Blocks",
+    "Reuters | EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+    "GV Wire | Military-Linked Chinese University Bought Nvidia H200 Chips Despite US Blacklist",
+    "TweakTown | Chinese university with military ties bought two NVIDIA H200 AI chips worth $123"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Wyoming",
+   "norm": "wyoming",
+   "n_outlets": 16,
+   "n_today": 2,
+   "outlets": [
+    "Bloomberg.com",
+    "Cody Enterprise",
+    "Coinpaper",
+    "Crusoe.ai",
+    "Douglas Budget",
+    "Mezha.net",
+    "Powell Tribune",
+    "Reuters"
+   ],
+   "days": 5,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "WyoFile(11-06) | Google commits to spending $17B on AI data centers in Wyoming",
+    "Bloomberg.com(11-06) | Google Plans to Spend $17 Billion on Wyoming Data Center",
+    "Your Wyoming Link(11-06) | Wyoming’s Data Center Debate Runs Through Its Water Supply",
+    "Wyoming Public Media | Wyoming lawmakers mull water use solutions to data center development",
+    "Douglas Budget | Google commits to spending $17B on AI data centers in Wyoming"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Geo Festa",
+   "norm": "geofesta",
+   "n_outlets": 13,
+   "n_today": 4,
+   "outlets": [
+    "경기타임스 e",
+    "경충일보",
+    "머니투데이",
+    "서울경제TV",
+    "세계일보",
+    "연합뉴스",
+    "이데일리",
+    "중앙일보"
+   ],
+   "days": 5,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "연합뉴스(11-04) | 국토부, 4∼6일 킨텍스서 공간정보 박람회 'K-Geo Festa'",
+    "커넥트 데일리(11-04) | 지오 인텔리전스 시대의 서막…‘2026 K-Geo Festa’ 개최:커넥트 데일리",
+    "이데일리(11-04) | 지도 넘어 AI로…'K-Geo Festa' 4일 개막",
+    "경충일보 | 이천시, K-Geo Festa서 ‘이천형 디지털 트윈’ 성과 선보여",
+    "하나로신문/일보 | 이천시, 2026 K-Geo Festa」서 가상 모형(디지털 트윈) 기반 미래형 스마트도시 선보여",
+    "커넥트이천 | [이천시] 「2026 K-Geo Festa」서 디지털 트윈 스마트도시 선보여"
+   ],
+   "score": 10
+  },
+  {
+   "term": "OmniOps",
+   "norm": "omniops",
+   "n_outlets": 6,
+   "n_today": 1,
+   "outlets": [
+    "Breaking Travel News",
+    "TNGlobal",
+    "Telecompaper",
+    "The Paypers",
+    "Wamda",
+    "Zawya"
+   ],
+   "days": 5,
+   "first": "2026-11-03",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TNGlobal(11-03) | Tencent Cloud, OmniOps partner to provide sovereign AI infrastructure in Saudi A",
+    "Breaking Travel News(11-03) | Tencent Cloud and OmniOps Partner to Advance Enterprise AI Development in Saudi ",
+    "Zawya(11-04) | Tencent Cloud and OmniOps partner to advance enterprise AI development in Saudi ",
+    "Wamda | OmniOps unveils Bunyan Inference Hub to simplify AI deployment in Saudi Arabia"
+   ],
+   "score": 10
+  },
+  {
+   "term": "TPU 8tx",
+   "norm": "tpu8tx",
+   "n_outlets": 23,
+   "n_today": 3,
+   "outlets": [
+    "AI 매터스",
+    "Chosunbiz",
+    "Data Center Knowledge",
+    "NDTV Profit",
+    "Pulse 2.0",
+    "TheMiilk",
+    "VOI.ID",
+    "https://www.diarypoint.com/"
+   ],
+   "days": 3,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "한국경제(11-10) | 구글, 보안 강화한 새 AI칩 공개…TPU 8tx·TPU 8i MAX 발표",
+    "디지털투데이(11-10) | 구글, 새 AI 칩 ‘TPU 8tx’·’TPU 8i 맥스' 공개...보안·성능 강화",
+    "AI 매터스(11-10) | 구글, 8세대 TPU 2종 추가…기밀 추론용 ‘TPU 8tx’ 공개",
+    "네이버 프리미엄콘텐츠 | 에이전트 시대, 보안으로 엔비디아 잡는다… 구글 ‘TPU 8tx’ 무엇이 다른가?",
+    "VOI.ID | 구글, 대규모 AI를 위한 두 개의 새로운 칩인 TPU 8i Max와 TPU 8tx 출시",
+    "올포칩 | 5세대 AMD 에픽, 구글 클라우드 TPU 8tx에 탑재… 기밀 AI 지원"
+   ],
+   "score": 9
+  },
+  {
+   "term": "AX위원회",
+   "norm": "ax위원회",
+   "n_outlets": 23,
+   "n_today": 1,
+   "outlets": [
+    "OMATE 시니어",
+    "OhmyNews",
+    "SK브로드밴드 회사소개",
+    "경북신문",
+    "경북일보",
+    "공뉴스",
+    "뉴스1",
+    "매일경제 마켓"
+   ],
+   "days": 3,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "오늘경제(11-10) | 산업·행정 AI 전환 본격화…대구시, AX위원회 출범",
+    "이투데이(11-10) | ‘대구 AX위원회’ 출범",
+    "경북일보(11-10) | 제조현장부터 교통·복지까지 AI 접목…대구 AX위원회 출범",
+    "경북신문 | 산업·공공서비스 전반에 AI 입힌다…대구 'AX위원회' 닻 올려"
+   ],
+   "score": 9
+  }
+ ]
+}

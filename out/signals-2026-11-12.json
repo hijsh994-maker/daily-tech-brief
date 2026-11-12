@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-12",
+ "hist": {
+  "7": {
+   "star": 0,
+   "overlap": true
+  },
+  "10": {
+   "star": 2,
+   "overlap": false
+  },
+  "30": {
+   "star": 1,
+   "overlap": false
+  },
+  "317": {
+   "star": 0,
+   "overlap": false
+  },
+  "304": {
+   "star": 0,
+   "overlap": false
+  },
+  "137": {
+   "star": 2,
+   "overlap": false
+  },
+  "49": {
+   "star": 0,
+   "overlap": false
+  },
+  "263": {
+   "star": 0,
+   "overlap": false
+  },
+  "N82": {
+   "star": 0,
+   "overlap": false
+  },
+  "32": {
+   "star": 0,
+   "overlap": false
+  },
+  "65": {
+   "star": 0,
+   "overlap": false
+  },
+  "47": {
+   "star": 0,
+   "overlap": false
+  },
+  "37": {
+   "star": 0,
+   "overlap": false
+  },
+  "140": {
+   "star": 2,
+   "overlap": false
+  },
+  "97": {
+   "star": 5,
+   "overlap": true
+  },
+  "250": {
+   "star": 0,
+   "overlap": false
+  },
+  "N161": {
+   "star": 0,
+   "overlap": false
+  },
+  "163": {
+   "star": 0,
+   "overlap": false
+  },
+  "234": {
+   "star": 0,
+   "overlap": false
+  }
+ },
+ "gates": {}
+}

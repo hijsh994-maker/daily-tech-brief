@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-12 09:00:34 KST === 
+Message TS: 1794441634.342329
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-12 · 10건)
+*1. [:rocket: BigTech Release] <https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/|Gemini Decisions API: 빠르고 보정된 다중 모드 의사 결정>* (Google AI Blog)
+*2. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/|UAEF: AI 에이전트의 폐쇄 루프 평가를 위한 프레임워크 독립적 시스템>* (AWS Machine Learning Blog)
+*3. [:rocket: BigTech Release] <https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/|Amazon Bedrock의 OpenAI Codex>* (AWS Machine Learning Blog)
+*4. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/|Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth>* (TechCrunch)
+*5. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/|Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads>* (TechCrunch)
+*6. [:robot_face: AI Agent] <https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents|유나이티드 항공은 AI 에이전트가 항공권을 예약하는 것을 허용하지 않습니다.>* (The Verge)
+*7. [:rocket: BigTech Release] <https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/|OpenAI’s quarterly revenue reportedly crosses $10B for the first time>* (TechCrunch)
+*8. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/|푸시 기반 아키텍처를 사용한 AWS Agent Registry 업데이트 자동화>* (AWS Machine Learning Blog)
+*9. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/|DXC Technology가 Amazon Bedrock에서 멀티모델 AI 기반을 구축한 방법>* (AWS Machine Learning Blog)
+*10. [:office: Enterprise AI] <https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/|재사용 가능한 자산을 통해 생성형 AI 제공 가속화>* (AWS Machine Learning Blog)
