@@ -37,6 +37,18 @@
   "unreached": false
  },
  {
+  "headline": "[단독]샘 올트먼 \"삼성과 포스트 스마트폰 만들고 싶다\"",
+  "url": "https://v.daum.net/v/20261111173200560",
+  "pub_date": null,
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "[단독]샘 올트먼 &quot;삼성과 포스트 스마트폰 만들고 싶다&quot;",
+  "page_date": null,
+  "unreached": false
+ },
+ {
   "headline": "[컨콜] 네이버 \"美 AI 추론 기업과 2조원 계약…2028년엔 데이터센터 용량 목표 넘어\"",
   "url": "https://www.dailian.co.kr/news/view/1714033/?sc=Naver",
   "pub_date": "2026-11-12",
@@ -122,6 +134,18 @@
   "unreached": false
  },
  {
+  "headline": "최태원, SK CEO 세미나서 AI 성장전략 점검…사업 재편 성과 창출 속도",
+  "url": "https://v.daum.net/v/20261112050015773",
+  "pub_date": null,
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "최태원, SK CEO 세미나서 AI 성장전략 점검…사업 재편 성과 창출 속도",
+  "page_date": null,
+  "unreached": false
+ },
+ {
   "headline": "AI 추론칩 프랙타일, 7억2000만달러 조달…기업가치 70억달러",
   "url": "https://www.tokenpost.kr/amp/news/ai/436769",
   "pub_date": "2026-11-11",
@@ -143,6 +167,18 @@
   "status": 200,
   "ratio": 1.0,
   "page_title": "메타, AI 인프라 수장 사임…후임에는 AWS 출신 선임",
+  "page_date": null,
+  "unreached": false
+ },
+ {
+  "headline": "“美 데이터센터 규제, AI투자 사이클 꺾지 못할 것”",
+  "url": "https://v.daum.net/v/20261112003642494",
+  "pub_date": null,
+  "verdict": "OK",
+  "reason": "제목 일치 100%",
+  "status": 200,
+  "ratio": 1.0,
+  "page_title": "“美 데이터센터 규제, AI투자 사이클 꺾지 못할 것”",
   "page_date": null,
   "unreached": false
  }

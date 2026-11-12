@@ -5,14 +5,26 @@
  "stem": "brief",
  "status": "done",
  "message_ids": [
-  154
+  155
  ],
  "copies": {
   "-1004473772544": [
-   65
+   66
   ]
  },
- "articles": 12,
- "history": [],
- "updated_at": "2026-11-12T10:09:07"
+ "articles": 15,
+ "history": [
+  {
+   "message_ids": [
+    154
+   ],
+   "copies": {
+    "-1004473772544": [
+     65
+    ]
+   },
+   "updated_at": "2026-11-12T10:09:07"
+  }
+ ],
+ "updated_at": "2026-11-12T10:22:52"
 }
