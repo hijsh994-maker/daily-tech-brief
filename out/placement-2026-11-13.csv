@@ -1,0 +1,16 @@
+url,배치번호,근거,헤드라인
+https://www.aitimes.com/news/articleView.html?idxno=217352,8,"0~7 아님(실적·공고·지분·국가사업·정책·사고·인프라·로봇 아님), 8 예: 구글 신모델 출시·성능","구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
+https://www.digitaltoday.co.kr/news/articleView.html?idxno=715163,9,"0~7 아님, 8번 아님:모델 자체가 아니라 클로드 플러그인·스킬 제품, 9 예: 에이전트형 제품 출시","앤트로픽, 제조업 전용 플러그인 출시…17개 전용 스킬 탑재"
+https://www.tokenpost.kr/news/ai/437397,9,"0~7 아님, 8번 아님:회의 참여 기능 제품, 9 예: 에이전트형 제품 베타 출시",클로드 미팅스 베타 시작…구글 미트서 문서·화이트보드 작성
+https://www.digitalfocus.news/news/articleView.html?idxno=25138,9,"0~7 아님, 8번 아님:모델이 아니라 에이전트 운영 서비스 배포 형태, 9 예: 에이전트 제품 자체 호스팅 출시","앤트로픽, '클로드 Managed Agents'를 기업 자체 서버에 설치 가능하도록 출시"
+https://www.seoul.co.kr/news/economy/industry/2026/11/12/20261112500344,9,"0~4 아님(정부 규제 아님), 5 아님(보안 사고 아닌 연동 중단), 6~7 아님, 8번 아님:모델 아님, 9 예: 에이전트 제품 기능(카톡 연동) 출시·중단",돌풍 일으킨 AI 비서 ‘피클’ 카톡 연동했다 중단…플랫폼 기업들 ‘접근권’ 비상
+https://www.inews24.com/view/2025705,10,"0~7 아님, 8번 아님:모델 학습 아님, 9번 아님:에이전트 제품 출시 아니라 기업 도입 실증, 10 예: 기업 도입","SK하이닉스, 사내 챗GPT 도입 시험⋯반도체 업무 AI 활용 확대 검토"
+https://n.news.naver.com/mnews/article/374/0000543397?sid=104,6,"0~5 아님(지분 이동 아닌 자체 투자 계획), 6 예: DC 물리 인프라 건설","스페이스X, 美 텍사스·애리조나에 데이터센터 2곳 건설"
+https://www.etoday.co.kr/news/view/2647340,6,"0~5 아님(지분 이동 아닌 설비 투자), 6 예: HBM 팹 물리 인프라","46조 HBM 투자 첫 삽…삼성 온양, AI 반도체 핵심 거점으로"
+https://www.etoday.co.kr/news/view/2647280,4,"0~3 아님(독파모·모두의 AI·AIDC 아님), 4 예: 정부 예산·로드맵 정책","정부, 8000억 규모 'K-온디바이스 AI칩' 로드맵 확정⋯2030년까지 10종 개발"
+https://n.news.naver.com/mnews/article/018/0006409273?sid=101,5,"0~4 아님, 5 예: AI 비서 포함 서비스 대규모 장애 사고",'MS 365' 전 세계 먹통…메일 끊기고 업무 마비
+https://n.news.naver.com/mnews/article/001/0016439551?sid=104,경계,0~10 중 사건 유형이 아니라 빅테크 핵심 인사(CEO 사임·임시 CEO) — 경계 결정: 빅테크 핵심 인사 -> AI 투자&시장,"엔비디아 임시 CEO ""지금 극도로 힘든 시기""…전사회의 소집"
+https://www.tokenpost.kr/news/breaking/437245,2,"0~1 아님, 2 예: 기업가치 라운드 투자 유치","오픈AI, 150억달러 조달 보도…기업가치 약 1671조원 평가"
+https://n.news.naver.com/mnews/article/018/0006409220?sid=101,2,"0~1 아님, 2 예: IPO",앤스로픽 IPO에 6배 주문 몰려…121兆 끌어 모은다
+https://www.digitaltoday.co.kr/news/articleView.html?idxno=715158,2,"0~1 아님, 2 예: 로봇 기업 투자 유치(로봇이어도 2번)","中에 막힌 ABB 인수…소프트뱅크, 독일 로봇기업 애자일에 5억달러 베팅"
+https://www.tokenpost.kr/news/breaking/437182,2,"0~1 아님, 2 예: 인수","IBM, 오스마인드 인수해 아이덴티티 보안 기술을 볼트에 통합"

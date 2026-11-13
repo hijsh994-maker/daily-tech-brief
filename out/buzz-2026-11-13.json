@@ -1,0 +1,451 @@
+{
+ "date": "2026-11-13",
+ "terms": [
+  {
+   "term": "피클",
+   "norm": "피클",
+   "n_outlets": 6,
+   "n_today": 4,
+   "outlets": [
+    "경향신문",
+    "디지털투데이",
+    "미주중앙일보",
+    "서울신문",
+    "인사이트코리아",
+    "테크42"
+   ],
+   "days": 3,
+   "first": "2026-11-06",
+   "reaction": 4,
+   "community": 0,
+   "titles": [
+    "디지털투데이(11-06) | AI 에이전트 '피클' 써보니…쇼핑·예매까지 수행·속도는 아쉬워",
+    "미주중앙일보(11-11) | ‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
+    "경향신문 | [단독]AI 에이전트 ‘피클’ 코레일 접근 안 된다···미국선 항공사도 AI 차단",
+    "테크42 | 피클은 막히고, 유나이티드는 금지했다…’내 대신 일하는 AI’ 문은 누가 여나",
+    "서울신문 | 돌풍 일으킨 AI 비서 ‘피클’ 카톡 연동했다 중단…플랫폼 기업들 ‘접근권’ 비상",
+    "인사이트코리아 | 카톡 연동 AI 에이전트 '피클' 논란…카카오, 법적 검토 들어간다"
+   ],
+   "score": 21
+  },
+  {
+   "term": "Nvidia Board",
+   "norm": "nvidiaboard",
+   "n_outlets": 13,
+   "n_today": 1,
+   "outlets": [
+    "Analytics Insight",
+    "Bloomberg",
+    "Bloomberg.com",
+    "FourWeekMBA",
+    "HN",
+    "Investor's Business Daily",
+    "Kansas City Star",
+    "Techiexpert.com"
+   ],
+   "days": 5,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "FourWeekMBA(11-09) | AI Daily: Anthropic Buys 1.7GW as Nvidia Board Opens Probe",
+    "Bloomberg(11-09) | Nvidia Board to Probe Spying Case After CEO Admits Affair",
+    "The Washington Post(11-09) | Nvidia board to investigate CEO over relationship with suspected Chinese spy",
+    "Bloomberg.com | Huang, Face of the AI Boom, Ousted by Nvidia Board as CEO"
+   ],
+   "score": 15
+  },
+  {
+   "term": "젠슨황 스캔들",
+   "norm": "젠슨황스캔들",
+   "n_outlets": 19,
+   "n_today": 6,
+   "outlets": [
+    "IT조선",
+    "Investing.com 한국어",
+    "YTN",
+    "YTN 사이언스",
+    "경향신문",
+    "노컷뉴스",
+    "뉴스1",
+    "매일경제"
+   ],
+   "days": 4,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "연합뉴스 한민족센터(11-10) | \"'젠슨황 스캔들' 여성, 中 투자자들에 '엔비디아 친분' 과시\"",
+    "연합뉴스(11-10) | 젠슨황 스캔들 '對中안보·AI규제' 파장 확산…美민주 파상공세",
+    "노컷뉴스(11-10) | 젠슨황 스캔들 후폭풍 일파만파…대중(對中) 안보·AI규제 강화",
+    "이데일리 | \"美규제 전 엔비디아 칩 확보하라\"…中기업들, 젠슨황 스캔들에 '초비상'",
+    "Investing.com 한국어 | [젠슨황 스캔들] 엔비디아 흔들려도…삼성·SK HBM 전선 ’이상 없다’ By FinancialPost",
+    "머니투데이 | 주춤했던 대중국 반도체 수출 규제, 젠슨황 스캔들 타고 급물살 - 머니투데이"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Muse Ember",
+   "norm": "museember",
+   "n_outlets": 15,
+   "n_today": 1,
+   "outlets": [
+    "GIGAZINE",
+    "HN",
+    "Interesting Engineering",
+    "MLQ.ai",
+    "Martin Cid Magazine",
+    "Mezha.net",
+    "OODA Loop",
+    "Pasquale Pillitteri"
+   ],
+   "days": 3,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Unite.AI(11-10) | Meta, 에이전트 및 코딩 작업 비용을 낮추는 Muse Ember 출시",
+    "Mezha.net(11-10) | Meta, 에이전트 작업용 경량 모델 Muse Ember 출시",
+    "디지털포커스(11-10) | 메타 'Muse Ember' 출시, 작업당 0.14달러로 대형 모델 대비 저렴",
+    "Martin Cid Magazine | 저커버그, 메타 최소형 AI 모델 Muse Ember 공개… 토큰당 가격은 Haiku와 같다"
+   ],
+   "score": 14
+  },
+  {
+   "term": "United Airlines",
+   "norm": "unitedairlines",
+   "n_outlets": 31,
+   "n_today": 16,
+   "outlets": [
+    "BusinessLine",
+    "CBS News",
+    "CNBC",
+    "Crypto Briefing",
+    "Digital Watch Observatory",
+    "FL360aero",
+    "Forbes",
+    "GeekNews"
+   ],
+   "days": 2,
+   "first": "2026-11-12",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews(11-12) | United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
+    "CNBC(11-12) | United Airlines moves to block AI agents from its platform over security concern",
+    "CBS News(11-12) | United Airlines bans AI agents from booking flights on behalf of travelers",
+    "CNBC | United Airlines won’t let AI agents book your flight. Expert says you shouldn't ",
+    "Forbes | United Airlines Alone In Blocking AI Agents From Booking Flights—Rivals Say Cust",
+    "Inc.com | United Airlines Is Banning AI Agents from Booking Flights. Its CEO Just Gave Awa"
+   ],
+   "score": 13
+  },
+  {
+   "term": "제21회 국제로봇콘테스트",
+   "norm": "제21회국제로봇콘테스트",
+   "n_outlets": 6,
+   "n_today": 4,
+   "outlets": [
+    "BBS불교방송",
+    "OMATE 시니어",
+    "뉴스21 통신",
+    "데일리대구경북뉴스",
+    "드론매거진 뉴스",
+    "전자신문"
+   ],
+   "days": 3,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(11-11) | 대구시, 13·14일 이틀간 엑스코에서 '제21회 국제로봇콘테스트' 개최",
+    "BBS불교방송(11-11) | '로봇들의 뜨거운 대결'…대구서 미래 기술 겨룬다 '제21회 국제로봇콘테스트'",
+    "드론매거진 뉴스(11-12) | 드론 군무부터 휴머노이드 점원까지… '제21회 국제로봇콘테스트' 역대 최대 규모 개막",
+    "드론매거진 뉴스 | 드론 군무부터 휴머노이드 점원까지… '제21회 국제로봇콘테스트' 역대 최대 규모 개막",
+    "뉴스21 통신 | 대구시, 제21회 국제로봇콘테스트 개최…전국 로봇 인재 2,271명 참가",
+    "데일리대구경북뉴스 | 대구시. ‘제21회 국제로봇콘테스트’ 개최"
+   ],
+   "score": 13
+  },
+  {
+   "term": "Pocus",
+   "norm": "pocus",
+   "n_outlets": 3,
+   "n_today": 1,
+   "outlets": [
+    "CCBS뉴스",
+    "얼리어답터뉴스",
+    "유스연합"
+   ],
+   "days": 4,
+   "first": "2026-11-09",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "얼리어답터뉴스(11-09) | [Pocus AI 에이전트 분석] 사람과 AI가 함께 쓰는 브라우저 '에고 라이트(ego lite)'… 클로드 코드·코덱스를 내 웹 업무 비서로",
+    "CCBS뉴스(11-10) | [Pocus AI 실용 해설] GPTs·제미나이 젬스 종료와 스킬 전환… 내 지침과 자료 지키는 법",
+    "얼리어답터뉴스(11-11) | [Pocus 심층 검증 기획] GEO·llms.txt 열풍과 진실… 구글·퍼플렉시티 AI 검색 인용의 실체",
+    "유스연합 | [Pocus AI 에이전트 분석] 퇴근 후에도 일하는 xAI ‘그록봇’… 내 반복 업무, 어디까지 줄여줄까"
+   ],
+   "score": 11
+  },
+  {
+   "term": "멤리스터",
+   "norm": "멤리스터",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "파이낸셜뉴스"
+   ],
+   "days": 1,
+   "first": "2026-11-13",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "파이낸셜뉴스 | AI 전력소비 줄일 차세대 반도체… 제주대서 '멤리스터' 기술 주목",
+    "파이낸셜뉴스 | [AI 전력소비 줄일 차세대 반도체... 제주대서 '멤리스터' 기술 주목]"
+   ],
+   "score": 10
+  },
+  {
+   "term": "통제권 비상",
+   "norm": "통제권비상",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "서울신문"
+   ],
+   "days": 1,
+   "first": "2026-11-13",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "서울신문 | 1위 돌풍 AI비서 ‘피클’ 카톡 연동… 플랫폼 기업 ‘통제권 비상’",
+    "서울신문 | 1위 돌풍 AI비서 ‘피클’ 카톡 연동… 플랫폼 기업 ‘통제권 비상’"
+   ],
+   "score": 10
+  },
+  {
+   "term": "KKKKhazix",
+   "norm": "kkkkhazix",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "GitHub"
+   ],
+   "days": 2,
+   "first": "2026-11-05",
+   "reaction": 0,
+   "community": 2,
+   "titles": [
+    "GitHub(11-05) | KKKKhazix/agent-autoloop — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "GitHub | KKKKhazix/agent-autoloop — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Retirement Savings Are Fueling",
+   "norm": "retirementsavingsarefueling",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-13",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Retirement Savings Are Fueling the AI Bubble"
+   ],
+   "score": 7
+  },
+  {
+   "term": "밥솥기업",
+   "norm": "밥솥기업",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "마이데일리"
+   ],
+   "days": 1,
+   "first": "2026-11-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "마이데일리 | [현장] ‘밥솥기업’ 쿠쿠가 카페쇼에 뜬 이유…AI 가전으로 B2B 공략"
+   ],
+   "score": 6
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Nvidia H200",
+   "norm": "nvidiah200",
+   "n_outlets": 20,
+   "n_today": 2,
+   "outlets": [
+    "ABP Live English",
+    "Chosunbiz",
+    "GV Wire",
+    "GuruFocus",
+    "Hindustan Times",
+    "Hokanews",
+    "Livemint",
+    "New York Post"
+   ],
+   "days": 5,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Hokanews(11-06) | Nvidia H200 AI Chips 600,000 Units Reportedly Stuck in Hong Kong as China Blocks",
+    "scanx.trade(11-09) | US Commerce Department clears Nvidia H200 sales to Chinese firms",
+    "shattered.io(11-09) | Nvidia H200 Firm Was 17 Months Old, Office Empty [2026]",
+    "Tekedia | China Military-Linked University Reportedly Buys Nvidia H200 AI Chips Despite US",
+    "联合早报 | Chinese university buys Nvidia H200 chips despite US export blacklist"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Alice Huang",
+   "norm": "alicehuang",
+   "n_outlets": 14,
+   "n_today": 2,
+   "outlets": [
+    "AP News",
+    "Analytics Insight",
+    "CNBC",
+    "Crypto Briefing",
+    "ET Now",
+    "NBC News",
+    "New York Post",
+    "Stocktwits"
+   ],
+   "days": 4,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "New York Post(11-10) | Alleged Chinese spy Alice Huang boasted about Nvidia AI chip access — as US offi",
+    "The Times of India(11-10) | Alice Huang boasted about Nvidia AI chip access to investors, told them Alibaba ",
+    "The Guardian(11-10) | Who is Alice Huang, the woman linked to Nvidia’s CEO?",
+    "Stocktwits | Alice Huang-Linked Firms Reportedly Used DeepSeek Funding Round To Secure Nvidia",
+    "CNBC | Alice Huang tied to Nvidia’s biggest Chinese competitor"
+   ],
+   "score": 10
+  },
+  {
+   "term": "STM32",
+   "norm": "stm32",
+   "n_outlets": 12,
+   "n_today": 2,
+   "outlets": [
+    "EE Times",
+    "Electronic Design",
+    "GlobeNewswire",
+    "Quantisnow",
+    "THE ELEC, Korea Electronics Industry Media",
+    "Unite.AI",
+    "e4ds news",
+    "elec4"
+   ],
+   "days": 6,
+   "first": "2026-11-04",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "e4ds news(11-04) | ST, “STM32 통합 플랫폼 전략으로 피지컬 AI 시대 주도”",
+    "EE Times(11-05) | STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI",
+    "THE ELEC, Korea Electronics Industry Media(11-05) | ST Expands STM32 Platform to Automotive and Physical AI",
+    "https://www.autoelectronics.co.kr/ | ST, STM32 MCU용 AI 모델 개발 툴 출시",
+    "EE Times | STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Airbnb",
+   "norm": "airbnb",
+   "n_outlets": 12,
+   "n_today": 1,
+   "outlets": [
+    "Barron's",
+    "Coinpaper",
+    "Fortune",
+    "Investing.com",
+    "PYMNTS.com",
+    "PhocusWire",
+    "Skift",
+    "TechCrunch"
+   ],
+   "days": 6,
+   "first": "2026-11-06",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TechCrunch(11-06) | Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "The Tech Buzz(11-06) | Airbnb Unveils AI Travel Agent for First Half of 2027",
+    "The Verge(11-06) | Airbnb is working on an AI travel agent",
+    "PYMNTS.com | United Blocks AI Agents as Airbnb and OpenAI Build Their Own"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 황제",
+   "norm": "ai황제",
+   "n_outlets": 11,
+   "n_today": 7,
+   "outlets": [
+    "CEO스코어데일리",
+    "농민신문",
+    "뉴시스",
+    "뉴시안",
+    "데일리안",
+    "매일경제",
+    "비즈워치",
+    "시사저널"
+   ],
+   "days": 5,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "데일리안(11-09) | 'AI 황제' 젠슨 황, 中 스파이 의심 여성과 불륜 시인…엔비디아 발칵",
+    "뉴시안(11-10) | [월드 프리즘] 'AI 황제' 젠슨 황, 中 스파이와 불륜 스캔들 '일파만파'… 요동치는 4.5조 달러 엔비디아 제국",
+    "파이낸셜뉴스(11-11) | AI 황제마저 흔든 '미인계'…北 '씨받이 공작' 데자뷔",
+    "매일경제 | ‘김치 싸대기’ 맞은 젠슨 황?…‘AI 황제’ 조롱 영상 확산",
+    "주간한국 | ‘AI 황제’ 젠슨 황, 불명예 퇴진… 33년 업적 와르르",
+    "아주경제 | [인문자의 젠슨 황 비문(秘聞) 이야기 | 인간·문화·자연] AI 황제의 위험한 사랑, 세계를 흔들다"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Vanta",
+   "norm": "vanta",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "BankInfoSecurity",
+    "Business Wire",
+    "CTech",
+    "Channel Insider",
+    "Refresh Miami",
+    "SiliconANGLE",
+    "Unite.AI",
+    "citybiz"
+   ],
+   "days": 5,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "quasa.io(11-09) | Vanta 리뷰: 보안 및 규정 준수를 위한 AI 에이전트 | Quasa",
+    "Unite.AI(11-10) | Vanta, AI 보안 기업 Pillar Security 인수 계약 체결",
+    "citybiz(11-10) | Vanta to Acquire Pillar Security, Adding AI Agent Testing and Runtime Protection",
+    "SiliconANGLE | Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire j",
+    "SiliconANGLE | Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire j"
+   ],
+   "score": 10
+  }
+ ]
+}

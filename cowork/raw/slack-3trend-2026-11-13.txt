@@ -1,0 +1,15 @@
+Channel: #3_트렌드 (C04KU1PBFEG)
+
+=== Message from  (B04MF364AUR) at 2026-11-13 09:00:30 KST === 
+Message TS: 1794528030.410409
+:newspaper: 오늘의 AI 에이전트 &amp; 테크 브리핑 (2026-11-13 · 10건)
+*1. [:robot_face: AI Agent] <https://www.etnews.com/20261112000470|솔트룩스, 국가기록원 지능형 검색 AI 에이전트로 고도화>* (전자신문 (AI))
+*2. [:robot_face: AI Agent] <https://www.etnews.com/20261112000247|아톤, 금융권 AI 에이전트 인증 솔루션 출시>* (전자신문 (AI))
+*3. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/|Amazon Bedrock 및 Spring AI를 사용하여 자율 AI 에이전트 구축>* (AWS Machine Learning Blog)
+*4. [:shield: Agent Infra] <https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/|Amazon Bedrock 관리형 지식베이스 도구에 대한 세분화된 액세스 제어>* (AWS Machine Learning Blog)
+*5. [:rocket: BigTech Release] <https://openai.com/business/customer-stories/amplitude|Amplitude가 OpenAI를 통해 1~2일 만에 제품 개선 사항을 출시하는 방법>* (OpenAI News &amp; Research)
+*6. [:zap: Optimization] <https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/|SGLang-Neuron을 사용하여 AWS Trainium에 최첨단 AI 모델 배포>* (AWS Machine Learning Blog)
+*7. [:robot_face: AI Agent] <https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/|Natera가 Amazon Bedrock AgentCore를 사용하여 실험실 운영을 위한 에이전트형 AI 시스템을 설계한 방법>* (AWS Machine Learning Blog)
+*8. [:shield: Agent Infra] <https://www.theverge.com/gadgets/1032630/whoop-humans-social-network|Whoop, 모든 사용자가 '인증된 심박수'를 갖는 소셜 네트워크 출시>* (The Verge)
+*9. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/|Nectar launches an AI agent to automate creator discovery and outreach for brands>* (TechCrunch)
+*10. [:robot_face: AI Agent] <https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/|United Airlines blocks AI agents from booking flights, citing cybersecurity risks>* (TechCrunch)

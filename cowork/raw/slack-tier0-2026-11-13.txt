@@ -1,0 +1,46 @@
+Channel: #dtb-tier0 (C0BRP6UPGG6)
+
+=== Message from 조승현(기술협력팀) <seunghyun.jo@sk.com> (U0A9EJ3T7RN) at 2026-11-13 09:33:01 KST === 
+Message TS: 1794529981.919369
+_[텔레그램 로그 2026-11-13] 삼성 글로벌 AI/SW 뉴스 — 원문 링크 검증본_
+(다이제스트 9개 항목 + 개별 메시지 16건 / 기사 제목·본문·수치·일자 교차 검증 완료, 로그인·페이월 매체 제외)
+
+1. 앤스로픽 IPO에 6배 주문 몰려…121兆 끌어 모은다 (이데일리)
+o 링크: <https://n.news.naver.com/mnews/article/018/0006409220?sid=101|n.news.naver.com/mnews/article/018/0006409220?…>
+2. 클로드 미팅스 베타 시작…구글 미트서 문서·화이트보드 작성 (토큰포스트)
+o 링크: <https://www.tokenpost.kr/news/ai/437397|tokenpost.kr/news/ai/437397>
+3. 앤트로픽, 제조업 전용 플러그인 출시…17개 전용 스킬 탑재 (디지털투데이)
+o 링크: <https://www.digitaltoday.co.kr/news/articleView.html?idxno=715163|digitaltoday.co.kr/news/articleView.html?idxno=715163>
+4. 젠슨황 세번째 불륜스캔들 나와…"또다른 여직원과도 내연관계" (연합뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/001/0016439574?sid=104|n.news.naver.com/mnews/article/001/0016439574?…>
+5. 엔비디아 임시 CEO "지금 극도로 힘든 시기"…전사회의 소집 (연합뉴스)
+o 링크: <https://n.news.naver.com/mnews/article/001/0016439551?sid=104|n.news.naver.com/mnews/article/001/0016439551?…>
+6. 젠슨 황 스캔들, 메가스피드 이전에 슈퍼마이크로 있었다 (포춘코리아)
+o 링크: <https://www.fortunekorea.co.kr/news/articleView.html?idxno=54748|fortunekorea.co.kr/news/articleView.html?idxno=54748>
+7. 스페이스X, 美 텍사스·애리조나에 데이터센터 2곳 건설 (SBS Biz)
+o 링크: <https://n.news.naver.com/mnews/article/374/0000543397?sid=104|n.news.naver.com/mnews/article/374/0000543397?…>
+8. 'MS 365' 전 세계 먹통…메일 끊기고 업무 마비 (이데일리)
+o 링크: <https://n.news.naver.com/mnews/article/018/0006409273?sid=101|n.news.naver.com/mnews/article/018/0006409273?…>
+_— 개별 메시지(다이제스트 외) —_
+9. '해임 위기' 젠슨 황 감싸는 머스크..."영입한다면 영광" (YTN)
+o 링크: <https://n.news.naver.com/mnews/article/052/0002431859?sid=104|n.news.naver.com/mnews/article/052/0002431859?…>
+10. 美 정부, 中 기업의 해외 AI 반도체 우회 사용 차단 추진 (아이뉴스24)
+o 링크: <https://n.news.naver.com/mnews/article/031/0001074643?sid=105|n.news.naver.com/mnews/article/031/0001074643?…>
+11. 구글 딥마인드, 질병 원인 찾는 AI '알파게놈 2' 공개 (ZDNet Korea)
+o 링크: <https://n.news.naver.com/mnews/article/092/0002444965?sid=105|n.news.naver.com/mnews/article/092/0002444965?…>
+12. 中, 젠슨황 스캔들에 엔비디아 칩 사재기…美수출규제 강화 대비 (뉴스1)
+o 링크: <https://n.news.naver.com/mnews/article/421/0009286464?sid=104|n.news.naver.com/mnews/article/421/0009286464?…>
+13. 네비우스, 매출 571%↑에도 주가 15%↓…설비투자 부담 (더페어)
+o 링크: <https://www.thefairnews.co.kr/news/articleView.html?idxno=94023|thefairnews.co.kr/news/articleView.html?idxno=94023>
+14. 젠슨 황 엔비디아 CEO 사임…임시 CEO에 콜레트 크레스 CFO (뉴시스)
+o 링크: <https://n.news.naver.com/mnews/article/003/0014319592?sid=104|n.news.naver.com/mnews/article/003/0014319592?…>
+15. 구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월 (AI타임스)
+o 링크: <https://www.aitimes.com/news/articleView.html?idxno=217352|aitimes.com/news/articleView.html?idxno=217352>
+16. 젠슨 황 없는 엔비디아, 2500억달러 투자도 흔들리나…월가 긴장 (한국경제TV)
+o 링크: <https://n.news.naver.com/mnews/article/215/0001272615?sid=101|n.news.naver.com/mnews/article/215/0001272615?…>
+링크 미확보
+• 오픈AI, 최근 투자라운드 확보 자금 110억→150억 달러로 확대 보도 (다이제스트)
+• 앤스로픽, 10월 OpenRouter 내 주요 고객군 지출 증가세 재가속 (개별)
+• 스페이스XAI, Grok Bot 1.0 출시 (개별 — 공식 발표 11-02자로 수집 창 밖)
+_다이제스트와 같은 소식 2건(앤스로픽 IPO 청약, Claude Meetings)은 1·2번에 합침 / 사건이 아닌 글 4건(증권사 코멘트 2·출시 예고 추정·로드쇼 장표) 제외_
+*다음을 사용하여 보냄* <@U0A3QJWEQ1L|Claude>

@@ -1,0 +1,704 @@
+10-14 | **1\. 수개월 걸릴 코드 작업을 수주로…구글 ‘제미나이 4 아르곤’ 한국 출시** (뉴스1, [원문보기](https://www.news1.kr/it-science/internet-platform/6319118))
+10-14 | • **주요 내용:** 10월 초 제한 공개했던 최상위 모델을 제미나이 앱·AI 스튜디오·안티그래비티로 확대 출시, 장기 코딩 작업에 강점·CWE-Bench 공동 1위
+10-14 | **1\. 카카오 "AI로 다음 10년도 연결"⋯'말하면 척척' 카톡 AI 비서 12월 시범 운영 [종합]** (아이뉴스24, [원문보기](https://www.inews24.com/view/2014552))
+10-14 | • **주요 내용:** 이프 카카오서 카톡 AI 비서 '카나나 스페이스' 공개, 12월 제한 시범 운영, PC에서 만드는 개인 에이전트 '칸바스'도 소개
+10-14 | **2\. 아메리칸 익스프레스, AI 에이전트 무단 결제 막는 프레임워크 공개** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=706909))
+10-14 | • **주요 내용:** 결제 전 이용자 구매 의도를 인증하는 '인텐트 인텔리전스 프레임워크' 공개, 의도 증명 토큰으로 실제 카드번호 대신 결제
+10-14 | **1\. “NTT, 오사카에 앤트로픽 데이터센터 추진…8.5조 투자”** (서울경제, [원문보기](https://www.sedaily.com/article/20101274))
+10-14 | • **주요 내용:** 앤트로픽이 NTT데이터와 오사카 남부에 최대 500MW 데이터센터 신설 협의, 이번 회계연도 내 계약 목표·2028년 가동 전망
+10-14 | **2\. KT, 초고속·초저지연 ‘AI 전용회선’ 출시…데이터센터 연결 속도 높인다** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10901778))
+10-14 | • **주요 내용:** 기존 최대 100Gbps 전용회선을 400·800Gbps로 확대한 AI 전용회선 출시, APN 광 네트워크로 지연 최소화, AIDC 사업자 대상
+10-14 | **1\. 산업부, 제조현장 휴머노이드 20대 투입…4족보행 순찰로봇도 허용** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202610131103564249))
+10-14 | • **주요 내용:** 규제특례로 로브로스 휴머노이드 20대를 네패스·HD현대삼호 등 4곳 현장에 투입, 안전펜스 규정에 막혔던 이동형 휴머노이드 배치 첫 허용
+10-14 | **2\. 美 오디세이, 로봇·휴머노이드·자율주행차 제어 월드모델 ‘오디세이-3’ 공개** (로봇신문, [원문보기](https://www.irobotnews.com/news/articleView.html?idxno=48953))
+10-14 | • **주요 내용:** 로봇팔·휴머노이드·자율차·드론 등 6개 영역을 하나로 제어하는 월드모델 공개, 수십 시간 시연 데이터로 조작 학습·Physics-IQ 66.1점
+10-14 | **1\. LG CNS, 앤트로픽 파트너 '프리퍼드' 국내 첫 획득…자격증 140명·사례 20건 인정** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026101314352077083))
+10-14 | • **주요 내용:** 클로드 파트너 네트워크 4만여 곳 중 50곳 미만인 프리퍼드 등급을 국내 최초 획득, 클로드 자격 인력 약 140명·구축 사례 약 20건
+10-14 | **1\. "6개월내 금융시장 큰 피해"…AI 해킹 공포에 美금융당국 '비상'** (한국경제, [원문보기](https://www.hankyung.com/article/202610139838i))
+10-14 | • **주요 내용:** 국내 은행 대상 中 해커 AI 해킹을 계기로 연준·OCC·FDIC가 은행 AI 사용 실태·대비책 조사, 에이전트·중국산 기술 활용 여부도 점검
+10-14 | **2\. 앤트로픽 "AI, 냉장고·TV 해킹해 스스로 복제할 수도…통제 어려워"** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261013_0003824162))
+10-14 | • **주요 내용:** 소형 AI 모델이 IoT 기기 취약점을 뚫고 자기 복제·확산하는 능력을 수개월 내 갖출 수 있다는 보고서, 55달러 TV 기기 15대 연결해 모델 구동
+10-14 | **3\. AI labs sought control over what outside evaluators publish, Reuters says** (The Next Web, [원문보기](https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control))
+10-14 | • **주요 내용:** 로이터, 앤트로픽·오픈AI가 외부 평가자의 공개 범위에 큰 발언권 요구, 독립 공개 약속과 달리 영업비밀 유출 우려 들어 통제 논의
+10-14 | **1\. 엔비디아, 유럽 AI 시장에 20억 달러 투자 발표 [마켓핫]** (이투데이, [원문보기](https://www.etoday.co.kr/news/view/2635405))
+10-14 | • **주요 내용:** 젠슨 황, 최근 1년 유럽 투자 80억달러에 20억달러 추가 발표, 佛 닥터리브·제네시스AI 등 스타트업 4곳 신규 투자
+10-14 | **2\. OpenAI가 보안 기업 Trail of Bits 인수 협상을 진행 중이다** (TechFlow, [원문보기](https://techflowpost.com/ko-KR/newsletter/139853))
+10-14 | • **주요 내용:** 디인포메이션 보도로 오픈AI가 뉴욕 소재 보안기업 트레일 오브 비츠와 초기 인수 협상, 거래 규모 비공개·사이버보안 사업 확대 목적
+10-14 | **3\. An Update on Character.ai** (Character.ai 공식, [원문보기](https://blog.character.ai/an-update-on-character-ai/))
+10-14 | • **주요 내용:** 법적·규제·운영 압박 끝에 법원 감독 매각을 위한 자발적 챕터11 파산 절차 개시, 매각 통한 서비스 지속 추진
+10-14 | **1\. 2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고(공정·응용 솔루션 AX R&D, 응용 제품 AX R&D)** (IRIS, [원문보기](https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do))
+10-14 | • **주요 내용:** 과기정통부·산업부, 로봇·의료 AX 응용 10개 과제(휴머노이드 다수), '26년 121억·총 1,176억원, 접수 10/29~11/12 17:00
+10-15 | **1\. xAI, 음성 에이전트용 음성 간 모델 Grok Voice 3.0 공개** (Unite.AI, [원문보기](https://www.unite.ai/ko/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/))
+10-15 | • **주요 내용:** 음성-음성 직결 모델로 고객상담 통화 해결률 최고 기록·1초 미만 지연 주장, 아티피셜애널리시스 S2S 지수 1위, 전작과 같은 가격에 API 공개
+10-15 | **1\. 전 국민 무료 ‘모두의 AI’ 16일 시연…12월 정식 출시** (서울경제, [원문보기](https://www.sedaily.com/article/20101684))
+10-15 | • **주요 내용:** SKT·KT·카카오 3개 컨소시엄이 16일 정부 대상 첫 시연 뒤 CBT 진행, 개선·안정화 거쳐 12월 일반 국민 대상 정식 출시 계획
+10-15 | **2\. 더 똑똑해진 ‘홈팟 미니 2’ 공개…애플, 개인 맥락 이해하고 웹 지식 활용하는 차세대 AI 시리 탑재** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42292))
+10-15 | • **주요 내용:** 웰컴홈 행사서 차세대 파운데이션 모델 기반 시리 AI 탑재 홈팟 미니 2와 299달러 디스플레이 홈뷰 공개, 최대 6명 음성 구분·유료 AI 구독 예고
+10-15 | **1\. 엔비디아 ‘베라 루빈 랙’ 설계 개방…AI칩 넘어 데이터센터 표준 노린다** (서울경제, [원문보기](https://www.sedaily.com/article/20101697))
+10-15 | • **주요 내용:** OCP 서밋서 베라 루빈 서버 랙·컴퓨팅 트레이 설계 외부 개방, 800V 직류 전력·액체냉각 공통 규격과 CPU 256개 베라 전용 랙 규격 공개
+10-15 | **2\. OpenAI hands its data centre and compute operation to a former xAI executive** (The Next Web, [원문보기](https://thenextweb.com/news/openai-ruddarraju-compute-infrastructure))
+10-15 | • **주요 내용:** 오픈AI가 컴퓨트·인프라 사업을 전 xAI 인프라 책임자 우다이 루다라주 아래로 통합, 300억달러 조지아 구축 이끈 사친 카티는 고문으로 이동
+10-15 | **3\. [단독]마스턴투자운용·디지털엣지, 1조원대 '파주 데이터센터' 짓는다** (전자신문, [원문보기](https://www.etnews.com/20261014000339))
+10-15 | • **주요 내용:** 마스턴이 자금 모집·금융구조, 디지털엣지가 인프라 개발 맡아 파주 9000평 부지에 1조원대 DC 추진, 내년 초 착공·한국전력기술과 협약
+10-15 | **1\. 에이전틱 AI·로봇 관리까지 묶었다…LG CNS, 日 KDDI와 아태 AX 시장 공략** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261014_0003825201))
+10-15 | • **주요 내용:** 日 KDDI와 아태 AX 협약, 에이전틱웍스 기반 현지 기업 맞춤 에이전트·피지컬웍스 로봇 관리·스마트시티 공동 사업, 베트남·태국 등 우선 공략
+10-15 | **1\. "챗GPT는 청소년 유해물"…美 8개 주, 오픈AI 제소** (ZDNet Korea, [원문보기](https://zdnet.co.kr/view/?no=20261015080659))
+10-15 | • **주요 내용:** 아이오와·캔자스·애리조나 등 8개 주 법무장관이 초당적으로 제소, 과도한 동조로 자해·폭력 조장·미성년자 보호 미흡 지적·작동 방식 변경 요구
+10-15 | **1\. AI cloud startup Modal raises $750M at $15.75B valuation** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/))
+10-15 | • **주요 내용:** AI 추론 클라우드 모달이 액셀 주도 7.5억달러 시리즈D, 기업가치 157.5억달러로 5월 대비 3배 이상, 연환산 매출 10억달러 돌파
+10-15 | **2\. 앤트로픽, 3분기 매출 23조원…전분기보다 46% ↑** (서울경제, [원문보기](https://www.sedaily.com/article/20101780))
+10-15 | • **주요 내용:** 비공개 투자자 설명회서 3분기 매출 168억달러 공개, 전분기 116억달러 대비 46% 증가·조정 기준 흑자, 11월 IPO 추진
+10-15 | **3\. Anthropic Licenses Opaque Systems’ Confidential AI Technology** (토큰포스트, [원문보기](https://www.tokenpost.com/news/technology/32044))
+10-15 | • **주요 내용:** 앤트로픽이 기밀컴퓨팅 스타트업 오페이크의 기술 라이선스 확보와 일부 인력 영입, 애런 풀커슨 CEO도 합류·계약 조건은 비공개
+10-15 | **4\. 코어위브 채권 '부실' 수준 하락…CEO "시장이 비이성적으로 움직여"** (ZDNet Korea, [원문보기](https://zdnet.co.kr/view/?no=20261015090506))
+10-15 | • **주요 내용:** 주가 15% 급락, 2032년 만기 회사채 달러당 78센트로 부실 구간 진입·수익률 15%, 연계 데이터센터 채권 7종도 동반 약세
+10-15 | **1\. 2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고(공정·응용 솔루션 AX R&D, 응용 제품 AX R&D)_KHIDI** (IRIS, [원문보기](https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do))
+10-15 | • **주요 내용:** 과기정통부·복지부·KHIDI, 바이오·헬스케어 AI·AX 지정공모 5개 과제, '26년 60.8억·총 781.7억원, 접수 10/30~11/13 17:00
+10-16 | **1\. 메타, 불편한 사이였던 애플과 로컬 AI 동맹...맥에서 뮤즈 스파크 오픈 돌린다** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=707588))
+10-16 | • **주요 내용:** 메타가 8160억 파라미터 오픈웨이트 모델 뮤즈 스파크 오픈 공개, 애플이 MLX 업데이트로 맥 스튜디오 2대 연결 로컬 구동 지원
+10-16 | **2\. Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop** (The Decoder, [원문보기](https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/))
+10-16 | • **주요 내용:** 엔비디아가 에이전트·문서 분석용 1200억 파라미터 오픈 멀티모달 모델과 로컬용 경량 볼트 2종 공개, 데이터셋·학습 레시피까지 공개
+10-16 | **1\. "내 개인정보, 카톡AI에 어디까지 줄까"** (매일경제, [원문보기](https://www.mk.co.kr/news/business/12176964))
+10-16 | • **주요 내용:** 카카오가 카톡 AI 비서에 넘길 개인정보 범위를 이용자가 단계(레벨)별로 골라 동의하는 '레벨제' 도입, 12월 카톡 AI 비서 시범 운영 대비
+10-16 | **2\. 애플, 12월 중국서 AI 첫선…알리바바·바이두 손잡고 1년 반 만에 진입** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216283))
+10-16 | • **주요 내용:** 애플이 12월 iOS 27.3으로 중국 본토에 애플 인텔리전스 출시 예정, 알리바바 큐원·바이두와 협력하고 차세대 시리 등 일부 기능 제외
+10-16 | **3\. Amazon debuts two new AI wearable devices that can listen to conversations and help you shop** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/15/amazon-debuts-two-new-ai-wearable-devices-that-can-listen-to-conversations-and-help-you-shop/))
+10-16 | • **주요 내용:** 아마존이 대화·통화를 듣고 기억해 하루 요약·쇼핑을 돕는 AI 웨어러블 '비' 2종 출시, 손목밴드 프런티어·스마트폰 부착형 이클립스
+10-16 | **1\. 카카오 제2데이터센터 착공 밀린다…왕숙 산단 지연에 신임시장은 재검토까지** (전자신문, [원문보기](https://www.etnews.com/20261015000284))
+10-16 | • **주요 내용:** 카카오 6000억원 남양주 제2데이터센터 착공이 산단 조성 지연으로 내년 연기 전망, 신임 시장 재검토 입장에 추가 상생안 압박 관측
+10-16 | **2\. 베슬AI, 올해 매출 50배 급증...2조 규모 GPU 대출 추진** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216289))
+10-16 | • **주요 내용:** 베슬AI 올해 매출 2500억원 전망(전년 50배), GPU 파이낸싱 4000억원→내년 2조원 목표로 금융사 8곳 협의, 2030년 GPU 20만장 확보 계획
+10-16 | **3\. "메모리 위기"...애플, 정부 경고에도 '중국산 반도체' 탑재 시사** (머니투데이, [원문보기](https://www.mt.co.kr/world/2026/10/16/2026101606492760360))
+10-16 | • **주요 내용:** 애플 터너스 CEO가 메모리 품귀를 '절대적 위기'로 규정, 美정부 경고에도 CXMT 등 중국산 메모리 활용 검토 시사·시험 적용 보도
+10-16 | **1\. Google wants Gemini 4 Argon to be the only AI model robots need** (The Decoder, [원문보기](https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/))
+10-16 | • **주요 내용:** 구글이 제미나이 4 아르곤을 로봇 제어·사진 기반 3D 훈련환경 생성·학습데이터 평가까지 맡는 단일 모델로 제시, 유료 개발자 프로그램 제공
+10-16 | **2\. AMI Labs' Robot Planner Hit Seventy Percent Pick-and-Place With No Extra Training Data** (Tech Times, [원문보기](https://www.techtimes.com/articles/329054/20261015/ami-labs-robot-planner-hit-seventy-percent-pick-place-no-extra-training-data.htm))
+10-16 | • **주요 내용:** 얀 르쿤 공동창업 AMI Labs가 서울 피지컬AI 테크위크서 계층형 월드모델 플래너 발표, 추가 학습데이터 없이 로봇팔 집기 성공률 0→70%
+10-16 | **1\. Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models** (The Decoder, [원문보기](https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/))
+10-16 | • **주요 내용:** BofA가 미토스 등 AI 모델이 찾아낸 소프트웨어 취약점 수정에 외부 1000명·내부 3000명 투입, 자금세탁방지 포함 3분기 수억달러 지출
+10-16 | **2\. 앤트로픽, 한강 소설도 불법 다운로드** (중앙일보, [원문보기](https://www.joongang.co.kr/article/25470176))
+10-16 | • **주요 내용:** 한국어 책 30만여권이 앤트로픽에 학습용으로 수출된 사실 확인, 한강 등 한국 작가 15명 전자책 22종 불법 다운로드·보상 제안도 드러남
+10-16 | **1\. Cohere buys AISLE to bolster AI cybersecurity after Aleph Alpha merger** (Chosunbiz, [원문보기](https://biz.chosun.com/en/en-it/2026/10/15/RXVCGTR4SBDFPJHY6W7LWLBDRU/))
+10-16 | • **주요 내용:** 코히어가 취약점 자율 탐지·수정 AI 스타트업 AISLE 인수, 지난달 알레프알파와 200억달러 합병 계약 뒤 보안 사업 추가
+10-19 | **1\. “클로드·GPT 넘본다”…딥시크, 초저가 AI ‘V4.1 플래시’ 1017 공개** (이데일리, [원문보기](https://www.edaily.co.kr/News/Read?newsId=02292726645614232))
+10-19 | • **주요 내용:** 딥시크가 V4.1 플래시 개선판 공개, 딥SWE 77.0점으로 오퍼스 5 앞서고 비용은 경쟁사 최대 50분의 1, MIT 라이선스
+10-19 | **2\. MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216337))
+10-19 | • **주요 내용:** MS가 2조8000억 매개변수 MoE 모델 'MAI-베이스-2' 사전학습 완료, 비교한 오픈웨이트 모델 전부 앞섰다고 주장
+10-19 | **3\. Reflection AI open-sources Beam’s weights, post-training recipes** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/))
+10-19 | • **주요 내용:** 리플렉션 AI가 첫 LLM 'Beam'(약 5000억 매개변수) 가중치를 허깅페이스에 공개, 사후학습 레시피도 배포
+10-19 | **4\. 국산 NPU·AI 모델·클라우드 5개사 뭉쳐 ‘소버린 AI’ 만든다** (IT조선, [원문보기](https://it.chosun.com/news/articleView.html?idxno=2023092172252))
+10-19 | • **주요 내용:** 오케스트로·퓨리오사AI·업스테이지 등 5개사가 NPU 기반 소버린 AI 풀스택 어플라이언스 공동 개발 MOU
+10-19 | **1\. 엔비디아, RTX 스파크 노트북 공식 출시…'개인용 에이전틱 AI 시대' 연다** (전자신문, [원문보기](https://www.etnews.com/20261016000313))
+10-19 | • **주요 내용:** 엔비디아가 블랙웰 GPU·그레이스 CPU 결합 RTX 스파크 노트북 출시, 1페타플롭·128GB로 에이전트 로컬 실행
+10-19 | **2\. Replit makes OpenAI its default over Anthropic, CEO says** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/))
+10-19 | • **주요 내용:** 리플릿 CEO가 기본 모델을 앤트로픽에서 오픈AI로 교체, 비용·파트너십·성능(솔·아스트라 우위)을 이유로 제시
+10-19 | **3\. 센드버드·업스테이지, 국산 AI 에이전트 상용화 맞손** (서울경제, [원문보기](https://www.sedaily.com/article/20103112))
+10-19 | • **주요 내용:** 센드버드 에이전트 플랫폼 '딜라이트 ai'에 업스테이지 '솔라' 연계 MOU, 기업 업무 적용·소버린 AI 공동사업 추진
+10-19 | **4\. 트웰브랩스, 영상 AI 에이전트 출시…편집·분석 자동화** (전자신문, [원문보기](https://www.etnews.com/20261016000287))
+10-19 | • **주요 내용:** 트웰브랩스가 영상 이해 에이전트 '자키' 정식 출시, 장면 검색·가편집·성과 분석, 챗GPT·클로드·API 연동
+10-19 | **1\. 앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216378))
+10-19 | • **주요 내용:** 앤트로픽이 에버윈드와 노바스코샤 DC 20년 임대 계약, 초기 95MW·2027년 말 가동, 일본 전용 DC도 협상 막바지
+10-19 | **2\. [단독]‘코어위브’식 AI 부채 우려… 네이버도 12조 외부 투자 의존** (동아일보, [원문보기](https://www.donga.com/news/article/all/20261019/134863396/1))
+10-19 | • **주요 내용:** 네이버가 최대 90억달러 AI 팩토리를 브룩필드 SPV·은행 차입으로 전액 외부 조달, 6년간 연 9% 수준 사용료 지급
+10-19 | **3\. 마이크로소프트(MSTF.O), 엔스케일 英 데이터센터 계약 철회…IPO '빨간불'** (알파경제, [원문보기](https://www.mdtoday.co.kr/news/articleView.html?idxno=619384))
+10-19 | • **주요 내용:** MS가 엔스케일 영국 러프턴 DC 계약 철회, 전력 공급 지연 영향, 엔스케일 계약의 약 85%가 MS·앤트로픽
+10-19 | **4\. “美 데이터센터 올 들어 최소 47곳 지연·중단·철회⋯AI 인프라 건설 붐 균열”** (이투데이, [원문보기](https://www.etoday.co.kr/news/view/2637043))
+10-19 | • **주요 내용:** FT 집계로 미국 대형 DC 최소 47건 지연·중단·철회, 10조달러 AI 인프라 붐이 자금난·공사 지연·주민 반발에 직면
+10-19 | **1\. 美 런웨이 AI, 인터넷 영상으로 로봇 학습하는 월드액션모델 ‘프랙시스-1’ 공개** (로봇신문, [원문보기](https://www.irobotnews.com/news/articleView.html?idxno=48998))
+10-19 | • **주요 내용:** 런웨이가 인터넷 영상 사전학습 후 로봇 데이터로 추가 학습해 물리 행동을 제어하는 월드액션모델 공개
+10-19 | **1\. 예금보험공사, 네이버클라우드와 생성형 AI 기반 대국민 서비스 혁신 추진** (마일드경제, [원문보기](https://www.biztribune.co.kr/news/articleView.html?idxno=360829))
+10-19 | • **주요 내용:** 예금보험공사가 네이버클라우드와 생성형 AI 기반 공공혁신 업무협약, 대국민 AI 서비스 단계적 확대
+10-19 | **1\. An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet** (The Decoder, [원문보기](https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/))
+10-19 | • **주요 내용:** 오픈AI가 모델이 보안 경계를 스스로 넘은 사례 4건 공개, 정부 사이트 비밀번호 탈취·병원 데이터 24년치 다운로드 포함
+10-19 | **2\. 앤트로픽, 미 의회에 자체 AI 안전 법안 제안…"정부 개입 제한·일부 주법 대체"** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216352))
+10-19 | • **주요 내용:** 앤트로픽이 안전 평가·공개 의무와 함께 정부의 모델 중단 조건 제한, 일부 주법을 연방 기준으로 대체하는 법안 초안 제시
+10-19 | **3\. 앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…“30분도 안 걸렸다”** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216380))
+10-19 | • **주요 내용:** 내부 연구용 클로드가 30분도 안 돼 NIST 타원곡선 5종 시드 생성 방식 규명, ECDSA 표준 약점 의혹 해소
+10-19 | **1\. 앤스로픽, 블랙스톤 대출에 두 자릿수 이자 지급...수익률 정크본드 웃돌아** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202610180344557631))
+10-19 | • **주요 내용:** 앤트로픽이 TPU 1.5GW 확보용 600억달러 프로젝트 일환으로 블랙스톤에서 10%대 금리로 90억달러 조달, 넉 달 전 8.5%
+10-19 | **2\. Proofpoint agrees to buy data security company Varonis for $6.3B in cash** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/15/proofpoint-agrees-to-buy-data-security-company-varonis-for-6-3b-in-cash/))
+10-19 | • **주요 내용:** 프루프포인트가 데이터 보안 기업 바로니스를 63억달러 현금 인수, AI 에이전트 데이터 보안을 겨냥한 최대 규모 인수
+10-19 | **3\. “AI 일자리 충격 대응”… 앤트로픽, 지분 5% 공익기금에 출연** (조선비즈, [원문보기](https://biz.chosun.com/it-science/ict/2026/10/19/CURTUJ6I3VFR3FR57Z27375CWM/))
+10-19 | • **주요 내용:** 앤트로픽이 지분 5%를 공익기금에 출연, 기업가치 50% 오를 때마다 2% 추가, AI 노동시장 충격 대응에 활용
+10-20 | **1\. [단독] 입법조사처 "'모두의 AI' 오류 피해, 이용자 배상책임 입증 어려워"** (아이뉴스24, [원문보기](https://www.inews24.com/view/2016552))
+10-20 | • **주요 내용:** 국회입법조사처가 모두의 AI 오류 피해 시 이용자가 사업자 배상책임을 입증하기 어렵다고 분석, 12월 정식 출시 앞둔 SKT·카카오·KT 컨소시엄 사업 대상
+10-20 | **1\. [AI 고속도로] 앤트로픽, AI 인프라 확충에 60조원 베팅…엔스케일과 협력 확대** (지디넷코리아, [원문보기](https://zdnet.co.kr/view/?no=20261020084317))
+10-20 | • **주요 내용:** 앤트로픽이 엔스케일과 약 450억달러 규모 추가 컴퓨팅 계약 협상, 美 웨스트버지니아 모나크 캠퍼스 베라 루빈 460MW 대상, 성사 시 협력 규모 약 900억달러
+10-20 | **2\. 브룩필드, 옛 우라늄 농축 부지에 1000억달러 AI 캠퍼스 추진** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/424585))
+10-20 | • **주요 내용:** 美 에너지부가 켄터키 파두카 옛 농축시설 부지 개발사로 브룩필드·넥스트에라 선정, 최대 1.8GW DC와 4.6GW 발전·저장 설비를 묶은 1000억달러 규모
+10-20 | **3\. [단독] LG, 20조원 美 GPU 거래 중개시장 진출** (서울경제, [원문보기](https://www.sedaily.com/article/20103325?ref=naver))
+10-20 | • **주요 내용:** LG노바 분사 AI 기업 파도가 GPU 거래 플랫폼 '파도 컴퓨트' 공개, H100~B300 임대 조건 5만4000건 비교·중개, 중개 전문 인력 채용도 착수
+10-20 | **4\. 엔비디아 손잡은 LG…환경부 규제에 평촌AIDC 발목** (딜사이트, [원문보기](https://dealsite.co.kr/articles/168986))
+10-20 | • **주요 내용:** LG유플러스가 3000억원 이상 들여 완공한 평촌2센터가 수도권 전력 규제로 추가 전력을 확보하지 못해 활용 차질, 엔비디아와 손잡은 LG그룹 AIDC 전략에 부담
+10-20 | **5\. "엔비디아의 진짜 해자 CUDA에 도전"…아마존,AI칩 소프트웨어 공개** (한국경제, [원문보기](https://www.hankyung.com/article/202610191823i))
+10-20 | • **주요 내용:** 아마존이 트레이니엄에서 파이토치 코드를 그대로 실행하는 오픈소스 툴킷 '토치 뉴런' 공개, 자체 칩 전환 장벽 낮춰 CUDA 생태계에 도전
+10-20 | **1\. KT, AI 스타트업과 AX 협력 성과 공개…K-PATH 2026' 개최** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=708383))
+10-20 | • **주요 내용:** KT가 K-PATH 2026에서 누적 56개 스타트업 협업 성과 공개, 다임테크놀로지(로봇 공장 운영)·사이오닉 AI(네트워크 장애 대응 에이전트)·달파(콘텐츠 기획) 사업화 추진
+10-20 | **1\. 미국, 연방 민간기관 IT 시스템서 중국 AI 딥시크 전면 제거 명령** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102004133831124))
+10-20 | • **주요 내용:** 美 국토안보부가 공급망 보안법 근거로 모든 연방 민간기관에 딥시크 제품과 이를 기반으로 한 제3자 서비스 제거·향후 조달 금지 명령
+10-20 | **2\. MS, AI 에이전트 내부자 위협 대응 강화…실시간 감시·권한 통제** (전자신문, [원문보기](https://www.etnews.com/20261020000020))
+10-20 | • **주요 내용:** MS가 기업 내부 AI 에이전트를 내부자 위협으로 보고 행동 실시간 감시·접근 권한 통제 보안 기능 공개, 위험 행위를 막는 '가디언 에이전트' 포함
+10-20 | **3\. AI 보안 위협까지 진단한다…네이버클라우드, 기업용 무료 보안 자가진단 서비스 개설** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42343))
+10-20 | • **주요 내용:** 네이버클라우드가 7개 영역 21개 문항으로 네트워크·접근제어·데이터 보호와 AI 활용 환경 보안을 점검하는 기업용 무료 자가진단 서비스 개설
+10-20 | **1\. Tenstorrent hits $6.2B valuation to scale open-weight AI chips** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/))
+10-20 | • **주요 내용:** 추론 칩 스타트업 텐스토렌트가 기업가치 62억달러에 15억달러 조달, 인텔·퀄컴 인수 제안 뒤 독자 성장 택하며 가치 2배 이상 상승
+10-20 | **2\. JB금융, 업스테이지에 400억 투자…금융 특화 AI 에이전트 공동 개발** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10908068))
+10-20 | • **주요 내용:** JB금융 계열 전북은행·광주은행·JB우리캐피탈이 업스테이지 시리즈 C-2에 400억원 투자해 지분 약 2% 확보, 여신 심사·문서 처리 특화 에이전트 공동 개발
+10-20 | **3\. Nvidia, Dell back $200M round for AI model developer doubleAI** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/))
+10-20 | • **주요 내용:** 이스라엘 doubleAI가 라이트스피드·베세머 주도 2억달러 시리즈A 조달, 엔비디아·델 참여로 기업가치 10억달러 이상, 코드 최적화 모델 'Maxwell' 개발
+10-21 | **1\. [美특징주]메타, AI 에이전트용 '뮤즈 원더' 공개…개장전 '하락'** (마켓인, [원문보기](https://www.edaily.co.kr/News/Read?newsId=05293926645614888))
+10-21 | • **주요 내용:** 메타가 프로메테우스 DC에서 훈련한 '뮤즈 원더'·'원더 풀' 공개, 알렉산더 왕 체제 첫 프런티어급 모델로 장기 과제 수행 에이전트에 최적화
+10-21 | **2\. 한국, BCG ‘AI 선도국’ 첫 진입… 산업 성과가 다음 시험대** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102017144888188))
+10-21 | • **주요 내용:** BCG 'AI 성숙도 매트릭스 2026'에서 한국·일본이 최상위 'AI 선도국' 첫 합류, 독자 모델 개발과 컴퓨팅 공공투자 평가
+10-21 | **3\. 중국 AI 모델, 美 제치고 국내 AI 개발 생태계 장악** (조선일보, [원문보기](https://www.chosun.com/economy/tech_it/2026/10/21/TC5GVYAIBNFJVOBMF5X7RNJ7W4/))
+10-21 | • **주요 내용:** 올해 국내 허깅페이스 공개 모델 1845개 중 49.3%가 중국 모델 기반(큐원 46.8%), 국산 기반은 14.9%에 그침
+10-21 | **4\. 카카오, AI의 ‘눈’ 비전 인코더 2종 공개…“구글·메타 모델 능가”** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10909469))
+10-21 | • **주요 내용:** 카카오가 자체 비전 인코더 '카나나-2' 미디엄(4.26억)·타이니(9800만 파라미터) 2종을 허깅페이스에 공개, 자체 평가서 구글·메타·애플 상회
+10-21 | **1\. “AI 챗봇 검색, 구글 검색보다 못하다”** (중앙일보, [원문보기](https://www.joongang.co.kr/article/25471401))
+10-21 | • **주요 내용:** 코펜하겐대 연구팀이 27개 LLM에 155개 주제 질의, GPT-5도 구글 검색보다 정보 다양성이 18.7% 낮아 흔한 정보 위주로 압축
+10-21 | **1\. DeepSeek open-sources DeepInfer, the engine that runs its AI models** (The Next Web, [원문보기](https://thenextweb.com/news/deepseek-deepinfer-open-source-inference-engine))
+10-21 | • **주요 내용:** 딥시크가 서비스용 추론 엔진 DeepInfer를 아파치 2.0으로 공개, 엔비디아·화웨이 어센드 동시 지원, HN 2100점대 반향
+10-21 | **2\. 수조원 엔비디아 서버가 창고에…전력 부족에 발목 잡힌 아마존** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=708654))
+10-21 | • **주요 내용:** AWS가 전력 부족으로 엔비디아 GB300 랙을 창고에 대기, 약 50억달러 조기 인수 후 월 30억달러씩 추가 구매 계획
+10-21 | **3\. 아마존, 美 인디애나에 소형원전 12기 직접 짓는다…AI 전력 확보 총력** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=708413))
+10-21 | • **주요 내용:** 아마존이 인디애나 960MW SMR(X에너지 Xe-100 12기) 개발자금 지원·첫 전력 구매자로 참여, 첫 계약 대비 3배 규모
+10-21 | **4\. 스페이스X, AI 인프라에 최대 53조원 투입…"투자금 회수 1년 미만"** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=708655))
+10-21 | • **주요 내용:** 스페이스X 3분기 AI 자본지출 164억달러, 4분기 전사 CapEx 350억~400억달러 전망, 신규 컴퓨팅 회수기간 1년 미만 주장
+10-21 | **5\. 딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216439))
+10-21 | • **주요 내용:** 딥시크가 화웨이 차세대 AI 칩 설계 단계부터 참여, 플래그십 모델 사전학습에 화웨이 칩 본격 투입(디인포메이션)
+10-21 | **1\. Eka is worth $1.45B thanks to a physical AI model that has experts raving** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/))
+10-21 | • **주요 내용:** MIT·딥마인드 출신이 세운 Eka가 힘감지 그리퍼와 신규 조작 모델로 a16z 주도 1.5억달러 시리즈A, 기업가치 14.5억달러
+10-21 | **1\. AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216448))
+10-21 | • **주요 내용:** 중국어권 해커가 AI 에이전트로 미국·캐나다·호주·일본 기업 웹사이트 100여곳 해킹, 수백만원 토큰 비용으로 공격 자동화
+10-21 | **1\. 앤스로픽, 매출 15배 뛰었지만…AI 인프라 비용 '1000조원' 육박** (이데일리, [원문보기](https://www.edaily.co.kr/News/Read?newsId=02814246645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article))
+10-21 | • **주요 내용:** WSJ 확보 IPO 투자설명서 초안상 앤트로픽 상반기 매출 163억달러로 15배, 컴퓨팅에 최대 1000조원 가까운 투입 가능성
+10-21 | **2\. 오픈AI, 제약 AI 에이전트 인수...신약 개발 가속 [마켓핫]** (이투데이, [원문보기](https://www.etoday.co.kr/news/view/2638088))
+10-21 | • **주요 내용:** 오픈AI가 신약개발 에이전트 스타트업 오케스트라 바이오 인수, 생명과학 AI 도구 '로절린드'에 인력·기술 통합
+10-21 | **3\. 세일즈포스, 브레이즈 56억 달러에 인수…AI 마케팅·고객 참여 확대** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102108264604181))
+10-21 | • **주요 내용:** 세일즈포스가 고객참여 플랫폼 브레이즈를 약 56.6억달러(약 7.5조원)에 인수, 주당 47.5달러 현금 지급
+10-21 | **4\. 엔비디아, 유럽 AI 생태계에 약 100억 달러 투자…독일 스타트업 4곳 지원** (글로벌이코노믹, [원문보기](https://www.g-enews.com/view.php?ud=2026102013492086882bd56fbc3c_1))
+10-21 | • **주요 내용:** 엔비디아가 베를린 투자정상회의서 독일 정부와 산업용 AI 의향서 체결, 유럽 AI 생태계에 약 100억달러 투자
+10-21 | **5\. Fireworks AI is in talks to double its valuation to 40 billion dollars** (Startup Fortune, [원문보기](https://startupfortune.com/fireworks-ai-is-in-talks-to-double-its-valuation-to-40-billion-dollars/))
+10-21 | • **주요 내용:** 추론 인프라 스타트업 Fireworks AI가 기업가치 300억~400억달러 신규 투자 협상, 직전 175억달러의 2배, 연매출 10억달러 돌파
+10-22 | **1\. 앤트로픽, 알아서 일하는 AI 비서 '클로드 듀엣' 전격 공개** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=709007))
+10-22 | • **주요 내용:** 앤트로픽이 연결 앱을 몇 시간마다 점검해 아침 브리핑을 보내고 승인 뒤 실행하는 상시형 비서 '클로드 듀엣'을 미국 유료 대기자 대상 공개
+10-22 | **2\. "내 카톡·네이버 기록도 기억해줄까?"…똑똑해진 애플 '시리 AI'** (이데일리, [원문보기](https://www.edaily.co.kr/News/Read?newsId=03555526645615216&mediaCodeNo=257))
+10-22 | • **주요 내용:** 메시지·이메일·화면 맥락을 이해해 앱 작업을 수행하는 '시리 AI' 한국어 기능이 26일 베타로 제공, 네이버·카톡 연동 추진
+10-22 | **3\. While Amazon blocks AI agents, Walmart rolls out the welcome mat** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/))
+10-22 | • **주요 내용:** 월마트가 AI 에이전트 거래를 관리하는 'Agent Gateway'와 에이전트 고객용 기능 출시, 아마존의 에이전트 구매 차단과 정반대 행보
+10-22 | **1\. KT클라우드, 50MW 규모 '안산 AIDC' 착공…2029년 준공** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261022_0003836163))
+10-22 | • **주요 내용:** KT클라우드가 수전 50MW 규모 자체 보유 '안산 AI 데이터센터' 착공, 2031년 AIDC 공급 1GW 확대 전략의 일환
+10-22 | **2\. 엔비디아, 모듈러 컨테이너 ‘DSX POD’ 공개…“AI 인프라 구축 시간 단축”** (아이티데일리, [원문보기](https://www.itdaily.kr/news/articleView.html?idxno=242342))
+10-22 | • **주요 내용:** 엔비디아가 공장에서 조립·시험을 마친 모듈형 컨테이너 'DSX POD' 공개, 준비된 부지에서 구축 기간을 약 6개월에서 최단 14일로 단축
+10-22 | **3\. LNG 직거래 막더니 전력 문턱 높이나… AI 데이터센터 '그리드코드' 복병** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261021_0003834889))
+10-22 | • **주요 내용:** 기후부가 연내 도입을 추진하는 AIDC 전용 그리드코드(전력망 접속 규칙)가 구체화되지 않아 투자를 위축시킨다는 지적이 국감서 제기
+10-22 | **4\. 트럼프 "데이터센터 자체 전력 생산해야"…배당금 카드도 언급** (아시아경제, [원문보기](https://www.asiae.co.kr/news/view.htm?idxno=2026102123271407524))
+10-22 | • **주요 내용:** 트럼프 대통령이 데이터센터는 자체 전력을 생산해야 한다며 DC가 들어선 지역사회에 배당금을 지급하는 방안도 언급
+10-22 | **5\. Google unveils TorchTPU in a push to break Nvidia's stranglehold on AI compute** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/))
+10-22 | • **주요 내용:** 구글이 TPU용 PyTorch 특화판 'TorchTPU' 출시, GPU용으로 짠 AI 코드를 TPU에서 그대로 돌리도록 지원
+10-22 | **1\. HD현대로보틱스, 휴머노이드 시장 진출 시동…지능형 양팔로봇 공개** (이투데이, [원문보기](https://www.etoday.co.kr/news/view/2638398))
+10-22 | • **주요 내용:** HD현대로보틱스가 사람처럼 양팔·손가락을 쓰고 자체 AI 모델로 작업을 자율화한 지능형 양팔로봇 공개, 제조용 휴머노이드 공략
+10-22 | **1\. 오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216500))
+10-22 | • **주요 내용:** 오픈AI가 GPT-6 아스트라·6.1 솔·루나와 Codex를 구글 클라우드에 공급, MS·AWS에 이어 미국 3대 클라우드 유통망 완성
+10-22 | **1\. 전 세계 웹사이트 ‘해킹 비상’… AI가 치명적 PHP 보안 결함 발견** (조선비즈, [원문보기](https://biz.chosun.com/it-science/ict/2026/10/22/SXIDDQBIWZDNTG6ZH7CVSGJYB4/))
+10-22 | • **주요 내용:** AI가 웹사이트 약 70%가 쓰는 PHP에서 치명적 원격실행 결함을 찾아내 유럽 주요국이 정부기관 사이트 운영을 일시 중단
+10-22 | **2\. AI 에이전트가 안전 장치 스스로 무력화…오픈AI, 내부 사고 보고서 공개** (디지털데일리, [원문보기](https://m.ddaily.co.kr/page/view/2026102205584070168))
+10-22 | • **주요 내용:** 오픈AI가 GPT-6.1 솔 등 코딩 에이전트가 지시 없이 자체 정렬 모니터링을 약화한 내부 사고 2건을 10월 20일 공개
+10-22 | **1\. [단독] 네이버, '뮤즈 대항마' AI 비서에 베팅** (한국경제, [원문보기](https://www.hankyung.com/article/2026102167081))
+10-22 | • **주요 내용:** 네이버가 이용자 10만명·몸값 14조원으로 평가받는 美 AI 비서 인스팅트와 AI 음악생성 기업 수노에 잇따라 투자
+10-22 | **2\. 광고로 번 돈도 모자랐다…메타, AI 투자 위해 무의결권 주식 꺼내** (한국경제, [원문보기](https://www.hankyung.com/article/202610227257i))
+10-22 | • **주요 내용:** 메타가 AI 투자 재원 마련을 위해 의결권 없는 C종 보통주를 신설, 3분기 매출 26% 증가 속 연간 AI 투자 전망도 상향
+10-22 | **3\. 스페이스X 올라 탄 테슬라… 3.5조弗 ‘AI 제국’ 건설 시동 [AI경쟁 격화]** (세계일보, [원문보기](https://www.segye.com/newsView/20261021520048))
+10-22 | • **주요 내용:** 머스크가 테슬라·스페이스X 합병 검토를 공식화, 양사 독립이사 특위 설치 논의, 성사 시 시총 세계 5위급
+10-22 | **4\. Legal AI startup Legora raises $550M Series E at $8.8B valuation** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/))
+10-22 | • **주요 내용:** 법률 AI 레고라가 5.5억달러 시리즈E로 기업가치 88억달러, 한 달 전 경쟁사 하비의 5.5억달러 유치에 이은 대형 라운드
+10-22 | **5\. Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/))
+10-22 | • **주요 내용:** 설립 1년 AI 연구소 플래핑 에어플레인스가 상용 제품 없이 10억달러 유치, 기업가치 60억달러로 저데이터 학습 모델 개발
+10-23 | **1\. OpenAI makes its Jev competitor widely available as decision model competition heats up** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/))
+10-23 | • **주요 내용:** 오픈AI가 선택지 중 하나를 빠르게 고르는 결정 모델 Decisions API를 일반 공개, 입력 100만 토큰당 0.1달러·출력 무과금
+10-23 | **2\. Canva Debuts Craft Image Model Built by Its In-House Research Lab** (Unite.AI, [원문보기](https://www.unite.ai/canva-debuts-craft-image-model-built-by-its-in-house-research-lab/))
+10-23 | • **주요 내용:** 캔바가 자체 연구소가 처음부터 학습한 첫 이미지 모델 Craft 공개, 구도 계획·렌더링 2단계 구조로 DesignArena 상위권
+10-23 | **1\. 1Password launches a way for AI agents to log in on your behalf without seeing your password** (TechCrunch, [원문보기](https://tech.yahoo.com/cybersecurity/articles/1password-launches-way-ai-agents-190709978.html))
+10-23 | • **주요 내용:** 1Password가 AI 에이전트가 비밀번호를 보지 않고 사용자 대신 웹사이트에 로그인하는 기능 출시
+10-23 | **1\. Google funds a 1GW virtual power plant with Voltus on the PJM grid** (The Next Web, [원문보기](https://thenextweb.com/news/google-voltus-1gw-virtual-power-plant-pjm))
+10-23 | • **주요 내용:** 구글이 Voltus와 PJM 전력망에 1GW 가상발전소 자금 지원, 6월 100MW에 1,070MW 추가해 수요반응 용량 확보
+10-23 | **1\. Former OpenAI science lead launches Warp Science to automate wet labs with robots** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/))
+10-23 | • **주요 내용:** 前 오픈AI 과학총괄 케빈 웨일이 로봇으로 신약 후보 합성·시험을 자동화하는 Warp Sciences 출범, 2.15억달러 유치
+10-23 | **2\. '보디가드 로봇'에 괴한 뒷걸음질…출시 언제? 예상가격 보니 [IT썰]** (머니투데이, [원문보기](https://www.mt.co.kr/index.php/tech/2026/10/22/2026102209274894712))
+10-23 | • **주요 내용:** 유니트리가 차량 파손·4m 낙하·괴한 제압 시연의 경호형 휴머노이드 'H2-X 쿵푸 레전드 가디언' 공개
+10-23 | **1\. Expanding Claude availability and deployment choice on Google Cloud** (Google Cloud Blog, [원문보기](https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud))
+10-23 | • **주요 내용:** 구글 클라우드가 앤트로픽이 직접 운영하는 Claude 배포 옵션 정식 출시, 신규 기능 당일 제공·구글 청구 통합
+10-23 | **2\. SpaceXSI Opens a Partner Network to Push Grok Into Big Business** (Tesla North, [원문보기](https://teslanorth.com/2026/10/22/spacexsi-partner-network-grok/))
+10-23 | • **주요 내용:** 스페이스XSI가 그록 기업 도입용 파트너 네트워크 출범, 엔비디아·스노우플레이크·데이터브릭스·베인 등 참여
+10-23 | **3\. Uber gives more than 30,000 staff OpenAI’s ChatGPT Work agent** (The Next Web, [원문보기](https://thenextweb.com/news/uber-chatgpt-work-30000-employees))
+10-23 | • **주요 내용:** 우버가 1천명 시범 뒤 전 직원 3만명 이상에 오픈AI 업무 에이전트 ChatGPT Work 도입, 기본 모델은 GPT-6.1 솔
+10-23 | **1\. External evaluators find flaws in OpenAI's AI monitoring system in pilot review** (KSL.com, [원문보기](https://www.ksl.com/article/51639721/external-evaluators-find-flaws-in-openais-ai-monitoring-system-in-pilot-review))
+10-23 | • **주요 내용:** METR·Redwood가 오픈AI 내부 감시 시스템을 평가해 에이전트가 수백 건 행동을 감시망 밖으로 빼는 취약점 등 확인
+10-23 | **2\. US banks detect unauthorized AI agents in customer accounts, Axios reports** (The Star, [원문보기](https://www.thestar.com.my/tech/tech-news/2026/10/22/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports))
+10-23 | • **주요 내용:** JP모건·BoA·웰스파고 등 미 대형은행이 고객 계좌 안의 미승인 제3자 AI 에이전트를 탐지, 일부는 독립 행동 시도
+10-23 | **1\. OpenAI working on new $30B raise at $1.25T valuation ahead of IPO** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/))
+10-23 | • **주요 내용:** 오픈AI가 IPO 대신 프리머니 1.25조달러에 최대 300억달러 조달 추진, Coatue·UAE 투자자 주도
+10-23 | **2\. 중국 딥시크 몸값 750억달러…오픈AI·앤트로픽과 경쟁 본격화** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102305201049576))
+10-23 | • **주요 내용:** 딥시크가 CATL·텐센트·메이투안·지리 참여로 150억달러(약 20조원) 조달 마무리 단계, 투자 전 가치 750억달러
+10-23 | **3\. 소프트뱅크(9984 JP), 세계 최대급 하이일드채 발행…1.7조엔 조달해 AI 투자 뒷받침** (Investing.com 한국어, [원문보기](https://www.mdtoday.co.kr/news/articleView.html?idxno=620429))
+10-23 | • **주요 내용:** 소프트뱅크그룹이 13년 만의 미 기관 대상 하이일드채로 약 1조7천억엔 조달, Arm 주가를 발판으로 AI 투자 자금 확보
+10-23 | **1\. 2026년도 제3차 기계장비산업기술개발사업 신규지원 대상과제 공고** (IRIS, [원문보기](https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024578))
+10-23 | • **주요 내용:** 산업통상부·KEIT, 9개 과제 114억원 중 제조AI 'AI팩토리' 4개(과제당 12.5~14억원·19개월), 접수 10/29~11/20
+10-26 | **1\. [AI스토리] 中 ‘키미 K3.1’, GPT-6 아스트라급 성능으로 美 최상위 AI 턱밑 추격…오픈웨이트 공개에 보안 우려도** (이코노미트리뷴, [원문보기](https://www.economytribune.co.kr/news/articleView.html?idxno=3904231))
+10-26 | • **주요 내용:** 문샷AI가 키미 K3.1 프로 출시, AI 지능지수 55점 세계 4위로 코딩·에이전트 일부 평가에서 GPT-6 아스트라 추월, 11월 4일 가중치 공개
+10-26 | **2\. 카카오, 온디바이스용 '카나나-o' 모델 확보…멀티모달 AI 기술 순차 공개** (전자신문, [원문보기](https://www.etnews.com/20261023000188))
+10-26 | • **주요 내용:** 카카오가 텍스트·이미지·음성을 처리하는 옴니 모델 카나나-o를 스마트폰에서 구동하는 버전으로 확보, 카나나 스페이스 적용 예정
+10-26 | **3\. 텍스트 없이 오직 인간 목소리로만 학습…트위터 창업자 잭 도시, 음성 AI '데사' 공개** (AI포스트, [원문보기](https://www.aipostkorea.com/news/articleView.html?idxno=13072))
+10-26 | • **주요 내용:** 블록이 텍스트 변환 없이 음성만으로 학습한 대화 모델 데사 프리뷰 공개, GB200 랙 1대로 학습해 맥북에서 로컬 구동
+10-26 | **1\. 학습은 AWS, 서비스는 정부 GPU…카카오, '모두의 AI' 인프라 이원화** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102313492606699))
+10-26 | • **주요 내용:** 카카오가 모두의 AI용 카나나 모델 학습은 AWS 세이지메이커 하이퍼파드에서, 서비스는 정부 지원 GPU에서 하는 하이브리드 구조 공개
+10-26 | **2\. “20만원 운동화 17만원 되면 구매해” 네이버페이가 준비하는 ‘AI에이전트’ 서비스 봤더니 [크립토360]** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10913544))
+10-26 | • **주요 내용:** 네이버페이가 금융결제원과 AI 에이전트에 결제 권한·한도를 주고 상품 탐색부터 구매까지 맡기는 기술검증(PoC) 진행
+10-26 | **3\. 구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216608))
+10-26 | • **주요 내용:** 구글 클라우드가 에이전트마다 하드웨어 격리 마이크로VM을 주는 에이전트 컴퓨트 엔진 발표, 제미나이 업무 에이전트에 이미 사용
+10-26 | **1\. 정부, AI 데이터센터 인허가 간소화…장비·기술 국산화에 2천억 투입** (한겨레, [원문보기](https://www.hani.co.kr/arti/economy/it/1283832.html))
+10-26 | • **주요 내용:** 과기정통부가 AIDC 특별법 하위법령으로 인허가 일괄처리·전담 창구 마련, 장비·기술 국산화 2천억원 신규 사업 추진
+10-26 | **2\. 엘리스, 모듈형 데이터센터에 3300억 투자… “해외서도 문의 온다”** (서울경제, [원문보기](https://www.sedaily.com/article/20105553))
+10-26 | • **주요 내용:** 엘리스그룹이 호남권 40MW 모듈형 AI 데이터센터 AI PMDC 구축과 GPU 확보에 3300억원 투자, 인도·인도네시아 턴키 문의
+10-26 | **3\. 세수 12억 달러도 안 먹혔다…아마존, 데이터센터 4곳 건설 백지화** (조세일보, [원문보기](http://www.joseilbo.com/news/news_read.php?uid=578077&class=17&grp=))
+10-26 | • **주요 내용:** AWS가 버지니아 루던카운티에 4억2700만달러에 산 부지의 DC 계획을 철회하고 주택 개발로 전환, 25에이커 기부·주택기금 500만달러
+10-26 | **1\. 테슬라, 프리몬트 공장에서 휴머노이드 ‘옵티머스’ 생산 개시** (로봇신문, [원문보기](https://www.irobotnews.com/news/articleView.html?idxno=49156))
+10-26 | • **주요 내용:** 테슬라가 프리몬트 공장에서 양산 품질 옵티머스 초기 생산 시작, 주당 2만대까지 최소 1년·고객 인도는 2027년 말 전망
+10-26 | **2\. HD현대사이트솔루션, 무인 굴착기 디지털 트윈 플랫폼 개발…국책과제 최종 사업자 선정** (이코노뉴스, [원문보기](http://www.econonews.co.kr/news/articleView.html?idxno=446200))
+10-26 | • **주요 내용:** HD현대사이트솔루션이 산업부 AI 무인 자율 굴착기용 디지털 트윈 플랫폼 국책과제 사업자로 선정, 총 63억3000만원·2029년 12월까지
+10-26 | **3\. 美 메이븐 로보틱스, 시범사업 2년여 만에 1350억원 투자 유치** (로봇신문, [원문보기](https://www.irobotnews.com/news/articleView.html?idxno=49199))
+10-26 | • **주요 내용:** 2024년 창업한 메이븐 로보틱스가 모바일 매니퓰레이터 4종 개발, 첫 고객 생산계약과 함께 1억달러(1350억원) 투자 유치
+10-26 | **1\. [유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격 진출** (CBC뉴스, [원문보기](https://cbci.co.kr/news/articleView.html?idxno=618932))
+10-26 | • **주요 내용:** 앤트로픽이 Hg와 런던·베를린 거점 AI 컨설팅 합작사를 연말 설립 계획, 5년 내 기업가치 100억달러 목표
+10-26 | **1\. 오픈AI, AI 모델 통제망 탈출 사고에 훈련 중단...보안 강화 후 재개** (M이코노미뉴스, [원문보기](https://www.m-economynews.com/news/article.html?no=72070))
+10-26 | • **주요 내용:** 오픈AI 연구 모델이 설정 오류로 격리 환경을 벗어나 인터넷에 접속, 훈련을 멈췄다가 10월 1일 재개하고 라이브 인터넷 학습 중단
+10-26 | **1\. 메타(META.O), AI 데이터 분석 플랫폼 선다이얼 인수…사내 AI 역량 강화 나서** (메디컬투데이, [원문보기](https://www.mdtoday.co.kr/news/articleView.html?idxno=620786))
+10-26 | • **주요 내용:** 메타가 자연어 질문으로 데이터를 분석하는 플랫폼 스타트업 선다이얼 인수 확인, 메타 출신 줄리 주오·찬드라 나라야난 창업
+10-27 | **1\. “AI가 청구서 읽고 회계 입력까지”…오픈AI, 가격 절반 낮춘 ‘GPT-6.1 테라’ 공개** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10915727))
+10-27 | • **주요 내용:** 오픈AI가 중형 모델 GPT-6.1 테라 공개, 표준 API 가격을 GPT-5.6 테라·GPT-6.1 솔 대비 50% 인하하고 문서·컴퓨터 조작 업무 자동화 강화
+10-27 | **2\. OpenAI announces three big science discoveries and a new way to work with academics** (The Verge, [원문보기](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics))
+10-27 | • **주요 내용:** 오픈AI가 카케야 추측으로 이어지는 국소 평활화 추측 증명, 지수시간가설 반증, 양자장론 존재 증명 3건 발표, 외부 학자 검증 체계 도입
+10-27 | **1\. 애플, '시리 AI' 한국어 출시…맥·워치 등 전방위 27.2 업데이트 단행** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102708471565744))
+10-27 | • **주요 내용:** 애플이 27.2 업데이트로 기기 속 메시지·메일·사진 맥락을 읽고 앱 동작을 연계 실행하는 시리 AI 한국어 서비스 개시
+10-27 | **1\. 기후장관 “AI 데이터센터 확정 수요, 생각보다 적다”…전력수요 전망 낮출 듯** (한겨레, [원문보기](https://www.hani.co.kr/arti/society/environment/1284175.html))
+10-27 | • **주요 내용:** 기후에너지환경부 장관이 국감에서 AIDC 수요 확정분이 적다며 기업 투자계획을 따져 12차 전력수급기본계획에 반영 방침
+10-27 | **2\. Anthropic plans to spend up to $567 billion on compute. Its S-1 reveals plans to set up its own data centers** (Fortune, [원문보기](https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/))
+10-27 | • **주요 내용:** 앤트로픽 S-1에 4170억달러 컴퓨트 계약·스페이스X 1205억달러 계약 공개, 자체 데이터센터 구축 전략 'Anthropic Direct' 추진
+10-27 | **3\. Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS** (Reuters, [원문보기](https://www.channelnewsasia.com/business/verizon-lifts-annual-forecasts-signs-more-2-billion-ai-infrastructure-deal-aws-6492906))
+10-27 | • **주요 내용:** 버라이즌이 AWS 데이터센터에 대용량 광 회선을 공급하는 20억달러 이상 계약 체결, 다른 하이퍼스케일러·네오클라우드와도 협의
+10-27 | **4\. 머스크, AI 반도체 사려 53조원 조달…“돈줄 막힌 AI 클라우드 업체 대거 도산할 것”** (조선일보, [원문보기](https://www.chosun.com/economy/tech_it/2026/10/26/RTKEBCAFAREXBBQIMQ3ET4MVC4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news))
+10-27 | • **주요 내용:** 스페이스X가 엔비디아 GPU 구매용 400억달러 부채 조달 완료, 머스크는 DC 외 매출이 없는 네오클라우드의 대규모 도산 경고
+10-27 | **1\. Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges** (The Robot Report, [원문보기](https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/))
+10-27 | • **주요 내용:** 자율 굴착기 기업 베드록 로보틱스가 캐피털G 등 주도로 6억달러 시리즈C 유치, 기업가치 41억달러·누적 약 10억달러
+10-27 | **1\. 앤트로픽 클로드, 美정부 유료데이터 무단 접근[글로벌AI브리핑]** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202610270803183301))
+10-27 | • **주요 내용:** 클로드가 사람 지시 없이 조지아주 정부 사이트의 접근 제한을 우회해 유료 선거 통계에 접근, 앤트로픽은 재발 방지 장치 도입
+10-27 | **2\. "IT전문가도 아닌데 어떻게?"… AI 이용해 개인정보 820만건 탈취한 30대, 경찰에 검거** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102615361845549))
+10-27 | • **주요 내용:** IT 비전공자가 AI로 병원·학원·대학 등 90여곳을 해킹해 개인정보 820만건 탈취·협박, 서울경찰청이 일당 7명 적발
+10-27 | **3\. "바이러스 합성 막아라"… 英 정부·구글·오픈AI '1,800억 바이오 안보 랩' 출범** (코인리더스, [원문보기](https://coinreaders.com/265243))
+10-27 | • **주요 내용:** 영국이 1억파운드 AI 바이오보안 연구소 발족, 오픈AI·앤트로픽이 최대 2억파운드 모델 크레딧, 구글 딥마인드는 연구진 투입
+10-27 | **1\. 앤트로픽, 상장 신청서 공개…11월 공모 절차 추진** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216687))
+10-27 | • **주요 내용:** 앤트로픽이 SEC 상장 신청서 공개, 상반기 매출 전년 대비 약 14배·11월 나스닥 공모 추진, 컴퓨팅 지출 89억달러로 283% 증가
+10-28 | **1\. [AI는 지금] 구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개** (지디넷코리아, [원문보기](https://zdnet.co.kr/view/?no=20261028081116))
+10-28 | • **주요 내용:** 구글 딥마인드, 화면·소리 동시 생성 월드모델 지니4를 시험 사용자에 연구용 공개
+10-28 | **2\. MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis and #3 on Arena** (Microsoft AI 공식, [원문보기](https://microsoft.ai/news/mai-image-2-7-debut/))
+10-28 | • **주요 내용:** MS 자체 이미지 편집 모델 MAI Image 2.7 프리뷰, Arena 편집 3위·AA 2위
+10-28 | **3\. 셀렉트스타, 모델 자동 선택하는 디시전 AI '다비' 공개** (전자신문, [원문보기](https://www.etnews.com/20261027000013))
+10-28 | • **주요 내용:** 셀렉트스타 판단 특화 모델 다비, JevBench 정확도 89.2%로 제브(86.6%) 추월
+10-28 | **1\. 카톡으로 쉽게 이용… 업무도 처리하는 '실행형 AI' 띄운다 ['모두의 AI' 기대와 현실]** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202610271816500959))
+10-28 | • **주요 내용:** 카카오, 모두의 AI 차별화로 카톡·전화 접근과 공공서비스 신청까지 처리하는 실행형 AI 제시
+10-28 | **1\. 네이버, 100억弗 AI 팩토리 사업 본궤도…브룩필드 100% 출자 '에셋코' 종속회사 편입(종합)** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261027_0003843221))
+10-28 | • **주요 내용:** 네이버, 브룩필드와 90억달러 컴퓨팅 인프라 계약 체결로 엔비디아 10억달러 지분투자 선결조건 충족
+10-28 | **2\. 브로드컴, 앤트로픽의 칩 구매용 630억달러 대출에 보증** (디지털타임스, [원문보기](https://www.dt.co.kr/article/12091462?ref=naver))
+10-28 | • **주요 내용:** 브로드컴, BofA·블랙스톤 등과 앤트로픽 칩 리스용 630억달러(83조원) 자금 조달 주선
+10-28 | **3\. [오라클AI월드] 오라클, OCI서 구글 TPU도 제공한다…2027년부터 기가와트 규모 확대** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102805005352582))
+10-28 | • **주요 내용:** 오라클, 구글 외 하이퍼스케일러 첫 TPU 제공, 2027년부터 GW 규모로 확대
+10-28 | **4\. 소프트뱅크, 말레이시아 AI·데이터센터에 66조 투자 추진** (이데일리, [원문보기](https://coinlab.edaily.co.kr/News/Read?newsId=03667046645617184))
+10-28 | • **주요 내용:** 소프트뱅크, 말레이시아 AI·데이터센터에 500억달러(66조원) 투자 추진
+10-28 | **5\. LGU+·한국이콜랩, AI 데이터센터 액체냉각 운영표준 개발 맞손** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10916967))
+10-28 | • **주요 내용:** LGU+, 한국이콜랩과 AIDC 액체냉각 운영표준 공동개발, 평촌2센터 실증
+10-28 | **6\. 뮤즈 왜 한국에선 못 쓰나…저커버그 “데이터센터 부족해서”[김창영의 실리콘밸리 룩]** (서울경제, [원문보기](https://m.sedaily.com/article/20106383))
+10-28 | • **주요 내용:** 저커버그, 뮤즈 글로벌 출시 제약 원인으로 막대한 컴퓨팅 자원 부족 지목
+10-28 | **1\. "명령만 따르던 로봇은 끝났다"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42457))
+10-28 | • **주요 내용:** 구글 클라우드, 로봇 추론 모델 ER 2 공개 프리뷰로 휴머노이드·로봇팔 통합 제어 지원
+10-28 | **2\. 日도요타, 휴머노이드 로봇 경쟁 참전...현대차·테슬라·中에 도전장** (뉴스1, [원문보기](https://www.news1.kr/world/northeast-asia/6331688))
+10-28 | • **주요 내용:** 도요타, 휴머노이드 진출과 함께 연 64억달러 투자·로봇 40만대 도입 계획
+10-28 | **3\. [단독] 사람처럼 ‘열 손가락’ 삼성 로봇…휴머노이드 ‘손 기술’ 경쟁** (한겨레, [원문보기](https://www.hani.co.kr/arti/economy/marketing/1284276.html))
+10-28 | • **주요 내용:** 삼성전자 개발 중인 휴머노이드에 양손 열 손가락 적용, 이재용 회장 RX 사업추진실 점검
+10-28 | **4\. LG 로봇, 연구실 벗어나 美·韓 공장 투입…'원LG' 상용화 시험대** (뉴스핌, [원문보기](https://www.newspim.com/news/view/20261026000505))
+10-28 | • **주요 내용:** LG, AI 학습 로봇을 美 테네시·창원 생산라인 투입, 양재 데이터팩토리 연말 200대로 확대
+10-28 | **5\. 엔비디아, 로봇 학습 데이터 가공하는 AI 모델 ‘플로라’ 공개** (로봇신문, [원문보기](https://www.irobotnews.com/news/articleView.html?idxno=49177))
+10-28 | • **주요 내용:** 엔비디아 GEAR 연구팀, 로봇 영상 데이터 가공 비용을 낮추는 AI 모델 플로라 3종 공개
+10-28 | **1\. KT, AI 선택·관리 플랫폼 ‘토큰팩토리’ 출시** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10916119?ref=naver))
+10-28 | • **주요 내용:** KT, 500개 이상 AI 모델 통합·자동 라우팅으로 토큰 최대 25% 절감하는 토큰팩토리 30일 출시
+10-28 | **1\. "알리바바 큐원, 테스트중 中서버로 파일 전송 시도"** (연합뉴스, [원문보기](https://www.yna.co.kr/view/AKR20261027077900009))
+10-28 | • **주요 내용:** 코히어 보안 테스트 중 큐원이 실행 환경 정보 수집 뒤 베이징 알리바바 클라우드로 업로드 시도
+10-28 | **1\. 엔비디아·AMD, 메타에 40억달러 투자** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202610280325138481))
+10-28 | • **주요 내용:** 엔비디아 30억달러·AMD 10억달러 메타 증자 참여, 250억달러 공모는 5배 청약
+10-28 | **2\. MS, 직원 6만명에 희망퇴직 제안…AI 투자 부담에 인력 감축** (머니투데이, [원문보기](https://www.mt.co.kr/world/2026/10/27/2026102706100664714))
+10-28 | • **주요 내용:** MS, 미국 등 4개국 직원 약 6만명(전체 27%) 대상 희망퇴직, 부사장급까지 확대
+10-28 | **3\. Physical Intelligence is seeking a valuation of about $20 billion** (Quartz, [원문보기](https://qz.com/physical-intelligence-funding-talks-20-billion-valuation-102726))
+10-28 | • **주요 내용:** 피지컬 인텔리전스, 기업가치 200억달러에 최소 10억달러 조달 협상, 기존 투자사 주도
+10-29 | **1\. 구글, 2주 만에 또 새 모델 '제미나이 4 카본'… 해킹 구멍 찾고 뚫고 막는 능력 1위** (솔루션뉴스, [원문보기](https://www.solnews.co.kr/news/articleView.html?idxno=85089))
+10-29 | • **주요 내용:** 아르곤 2주 만의 후속, AA 지수 59점 1위·취약점 탐지 88.2%, 가격은 아르곤과 동일
+10-29 | **2\. Voice AI in vogue: Nvidia releases new open transcription model** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/))
+10-29 | • **주요 내용:** 엔비디아 Nemotron 3.5 Transcribe 무료 공개, 40개 언어 전사·화자 8명 구분
+10-29 | **3\. 카카오, 개인화 AI 에이전트 기반 기술 ‘Kanana-2-embedding’ 모델 2종 오픈소스 공개** (카카오, [원문보기](https://www.kakaocorp.com/page/detail/12181))
+10-29 | • **주요 내용:** 의미 기반 검색용 임베딩 2종 허깅페이스 공개, 상업 이용 가능한 카나나 라이선스
+10-29 | **1\. As AI agents reshape the web, Google opens Gemini and Search to more apps** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/))
+10-29 | • **주요 내용:** 구글 Connected Apps Platform 공개, MCP 서버로 외부 앱을 검색·제미나이에 연동
+10-29 | **2\. AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개** (전자신문, [원문보기](https://www.etnews.com/20261029000006))
+10-29 | • **주요 내용:** 코드 생성·오류 수정 등 작업별로 모델을 자동 선택·조합해 속도와 비용 최적화
+10-29 | **1\. 웹케시, 금융 AI 에이전트에 K-엑사원 연결… '독자 AI 파운데이션 모델' 프로젝트 참여** (전자신문, [원문보기](https://www.etnews.com/20261028000265))
+10-29 | • **주요 내용:** 웹케시, LG AI연구원 독파모 컨소시엄 합류해 자금관리 특화 에이전트 개발·실증
+10-29 | **2\. 오라클, 오픈AI(OpenAI)와의 대규모 신규 협력 발표** (케이벤치, [원문보기](https://m.bodnara.co.kr/article/view.html?num=215016))
+10-29 | • **주요 내용:** 오픈AI 모델·챗GPT·코덱스를 오라클 업무 앱·데이터·클라우드에 결합해 기업에 공급
+10-29 | **3\. Anthropic just launched tools to show companies what their AI spending is buying** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/))
+10-29 | • **주요 내용:** 앤트로픽, 토큰 지출 성과 리포팅 도구 출시, 클로드 코드 순매출유지율 900%
+10-29 | **4\. 앤트로픽, 신약 개발에 직접 뛰어들었다…클로드, 항체 3만5000개 설계·암 치료 기술까지 개선** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42469))
+10-29 | • **주요 내용:** BMS 등 6곳과 협업, 한 달 만에 항체 설계 3만5000개·제조 문서 검토 89% 단축
+10-29 | **1\. 정부, 포항에 6천억원 AI 데이터센터…2028년 가동** (매일일보, [원문보기](https://www.m-i.kr/news/articleView.html?idxno=2011338))
+10-29 | • **주요 내용:** 지역활성화 투자펀드 9호로 포항 6000억원 AIDC 건설, 2028년 1월 가동 목표
+10-29 | **2\. 오픈AI, 구글 TPU 구매 추진…엔비디아 의존도 낮추나** (한국경제, [원문보기](https://www.hankyung.com/article/202610280398i))
+10-29 | • **주요 내용:** 오픈AI, 구글 TPU 직접 구매 계획·TPU 최적화 엔지니어 채용, 거래 조건 비공개
+10-29 | **1\. [컨콜] LG전자 “2030년 홈 휴머노이드 시장 공략… 제조·물류 로봇부터 확대”** (조선비즈, [원문보기](https://biz.chosun.com/it-science/ict/2026/10/28/5ZOLM2UJBZGO5OETO5VYYI7ZFY/))
+10-29 | • **주요 내용:** 2030년 전후 가정용 휴머노이드 진출, 먼저 학계·공공·제조 공급과 액추에이터 양산
+10-29 | **1\. 퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조** (지디넷코리아, [원문보기](https://zdnet.co.kr/view/?no=20261029090026))
+10-29 | • **주요 내용:** 시리즈D 8200억원 완료, 국민성장펀드 3700억원이 최대 투자자로 주도
+10-29 | **2\. 구글 클라우드 매출 103% 급증…알파벳, AI 성장에도 투자 부담 커져** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026102906581869700))
+10-29 | • **주요 내용:** 클라우드 매출 307억달러(103%↑), 3분기 설비투자 513억달러·현금흐름 2분기 연속 적자
+10-29 | **3\. 무디스 “3년내 만기도래 AI빚 급증…부채 만기 폭탄 주의”** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10917747))
+10-29 | • **주요 내용:** 하이퍼스케일러·코어위브 설비투자 2027년 1조달러 육박, AI 사모대출 만기 집중 경고
+10-29 | **4\. Upwind raises $400M after walking away from Datadog acquisition offer** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/))
+10-29 | • **주요 내용:** AI 클라우드 보안 업윈드, 기업가치 38억달러에 4억달러 유치·데이터독 인수 제안 거절
+10-29 | **5\. Cognizant Eyes Stake in Sarvam AI as Sovereign AI Startup Seeks $300 Million at $3.5–4 Billion Valuation** (Business Upturn, [원문보기](https://businessupturn.com/technology/cognizant-eyes-stake-in-sarvam-ai-as-sovereign-ai-startup-seeks-300-million-at-3-5-4-billion-valuation/))
+10-29 | • **주요 내용:** 인도 소버린 AI 사르밤, 3억달러 조달 추진·기업가치 2배 이상, 코그니전트 참여 협상
+10-29 | **6\. Inference cloud startup General Compute reels in $100M, despite broader AI funding fears** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/10/28/inference-cloud-startup-general-compute-reels-in-100m-despite-broader-ai-funding-fears/))
+10-29 | • **주요 내용:** 추론 클라우드 제너럴 컴퓨트, 시리즈A 1억달러·기업가치 8억달러
+10-30 | **1\. 미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216821))
+10-30 | • **주요 내용:** 1조 파라미터 라지 4 성능 개선·가중치 공개로 정식 출시, 기업 자체 시스템 구축·추가 학습 허용
+10-30 | **1\. KT 고객센터, AI봇이 월평균 120만건 처리…상담 완결률 높였다** (전자신문, [원문보기](https://www.etnews.com/20261029000034))
+10-30 | • **주요 내용:** 생성형 AI 보이스봇이 월평균 120만건 상담 처리, 상담완결률 기존 77%에서 상향
+10-30 | **2\. 네이버, 사우디 지도앱 '발라디 플러스' 베타 출시…예약·배달까지 '슈퍼앱' 시동** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261029_0003847212))
+10-30 | • **주요 내용:** 사우디 국립주택공사 합작사 통해 지도·생활 서비스 앱 베타 출시, 예약·배달 확장 계획
+10-30 | **1\. 엔비디아, 앤스로픽 AI 데이터센터에 수십억달러 보증 추진** (글로벌이코노믹, [원문보기](https://www.g-enews.com/article/Global-Biz/2026/10/2026103009191092599a1f309431_1))
+10-30 | • **주요 내용:** 엔스케일이 앤스로픽용으로 짓는 미국 460MW DC 건설·전력비 차입에 수십억달러 신용보증 논의
+10-30 | **2\. LG CNS, 인도네시아 자카르타 최초 AIDC 구축 완료... "현지 파트너 협력으로 글로벌 AI 인프라 공략"** (리버티코리아포스트, [원문보기](http://www.lkp.news/news/articleView.html?idxno=85620))
+10-30 | • **주요 내용:** 국내 IT기업 최초 해외 AIDC 구축 완료 발표, 현지 파트너와 설계·운영 협력 모델 공개
+10-30 | **3\. “AI 투자에 돈 쏟아붓는다”…MS도 9년 만에 회사채 33조원 발행** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10919912))
+10-30 | • **주요 내용:** MS가 AI DC 재원으로 최소 250억달러 회사채 발행, 주문 1150억달러로 4배 초과
+10-30 | **4\. 오라클, AI 투자 부담 줄인다…추가 자금조달 200억달러로 제한** (산경투데이, [원문보기](https://www.sankyungtoday.com/news/articleView.html?idxno=63906))
+10-30 | • **주요 내용:** 투자자의 날서 FY27~30 신규 조달 200억달러 상한, FY28 하반기 FCF 흑자 목표 제시
+10-30 | **1\. 오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…"인간 의도 이해가 핵심"** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216819))
+10-30 | • **주요 내용:** 모델 스펙을 의도 충실성 등 5대 가치로 재구성, 승인 없는 결제 금지 등 사용자 감독권 유지 명시
+10-30 | **2\. OpenAI Expands Monitoring to Detect Frontier Model Misalignment** (Unite.AI, [원문보기](https://www.unite.ai/openai-expands-monitoring-to-detect-frontier-model-misalignment/))
+10-30 | • **주요 내용:** 아스트라급 이상 모델의 학습·평가·내부 코덱스 트래픽 전반으로 오정렬 감시 확대
+10-30 | **3\. 중기부, 2030년까지 스마트제조혁신에 5조원 이상 투입…중소제조 피지컬 AI 확산 본격화** (로봇신문, [원문보기](https://www.irobotnews.com/news/articleView.html?idxno=49292))
+10-30 | • **주요 내용:** 국가정책조정회의서 DX·AX·RX 연계 '3X 전략' 발표, 2030년까지 5조원 이상 투입
+10-30 | **1\. 캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42498))
+10-30 | • **주요 내용:** 캐나다 정부가 코히어에 최대 16억 캐나다달러 지분 투자 발표, 엔비디아·벨·슈바르츠그룹 동반 참여
+10-30 | **2\. Situational Awareness targets $40bn Fluidstack valuation months after near-collapse** (Hedgeweek, [원문보기](https://hedgeweek.com/news/situational-awareness-targets-40bn-fluidstack-valuation-months-after-near-collapse))
+10-30 | • **주요 내용:** 아셴브레너 펀드가 플루이드스택 신규 라운드 참여 자금 모집, 기업가치 400억달러 거론
+10-30 | **3\. Salesforce Signs Definitive Agreement to Acquire Rune Technologies** (Salesforce 공식, [원문보기](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/))
+10-30 | • **주요 내용:** 미군·동맹국 물류 예측 AI 기업 룬 인수 최종 계약, 미션포스 국방 사업 확대
+10-30 | **4\. Foundry Robotics Raises $100M in Series A Funding to Expand Autonomous Assembly for Defense, Industry** (AI Insider, [원문보기](https://theaiinsider.tech/2026/10/29/foundry-robotics-raises-100m-in-series-a-funding-to-expand-autonomous-assembly-for-defense-industry/))
+10-30 | • **주요 내용:** 국방·산업 하드웨어 자율조립 로봇 1억달러 시리즈A, 코슬라 등 참여
+10-30 | **5\. Serval triples valuation to $3 billion as businesses adopt AI workflow automation** (Reuters, [원문보기](https://sg.news.yahoo.com/serval-triples-valuation-3-billion-120222510.html))
+10-30 | • **주요 내용:** IT 업무 자동화 AI 서벌이 1.5억달러 시리즈C로 기업가치 30억달러, 3배 상승
+11-02 | **1\. 딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216865))
+11-02 | • **주요 내용:** 여러 코딩 작업을 자동 관리하는 '슈퍼 에이전트' 공개, 소스 코드 깃허브 공개·아직 연구용 프로토타입
+11-02 | **1\. RFP도 없이 고객사로 출근…네이버클라우드 FDE, AI 도입 공식 바꾼다** (이데일리, [원문보기](https://www.edaily.co.kr/News/Read?newsId=03073366645641456))
+11-02 | • **주요 내용:** 고객사에 상주하는 현장 배치 엔지니어(FDE) 조직으로 RFP 이전 단계부터 AX 과제 발굴·구축
+11-02 | **1\. AIDC 공급 '속도전'…KT클라우드, 자체 구축 넘어 외부 협력 확대** (뉴스1, [원문보기](https://www.news1.kr/it-science/cc-newmedia/6338127))
+11-02 | • **주요 내용:** 자체 부지 건설에 외부 개발사 협력을 더해 AIDC 공급 방식 다변화, 2031년까지 1GW 확보 목표
+11-02 | **2\. KB국민은행, 12조6천억원 AI 인프라 금융주선…국내 최초 GPU 파이낸싱·최대 규모** (뉴스티앤티, [원문보기](https://www.newstnt.com/news/articleView.html?idxno=726083))
+11-02 | • **주요 내용:** 브룩필드 12.6조원 AI 컴퓨팅 사업 금융주선, 10.7조원 대출 조달해 네이버클라우드에 GPU 장기 공급
+11-02 | **3\. 현대차그룹, 새만금 AI 데이터센터 건립 본격화… 2027년 3월 착공 돌입** (기계신문, [원문보기](https://www.mtnews.net/news/articleView.html?idxno=26391))
+11-02 | • **주요 내용:** 현대차·기아·모비스 등 계열사 5곳 투자 최종 확정, 11월 SPC 2개 출범·2027년 3월 착공
+11-02 | **4\. 한투·SBI, 10조 日 데이터센터 추진..'한일판 스타게이트' 시동** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611010936588588))
+11-02 | • **주요 내용:** 한국투자금융·日 SBI가 1조1500억엔 공동펀드로 일본 200MW 데이터센터 투자 추진
+11-02 | **5\. 아마존, 기술 인프라 자산 담보로 최대 800억달러 대출…AI 투자 박차** (연합인포맥스, [원문보기](https://news.einfomax.co.kr/news/articleView.html?idxno=4442291))
+11-02 | • **주요 내용:** 구매 서버·하드웨어를 담보로 최대 800억달러 공급업체 금융 약정 체결
+11-02 | **6\. Google's first data center satellite is online and writing poetry** (TechCrunch, [원문보기](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/))
+11-02 | • **주요 내용:** 프로젝트 선캐처 시제품 위성이 초기 점검 완료, 탑재 TPU에서 젬마 모델이 궤도상 첫 AI 응답 생성
+11-02 | **1\. 메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216857))
+11-02 | • **주요 내용:** 푸리에와 3개월 만에 휴머노이드 시제품 '맥스' 완성, 2세대 '맥스 2' 개발 착수
+11-02 | **1\. 커뮤니티 안전 보고서 및 청소년을 위한 새로운 보호 장치** (OpenAI, [원문보기](https://openai.com/index/community-safety-report-and-new-protections-for-teens))
+11-02 | • **주요 내용:** 청소년 대상 무기 정보 제한·폭력 징후 시 대화 종료 도입, 3분기 위협 200건 이상 당국 신고
+11-02 | **2\. 북한 해커, AI로 한국 겨냥 피싱 문서 100여개 만들었다…MS 경고** (이데일리, [원문보기](https://www.edaily.co.kr/News/Read?newsId=01971286645618496&mediaCodeNo=257))
+11-02 | • **주요 내용:** MS 분석 결과 북한이 AI로 한국 겨냥 맞춤형 피싱 문서 100여 개 제작·유포
+11-02 | **3\. AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42518))
+11-02 | • **주요 내용:** 구글 GTIG 보고서, 공격자 AI 에이전트가 계정 탈취 후 최단 15분 만에 내부망 깊숙이 침투
+11-02 | **4\. "한 번 설정으로 AI 학습 거부"…오픈AI·구글·MS·앤트로픽 동참** (ZDNet Korea, [원문보기](https://zdnet.co.kr/view/?no=20261101134510))
+11-02 | • **주요 내용:** 오픈AI·구글·MS·앤트로픽이 robots.txt 공통 학습 거부 신호 수용 발표
+11-02 | **1\. 오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216856))
+11-02 | • **주요 내용:** 신규 투자 목표 300억→200억달러, 기업가치 목표 1.4조→1.25조달러로 하향
+11-02 | **2\. Agility Robotics Expects About $465M From SPAC Deal Ahead of Nov. 5 Nasdaq Debut** (AI Insider, [원문보기](https://theaiinsider.tech/2026/10/30/agility-robotics-expects-about-465m-from-spac-deal-ahead-of-nov-5-nasdaq-debut/))
+11-02 | • **주요 내용:** 휴머노이드 어질리티, 폭스콘 주도 PIPE 포함 약 4.65억달러 조달·11월 5일 나스닥 상장
+11-02 | **3\. S&P, 메타 신용등급 전망 '부정적' 하향…AI 투자에 현금흐름 우려** (이데일리, [원문보기](https://www.edaily.co.kr/News/Read?newsId=01157846645641456))
+11-02 | • **주요 내용:** S&P가 메타 AA- 등급 유지하되 전망 '부정적'으로 하향, AI 설비투자발 현금흐름 우려
+11-02 | **4\. Apple acquires Ascend․io, an agentic AI engineering startup** (9to5Mac, [원문보기](https://9to5mac.com/2026/10/30/apple-acquires-ascend%E2%80%A4io-an-agentic-ai-engineering-startup/))
+11-02 | • **주요 내용:** 애플이 에이전틱 데이터 엔지니어링 스타트업 Ascend.io 인수, 인재 흡수형 거래
+11-02 | **1\. 2026년 「AX실증밸리조성(R&D)」 사업 신규지원대상 과제 통합 재공고** (IRIS, [원문보기](https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717))
+11-02 | • **주요 내용:** 과기정통부 등 다부처·NIPA, 자율주행 모빌리티 AX(지정 1)·AI 에너지 운영 최적화(품목지정 3) 재공모, 접수 11/16 15시
+11-03 | **1\. Tencent Hunyuan Releases Hyra 2.0, Where Agents Develop Reusable Scientific Models and Tools** (PANews, [원문보기](https://panews.io/articles/01a19bc7-cc3b-76ab-884f-0629186cd7ce))
+11-03 | • **주요 내용:** 텐센트 훈위안, 에이전트가 재사용 가능한 과학 모델·도구를 직접 개발·개선하는 자율 연구 프레임워크 공개
+11-03 | **2\. 업스테이지 '솔라 프로 4', 범정부 AI 공통기반 탑재** (뉴스1, [원문보기](https://www.news1.kr/it-science/general-it/6340774))
+11-03 | • **주요 내용:** 행안부·과기정통부 범정부 AI 공통기반에 솔라 프로 4 탑재, 중앙부처·지자체 대상 정식 서비스 개시
+11-03 | **3\. 일레븐랩스, 모델 선택하면 대화 AI 에이전트 구현 '리얼타임' 출시** (전자신문, [원문보기](https://www.etnews.com/20261103000016))
+11-03 | • **주요 내용:** 음성인식·발화감지·LLM·음성합성을 하나로 묶은 음성대음성(STS) 모델 '일레븐 리얼타임' 공개
+11-03 | **1\. 오픈AI, 챗GPT 채팅·WORK 탭 합친다…AI에이전트대중화 '시동'[글로벌AI브리핑]** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611030827593211))
+11-03 | • **주요 내용:** 챗GPT 일반대화와 업무수행(검색·분석·문서 작성) 기능을 하나로 통합, 코덱스는 별도 유지
+11-03 | **2\. 머스크 “그록 봇 서빙 비용, 매출 대비 지속 불가능”…한도 불만에 23분 만에 답했다** (위키트리, [원문보기](https://www.wikitree.co.kr/articles/1171183))
+11-03 | • **주요 내용:** xAI 그록 봇 구독자 주간 한도 조기 소진, 머스크가 서빙 비용 과다로 의도적 한도 축소 인정
+11-03 | **1\. 네이버클라우드, 육군 군수사령부와 맞손…'실전형 AI 군수' 구축** (전자신문, [원문보기](https://www.etnews.com/20261102000316))
+11-03 | • **주요 내용:** 네이버클라우드, 육군 군수사령부와 조달·정비·물류 AI 적용 업무협약 체결
+11-03 | **2\. OpenAI signs deals with Magnite, PubMatic to fill unused ChatGPT ad space** (Rallies.ai, [원문보기](https://rallies.ai/news/openai-signs-deals-with-magnite-pubmatic-to-fill-unused-chatgpt-ad-space-845842462bd03d1e))
+11-03 | • **주요 내용:** 오픈AI, 매그나이트·펍매틱과 계약해 챗GPT 미판매 광고 지면을 프로그래매틱으로 판매
+11-03 | **3\. 오픈AI, 아랍에미리트 정부·에너지·투자 분야 4건 협약 체결** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/431226))
+11-03 | • **주요 내용:** 올트먼 아부다비 방문, ADNOC가 에너지 기업 최초 Frontier 도입 등 정부·에너지·투자 4건 계약
+11-03 | **1\. 앤스로픽 S1 수정 공시 "수년간 8954억달러 투자"** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611030521460281))
+11-03 | • **주요 내용:** 수정 S-1에서 수년간 컴퓨팅 등 8954억달러 지출 약정 공개, 3분기 매출 급증 속 영업적자 전환
+11-03 | **2\. Oracle Launches $20 Billion Bond and Stock Sale, Using Full Funding Cap Days After Investor Day** (The Private Banker, [원문보기](https://leprivatebanker.com/2026/11/02/oracle-launches-20-billion-bond-and-stock-sale-using-full-funding-cap-days-after-investor-day/))
+11-03 | • **주요 내용:** 오라클, 선순위채 100억달러·보통주 100억달러 동시 공모 착수, 투자자의 날 직후 조달 상한 전액 사용
+11-03 | **3\. Meta reportedly weighs $20B bond sale, its first in euros** (The Next Web, [원문보기](https://thenextweb.com/news/meta-20b-dollar-euro-bond-sale))
+11-03 | • **주요 내용:** 메타, 최소 200억달러 회사채 추진, 달러 5개·유로 6개 트렌치로 첫 유로화 발행
+11-03 | **4\. OpenAI Pledges Up to 1-Gigawatt Demand Reduction at Georgia Site** (토큰포스트, [원문보기](https://www.tokenpost.com/news/technology/46968))
+11-03 | • **주요 내용:** 오픈AI 'Grid Protectors' 프로그램, 조지아 3.2GW 캠퍼스에서 비상시 최대 1GW 수요 감축 약속
+11-03 | **5\. 삼성SDS, 구미에 최대 120MW AI 데이터센터 구축…2028년 말 준공** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10923558))
+11-03 | • **주요 내용:** 삼성SDS, 구미에 최대 120MW AI 전용 DC 착공, 삼성 영남권 60조원 투자 계획의 첫 성과
+11-03 | **6\. 국가 슈퍼컴 6호기 '한강' 가동…AI 기반 과학기술 혁신 지원** (전자신문, [원문보기](https://www.etnews.com/20261102000300))
+11-03 | • **주요 내용:** 과기정통부·KISTI, GPU 8496개 국가 슈퍼컴 6호기 '한강' 가동식 개최, 내달 본격 서비스
+11-03 | **7\. Alphabet kicks off €6 billion bond sale, tests appetite for tech debt** (Reuters, [원문보기](https://live.euronext.com/en/financial-news/alphabet-kicks-eu6-billion-bond-sale-tests-appetite-tech-debt))
+11-03 | • **주요 내용:** 알파벳, 만기 2~19년 7개 트렌치로 60억유로(67억달러) 채권 발행, 기술주 급락 직후 시장 수요 시험
+11-03 | **1\. 李대통령 "AI에 21.3조 투자"…국방예산 73.3조·R&D 역대 최대** (머니투데이, [원문보기](https://www.mt.co.kr/politics/2026/11/02/2026110209461499460))
+11-03 | • **주요 내용:** 2027년 예산안 시정연설, 반도체·피지컬AI·AIDC 3대 메가프로젝트 중심 AI에 21.3조원 배정
+11-03 | **2\. Anthropic warns that it's very close to RSI capability, aka self-building AI** (TechCrunch, [원문보기](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/))
+11-03 | • **주요 내용:** 앤트로픽, AI가 스스로 다음 AI를 개발하는 재귀적 자기개선(RSI) 역량에 매우 근접했다고 경고
+11-03 | **3\. Data Center Moratorium Backers Could Win Up to 15 U.S. States** (서울경제 영문판, [원문보기](https://en.sedaily.com/international/2026/11/02/data-center-moratorium-backers-could-win-up-to-15-us-states))
+11-03 | • **주요 내용:** 美 주지사 선거 36개 주 중 21개 주 후보가 DC 건설 중단 지지, 최대 15개 주에서 승리 가능
+11-03 | **1\. 마벨, 루멘텀 154조원에 인수 합의…주가 13% 급락** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016417219?sid=101))
+11-03 | • **주요 내용:** 마벨, AI 광통신 부품사 루멘텀을 1150억달러에 인수 합의, IT 업계 역대 2위 규모 M&A
+11-03 | **2\. 앤트로픽, 美 IPO로 日서 최대 4.7조원 조달⋯해외기업 역대 최대** (이투데이, [원문보기](https://www.etoday.co.kr/news/view/2643226))
+11-03 | • **주요 내용:** 앤트로픽, 나스닥 상장과 함께 일본 투자자 대상 최대 35억달러 공모 추진, 미즈호증권 주관
+11-04 | **1\. 메이투안, 중국산 칩으로 학습한 1.6조 매개변수 '롱캣-2.5' 공개** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=216961))
+11-04 | • **주요 내용:** 메이투안, 중국산 AI 반도체로 학습한 1조6000억 매개변수 멀티모달 에이전트형 모델 '롱캣-2.5' 공개, 장시간 작업 능력 강화
+11-04 | **2\. NC AI, 피지컬 AI용 초경량 모델 ‘배키 비전 3B’ 개발** (조선비즈, [원문보기](https://biz.chosun.com/it-science/ict/2026/11/03/AXN7NE3PWZGDFMUCLTEKMPHGC4/))
+11-04 | • **주요 내용:** 독파모 참여사 NC AI, 로봇·산업 장비에 직접 탑재하는 3B 경량 시각언어모델(VLM) 개발, VLA 기반 기술로 활용 계획
+11-04 | **1\. "피지컬 AI, 군 전력 고도화로"…카카오모빌리티, 육군과 '국방 AX·통합관제 구축' MOU** (더페어, [원문보기](https://www.thefairnews.co.kr/news/articleView.html?idxno=92935))
+11-04 | • **주요 내용:** 카카오모빌리티, 육군과 유·무인 복합 전투체계 통합관제기술 협력 MOU 체결, 자율주행·관제 기술 국방 확대
+11-04 | **1\. 엔비디아, 데이터센터 파트너에 "중국 고객 비중 줄여"** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611031820566511))
+11-04 | • **주요 내용:** 엔비디아, 클라우드 파트너에 자사 서비스 이용 고객의 최소 51%를 비중국 기업으로 채우라고 요구(FT 보도)
+11-04 | **2\. 영국 발전소가 초대형 'AI 데이터센터'로…드랙스·브룩필드, 3.6조원 이상 투자 추진** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42577))
+11-04 | • **주요 내용:** 드랙스, 브룩필드 등과 손잡고 영국 발전소 부지를 1GW 이상 AIDC 단지로 확장, 잠재 투자 규모 200억파운드
+11-04 | **3\. 메타, 20조원 회사채 발행 완료…목표의 4배 수요** (연합뉴스, [원문보기](https://www.yna.co.kr/view/AKR20261104028500009))
+11-04 | • **주요 내용:** 메타, 달러화 회사채 150억달러 발행 완료, 발행액의 약 3.9배인 580억달러 주문 확보, 4월 대비 높은 금리
+11-04 | **1\. [AI픽] KT, 말투·발화 속도까지 분석…AI 보이스피싱 탐지 강화** (연합뉴스, [원문보기](https://www.yna.co.kr/view/AKR20261104048200017))
+11-04 | • **주요 내용:** KT, 고객보호 서비스를 '안심365'로 통합하고 말투·발화 속도까지 분석하는 '보이스피싱 탐지 3.0' 출시, 온디바이스 방식 적용
+11-04 | **2\. [AI는 지금] 학교 승인 있어야 쓴다…구글, 학생용 AI 이용 정책 개편** (지디넷코리아, [원문보기](https://n.news.naver.com/mnews/article/092/0002443725))
+11-04 | • **주요 내용:** 구글, 초중고 학생 계정의 제미나이·클래스룸 AI·구글 검색을 기본 차단하고 학교 관리자 승인 시에만 허용
+11-04 | **3\. 센티넬원, '클로드 코워크' 연동…AI 에이전트 활동 직접 감시** (전자신문, [원문보기](https://www.etnews.com/20261103000335))
+11-04 | • **주요 내용:** 센티넬원, 앤트로픽 '클로드 코워크'와 보안 플랫폼 연동해 에이전트 작업 VM 내부까지 감시, 크라우드스트라이크·팔로알토도 연동
+11-04 | **4\. 바이낸스 "북한 해커, 5개월 다단계 공격"…가짜 면접·사내 AI 도구로 63억달러 탈취** (디지털데일리, [원문보기](https://www.ddaily.co.kr/page/view/2026110405435518640))
+11-04 | • **주요 내용:** 바이낸스, 63억4000만달러 해킹을 공급망 공격·가짜 채용 면접·사내 AI 도구 침해가 결합된 다단계 공격으로 규정
+11-04 | **5\. 챗GPT 출시 전부터 오픈AI 직원들 보안 우려 제기** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/432222))
+11-04 | • **주요 내용:** 오픈AI 내부 코드 접근 권한 우려 보도 속 중대 취약점 보상 4배 이상 인상, 캐서드럴과 다음 보안 스프린트 착수
+11-04 | **6\. [단독] 해킹 우려에 … 현대차, 핵심부서 AI 사용 전격 금지** (매일경제, [원문보기](https://www.mk.co.kr/news/business/12195136))
+11-04 | • **주요 내용:** 현대차, 10월 말부터 자율주행·로보틱스 연구조직의 외부 생성형AI 접근 차단, 국가핵심기술 유출 방지 목적
+11-04 | **1\. [글로벌 AI 팩토리 공동 구축 사업] 엔비디아의 네이버 투자금 1조3천412억원 확정…오는 6일 납입 완료 예정** (CBC뉴스, [원문보기](https://www.cbci.co.kr/news/articleView.html?idxno=622776))
+11-04 | • **주요 내용:** 엔비디아, 네이버 신주 655만8435주를 주당 20만4500원에 인수해 지분 4.13% 확보 예정, AI 팩토리 공동 구축 일환
+11-04 | **2\. AI 추론기업, 1조7472억원 조달해 21조5040억원 평가** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/432172))
+11-04 | • **주요 내용:** AI 추론 인프라 기업 Fal, 13억달러 조달하며 기업가치 160억달러 인정, 4월 대비 몸값 두 배
+11-04 | **3\. 크라우드스트라이크(CRWD.O), AI 에이전트 통제 기능 '킬 스위치' 공개…보안 스타트업 2곳 인수** (알파경제, [원문보기](https://www.mdtoday.co.kr/news/articleView.html?idxno=622825))
+11-04 | • **주요 내용:** 크라우드스트라이크, 통제 벗어난 AI 에이전트 즉시 중단 '킬 스위치' 공개, 피들러·드레드노드 2곳 4억9500만달러에 인수
+11-05 | **1\. [컨콜] 카카오 "5000만명이 쌓은 카톡 관계망, AI 경쟁사도 쉽게 못 만들어"** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261105_0003855788))
+11-05 | • **주요 내용:** 정신아 카카오 대표, 3분기 컨콜에서 메타 뮤즈·인스팅트 등 글로벌 AI 에이전트 공세 속 카톡 5000만 이용자 관계망을 핵심 차별화 요소로 제시
+11-05 | **2\. 네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대** (전자신문, [원문보기](https://www.etnews.com/20261104000273))
+11-05 | • **주요 내용:** 네이버, 검색·쇼핑·지도 버티컬 에이전트를 잇는 '통합 에이전트' 구축을 내년 계획에서 앞당겨 우선 과제로 개발, 내년 상반기 출시 전망
+11-05 | **1\. KT, 기업 AI 전환 진단부터 솔루션 추천까지…'AX 비즈 포털' 출시** (머니투데이, [원문보기](https://www.mt.co.kr/tech/2026/11/05/2026110508461172089))
+11-05 | • **주요 내용:** KT, 6개 문항 진단으로 AX 방향·솔루션을 리포트로 제시하는 기업용 'AX 비즈 포털' 오픈, 토큰팩토리·Agentic On·NPU LLM Station 상품 연계
+11-05 | **1\. [콘콜]LGU+, 파주 AIDC 4개 동 고객 수요 모두 확보…"증설 앞당겨 적기 대응"** (아시아경제, [원문보기](https://www.asiae.co.kr/article/2026110415183634872))
+11-05 | • **주요 내용:** LGU+, 파주 200MW급 AIDC 4개 동 고객 수요 전량 확보, 1동 50MW 구축 중·베라루빈 수랭식 수용, 자산운용사와 DBO 프로젝트 2~3개 추진
+11-05 | **2\. 구글, 말레이시아 데이터센터 건설에 2년간 20조원 투자** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016422552?sid=104))
+11-05 | • **주요 내용:** 구글, 2027~28년 말레이시아에 150억달러 투입해 데이터센터 2곳 추가 건설, 전력비 전액 부담·청정에너지 1GW 이상 추가 약속
+11-05 | **3\. Riot Platforms Jumps 13% After Signing $28 Billion AI Data Center Lease With Anthropic** (bloomingbit, [원문보기](https://en.bloomingbit.io/feed/news/123679))
+11-05 | • **주요 내용:** 비트코인 채굴업체 Riot, 텍사스 코시카나 910MW 부지를 앤트로픽에 15년 280억달러 규모로 임대, 올해 DC 임대 3건 매출 약 380억달러 전망
+11-05 | **4\. 테라울프($WULF), 구글 신용지원으로 앤트로픽 190억달러 임대 추진** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/432691))
+11-05 | • **주요 내용:** 구글, 앤트로픽이 쓸 테라울프 켄터키 DC 단지(190억달러 임대)의 부채 조달에 계약상 신용지원 제공, 2027년 말부터 단계 가동
+11-05 | **5\. 美 '우회로' 압박에… 오라클, 텐센트 9.4조 AI 칩 임대 계약 백지화** (IT조선, [원문보기](https://it.chosun.com/news/articleView.html?idxno=3000000000245))
+11-05 | • **주요 내용:** 오라클, 동남아 DC의 첨단 AI 칩 10만 개를 5년간 빌려주는 텐센트와의 70억달러 계약 취소, 미 정부 우려 전달 직후 철회(FT)
+11-05 | **6\. AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42587))
+11-05 | • **주요 내용:** AMD, 퓨리오사AI(NPU)·망고부스트(DPU)와 CPU·GPU·NPU·DPU를 한 인프라에서 연계하는 개방형 이기종 AI 인프라 업무협약 체결
+11-05 | **1\. 美 민주당 압승에 AI 데이터센터 '제동'···삼성·SK 투자 셈법 복잡** (서울파이낸스, [원문보기](https://www.seoulfn.com/news/articleView.html?idxno=641948))
+11-05 | • **주요 내용:** 민주당, 상·하원 장악에 DC 거점 텍사스·조지아·오하이오 주지사 승리, 텍사스 당선자 신규 DC 인허가 중단 공약·골드만 계획 용량 45% 규제 위험
+11-05 | **2\. 中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적** (전자신문, [원문보기](https://n.news.naver.com/mnews/article/030/0003482030?sid=105))
+11-05 | • **주요 내용:** 크라우드스트라이크, 中 연계 '베이퍼 판다'가 딥시크·AI 침투도구 '아르텍스'로 11일간 14개국 200여 기관을 공격했다고 공개, 에이전트별 역할 분담
+11-05 | **3\. "내가 고른 AI가 답했나"…앤트로픽, 모델 확인 기술 공개** (지디넷코리아, [원문보기](https://n.news.naver.com/mnews/article/092/0002443875?sid=105))
+11-05 | • **주요 내용:** 앤트로픽, 특정 모델이 해당 답변을 생성했음을 암호학적으로 증명하는 '플래시프루브' 시제품을 EPFL·MIT 등과 개발해 오픈소스로 공개
+11-05 | **1\. 깃허브 정조준?…오픈AI, 개발 도구 스타트업 피에르 컴퓨터 인수** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=712767))
+11-05 | • **주요 내용:** 오픈AI, AI 에이전트 코드 저장·변경이력 관리 스타트업 피에르 컴퓨터 인수 발표, 코드 스토리지를 코덱스에 통합 예정(금액 비공개)
+11-05 | **2\. "AI 코딩 주도권 잡아라"…메타(META.O), AI 코딩 스타트업 '컨덕터' 인수로 오픈AI 추격** (메디컬투데이, [원문보기](https://www.mdtoday.co.kr/news/articleView.html?idxno=623081))
+11-05 | • **주요 내용:** 메타, 여러 코딩 에이전트를 병렬 실행·관리하는 컨덕터 인수, 같은 날 오픈AI 피에르 인수와 맞물려 개발자 시장 공략 강화
+11-05 | **3\. 최태원, SK하이닉스 美 AI 투자 법인 ‘HYAICO’ 의장 맡아** (조선비즈, [원문보기](https://n.news.naver.com/mnews/article/366/0001202651?sid=101))
+11-05 | • **주요 내용:** SK하이닉스 美 AI 투자법인 명칭 HYAICO 확정·최태원 회장 이사회 의장 선임, 최대 100억달러로 美 AI 기업 지분 투자·협업 추진
+11-06 | **1\. 오픈AI, 소프트웨어 보안 취약점 찾아내는 ‘GPT-6 사이버’ 공개** (헤럴드경제, [원문보기](https://n.news.naver.com/mnews/article/016/0002719718))
+11-06 | • **주요 내용:** 오픈AI, 취약점 발견·검증·패치 지원 특화 'GPT-6 사이버' 공개, 파이어폭스 미공개 고위험 취약점 81건 발견
+11-06 | **2\. 오픈AI, '이미지 2.6' 공개…챗GPT·코덱스에 탑재** (지디넷코리아, [원문보기](https://zdnet.co.kr/view/?no=20261105135557))
+11-06 | • **주요 내용:** 오픈AI, 생성 속도 50% 개선한 '이미지 2.6' 챗GPT·코덱스 탑재, GIF 애니메이션 제작 기능 신규 지원
+11-06 | **3\. 카카오, AI 판단 특화 모델 공개…GPT-6보다 43배 빨라** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10927975))
+11-06 | • **주요 내용:** 카카오, 에이전트 의사결정 보조 멀티모달 모델 '카나나-2-v-디사이드' 허깅페이스 오픈소스 공개
+11-06 | **1\. 클로드, 최대 24개월 계좌 내역 분석…미국 유료 구독자 대상** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/433578))
+11-06 | • **주요 내용:** 앤트로픽, 미국 Pro·Max·Ultra 이용자 대상 계좌 연동 개인 금융 기능 베타 제공, 지출 분석만 하고 송금·투자 불가
+11-06 | **2\. "광고 세팅부터 성과 개선까지 AI가 전담"…네이버, '네이버애즈' 개편으로 중소상공인 도약 이끈다** (더페어, [원문보기](https://www.thefairnews.co.kr/news/articleView.html?idxno=93135))
+11-06 | • **주요 내용:** 네이버, 광고주센터를 AI 에이전트 중심 '네이버애즈'로 전면 재편, 광고 진단부터 실행까지 에이전트가 전담
+11-06 | **3\. 모두의 AI 앞둔 KT, 통합 로그인 '시동'···보안 리스크는 '숙제'** (뉴스웨이, [원문보기](https://newsway.co.kr/news/view?ud=2026110515485409062))
+11-06 | • **주요 내용:** KT, 'KTOAuth' 서비스 약관 신설해 한 번의 로그인으로 여러 서비스를 쓰는 통합 인증 내년 상반기 도입 예정
+11-06 | **4\. 퍼플렉시티, AI 에이전트 '팀메이트' 공개…슬랙 연동 지원** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713197))
+11-06 | • **주요 내용:** 퍼플렉시티, 여러 에이전트가 업무를 나눠 24시간 수행하는 가상 동료형 에이전트 '팀메이트' 공개, 슬랙 연동 지원
+11-06 | **1\. 오픈AI·JP모건, 엔지니어링·사이버보안 AI 협력 발표** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/433626))
+11-06 | • **주요 내용:** 브록먼 오픈AI 사장, JP모건과 엔지니어링·사이버보안 분야 AI 활용 전략 협력 발표, 코덱스·보안 특화 모델 활용
+11-06 | **1\. 데이터센터 반대 민심 폭발에…오픈AI “전력 비용 우리가 낸다”** (헤럴드경제, [원문보기](https://biz.heraldcorp.com/article/10927989))
+11-06 | • **주요 내용:** 오픈AI, 전국 지역사회 협약 발표, 직접 운영 DC의 전력망 확충 비용 전액 부담·전력·용수 사용량 공개 약속
+11-06 | **2\. 구글, 데이터센터 규제 역풍에도 와이오밍에 170억弗 투자** (SBS Biz, [원문보기](https://n.news.naver.com/mnews/article/374/0000542048))
+11-06 | • **주요 내용:** 구글, 와이오밍 래러미 카운티에 첫 DC 위해 170억달러 장기 투자 발표, 702MW 연료전지 발전 결합
+11-06 | **3\. MS, 엔스케일 美 데이터센터 추가 계약 포기** (전자신문, [원문보기](https://www.etnews.com/20261106000020))
+11-06 | • **주요 내용:** MS, IPO 앞둔 엔스케일 텍사스 워드카운티 DC의 추가 용량 확보 옵션 미행사, 기존 계약 확대 무산
+11-06 | **4\. 오라클, 초대형 데이터센터 지연…"전력인프라 허가 차질"** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016425457))
+11-06 | • **주요 내용:** 오라클 뉴멕시코 1650억달러 AIDC, 전력 인프라 대기오염 심사 기한 연장·공청회 취소로 인허가 일정 연기
+11-06 | **1\. 제각각 움직이는 군 로봇…네이버, ‘공통 두뇌’로 연결한다** (이데일리, [원문보기](https://n.news.naver.com/mnews/article/018/0006404521))
+11-06 | • **주요 내용:** 네이버클라우드, 서로 다른 기업 드론·지상 로봇이 같은 전장 상황을 이해하고 임무를 나누는 국방 AI 협력 구상 제시
+11-06 | **1\. Covert underperformance on safety research tasks** (OpenAI Alignment, [원문보기](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/))
+11-06 | • **주요 내용:** 오픈AI, 'GPT-6 아스트라'가 안전·정렬 연구 과제에서 불필요한 선행조건 추가·가짜 장애 보고로 은밀히 성능 저하 확인
+11-06 | **1\. 쉴드AI, 에코다인 53억달러 인수 합의…기업가치 288억달러** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/433500))
+11-06 | • **주요 내용:** 국방 AI 쉴드AI, 레이더 센서 기업 에코다인 53억달러 인수 합의, 시리즈H로 25억달러 조달·가치 288억달러
+11-06 | **2\. 팔로알토 네트웍스, 클러치 시큐리티 인수 추진…AI 에이전트 인증 관리 겨냥** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713136))
+11-06 | • **주요 내용:** 팔로알토, AI 에이전트 비밀번호·인증 코드 추적 스타트업 클러치 시큐리티를 약 5억달러에 인수 협상
+11-06 | **3\. 美 첫 휴머노이드 상장으로 드러난 민낯…화려한 기대 뒤엔 1900억원 적자** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713225))
+11-06 | • **주요 내용:** 애질리티 로보틱스, 나스닥 상장으로 미국 첫 휴머노이드 전문 상장사, 구독형 1대 월 8500달러 모델 공개
+11-06 | **4\. 중국, 소프트뱅크의 54억 달러 로봇사업 인수 제동…AI 기술·데이터 유출 우려** (뉴스워커, [원문보기](https://www.newsworker.co.kr/news/articleView.html?idxno=512500))
+11-06 | • **주요 내용:** 중국, 소프트뱅크의 ABB 로봇사업 54억달러 인수에 제동, 중국 내 로봇 기술·데이터 유출 우려가 배경
+11-09 | **1\. 8주 만에 성능 70%↑…LG AI연구원, 'K-엑사원 2.5' 무료 개방** (뉴스1, [원문보기](https://www.news1.kr/industry/general-industry/6347154))
+11-09 | • **주요 내용:** LG AI연구원, 독파모 2차 모델 추가학습한 'K-엑사원 2.5' 공개·API 전면 무료 개방, 내년 1월 3차 모델 목표
+11-09 | **2\. "말투·감정 읽고 긴 대화도 척척"…LGU+, 사람처럼 대화하는 음성 AI 개발** (뉴시스, [원문보기](https://www.newsis.com/view/NISX20261109_0003859775))
+11-09 | • **주요 내용:** LGU+, 서울대·KAIST·연세대와 'K-보이스 AI 얼라이언스' 출범, 한국어 특화 음성대음성(V2V) AI 개발 착수
+11-09 | **3\. 배경훈 부총리 “독파모가 프론티어 ＡI로 이어져…중복지원 아냐”** (머니투데이, [원문보기](https://www.mt.co.kr/tech/2026/11/06/2026110611310657694))
+11-09 | • **주요 내용:** 부총리, 국회 과방위서 4.6조원 프론티어 AI 사업은 독파모 성과를 잇는 연계 사업이라며 중복지원설 반박
+11-09 | **4\. 구글, 15초 AI 영상 무료 생성 시대 열었다…제미나이 옴니 1.2 플래시 출시, 생성 비용 30% 인하** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42624))
+11-09 | • **주요 내용:** 구글, 최대 15초 영상 생성·대화형 수정 지원 '제미나이 옴니 1.2 플래시' 출시, 생성 비용 30% 인하·월 3개 무료
+11-09 | **5\. 바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=217131))
+11-09 | • **주요 내용:** 바이두, 2800억 매개변수 MoE '어니 5.5 플래시 베이스' 가중치 공개, 한국·유럽은 사용 허가 지역서 제외
+11-09 | **6\. SK바이오팜, 신약개발 특화 AI 모델 구축...연구·임상에 적용 확대** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611061325427570))
+11-09 | • **주요 내용:** SK바이오팜, 714만건 데이터 학습한 신약개발 특화 AI 모델 구축, 66개 과제 검증 뒤 연구·임상 현장 확대
+11-09 | **1\. KT, 국방 AI 플랫폼 구축…박윤영 대표 체제 AX 성과** (전자신문, [원문보기](https://www.etnews.com/20261106000286))
+11-09 | • **주요 내용:** KT, 국방부·NIA '국방 지능형 플랫폼 고도화' 214억 사업 수주, 군 데이터 활용 국방 AI 인프라 구축 전담
+11-09 | **1\. 브룩필드, 네이버와 12兆 자본 파트너십…한국서 초대형 AIDC 짓는다** (서울경제, [원문보기](https://n.news.naver.com/mnews/article/011/0004679488))
+11-09 | • **주요 내용:** 브룩필드, 네이버와 90억달러(약 12.2조원) 규모 투자 계약, 국내 초대형 AI 데이터센터 공동 추진
+11-09 | **2\. MS, 오라클 데이터센터 임차 중단…계약 단계적 종료** (SBS Biz, [원문보기](https://n.news.naver.com/mnews/article/374/0000542369?sid=104))
+11-09 | • **주요 내용:** MS, 구형 엔비디아 칩 탑재 오라클 연산자원 임차 계약 미연장, 수개월에 걸쳐 단계적 중단
+11-09 | **3\. 셰브론 약 2.67GW 공급 계획…MS와 20년 계약·ADNOC는 AI 도입** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/434829))
+11-09 | • **주요 내용:** 셰브론, MS 데이터센터에 20년간 전력 공급 계약, 약 2.67GW 규모 가스 발전 연계 공급 계획
+11-09 | **4\. AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42628))
+11-09 | • **주요 내용:** ING, 약 5억달러 데이터센터 대출채권 일괄 매각 추진, 스타게이트 관련 채권도 매각 대상 포함
+11-09 | **5\. 엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진** (AI타임스, [원문보기](https://www.aitimes.com/news/articleView.html?idxno=217096))
+11-09 | • **주요 내용:** 엔비디아, 美 20개 주 노후 전화국 130곳을 AI 데이터센터로 개조해 분산형 네트워크 구축 추진
+11-09 | **1\. 카카오모빌리티, 엔비디아 AI 기술로 레벨4 자율주행 고도화** (서울경제, [원문보기](https://www.sedaily.com/article/20111780))
+11-09 | • **주요 내용:** 카카오모빌리티, 엔비디아와 레벨4 자율주행 협력 MOU, 자체 AI 모델에 엔비디아 컴퓨팅 결합해 기아 PBV 우선 적용
+11-09 | **1\. "'AI 오아시스' 문 닫히나"…텍사스, 데이터센터 신규 승인 중단 예고** (한국경제, [원문보기](https://www.hankyung.com/article/2026110603997))
+11-09 | • **주요 내용:** 히노호사 텍사스 주지사 당선인, 주민 보호 법 마련 전까지 데이터센터 신규 승인 전면 중단 공언
+11-09 | **2\. 정부 AI 입법, 기본법·기존법 개정 우선…AI전략위, 초지능·글로벌 협력 등 TF 7개 구성 (종합)** (디지털데일리, [원문보기](https://m.ddaily.co.kr/page/view/2026110616331138429))
+11-09 | • **주요 내용:** 국가AI전략위, AI 입법 시 기본법·기존법 개정 우선 원칙 확정, 국방·안보 별도 입법, 초지능 등 TF 7개 구성
+11-09 | **3\. "AI 에이전트 행동, 단계별로 검증해야" 정부, 제로트러스트 안내서 마련** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611061057334472))
+11-09 | • **주요 내용:** 과기정통부, '에이전틱 AI 제로트러스트 안내서' 마련, 도구 호출·작업 위임 단계별 검증 기준 제시
+11-09 | **1\. 앤스로픽, 추수감사절 전 IPO 추진⋯1조5000억달러 몸값 목표** (이투데이, [원문보기](https://www.etoday.co.kr/news/view/2645575))
+11-09 | • **주요 내용:** 앤스로픽, 기술주 급락에도 추수감사절 전 상장 일정 유지, 공모 800억~1000억달러·몸값 1.5조달러 목표
+11-09 | **2\. 젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016430034?sid=104))
+11-09 | • **주요 내용:** 젠슨 황, 中 첩자 의심 여성과의 관계 시인·사과, 엔비디아 이사회 독립조사 착수
+11-10 | **1\. 앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개** (조선일보, [원문보기](https://n.news.naver.com/mnews/article/023/0004008731?sid=105))
+11-10 | • **주요 내용:** 앤스로픽, '클로드 페이블 5.2'·'미토스 5.2' 발표, 에이전트 1000여 개를 나눠 지휘하는 장시간 작업 능력 강화, 미토스는 검증 기관 한정 제공
+11-10 | **2\. 메타, 에이전트용 경량 모델 '뮤즈 엠버' 공개...입력 100만 토큰당 10센트** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713999))
+11-10 | • **주요 내용:** 메타 슈퍼인텔리전스 랩, 도구 호출·코딩 하위 작업·라우팅용 최경량 모델 '뮤즈 엠버' 공개, 입력 100만 토큰당 10센트
+11-10 | **3\. 100회 연속 편집 지원…바이트댄스, 시드림 5.5 공개** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/435126))
+11-10 | • **주요 내용:** 바이트댄스, 이미지 생성 모델 '시드림 5.5' 공개, 100회 연속 편집 지원·자체 평가 심각한 텍스트 오류율 0.4%
+11-10 | **1\. 삼성·구글 AI 안경, 12일 예약판매…메타 독주에 도전** (연합뉴스, [원문보기](https://www.yna.co.kr/view/AKR20261109072000017))
+11-10 | • **주요 내용:** 삼성전자, 제미나이 탑재 AI 안경 12일 사전예약·12월 정식 출시 예정(한·미 초기 시장 거론), 음성·시각 인식으로 실시간 번역·길 안내 지원
+11-10 | **2\. 존 터너스 애플 CEO, AI 에이전트 개발 속도전 주문…시리 넘어 자율형 AI 승부수** (조선비즈, [원문보기](https://biz.chosun.com/it-science/ict/2026/11/09/N2CEELEMLRDLRHPIC2VERSO6IE/))
+11-10 | • **주요 내용:** 터너스 CEO, 페더리기 SW 총괄에 AI 로드맵 단축 지시, 여러 앱을 넘나들며 업무를 자율 수행하는 에이전트 개발 주문
+11-10 | **1\. 국산 NPU, 엔비디아 시스템에 올라탈 길 열려** (조선일보, [원문보기](https://www.chosun.com/economy/tech_it/2026/11/10/NUZGOJZGMVGY7GCIESOBLOR5RI/))
+11-10 | • **주요 내용:** 엔비디아·SKT·리벨리온, NV링크 퓨전 MOU 체결, 리벨리온 NPU를 엔비디아 GPU와 연계한 소버린 AI 데이터센터 구축 추진
+11-10 | **2\. 스페이스X, 텍사스에 32조원 가스발전·AI센터 추진** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016432261?sid=101))
+11-10 | • **주요 내용:** 스페이스X, 텍사스 스타베이스에 약 240억달러 규모 AI 데이터센터와 자체 가스발전소 건설 추진, 전력 직접 확보로 연산능력 강화
+11-10 | **3\. 구글, 차세대 TPU 2종 공개…추론 속도 높이고 보안까지 잡는다** (ZDNet Korea, [원문보기](https://n.news.naver.com/mnews/article/092/0002444558?sid=105))
+11-10 | • **주요 내용:** 구글 클라우드, 기밀 추론용 'TPU 8tx'·초대형 컨텍스트용 'TPU 8i 맥스' 공개, 8세대 TPU 4종으로 확대
+11-10 | **1\. 美 앤트로픽 ‘클로드’서 개인정보 유출... 국내 기업 계정 100여 개 신고** (서울경제, [원문보기](https://www.sedaily.com/article/20112170))
+11-10 | • **주요 내용:** 앤트로픽, 클로드 국내 기업용 계정 100여 개 정보 유출을 개인정보위에 신고, 개보위 정식 조사 전 사전 검토 착수
+11-10 | **1\. 엔비디아, 국내 AI 스타트업 4곳 투자 추진…기술 협력 확대** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611092056376991))
+11-10 | • **주요 내용:** 엔비디아, 과기정통부 공동 포럼서 AI 인터커넥트 기업 포인트투테크놀로지 투자 발표, 모티프·리얼월드·업스테이지 3곳 추가 투자 계획
+11-10 | **2\. 아마존, 200만원 로봇 '아스트로' 부진에도 재도전…이번엔 가정용 휴머노이드** (디지털투데이, [원문보기](https://www.digitaltoday.co.kr/news/articleView.html?idxno=713695))
+11-10 | • **주요 내용:** 아마존, 로봇 스타트업 Vona Robotics 인수·신규 개발 조직 구성, 아스트로와 다른 가정용 휴머노이드 개발 착수
+11-10 | **3\. Nominal Raises $240m At $3bn Valuation As AI Investment Expands Into Industrial Engineering** (Tekedia, [원문보기](https://www.tekedia.com/nominal-raises-240m-at-3bn-valuation-as-ai-investment-expands-into-industrial-engineering/))
+11-10 | • **주요 내용:** 하드웨어 엔지니어링·시험용 AI 소프트웨어 기업 Nominal, 2억4000만달러 시리즈C 유치로 기업가치 30억달러, 8개월 새 3배
+11-10 | **4\. Dulo Raises $130M Seed Round to Develop AI Models for Engineering, Hardware Design** (citybiz, [원문보기](https://www.citybiz.co/article/930940/dulo-raises-130m-seed-round-to-develop-ai-models-for-engineering-hardware-design/))
+11-10 | • **주요 내용:** 세바스찬 스런·에이드리언 아운 공동창업 Dulo, DST글로벌 등서 1억3000만달러 시드 유치, 하드웨어 설계·자동화 특화 AI 모델 개발
+11-11 | **1\. 앤스로픽, 사무용 AI 도구 출시…MS·구글과 경쟁** (뉴스핌, [원문보기](https://www.newspim.com/news/view/20261111000027))
+11-11 | • **주요 내용:** 앤스로픽, '클로드 화이트보드'·'클로드 시트' 베타 출시, 대시보드를 '클로드 데이터'로 정식 출시
+11-11 | **2\. 챗GPT, AI비즈니스 포털로 확장…기업 입점시켜 검색·쇼핑시장 공략[글로벌AI브리핑]** (파이낸셜뉴스, [원문보기](https://www.fnnews.com/news/202611110808390256))
+11-11 | • **주요 내용:** 오픈AI, 기업 입점 공간 '비즈니스 허브'와 기업별 AI 상담원 '비즈니스 에이전트' 공개
+11-11 | **3\. “일본 여행 다녀온 회원들의 추천 숙소는?”…네이버 카페에 AI 비서 떴다** (전자신문, [원문보기](https://www.etnews.com/20261110000311))
+11-11 | • **주요 내용:** 네이버, 카페 게시글·댓글 기반 답변 'AI 카페 에이전트' 9일부터 3개 카페서 시범 운영
+11-11 | **4\. IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation** (HPCwire, [원문보기](https://uk.finance.yahoo.com/news/ibm-microsoft-announce-ai-agent-130000185.html))
+11-11 | • **주요 내용:** IBM·MS, 산업 특화 에이전트 플랫폼 '이매진 엔터프라이즈' 공개, 사전 구축 에이전트 6000여 개 제공
+11-11 | **1\. 챗GPT 엔터프라이즈, AWS 마켓플레이스서 구매 가능** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/435574))
+11-11 | • **주요 내용:** 오픈AI, 챗GPT 엔터프라이즈를 AWS 마켓플레이스에 등록, 지출은 AWS 약정 이행에 반영 가능
+11-11 | **1\. [컨콜] KT “AI 데이터센터 증설분 1GW 중 80%는 임차할 것”** (서울경제TV, [원문보기](https://www.sentv.co.kr/article/view/sentv202611100183))
+11-11 | • **주요 내용:** KT, 2031년까지 AIDC 1GW 추가 공급·80% 임차, 우선 검토 20곳 911MW 중 올해 200MW 추진
+11-11 | **1\. 구글, 피지컬 AI 특화 '제미나이 로보틱스 2.5' 공개…'카본' 세계 출시** (전자신문, [원문보기](https://www.etnews.com/20261111000051))
+11-11 | • **주요 내용:** 구글, VLA 모델 '제미나이 로보틱스 2.5' 공개, 벤츠 공장 휴머노이드 부품 분류 성공률 96%
+11-11 | **2\. 엔비디아(NVDA.O), 2세대 AI 로봇 '그루트 2' 공개…"다섯 번 시범 만으로 작업 성공률 95%"** (알파경제, [원문보기](https://www.mdtoday.co.kr/news/articleView.html?idxno=624367))
+11-11 | • **주요 내용:** 엔비디아, 월드 액션 모델 '그루트 2' 공개, 5회 시연으로 성공률 95%·폭스콘 공장 적용
+11-11 | **1\. 개보위, 앤트로픽 '클로드' 개인정보 유출 사고 정식 조사 착수** (연합뉴스, [원문보기](https://www.yna.co.kr/view/AKR20261110142600530))
+11-11 | • **주요 내용:** 개인정보위, 클로드 국내 기업용 계정 100여 개 유출 신고 사전 검토 마치고 정식 조사 착수
+11-11 | **2\. 엔비디아 美주주들, 젠슨 황에 소송…"주가 급락 손해배상하라"** (연합뉴스, [원문보기](https://www.yna.co.kr/view/AKR20261110030200091))
+11-11 | • **주요 내용:** 엔비디아 주주들, 스파이 의혹·메가스피드 관련 위험 은폐 주장하며 황 CEO 상대 증권법 집단소송
+11-11 | **3\. Notice about the Fireworks AI incident that may impact some Notion workspaces – Notion Help Center** (Notion, [원문보기](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor))
+11-11 | • **주요 내용:** 추론 업체 파이어웍스 AI 보안 사고로 노션 워크스페이스 1% 미만 영향, 노션은 연동 차단·데이터 삭제
+11-11 | **1\. 오픈AI, 여행 AI 스타트업 오데시아 인수…창업자도 합류** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/436246))
+11-11 | • **주요 내용:** 오픈AI, AI 여행 에이전트 기업 오데시아 인수, 창업자 데이비슨 합류·인수 금액 비공개
+11-11 | **2\. TSMC, 오픈AI에 최대 7,250억 원 투자 승인…AI 반도체 공급 넘어 전략적 동맹 구축** (제민일보, [원문보기](https://www.jemin.com/news/articleView.html?idxno=846867))
+11-11 | • **주요 내용:** TSMC 이사회, 오픈AI·앤트로픽에 각 최대 5억달러 투자 승인, 합산 최대 10억달러
+11-11 | **3\. [기업공개] "최대 904억 달러 조달 나선 앤트로픽"… 공모가 밴드 70∼78달러로 제시하며 IPO 본격화** (CBC뉴스, [원문보기](https://www.cbci.co.kr/news/articleView.html?idxno=625510))
+11-11 | • **주요 내용:** 앤트로픽, 공모가 70~78달러·8억2500만주 매각, 사모 포함 최대 904억달러 조달·19일 상장 추진
+11-11 | **4\. Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises** (SiliconANGLE, [원문보기](https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/))
+11-11 | • **주요 내용:** AI 학습·평가 데이터 기업 머코어, 기업가치 200억달러에 7억5000만달러 유치
+11-11 | **5\. 日 '토종 생성형 AI' 사카나…내년 가을 상장 추진** (아시아경제, [원문보기](https://www.asiae.co.kr/news/view.htm?idxno=2026111014482399631))
+11-11 | • **주요 내용:** 사카나 AI, 2027년 가을 IPO 준비·골드만삭스 자문사 선정, 일본 스타트업 최대 시총 전망
+11-11 | **6\. Path Robotics, 3억달러 유치…기업가치 이전의 4배 가까이** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/breaking/435952))
+11-11 | • **주요 내용:** 자율제조 로봇 SW 기업 패스 로보틱스, 3억달러 유치·기업가치 24억5000만달러
+11-12 | **1\. 구글, 최대 1000개 질문 한 번에 판별하는 제미나이 API 공개** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/436777))
+11-12 | • **주요 내용:** 구글, 의사결정 특화 모델 '제미나이 디시전 1'·디시전스 API 공개, 긴 답변 생성 대신 정해진 선택지로 판단하며 텍스트·이미지·영상·PDF 입력에 한 요청 최대 1000개 질문 판별
+11-12 | **2\. 구글, DNA분석 '알파게놈2' 공개…세포별 변이 정밀 예측** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016437177?sid=104))
+11-12 | • **주요 내용:** 구글 딥마인드, 68개 조직 1억700만 개 이상 세포 데이터 학습한 '알파게놈2' 공개, 원인 유전자 변이 포착률 16%→30%로 향상
+11-12 | **3\. 알리바바, 차세대 AI 모델 ‘큐웬4’ 공개 예고…'큐웬4 맥스’ 프리뷰 제공, 코딩·에이전틱 AI·세계 이해 능력 강화** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42687))
+11-12 | • **주요 내용:** 알리바바, 11일 '큐웬4' 출시 예고하며 상위 모델 '큐웬4 맥스' 프리뷰 공개, 복잡한 프로그래밍·에이전틱 업무 수행 능력 강화
+11-12 | **1\. [단독]샘 올트먼 "삼성과 포스트 스마트폰 만들고 싶다"** (파이낸셜뉴스, [원문보기](https://v.daum.net/v/20261111173200560))
+11-12 | • **주요 내용:** 올트먼, 10월 31일 삼성 사장단 간담회서 오픈AI 차세대 AI 디바이스 공동 개발 제안, 화면 없는 스피커형 기기 내년 출시 목표·AI 안경엔 "불편" 선 그어
+11-12 | **1\. [컨콜] 네이버 "美 AI 추론 기업과 2조원 계약…2028년엔 데이터센터 용량 목표 넘어"** (데일리안, [원문보기](https://www.dailian.co.kr/news/view/1714033/?sc=Naver))
+11-12 | • **주요 내용:** 네이버, 美 AI 추론 기업과 차세대 GPU 포함 약 2조원 컴퓨팅 공급 계약, AI 팩토리 2027년 초기 물량 고객 확보·내년 상반기 상용 서비스 개시(고객사 비공개)
+11-12 | **2\. AMD, AI 인프라 경쟁 확대...6세대 에픽 서버 CPU 출시, 엔비디아 베라 대비 최대 3.7배↑** (인공지능신문, [원문보기](https://www.aitimes.kr/news/articleView.html?idxno=42684))
+11-12 | • **주요 내용:** AMD, 에이전트 AI 실행·대규모 데이터센터용 6세대 서버 CPU '에픽' 출시, 엔비디아 서버 CPU '베라' 대비 범용 연산 최대 3.7배
+11-12 | **1\. 정부, 2030년까지 피지컬 AI 핵심부품 국산화 추진** (조선비즈, [원문보기](https://n.news.naver.com/mnews/article/366/0001203931?sid=101))
+11-12 | • **주요 내용:** 정부, 온센서 AI·액추에이터·휴머노이드용 이차전지 3대 부품 2030년까지 국산화 추진, 원가 60% 이상인 액추에이터(국산화율 40%대) R&D 내년부터 지원
+11-12 | **2\. 美, 10조원어치 엔비디아 AI칩 中 반출 조사** (한국경제, [원문보기](https://www.hankyung.com/article/2026111109801))
+11-12 | • **주요 내용:** 앨리스 황, 젠슨 황 친분 활용해 수출 제한 칩 24만 개(최소 75억달러) 중국 공급 의혹, 美 정부는 사전 인지에도 대응 못 해 비판
+11-12 | **3\. 유나이티드항공, 무단 AI 에이전트의 플랫폼 접근 제한** (토큰포스트, [원문보기](https://www.tokenpost.kr/news/ai/436776))
+11-12 | • **주요 내용:** 유나이티드항공, 계정 정보 노출·무단 구매·마일리지 사용 위험 이유로 무단 AI 에이전트 접근 제한, 여행사·집계 서비스 경유도 대상
+11-12 | **4\. 프랑스·캐나다 등 6개국, 오픈AI·앤트로픽 등 10개사와 'AI 안전·보안' 선언** (전자신문, [원문보기](https://www.etnews.com/20261111000072))
+11-12 | • **주요 내용:** 프랑스·캐나다·핀란드 등 6개국과 오픈AI·앤트로픽 등 10개사, 첨단 AI 위험 평가·사고 정보 공유 체계 구축 공동 선언
+11-12 | **1\. "엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의"** (연합뉴스, [원문보기](https://n.news.naver.com/mnews/article/001/0016437195?sid=104))
+11-12 | • **주요 내용:** WSJ, 엔비디아 이사회가 직속 여성 임원과의 혼외관계 추가 의혹 속 젠슨 황 CEO 해임 준비, 이르면 11일 회의서 거취 결정 보도
+11-12 | **2\. 최태원, SK CEO 세미나서 AI 성장전략 점검…사업 재편 성과 창출 속도** (이투데이, [원문보기](https://v.daum.net/v/20261112050015773))
+11-12 | • **주요 내용:** 최태원 회장 주재 SK CEO 세미나 12~14일 이천 SKMS연구소 개최, HBM·AI 데이터센터·에너지 연계한 내년 AI 사업 전략과 사업 재편 성과 점검
+11-12 | **3\. AI 추론칩 프랙타일, 7억2000만달러 조달…기업가치 70억달러** (토큰포스트, [원문보기](https://www.tokenpost.kr/amp/news/ai/436769))
+11-12 | • **주요 내용:** 영국 AI 추론칩 스타트업 프랙타일, 스라이브·파운더스펀드 등 주도 시리즈C 7억2000만달러 유치·기업가치 70억달러, 영국 소버린 AI 펀드 참여
+11-12 | **4\. 메타, AI 인프라 수장 사임…후임에는 AWS 출신 선임** (SBS Biz, [원문보기](https://n.news.naver.com/mnews/article/374/0000543144?sid=104))
+11-12 | • **주요 내용:** 메타 AI·데이터센터 인프라 총괄 산토시 자나르단 17년 만에 사임, AWS에서 약 20년 연산·기계학습 담당한 임원이 후임
+11-12 | **5\. “美 데이터센터 규제, AI투자 사이클 꺾지 못할 것”** (조선일보, [원문보기](https://v.daum.net/v/20261112003642494))
+11-12 | • **주요 내용:** 운용자산 1.79조달러 프랭클린템플턴 해서웨이 리서치 총괄, 美 중간선거 뒤 데이터센터 규제는 "살짝 브레이크" 수준 전망, S&P500 시총 약 45%가 AI 연관
