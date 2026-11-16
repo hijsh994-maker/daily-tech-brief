@@ -38,6 +38,12 @@
     R4 '고'인데 유형이 분석·재조명 / 반응·논평 / 실적이다
     R5 '고'인데 코드가 과거 발송본에서 같은 주체+같은 사건종류를 찾았고 흐름=신규다   ← 메타 회사채
     R3b '고'인데 본문 리드의 날짜 표현이 모두 창 밖이다(코드가 직접 찾음)           ← 챗GPT 옛 보안 우려
+    [2026-11-16 사용자 지시] R3·R3b **첫 보도 예외**: 판정기준 요약 5항('첫 보도가 창 안이면 사건일이 1~2주 전이어도
+       재조명이 아니다', 11-10 편의점 휴머노이드)과 R3b 가 충돌해 11-16 광군제 휴머노이드 판매(판매 10/9~11/11, 첫 보도 11/13)를
+       '중'으로 내렸다. 선택 칸 `첫보도일`(YYYY-MM-DD, 기사 게재일)을 적고 아래를 **모두** 만족하면 R3·R3b 를 면제한다(W5 로 표시).
+         - 첫보도일이 창(win~오늘) 안이고, 후보 목록 발행일(pub_date)과 ±1일 안에서 맞는다(임의 날짜 방지)
+         - 흐름=신규(30일 발송본에 같은 사건 없음) · 유형이 분석·재조명/반응·논평/실적이 아님
+         - 본문 앞부분에 재조명 표현(전부터·당시·과거·지난해…)이 없다            ← 챗GPT 옛 보안 우려는 여기서 막힌다
     R6 '고'인데 흐름이 날짜이고 변화가 완료 / 반응·논평 / 재확인이다
     R7 최우선 어젠다·경쟁사·빅테크·정부보안 건이 단계=실행 + 유형(출시·투자·인수·계약·정부조치실행·일정변경·사고)인데
        '중'·'저'이고 비고 코드가 없다                          ← 국정원 긴급점검·애플 로봇 지연
@@ -285,7 +291,7 @@ def main():
         if a.template:
             tp = os.path.join(a.work, "out", "facts-%s.todo.csv" % a.date)
             with open(tp, "w", encoding="utf-8", newline="") as f:
-                w = csv.writer(f); w.writerow("idx 사건일 근거 유형 단계 흐름 변화 비고".split()); w.writerows(rows)
+                w = csv.writer(f); w.writerow("idx 사건일 근거 유형 단계 흐름 변화 비고 첫보도일".split()); w.writerows([r + [""] for r in rows])
             print("[facts] 빈 행 저장: %s — 본문을 읽고 채워 out/facts-%s.csv 로 저장" % (tp, a.date))
         return 0
 
@@ -316,9 +322,33 @@ def main():
         if body and not (q.startswith("find:") or q == "본문없음"):
             if not q or norm(q) not in norm(body):
                 fails.append(("R2", tag, "근거 인용이 본문에 없음: " + q[:40]))
-        if g == "고" and ev < win:
+        first_ok, first_why = False, ""
+        if f.get("첫보도일"):
+            try:
+                fd = datetime.date.fromisoformat(f["첫보도일"])
+                pd = (cand.get(idx) or {}).get("pub_date") or ""
+                pdd = datetime.date.fromisoformat(pd) if re.match(r"^\d{4}-\d{2}-\d{2}$", pd) else None
+                if not (win <= fd <= day):
+                    first_why = "첫보도일 %s 이 창 밖" % fd
+                elif pdd is None or abs((pdd - fd).days) > 1:
+                    first_why = "첫보도일 %s 과 후보 발행일 %s 이 안 맞음" % (fd, pd or "?")
+                elif f["흐름"] != "신규":
+                    first_why = "흐름이 신규가 아님(%s)" % f["흐름"]
+                elif f["유형"] in STALE_TYPES:
+                    first_why = "유형 %s" % f["유형"]
+                elif retro:
+                    first_why = "재조명 표현 '%s'" % retro.group(0)
+                else:
+                    first_ok = True
+            except ValueError:
+                first_why = "첫보도일 형식 오류"
+            if g == "고" and first_ok and (ev < win or (dates and max(d for _, d in dates) < win)):
+                warns.append(("W5", tag, "첫 보도 예외 적용 — 사건일 %s·첫 보도 %s(판정기준 5항, 11-10 사례)" % (ev, f["첫보도일"])))
+            elif g == "고" and not first_ok:
+                warns.append(("W5", tag, "첫 보도 예외 불가: " + first_why))
+        if g == "고" and ev < win and not first_ok:
             fails.append(("R3", tag, "사건일 %s 이 창(%s~) 밖 — 오늘 생긴 일이 아님" % (ev, win)))
-        if g == "고" and dates and max(d for _, d in dates) < win:
+        if g == "고" and dates and max(d for _, d in dates) < win and not first_ok:
             fails.append(("R3b", tag, "본문 리드의 날짜가 모두 창 밖(%s) — 코드가 찾은 사실" % ", ".join("%s→%s" % (s_, d) for s_, d in dates[:3])))
         if g == "고" and f["유형"] in STALE_TYPES:
             fails.append(("R4", tag, "유형 '%s' 는 '고' 불가" % f["유형"]))
