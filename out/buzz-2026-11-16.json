@@ -1,0 +1,458 @@
+{
+ "date": "2026-11-16",
+ "terms": [
+  {
+   "term": "AI 커닝",
+   "norm": "ai커닝",
+   "n_outlets": 13,
+   "n_today": 13,
+   "outlets": [
+    "ER 이코노믹리뷰",
+    "경향신문",
+    "국민일보",
+    "뉴시스",
+    "매일경제",
+    "머니투데이",
+    "미디어오늘",
+    "미디어인뉴스"
+   ],
+   "days": 2,
+   "first": "2026-11-16",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "파이낸셜뉴스(11-10) | \"쟤 안경 이상해요\" 제보에 딱 걸린 AI 커닝",
+    "조선일보 | ‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다",
+    "ER 이코노믹리뷰 | 세무사 수석도 뚫은 AI 커닝, 그렙은 속지 않아",
+    "세계일보 | [사설] AI 커닝으로 세무사 수석, 수능 관리·감독 만전 기해야",
+    "국민일보 | [단독] 국가시험 ‘AI 커닝’ 작년에도 있었다⋯ 챗GPT로 정답 확인 수법",
+    "미디어오늘 | 세무사 ‘AI 커닝’ 자수…조선일보 “이제 모든 시험을 믿지 못하게 됐다”"
+   ],
+   "score": 16
+  },
+  {
+   "term": "United Airlines",
+   "norm": "unitedairlines",
+   "n_outlets": 32,
+   "n_today": 2,
+   "outlets": [
+    "BigGo Finance",
+    "BusinessLine",
+    "CBS News",
+    "CNBC",
+    "Crypto Briefing",
+    "Digital Watch Observatory",
+    "FL360aero",
+    "Forbes"
+   ],
+   "days": 3,
+   "first": "2026-11-12",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "GeekNews(11-12) | United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
+    "CNBC(11-12) | United Airlines moves to block AI agents from its platform over security concern",
+    "CBS News(11-12) | United Airlines bans AI agents from booking flights on behalf of travelers",
+    "BigGo Finance | JPMorgan, United Airlines Block Outside AI Agents: Security Cited, Control at St",
+    "The Paypers | United Airlines restricts AI agents over security risks"
+   ],
+   "score": 14
+  },
+  {
+   "term": "젠슨황 스캔들",
+   "norm": "젠슨황스캔들",
+   "n_outlets": 22,
+   "n_today": 7,
+   "outlets": [
+    "IT조선",
+    "Investing.com 한국어",
+    "YTN",
+    "YTN 사이언스",
+    "경향신문",
+    "노컷뉴스",
+    "뉴스1",
+    "뉴시스"
+   ],
+   "days": 5,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "연합뉴스 한민족센터(11-10) | \"'젠슨황 스캔들' 여성, 中 투자자들에 '엔비디아 친분' 과시\"",
+    "연합뉴스(11-10) | 젠슨황 스캔들 '對中안보·AI규제' 파장 확산…美민주 파상공세",
+    "노컷뉴스(11-10) | 젠슨황 스캔들 후폭풍 일파만파…대중(對中) 안보·AI규제 강화",
+    "뉴시스 | \"사임 후폭풍\"…미중 AI 패권 재편에 韓반도체 '촉각' [젠슨황 스캔들⑤·끝]",
+    "아주경제 | 젠슨황 스캔들 APEC 미중 정상회담 변수...무역은 협력·기술안보는 갈등",
+    "이데일리 | \"젠슨황 스캔들 후폭풍…강력한 美 대중 수출통제 나설 것\""
+   ],
+   "score": 14
+  },
+  {
+   "term": "제21회 국제로봇콘테스트",
+   "norm": "제21회국제로봇콘테스트",
+   "n_outlets": 11,
+   "n_today": 7,
+   "outlets": [
+    "BBS불교방송",
+    "OMATE 시니어",
+    "뉴스21 통신",
+    "데일리대구경북뉴스",
+    "데일리안",
+    "드론매거진 뉴스",
+    "로봇신문",
+    "매일신문"
+   ],
+   "days": 4,
+   "first": "2026-11-11",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "전자신문(11-11) | 대구시, 13·14일 이틀간 엑스코에서 '제21회 국제로봇콘테스트' 개최",
+    "BBS불교방송(11-11) | '로봇들의 뜨거운 대결'…대구서 미래 기술 겨룬다 '제21회 국제로봇콘테스트'",
+    "드론매거진 뉴스(11-12) | 드론 군무부터 휴머노이드 점원까지… '제21회 국제로봇콘테스트' 역대 최대 규모 개막",
+    "전자신문 | '제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
+    "로봇신문 | 휴머노이드가 마트 계산대에 섰다… 「제21회 국제로봇콘테스트」 성료",
+    "데일리안 | 상품 배송부터 계산까지 로봇이 척척…제21회 국제로봇콘테스트에 4000명 방문"
+   ],
+   "score": 14
+  },
+  {
+   "term": "불륜 파문",
+   "norm": "불륜파문",
+   "n_outlets": 9,
+   "n_today": 2,
+   "outlets": [
+    "BBS불교방송",
+    "Chosunbiz",
+    "뉴스1",
+    "뉴시스",
+    "대전일보",
+    "디지털투데이",
+    "파이낸셜포스트",
+    "한국일보"
+   ],
+   "days": 4,
+   "first": "2026-11-10",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "한국일보(11-09) | 젠슨 황 불륜 파문… 엔비디아, 33년 만에 CEO 교체 '초유의 리스크'",
+    "디지털투데이(11-10) | 젠슨 황 불륜 파문에도 AI 산업 '이상무'…美 기업엔 기회",
+    "파이낸셜포스트(11-10) | 젠슨 황 '불륜 파문'에 엔비디아 흔들… 삼성·SK HBM 사업 변수되나",
+    "뉴시스 | '불륜 파문' 젠슨 황, 엔비디아 CEO 복귀 모색…머스크까지 지원 사격",
+    "Chosunbiz | 젠슨 황 불륜 파문에 ‘엔비디아 창업 명판’ 철거한 美 식당… 논란 일자 복원 결정"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Claude Meetings",
+   "norm": "claudemeetings",
+   "n_outlets": 5,
+   "n_today": 2,
+   "outlets": [
+    "Computerworld",
+    "HN",
+    "IT Voice Media",
+    "TechCrunch",
+    "The Decoder"
+   ],
+   "days": 4,
+   "first": "2026-11-11",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "TechCrunch(11-11) | Anthropic launches Claude Meetings to turn workplace discussions into plans and ",
+    "Computerworld(11-12) | Anthropic targets workplace collaboration with Claude Meetings",
+    "The Decoder(11-13) | Claude Meetings lets Anthropic's AI join your video calls",
+    "IT Voice Media | Anthropic Launches Claude Meetings Beta for Team Video Calls",
+    "HN | Claude Meetings"
+   ],
+   "score": 14
+  },
+  {
+   "term": "Modine",
+   "norm": "modine",
+   "n_outlets": 4,
+   "n_today": 3,
+   "outlets": [
+    "Investing.com 한국어",
+    "Invezz",
+    "SammyGuru",
+    "Unite.AI"
+   ],
+   "days": 3,
+   "first": "2026-11-13",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "Unite.AI(11-12) | Modine Starts Chiller Production in Texas for AI Data Centers",
+    "Investing.com 한국어(11-13) | 삼성, 데이터센터 냉각 기업 Modine 인수 협상 중 - 블룸버그",
+    "SammyGuru | Samsung Could Acquire Modine to Expand its AI Data Center Cooling Business",
+    "Invezz | Modine stock surges 28% as Samsung eyes AI cooling takeover",
+    "Investing.com 한국어 | 삼성, 데이터센터 냉각 기업 Modine 인수 협상 중 - 블룸버그"
+   ],
+   "score": 11
+  },
+  {
+   "term": "Agweb",
+   "norm": "agweb",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-16",
+   "reaction": 1,
+   "community": 1,
+   "titles": [
+    "HN | Show HN: Agweb – a browser for agents that stays out of your way"
+   ],
+   "score": 11
+  },
+  {
+   "term": "200만원 휴머노이드",
+   "norm": "200만원휴머노이드",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "머니투데이"
+   ],
+   "days": 1,
+   "first": "2026-11-16",
+   "reaction": 2,
+   "community": 0,
+   "titles": [
+    "머니투데이 | '200만원 휴머노이드' 이렇게 잘 팔리다니…中 광군제 돌풍 - 머니투데이",
+    "머니투데이 | 中 광군제, '200만원 휴머노이드' 판매 두 배 이상 급증 - 머니투데이"
+   ],
+   "score": 10
+  },
+  {
+   "term": "K피지컬 AI",
+   "norm": "k피지컬ai",
+   "n_outlets": 2,
+   "n_today": 1,
+   "outlets": [
+    "뉴시스",
+    "서울파이낸스"
+   ],
+   "days": 2,
+   "first": "2026-11-16",
+   "reaction": 1,
+   "community": 0,
+   "titles": [
+    "서울파이낸스(11-11) | 삼성전자 반도체·현대차 로봇 손잡는다···'K피지컬 AI 동맹' 시동",
+    "뉴시스 | 젠슨 황 스캔들로 中 견제 움직임 꿈틀…'K피지컬 AI' 반사이익 주목"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Arduino",
+   "norm": "arduino",
+   "n_outlets": 2,
+   "n_today": 2,
+   "outlets": [
+    "Design News",
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-16",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "Design News | Want Edge & Physical AI? Meet the Arduino Ventuno Q",
+    "HN | Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [v"
+   ],
+   "score": 8
+  },
+  {
+   "term": "Jonathan Blow",
+   "norm": "jonathanblow",
+   "n_outlets": 1,
+   "n_today": 1,
+   "outlets": [
+    "HN"
+   ],
+   "days": 1,
+   "first": "2026-11-16",
+   "reaction": 0,
+   "community": 1,
+   "titles": [
+    "HN | Jonathan Blow – If AI solved coding, why is my software still the same? [video]"
+   ],
+   "score": 7
+  }
+ ],
+ "spread_only": [
+  {
+   "term": "Lutnick",
+   "norm": "lutnick",
+   "n_outlets": 23,
+   "n_today": 15,
+   "outlets": [
+    "2paragraphs.com",
+    "Axios",
+    "BigGo Finance",
+    "CASRAI",
+    "CBS News",
+    "CNBC",
+    "Charlotte Observer",
+    "Crypto Briefing"
+   ],
+   "days": 4,
+   "first": "2026-11-12",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "2paragraphs.com(11-10) | Ex-NSC Official Challenges Lutnick Over Nvidia Chips, Alleged Chinese Espionage:",
+    "Axios(11-12) | Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval O",
+    "Axios(11-12) | Scoop: Inside Bessent's Situation Room confrontation with Lutnick over China chi",
+    "GeekNews | Lutnick, 가족 사업과 맞물린 반도체 규제 완화 추진",
+    "Yahoo | NYT: Lutnick Eased AI Chip Restrictions While Firm Helped Finance Asian Data Cen",
+    "The New York Times | Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Alice Huang",
+   "norm": "alicehuang",
+   "n_outlets": 16,
+   "n_today": 3,
+   "outlets": [
+    "AP News",
+    "Analytics Insight",
+    "CBS News",
+    "CNBC",
+    "Crypto Briefing",
+    "ET Now",
+    "NBC News",
+    "New York Post"
+   ],
+   "days": 5,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "New York Post(11-10) | Alleged Chinese spy Alice Huang boasted about Nvidia AI chip access — as US offi",
+    "The Times of India(11-10) | Alice Huang boasted about Nvidia AI chip access to investors, told them Alibaba ",
+    "The Guardian(11-10) | Who is Alice Huang, the woman linked to Nvidia’s CEO?",
+    "Taipei Times | Megaspeed says Alice Huang left firm in August 2025",
+    "CBS News | Megaspeed says Alice Huang left company in 2025, denies wrongdoing amid Nvidia s",
+    "CNBC | Megaspeed says Alice Huang left in 2025 as it launches internal probe into repor"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Oura",
+   "norm": "oura",
+   "n_outlets": 15,
+   "n_today": 2,
+   "outlets": [
+    "Athletech News",
+    "Bloomberg.com",
+    "Digital Health News",
+    "Indian Startup Times",
+    "Modern Healthcare",
+    "NEWS.am TECH",
+    "Oura Ring",
+    "Quartz"
+   ],
+   "days": 4,
+   "first": "2026-11-11",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "TechCrunch(11-11) | Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "STAT(11-11) | Oura to acquire Counsel Health for $625 million, placing a big bet on AI care",
+    "Modern Healthcare(11-11) | Oura to acquire AI care company Counsel Health for $625M",
+    "shattered.io | Oura Buys Counsel Health for $625M: Lilly Stake [2026]",
+    "STAT | Oura’s acquisition of health tech startup raises conflict-of-interest questions "
+   ],
+   "score": 10
+  },
+  {
+   "term": "AI 황제",
+   "norm": "ai황제",
+   "n_outlets": 12,
+   "n_today": 3,
+   "outlets": [
+    "CEO스코어데일리",
+    "농민신문",
+    "뉴시스",
+    "뉴시안",
+    "데일리안",
+    "매일경제",
+    "비즈워치",
+    "시사저널"
+   ],
+   "days": 6,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "데일리안(11-09) | 'AI 황제' 젠슨 황, 中 스파이 의심 여성과 불륜 시인…엔비디아 발칵",
+    "뉴시안(11-10) | [월드 프리즘] 'AI 황제' 젠슨 황, 中 스파이와 불륜 스캔들 '일파만파'… 요동치는 4.5조 달러 엔비디아 제국",
+    "파이낸셜뉴스(11-11) | AI 황제마저 흔든 '미인계'…北 '씨받이 공작' 데자뷔",
+    "한국경제 | 33년 AI 황제 날린 '차이나 리스크'…테슬라·애플은 버틸 수 있을까[김인엽의 AI프런티어]",
+    "매일경제 | [동여의도 위클리] 'AI 황제' 떠난 후 투심 가늠자… 엔비디아 실적·앤트로픽 상장",
+    "뉴시스 | [젠슨 황 스캔들④] 'AI 황제'의 퇴장…'포스트' 엔비디아 시험대"
+   ],
+   "score": 10
+  },
+  {
+   "term": "AWS Marketplace",
+   "norm": "awsmarketplace",
+   "n_outlets": 11,
+   "n_today": 1,
+   "outlets": [
+    "Amazon Web Services (AWS)",
+    "BigGo Finance",
+    "Blockchain News",
+    "CASRAI",
+    "MLQ.ai",
+    "OpenAI",
+    "OpenTools",
+    "StreetInsider"
+   ],
+   "days": 4,
+   "first": "2026-11-10",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Unite.AI(11-10) | OpenAI, AWS Marketplace를 통해 ChatGPT Enterprise 판매 시작",
+    "Amazon Web Services (AWS)(11-10) | Module 10 - Agent exposure and integration | AWS Marketplace",
+    "OpenAI(11-10) | ChatGPT Enterprise now available in AWS Marketplace",
+    "CASRAI | ChatGPT Enterprise adds AWS Marketplace purchasing"
+   ],
+   "score": 10
+  },
+  {
+   "term": "Lisbon",
+   "norm": "lisbon",
+   "n_outlets": 9,
+   "n_today": 1,
+   "outlets": [
+    "Big News Network.com",
+    "Essential Business",
+    "Euronews.com",
+    "IndexBox",
+    "Portugal.fr",
+    "Robotics & Automation News",
+    "Xinhua",
+    "https://streamlinefeed.co.ke/"
+   ],
+   "days": 5,
+   "first": "2026-11-09",
+   "reaction": 0,
+   "community": 0,
+   "titles": [
+    "Essential Business(11-09) | Web Summit 2026 opens in Lisbon with AI, robotics and Europe’s digital future in",
+    "Українські Національні Новини (УНН)(11-10) | Web Summit 2026 kicks off in Lisbon — the era of physical AI and robot speakers",
+    "Euronews.com(11-10) | Lisbon Web Summit 2026 opens with humanoid robot speakers and record Chinese del",
+    "https://streamlinefeed.co.ke/ | Chinese humanoids headline Web Summit as Lisbon weighs costs"
+   ],
+   "score": 10
+  }
+ ]
+}
