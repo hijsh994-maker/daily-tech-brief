@@ -1358,6 +1358,8 @@ PY
   ( cd "$W" && python3 "$MNT/cowork/novelty_gate.py" "$DATE" ) || _v=1
   # [2026-10-27 신설] 링크·본문 미확보 강등 게이트. 못 찾아서 내린 '중' 에 run.sh find 기록 요구.
   ( cd "$W" && python3 "$MNT/cowork/rescue_gate.py" "$DATE" ) || _v=1
+  # [2026-11-16 사용자 지시] 판정 과정 게이트 — 본문 없이 내림(J1)·앵글 비교 없는 발송근거(J2)·검토자 결론 복사(J3)
+  ( cd "$W" && python3 "$MNT/cowork/judge_gate.py" "$DATE" ) || _v=1
   # [2026-11-04 신설] 사실 먼저 게이트. facts 파일이 없으면(종료코드 2) 판정 무효로 본다.
   ( cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W" ) || _v=1
   # [2026-11-09 신설] '고' 확인표 — 30일 발송본 검색·리드인용·흐름이 facts 와 맞는지(브룩필드·텍사스 중복 발송 사고).
@@ -1368,6 +1370,9 @@ novelty)
   ( cd "$W" && python3 "$MNT/cowork/novelty_gate.py" "$DATE" ) ;;
 rescue)
   ( cd "$W" && python3 "$MNT/cowork/rescue_gate.py" "$DATE" ) ;;
+judge)
+  # [2026-11-16 신설] 판정 과정 게이트(cowork/judge_gate.py 머리말). verdict·send 가 자동 호출.
+  ( cd "$W" && python3 "$MNT/cowork/judge_gate.py" "$DATE" ) ;;
 
 deals)
   # [2026-08-31] 큰 딜(1천억원 이상) 전량검토 확인. 8단계 검증에서 돈다.
@@ -1536,6 +1541,7 @@ send)
     (cd "$W" && python3 "$MNT/cowork/facts_gate.py" --date "$DATE" --mnt "$MNT" --work "$W") || GATE_FAIL="$GATE_FAIL facts(사실-등급불일치)"
     (cd "$W" && python3 "$MNT/cowork/go_check.py" --date "$DATE" --mnt "$MNT") || GATE_FAIL="$GATE_FAIL gocheck('고'확인표)"
     (cd "$W" && python3 "$MNT/cowork/indep_review.py" --date "$DATE" --mnt "$MNT") || GATE_FAIL="$GATE_FAIL indep(독립검토)"
+    (cd "$W" && python3 "$MNT/cowork/judge_gate.py" "$DATE") || GATE_FAIL="$GATE_FAIL judge(판정과정)"
     if [ -n "$GATE_FAIL" ]; then
       echo "[send] **[경고] 게이트 실패:$GATE_FAIL — 그래도 발송합니다(2026-09-22 사용자 선택).**" >&2
       echo "[send]   보고·알림에 실패한 게이트 이름과 사유를 반드시 적을 것." >&2
