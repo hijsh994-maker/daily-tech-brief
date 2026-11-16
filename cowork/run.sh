@@ -176,6 +176,9 @@ sync)
   # [-u 필수] 그냥 cp 하면 파이프라인 도중 sync 를 다시 돌렸을 때 작업본의 최신
   #   결과가 마운트의 예전 파일로 덮여 사라진다. 실제로 verify 로 오매칭을 걷어낸
   #   tier0 가 통째로 되돌아간 적이 있다. 더 새 파일만 가져온다.
+  # [2026-11-16 사용자 지시] 저장소는 매일 결과를 out/daily/ 에 둔다. 스크립트는 전부 out/ 을 읽으므로
+  #   실행 전에 out/daily/ 를 out/ 으로 펼친다(펼친 사본은 .gitignore 가 걸러 저장소에 다시 안 올라간다).
+  [ -d "$MNT/out/daily" ] && cp -u "$MNT/out/daily/"* "$MNT/out/" 2>/dev/null
   cp -u "$MNT/out/"* "$W/out/" 2>/dev/null
   cp -u "$MNT/logs/"* "$W/logs/" 2>/dev/null
   cp -u "$MNT"/log-*.md "$W"/ 2>/dev/null
@@ -1581,6 +1584,12 @@ push)
   cp "$W"/truth-*.json "$MNT"/ 2>/dev/null
   # SQLite 는 마운트에서 열지 않고 '파일 복사'만 한다(읽기/쓰기 아님).
   cp "$W/index/articles.sqlite" "$MNT/$COWORK_DB" 2>/dev/null
+  # [2026-11-16 사용자 지시] 저장 대상(다음 날 실행이 다시 읽는 것)만 out/daily/ 에 모은다 — 저장소에는 이것만 올라간다.
+  mkdir -p "$MNT/out/daily"
+  for _p in "brief-$DATE.md" "verdict-$DATE.csv" "candidates-blind-$DATE.txt" "refined-$DATE.json" \
+            "tier2-$DATE.json" "community-$DATE.json" "sent-$DATE-draft.json"; do
+    [ -f "$MNT/out/$_p" ] && cp "$MNT/out/$_p" "$MNT/out/daily/"
+  done
   echo "[push] 반영된 산출물:"
   ls -la "$MNT/out/" | grep "$DATE"
   ;;
@@ -1611,12 +1620,14 @@ cloud-prune)
   #   brief-*.md·verdict·판정 엑셀·signals 같은 작은 기록은 지우지 않는다(hist·repeat 가 읽는다).
   #   사용: bash cowork/run.sh cloud-prune [일수=90]
   KEEP="${2:-90}"; CUT="$(TZ=Asia/Seoul date -d "$DATE - $KEEP days" +%F)"
-  cd "$MNT/out" || exit 1
   n=0
+  for _dir in "$MNT/out" "$MNT/out/daily"; do   # 11-16 부터 저장소 기록은 out/daily/
+  cd "$_dir" 2>/dev/null || continue
   for f in tier2-*.json refined-*.json ranked-*.json prompt-*.txt timeline-*.md candidates-blind-*.txt linkcheck-*.json; do
     [ -e "$f" ] || continue
     d="$(printf '%s' "$f" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1)"
     [ -n "$d" ] && [[ "$d" < "$CUT" ]] && { rm -f "$f"; n=$((n+1)); }
+  done
   done
   echo "[cloud-prune] $CUT 이전 큰 산출물 $n 개 삭제 (기록용 brief/verdict/판정은 유지)" ;;
 

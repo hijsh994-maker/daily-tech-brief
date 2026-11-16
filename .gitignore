@@ -28,13 +28,7 @@ zieH8Xwz
 #         + index/cowork-articles.sqlite · cowork/raw/adot-lastid.txt · config/* (아래에서 제외하지 않음)
 #   나머지(판정 엑셀·확인표·수집 원문·중간 산출물·로그)는 실행 중 작업본에만 생기고 세션과 함께 사라진다.
 out/*20??-??-??*
-!out/brief-20??-??-??.md
-!out/verdict-20??-??-??.csv
-!out/candidates-blind-20??-??-??.txt
-!out/refined-20??-??-??.json
-!out/tier2-20??-??-??.json
-!out/community-20??-??-??.json
-!out/sent-20??-??-??-draft.json
+#   (11-16 사용자 지시) 저장 대상은 push 가 out/daily/ 에 모은다 — out/ 바로 아래의 날짜 파일은 전부 저장하지 않는다.
 out/rfp/history/
 cowork/raw/*
 !cowork/raw/adot-lastid.txt
