@@ -32,6 +32,10 @@ import csv, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bodypeek  # noqa: E402  (blind 메타·URL·본문 캐시 로더 재사용)
+# bodypeek 은 자기 위치(저장소) 기준 out/ 을 읽는다. verdict 는 작업본(W)에서 push 전에 돌므로 작업본 out/ 을 보게 한다
+#   (11-16 사본 시험: 저장소에 당일 candidates-blind 가 없어 judge·jung 이 멈췄다).
+if os.path.isdir(os.path.join(os.getcwd(), "out")):
+    bodypeek.OUT = os.path.join(os.getcwd(), "out")
 
 CLOSED = re.compile(r"^\s*(자동:|중복|시황실적|AI무관|배제|운영공지|사설칼럼|채용인력)")
 WATCH_ROUTE = re.compile(r"사람큐레이션|교차|경쟁사속보|SK그룹행사")

@@ -176,6 +176,9 @@ sync)
   # [-u 필수] 그냥 cp 하면 파이프라인 도중 sync 를 다시 돌렸을 때 작업본의 최신
   #   결과가 마운트의 예전 파일로 덮여 사라진다. 실제로 verify 로 오매칭을 걷어낸
   #   tier0 가 통째로 되돌아간 적이 있다. 더 새 파일만 가져온다.
+  # [2026-11-16 사용자 지시] 저장소는 매일 결과를 out/daily/ 에 둔다. 스크립트는 전부 out/ 을 읽으므로
+  #   실행 전에 out/daily/ 를 out/ 으로 펼친다(펼친 사본은 .gitignore 가 걸러 저장소에 다시 안 올라간다).
+  [ -d "$MNT/out/daily" ] && cp -u "$MNT/out/daily/"* "$MNT/out/" 2>/dev/null
   cp -u "$MNT/out/"* "$W/out/" 2>/dev/null
   cp -u "$MNT/logs/"* "$W/logs/" 2>/dev/null
   cp -u "$MNT"/log-*.md "$W"/ 2>/dev/null
@@ -213,11 +216,9 @@ sync)
    - 판정은 E축 예외 (f) 커뮤니티 반향. 사유에 '반향:<무엇이 반응했나>'.
    ※ 프롬프트의 '판정 엑셀까지 만들고 멈춘다'(09-18)와 발송 잠금(09-21)은"
   echo "     폐기됐다. 절차서는 docs/실행지침-DTB.md, 정본은 docs/운영지침-변경이력.md"
-  echo " ★ 2026-10-08 신설 — 소스 정리 섀도 실험 (~10-22, 사용자 지시)"
-  echo "   - send 뒤에 **run.sh shadow** 를 돌린다(5초). 실제 발송에는 영향 없음."
-  echo "   - RSS 전체 + 구글 쿼리 9개를 뺀 후보를 따로 만들어 그날 발송본·'고'가 남는지 대조."
-  echo "   - 10단계 보고에 shadow 한 줄. 사라진 건이 있으면 헤드라인을 적을 것."
-  echo "   - 10-22 실행에서는 run.sh shadow-report 로 2주 결과를 보고·알림(제외 확정 여부는 사용자 결정)."
+  echo " ★ 2026-10-22 종료 — 소스 정리 섀도 실험(10-08~10-22)은 끝났고 제외가 확정·적용됐다."
+  echo "   - RSS(tier1)는 keywords.yaml policy.exclude_sources, 구글 쿼리 9개는 discovery_queries 주석 처리."
+  echo "   - **run.sh shadow 는 더 돌리지 않는다**(11-17 사용자 재확인). 기록은 out/shadow/log.jsonl."
   echo " ★ 2026-09-30 개정 — '고' 기준 완화 (사용자: '고 선정 기준이 너무 까다로운 건 아닌지')"
   echo "   - 투자·자금조달은 '추진'이어도 새 숫자(규모·가치·주도 투자자)면 고."
   echo "   - E축 예외 (g) 에이전트 실행 인프라(MCP·커넥터) / G축: 같은 주체라도 앵글이 다르면 새 사건."
@@ -1581,6 +1582,12 @@ push)
   cp "$W"/truth-*.json "$MNT"/ 2>/dev/null
   # SQLite 는 마운트에서 열지 않고 '파일 복사'만 한다(읽기/쓰기 아님).
   cp "$W/index/articles.sqlite" "$MNT/$COWORK_DB" 2>/dev/null
+  # [2026-11-16 사용자 지시] 저장 대상(다음 날 실행이 다시 읽는 것)만 out/daily/ 에 모은다 — 저장소에는 이것만 올라간다.
+  mkdir -p "$MNT/out/daily"
+  for _p in "brief-$DATE.md" "verdict-$DATE.csv" "candidates-blind-$DATE.txt" "refined-$DATE.json" \
+            "tier2-$DATE.json" "community-$DATE.json" "sent-$DATE-draft.json"; do
+    [ -f "$MNT/out/$_p" ] && cp "$MNT/out/$_p" "$MNT/out/daily/"
+  done
   echo "[push] 반영된 산출물:"
   ls -la "$MNT/out/" | grep "$DATE"
   ;;
@@ -1611,12 +1618,14 @@ cloud-prune)
   #   brief-*.md·verdict·판정 엑셀·signals 같은 작은 기록은 지우지 않는다(hist·repeat 가 읽는다).
   #   사용: bash cowork/run.sh cloud-prune [일수=90]
   KEEP="${2:-90}"; CUT="$(TZ=Asia/Seoul date -d "$DATE - $KEEP days" +%F)"
-  cd "$MNT/out" || exit 1
   n=0
+  for _dir in "$MNT/out" "$MNT/out/daily"; do   # 11-16 부터 저장소 기록은 out/daily/
+  cd "$_dir" 2>/dev/null || continue
   for f in tier2-*.json refined-*.json ranked-*.json prompt-*.txt timeline-*.md candidates-blind-*.txt linkcheck-*.json; do
     [ -e "$f" ] || continue
     d="$(printf '%s' "$f" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1)"
     [ -n "$d" ] && [[ "$d" < "$CUT" ]] && { rm -f "$f"; n=$((n+1)); }
+  done
   done
   echo "[cloud-prune] $CUT 이전 큰 산출물 $n 개 삭제 (기록용 brief/verdict/판정은 유지)" ;;
 

@@ -22,3 +22,14 @@ __pycache__/
 *.pyc
 ziNGioSs
 zieH8Xwz
+
+# ---- [2026-11-16 사용자 지시] 매일 산출물은 '다음 날 실행이 다시 읽는 것'만 저장한다.
+#   저장: brief(30일 중복 확인)·verdict(7~8일 이전판정)·candidates-blind(7일, 이전판정 헤드라인)·refined(30일 타임라인)·tier2(40일 반향)·community(7일 중복)·sent-*-draft(발송 기록: 같은 날 재발송 차단 + 주간 브리프가 금요일 발송 완료를 확인)
+#         + index/cowork-articles.sqlite · cowork/raw/adot-lastid.txt · config/* (아래에서 제외하지 않음)
+#   나머지(판정 엑셀·확인표·수집 원문·중간 산출물·로그)는 실행 중 작업본에만 생기고 세션과 함께 사라진다.
+out/*20??-??-??*
+#   (11-16 사용자 지시) 저장 대상은 push 가 out/daily/ 에 모은다 — out/ 바로 아래의 날짜 파일은 전부 저장하지 않는다.
+out/rfp/history/
+cowork/raw/*
+!cowork/raw/adot-lastid.txt
+logs/collect-*.log

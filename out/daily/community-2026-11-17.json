@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-17",
+ "items": [
+  {
+   "src": "community",
+   "title": "What's Next for Nvidia?",
+   "outlet": "HN",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "pub_date": "2026-11-15",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 459pt·567댓글",
+   "weight": 459
+  },
+  {
+   "src": "community",
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "outlet": "HN",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "pub_date": "2026-11-16",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 250pt·228댓글",
+   "weight": 250
+  },
+  {
+   "src": "community",
+   "title": "Jensen Huang might return to Nvidia as CEO",
+   "outlet": "HN",
+   "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+   "pub_date": "2026-11-15",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 175pt·186댓글",
+   "weight": 175
+  },
+  {
+   "src": "community",
+   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "outlet": "HN",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "pub_date": "2026-11-16",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HN 131pt·55댓글",
+   "weight": 131
+  },
+  {
+   "src": "community",
+   "title": "JuneYaooo/rea-video — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake",
+   "outlet": "GitHub",
+   "url": "https://github.com/JuneYaooo/rea-video",
+   "pub_date": "2026-10-29",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★9688·19일·510/일",
+   "weight": 509.89473684210526
+  },
+  {
+   "src": "community",
+   "title": "hitkeeen/blender-ai-mcp-addon — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+   "outlet": "GitHub",
+   "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+   "pub_date": "2026-11-12",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "GitHub ★2196·5일·439/일",
+   "weight": 439.2
+  },
+  {
+   "src": "community",
+   "title": "HF trending: xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "pub_date": "2026-10-30",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥8753·↓29567",
+   "weight": 8753
+  },
+  {
+   "src": "community",
+   "title": "HF trending: Zyphra/ZONOS3-Mini",
+   "outlet": "HuggingFace",
+   "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+   "pub_date": "2026-11-09",
+   "cluster": 1,
+   "confidence": "auto",
+   "queries": [],
+   "groups": [],
+   "signal": "HF ♥466·↓69946",
+   "weight": 466
+  }
+ ]
+}

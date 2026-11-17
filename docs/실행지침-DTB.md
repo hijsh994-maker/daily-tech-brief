@@ -15,7 +15,7 @@
 |---|---|---|
 | 0-1 | `run.sh workday` | 3 이면 아무것도 하지 않고 끝(알림 없음) |
 | 0-2 | `run.sh sync` (맨 처음 한 번) | |
-| 0-3 | `out/brief-<오늘>.md` 와 `out/prompt-<오늘>.txt` 가 이미 있으면 재실행·재발송하지 않고 상태만 보고 | |
+| 0-3 | `out/brief-<오늘>.md` 가 이미 저장소에 있으면 재실행·재발송하지 않고 상태만 보고(11-16: prompt 등 중간 산출물은 더 이상 저장하지 않는다) | |
 | 0-4 | `run.sh persona` (전일 채점·backtest·scorecard·report 는 하지 않는다) | |
 
 ## 1. tier0 수집
@@ -89,7 +89,7 @@
 |---|---|---|
 | 8-1 | `run.sh send dry` → `run.sh verdict-xlsx` → `run.sh push` | |
 | 8-2 | `run.sh send` (초안 채널 'DTB 업로드', 출력 자르지 않기) | `[발송] i/N ok`·message_id |
-| 8-3 | `run.sh sent` → `run.sh carryover done` → `run.sh push` → `run.sh cloud-push`(detached HEAD 거부면 `git checkout -B main && git push origin HEAD:main`) | 커밋 해시 |
+| 8-3 | `run.sh sent` → `run.sh carryover done` → `run.sh push` → `run.sh cloud-push`(push 가 저장 대상 — brief·verdict·candidates-blind·refined·tier2·community·발송 기록 — 을 `out/daily/` 에 모으고 그것과 기사DB·에이닷 위치·config 만 올라간다. sync 가 out/daily/ 를 out/ 으로 펼쳐 스크립트는 그대로 out/ 을 읽는다 — 11-16 사용자 지시)(detached HEAD 거부면 `git checkout -B main && git push origin HEAD:main`) | 커밋 해시 |
 | 8-4 | 매달 첫 영업일엔 `run.sh cloud-prune` 후 cloud-push | |
 
 ## 9. 보고
@@ -103,4 +103,4 @@
 ## 사용자가 발송본을 고치면
 - 같은 턴에 `run.sh review <<'RAW'` (`제외|추가|배치 | 헤드라인 | url | 사용자 사유 | 일반화`). 사유를 지어내지 않는다(못 받았으면 `(사유 미제시)`).
 - 재발송은 사용자가 시킬 때만 `run.sh send resend`. 확인용으로 `editMessageText`·`forwardMessage` 를 쓰지 않는다.
-- 실제 발송분과 저장소 발송본이 달라지면 발송분을 `out/발송원본/brief-<날짜>-msg<id>.md` 로 보존한다.
+- 실제 발송분과 저장소 발송본이 달라지면 발송분을 `out/daily/발송원본/brief-<날짜>-msg<id>.md` 로 보존한다(11-16 부터 저장소의 매일 결과는 out/daily/).

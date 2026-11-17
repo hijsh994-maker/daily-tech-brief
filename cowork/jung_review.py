@@ -20,6 +20,10 @@ import argparse, csv, json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bodypeek  # noqa: E402
+# bodypeek 은 자기 위치(저장소) 기준 out/ 을 읽는다. verdict 는 작업본(W)에서 push 전에 돌므로 작업본 out/ 을 보게 한다
+#   (11-16 사본 시험: 저장소에 당일 candidates-blind 가 없어 judge·jung 이 멈췄다).
+if os.path.isdir(os.path.join(os.getcwd(), "out")):
+    bodypeek.OUT = os.path.join(os.getcwd(), "out")
 
 FROM = "2026-11-17"
 SKIP = re.compile(r"발송근거:")  # 기발송 근거 건은 judge J2 가 앵글로 본다
