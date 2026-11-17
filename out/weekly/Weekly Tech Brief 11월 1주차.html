@@ -103,6 +103,10 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius
 .foot li b{color:var(--ink);font-weight:500;margin-right:6px}
 .note{border-left:3px solid var(--line);padding-left:14px}
 
+/* 해설: 머리의 도입 문단, 인사이트의 한 줄 명제 */
+.head .lede{font-size:17px;line-height:1.85;max-width:44em}
+.insight .claim{font-family:var(--display);font-size:16.5px;font-weight:600;line-height:1.6;border-left:3px solid var(--accent);padding-left:14px;max-width:42em}
+
 @media (max-width:720px){
   .takes,.recs{grid-template-columns:1fr}
   .flow,.next li{grid-template-columns:1fr}
@@ -112,17 +116,18 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius
 
 <main class="page">
   <header class="head">
-    <div class="meta"><span class="label">WEEKLY TECH BRIEF</span><span>2026년 11월 1주차 · 11/2(월)~11/6(금)</span><span>일간 브리프 86건 기반 · 초안</span></div>
-    <h1>AI 산업의 위험, 기술에서 신용과 정치로 이동</h1>
-    <p class="thesis">모델·칩 출시는 이어졌으나, 한 주의 중심은 누가 돈을 대고 누가 허가를 내주느냐의 문제</p>
+    <div class="meta"><span class="label">WEEKLY TECH BRIEF</span><span>2026년 11월 1주차 · 11/2(월)~11/6(금)</span><span>일간 브리프 86건 기반</span></div>
+    <h1>AI의 청구서, 누가 내느냐의 싸움</h1>
+    <p class="thesis">설비 투자는 채권시장으로, 전력 비용은 사업자에게로, 에이전트 원가는 이용자에게로 넘어가기 시작한 한 주</p>
+    <p class="lede">이번 주 오라클·메타·알파벳은 잇달아 채권을 찍었고, 아마존은 서버를 담보로 최대 800억달러를 빌리기로 했다. 같은 주 미국 중간선거에서는 신규 데이터센터 인허가 중단을 공약한 후보가 텍사스 주지사에 당선됐고, 오픈AI는 자기 데이터센터의 전력망 확충 비용을 전액 내겠다고 약속했다. 머스크는 그록의 서빙 비용이 매출로 감당되지 않는다며 이용 한도를 줄였다. 세 장면은 한 가지 질문으로 모인다. AI가 얼마나 버는지가 아니라, AI를 돌리는 비용을 누가 대느냐다.</p>
   </header>
 
   <section class="section" aria-labelledby="t1">
     <h2 id="t1">경영진이 가져갈 세 가지</h2>
     <ol class="takes">
-      <li><span class="n">01</span><strong>AI 데이터센터, 금융 사업으로 전환</strong><span>용량보다 임차인 신용이 사업 가치를 좌우</span></li>
-      <li><span class="n">02</span><strong>미국에서 막힌 수요, 아시아로 이동</strong><span>전력비 부담과 고객 심사 조건 동반</span></li>
-      <li><span class="n">03</span><strong>에이전트 승부처는 원가와 통제</strong><span>모델 성능보다 감당 가능한 비용·보안 구조가 경쟁력</span></li>
+      <li><span class="n">01</span><strong>AIDC의 위험, 공실이 아닌 임차인 신용</strong><span>적자 모델 기업의 장기 약정을 빅테크 보증과 채권시장이 떠받치는 구조, 같은 구조가 국내에도 상륙</span></li>
+      <li><span class="n">02</span><strong>전력 비용, 지역사회가 사업자에게 반송</strong><span>인허가의 조건이 전력비 부담과 정보 공개로 이동, 미국 밖으로 옮겨 가는 수요도 같은 조건 동반</span></li>
+      <li><span class="n">03</span><strong>에이전트의 원가, 토큰보다 감당에서 발생</strong><span>정액 구독의 한계와 보안 사고가 한 주에 겹치며 통제 수단이 상품으로</span></li>
     </ol>
   </section>
 
@@ -131,34 +136,34 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius
     <div class="flows">
       <article class="flow">
         <h3>빚으로 짓는 AI 인프라</h3>
-        <p>오라클·메타·알파벳, 한 주에 잇달아 채권 발행, 아마존은 장비 담보 대출 약정 체결</p>
-        <p class="mean">빅테크도 현금만으로 투자 감당 불가, 조달 금리가 투자 속도 변수로 부상</p>
+        <p>오라클 채권·주식 <span class="num">200</span>억달러 동시 공모, 메타 회사채 <span class="num">150</span>억달러에 <span class="num">580</span>억달러 주문, 알파벳 60억유로 채권, 아마존 장비 담보 최대 <span class="num">800</span>억달러 약정</p>
+        <p class="mean">현금으로 감당하지 못한 설비 투자가 채권시장으로 이동, 조달 금리가 투자 속도의 변수로</p>
       </article>
       <article class="flow">
         <h3>미국 인허가 제동</h3>
-        <p>중간선거 뒤 텍사스 등에서 신규 데이터센터 제한 움직임, 오라클 <span class="num">1,650</span>억달러 단지는 심사 지연</p>
-        <p class="mean">병목이 전력에서 정치로 이동, 자금으로 해소 불가능한 지연 발생</p>
+        <p>21개 주 후보가 DC 건설 중단 지지(3일), 민주당 상·하원 장악·텍사스 당선자 신규 인허가 중단 공약(5일), 오라클 <span class="num">1650</span>억달러 단지 인허가 연기(6일)</p>
+        <p class="mean">병목이 전력에서 정치로 이동, 자금으로는 풀리지 않는 지연의 등장</p>
       </article>
       <article class="flow">
-        <h3>국내 AIDC 선점 경쟁</h3>
-        <p>엔비디아, 네이버 지분 <span class="num">4.13%</span> 확보, LGU+는 파주 4개 동 고객 전량 확보, 현대차·삼성은 자체 구축 확정</p>
-        <p class="mean">수요와 자본의 선점 가속, 후발 진입 여지 축소</p>
+        <h3>국내 AIDC, 자본·고객·캡티브 수요 동시 잠김</h3>
+        <p>엔비디아 네이버 지분 <span class="num">4.13%</span>, KB국민은행 <span class="num">12.6</span>조원 GPU 파이낸싱 주선, LGU+ 파주 4개 동 수요 전량 확보, 현대차 새만금·삼성SDS 구미 자체 구축</p>
+        <p class="mean">국내 AIDC의 수요와 자본이 빠르게 선점되는 중, 후발 사업자가 들어갈 여지 축소</p>
       </article>
       <article class="flow">
-        <h3>에이전트의 대중화와 비용</h3>
-        <p>챗GPT, 대화와 업무 기능 통합, 그록은 서빙 비용 부담으로 한도 축소, 바이낸스 <span class="num">63</span>억달러 해킹은 사내 AI 도구가 침투 경로 중 하나</p>
-        <p class="mean">에이전트가 기본 기능으로 정착, 원가와 보안 부담도 동시 부각</p>
+        <h3>에이전트의 기본값화와 원가</h3>
+        <p>챗GPT 대화·업무 기능 통합, 그록 서빙 비용 탓 이용 한도 축소, 네이버 통합 에이전트 일정 단축, 카카오는 5000만 관계망을 차별화 요소로 제시</p>
+        <p class="mean">에이전트가 기본 기능이 되는 순간, 원가와 통제가 경쟁 조건으로 부상</p>
       </article>
     </div>
     <div class="raise">
-      <p class="cap">지난주 발표된 빅테크 AI 인프라 조달 (억달러)</p>
+      <p class="cap">이번 주 발표된 빅테크 AI 인프라 조달 (억달러)</p>
       <div class="bars">
         <span>아마존 장비 담보 약정</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="v num">최대 800</span>
         <span>오라클 채권·주식</span><span class="track"><span class="fill" style="width:25%"></span></span><span class="v num">200</span>
         <span>메타 회사채</span><span class="track"><span class="fill" style="width:18.75%"></span></span><span class="v num">150</span>
         <span>알파벳 유로채</span><span class="track"><span class="fill" style="width:8.4%"></span></span><span class="v num">67</span>
       </div>
-      <p class="cap">알파벳은 60억유로를 보도 기준 67억달러로 환산</p>
+      <p class="cap">알파벳은 60억유로를 보도 기준 67억달러로 환산, 메타 회사채는 4월 발행보다 높은 금리</p>
     </div>
   </section>
 
@@ -167,29 +172,38 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius
 
     <article class="insight">
       <ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li><li class="cat">AI 투자&amp;시장</li></ul>
-      <h3>1. AIDC의 위험은 공실이 아닌 임차인 신용</h3>
-      <p class="body">현재의 데이터센터 붐은 적자 상태인 모델 기업 한두 곳의 장기 약정에 의존, 그 위험은 보증을 선 빅테크와 자금을 댄 채권시장이 분담하는 구조, 수요 규모와 수요의 지불 능력은 별개 문제</p>
+      <h3>1. AIDC의 위험은 공실이 아니라 임차인의 신용</h3>
+      <p class="claim">수요의 크기와 수요의 지불 능력은 다른 문제다, 지금의 데이터센터 붐은 적자 기업의 약속을 남의 신용으로 떠받치는 구조</p>
+      <p class="body">이번 주 데이터센터 계약을 거꾸로 따라가면 돈의 사슬이 보인다. 앤트로픽은 수정 S-1에서 수년간 8954억달러의 컴퓨팅 지출 약정을 공개했지만, 같은 3분기에 영업적자로 돌아섰다. 그 약정을 받아 Riot은 910MW 부지를 15년 280억달러에, 테라울프는 켄터키 단지를 190억달러에 앤트로픽에 임대한다. 테라울프의 차입에는 구글이 신용지원을 붙였다. 결국 적자 상태인 모델 기업의 약속을 빅테크의 보증이 받치고, 그 빅테크는 채권시장에서 돈을 빌리는 구조다.</p>
       <ol class="chain" aria-label="AIDC 자금 사슬">
-        <li class="weak"><b>모델 기업이 약정</b><span>앤트로픽 약정 8,954억달러, 3분기 영업적자</span></li>
+        <li class="weak"><b>모델 기업이 약정</b><span>앤트로픽 8954억달러, 3분기 영업적자 전환</span></li>
         <li><b>임대 사업자가 건설</b><span>Riot 15년 280억달러, 테라울프 190억달러</span></li>
-        <li><b>빅테크가 보증</b><span>구글이 테라울프 차입에 신용지원</span></li>
-        <li><b>채권시장이 자금</b><span>메타 회사채에 580억달러 주문</span></li>
+        <li><b>빅테크가 보증</b><span>구글, 테라울프 부채 조달에 신용지원</span></li>
+        <li><b>채권시장이 자금</b><span>메타 회사채 150억달러에 580억달러 주문</span></li>
       </ol>
-      <p class="evidence"><b>근거</b>MS, 엔스케일 추가 용량 포기, 오픈AI는 조달 목표를 300억에서 200억달러로 축소, S&amp;P는 메타 등급 전망을 '부정적'으로 하향</p>
+      <p class="body">무너진 가정은 '빅테크는 현금으로 짓는다'는 믿음이다. 알파벳과 메타의 잉여현금흐름은 이미 마이너스로 돌아섰고, S&amp;P는 메타의 신용등급 전망을 '부정적'으로 낮췄다. 사슬의 가장 약한 고리는 맨 앞, 돈을 아직 벌지 못한 모델 기업이다. 오픈AI는 투자 유치 목표를 300억달러에서 200억달러로 줄였고, MS는 엔스케일 데이터센터의 추가 용량 옵션을 행사하지 않았다. 수요가 줄어서가 아니라, 수요를 낼 돈의 출처가 흔들리기 시작했다.</p>
+      <p class="body">같은 구조가 이번 주 국내에도 들어왔다. KB국민은행이 주선한 12.6조원은 국내 첫 GPU 파이낸싱으로, 브룩필드가 대출 10.7조원을 조달해 네이버클라우드에 GPU를 장기 공급하는 방식이다. AI Factory의 사업성도 용량을 채우느냐보다 누구로 채우느냐에서 갈린다. 임차인 한 곳에 얼마나 기대는지, 그 임차인이 약정을 지키지 못하면 남는 GPU를 어디에 얼마에 팔 수 있는지가 계약 전에 답해야 할 질문이 됐다.</p>
+      <p class="evidence"><b>근거</b>앤트로픽 S-1 약정·영업적자, Riot 임대, 테라울프·구글 신용지원, 메타 회사채, 오라클·알파벳 채권, 아마존 담보 약정, S&amp;P 메타 전망, 오픈AI 조달 축소, MS 엔스케일, KB국민은행 GPU 파이낸싱 / 더밀크 밀키스레터 290호(빅테크 잉여현금흐름)</p>
     </article>
 
     <article class="insight">
       <ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li><li class="cat">AI 보안&amp;정책</li></ul>
-      <h3>2. 미국에서 밀려난 수요의 아시아 유입, 단 조건 동반</h3>
-      <p class="body">미국의 인허가 지연은 아시아 입지에 기회, 국내 수요는 그룹 자체 구축과 선점 계약으로 이미 잠기는 중이라 국내 사업자의 성장은 해외 수요 유치 여부에 좌우, 다만 전력비 사업자 부담 요구와 중국 고객 배제 압력이라는 두 조건 동반</p>
-      <p class="evidence"><b>근거</b>구글, 말레이시아 150억달러 투자와 함께 전력비 전액 부담 약속, 엔비디아는 파트너에 비중국 고객 51% 이상 요구, 오라클은 텐센트와의 70억달러 계약 취소</p>
+      <h3>2. 전력 비용의 청구서, 지역사회가 사업자에게 돌려보냈다</h3>
+      <p class="claim">데이터센터의 전력망 비용은 그동안 주민 요금에 섞여 있었다, 선거가 그 비용을 사업자의 원가로 되돌려 놓았다</p>
+      <p class="body">이번 주 미국 중간선거에서 데이터센터는 표를 가르는 쟁점이었다. 민주당이 상·하원을 장악했고, 텍사스에서는 신규 데이터센터 인허가 중단을 공약한 후보가 주지사에 당선됐다. 9개 주 30여 개 지역에서는 데이터센터 건설을 제한하는 주민투표가 통과됐고, 골드만삭스는 미국 계획 용량의 45%가 규제 위험에 놓였다고 봤다. 오라클의 뉴멕시코 1650억달러 단지는 전력 인프라 심사가 늦어지며 일정이 밀렸다.</p>
+      <p class="body">사업자들의 답은 비용을 스스로 떠안는 것이었다. 오픈AI는 직접 운영하는 데이터센터의 전력망 확충 비용을 전액 내고 전력·용수 사용량을 공개하겠다고 했고, 조지아 캠퍼스에서는 비상시 최대 1GW까지 수요를 줄이겠다고 약속했다. 구글은 말레이시아에 150억달러를 투자하며 전력비 전액 부담을 내걸었고, 와이오밍에는 702MW 연료전지 발전을 붙였다. 전력과 부지에 더해 지역의 동의가 데이터센터 원가에 들어온 것이다. 다만 오픈AI의 약속은 직접 소유·운영하는 시설에만 적용돼, 임차·제휴 시설로 번질지는 아직 열려 있다.</p>
+      <p class="body">미국에서 밀려난 수요는 아시아로 향하지만 같은 조건을 들고 온다. 한국투자금융·SBI는 일본 200MW 데이터센터를, 드랙스·브룩필드는 영국 발전소 부지의 1GW 이상 단지를 추진한다. 해외 수요를 AI Factory로 끌어오려면 확보한 전력과 가동 시점만으로는 부족하다. 전력비를 누가 내는지, 전력·용수 사용량을 어디까지 공개하는지, 지역에 무엇을 돌려주는지를 착공 전에 먼저 내놓는 쪽이 인허가 지연 비용을 줄인다.</p>
+      <p class="evidence"><b>근거</b>21개 주 후보 DC 중단 지지, 민주당 압승·텍사스 인허가 중단 공약, 오라클 뉴멕시코 지연, 오픈AI 지역사회 협약, 오픈AI 조지아 1GW 수요 감축, 구글 말레이시아·와이오밍, 한투·SBI 일본, 드랙스·브룩필드 영국 / 더밀크 뷰스레터 815호(주민투표), 816호(오픈AI 협약의 적용 범위)</p>
     </article>
 
     <article class="insight">
       <ul class="cats" aria-label="카테고리"><li class="cat">AI Agent</li><li class="cat">AI 보안&amp;정책</li></ul>
-      <h3>3. 에이전트는 개발보다 감당이 과제</h3>
-      <p class="body">에이전트 경쟁력은 낮은 건당 원가, 이용자가 매일 여는 접점, 수행 내역을 증명하고 중단시킬 수 있는 통제력의 세 가지로 수렴, 국내 경쟁사는 모두 접점을 앞세우는 중이며 원가와 통제를 내세운 곳은 아직 부재</p>
-      <p class="evidence"><b>근거</b>그록, 구독료로 서빙 비용 감당 실패, 현대차는 핵심 부서의 외부 AI 차단, 네이버는 통합 에이전트·카카오는 관계망·KT는 통합 로그인 제시</p>
+      <h3>3. 에이전트의 원가는 토큰이 아니라 감당에서 나온다</h3>
+      <p class="claim">에이전트를 만드는 비용은 빠르게 떨어지는데, 맡긴 일을 지켜보고 멈추고 책임지는 비용은 오히려 커지고 있다</p>
+      <p class="body">에이전트가 기본 기능이 되는 순간 원가 문제가 먼저 드러났다. 챗GPT는 일반 대화와 업무 수행 기능을 하나로 합쳤고, 같은 주 머스크는 그록의 서빙 비용이 매출로 감당되지 않는다며 이용 한도를 의도적으로 줄였다고 인정했다. 에이전트가 오래, 많이 일할수록 정액 구독으로는 비용을 메울 수 없다. 사용량에 따라 값을 매기는 구조로의 전환은 시간문제다.</p>
+      <p class="body">더 큰 비용은 보안에서 나왔다. 바이낸스의 63억4000만달러 해킹은 가짜 채용 면접과 사내 AI 도구 침해가 결합된 공격이었고, 구글은 공격자 에이전트가 계정을 빼앗은 뒤 최단 15분 만에 내부망 깊숙이 들어간다고 보고했다. 현대차는 자율주행·로보틱스 연구조직의 외부 생성형 AI 접근을 막았다. 시장은 곧바로 값을 매겼다. 크라우드스트라이크는 에이전트를 즉시 멈추는 '킬 스위치'를 내놓고 4억9500만달러에 두 회사를 사들였고, 팔로알토는 에이전트 인증 관리 기업 인수를 약 5억달러에 협상 중이다. GS그룹 직원들이 1년간 만든 업무용 AI 앱 2만여 개 가운데 현장에 쓰인 것이 9%에 그쳤다는 사례도 같은 이야기다. 만들기는 쉬워졌고, 안전하게 운영하는 일은 여전히 어렵다.</p>
+      <p class="body">국내 경쟁사는 모두 접점을 앞세운다. 카카오는 5000만 관계망을, 네이버는 통합 에이전트를, KT는 모두의 AI를 앞두고 통합 로그인을 내세웠다. 반면 원가와 통제를 앞세운 곳은 아직 없다. 에이닷과 B2B AI가 차별화할 지점은 에이전트 한 건의 원가를 얼마로 묶을지, 그리고 에이전트가 한 일을 기록하고 멈추고 책임질 수 있다는 것을 고객에게 보여줄 수 있는지에 있다.</p>
+      <p class="evidence"><b>근거</b>챗GPT 기능 통합, 그록 서빙 비용, 바이낸스 해킹, 구글 GTIG 15분 침투, 현대차 외부 AI 차단, 크라우드스트라이크 킬 스위치·인수, 팔로알토 클러치 인수 협상, 센티넬원 클로드 코워크 감시 / 카카오 관계망, 네이버 통합 에이전트, KT 통합 로그인 / 더밀크 뷰스레터 814호(GS그룹 AI 앱 사례)</p>
     </article>
   </section>
 
@@ -197,35 +211,35 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius
     <h2 id="t4">제언</h2>
     <div class="recs">
       <article class="rec">
-        <div class="top"><span class="when">이번 분기에 기준 확정</span><ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li></ul></div>
-        <h3>AIDC 수주, 용량 아닌 신용 기준으로 심사</h3>
+        <div class="top"><span class="when">AI Factory 고객 계약 전</span><ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li><li class="cat">AI 투자&amp;시장</li></ul></div>
+        <h3>AIDC 고객 심사, 용량보다 지불 능력 기준으로</h3>
         <dl>
-          <div><dt>정할 것</dt><dd>임차인 한 곳의 비중 상한, 보증인·선납 요건, 중도 해지 시 GPU 재판매 가치 가정</dd></div>
-          <div><dt class="sig">지켜볼 신호</dt><dd>앤트로픽 상장 후 주가, 메타·오라클 회사채 금리</dd></div>
+          <div><dt>정할 것</dt><dd>임차인 한 곳의 비중 상한, 보증·선납 요건, 약정 불이행 시 GPU 재판매 가치 가정, GPU 담보 금융의 활용 여부</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>앤트로픽 상장 뒤 약정 이행 능력 평가, 빅테크 회사채 금리, 국내 GPU 파이낸싱 추가 사례</dd></div>
         </dl>
       </article>
       <article class="rec">
-        <div class="top"><span class="when">이번 분기에 기준 확정</span><ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li></ul></div>
-        <h3>미국에서 밀려난 수요 겨냥한 제안 선제 마련</h3>
+        <div class="top"><span class="when">해외 고객 유치 제안 전</span><ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li><li class="cat">AI 보안&amp;정책</li></ul></div>
+        <h3>AIDC 제안서에 '지역 동의' 조건을 먼저 담기</h3>
         <dl>
-          <div><dt>정할 것</dt><dd>확보된 전력과 가동 시점, 수출통제에 걸리지 않는 고객 구성, 전력비·용수 공개 기준</dd></div>
-          <div><dt class="sig">지켜볼 신호</dt><dd>텍사스 인허가 중단의 실제 시행, 빅테크의 아시아 추가 투자</dd></div>
+          <div><dt>정할 것</dt><dd>전력망 증설비 부담 원칙, 전력·용수 사용량 공개 범위, 지역 이익 공유 방식, 확보 전력과 가동 시점</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>텍사스 인허가 중단의 실제 시행, 빅테크의 아시아 추가 투자, 오픈AI 협약의 임차·제휴 시설 확대 여부</dd></div>
         </dl>
       </article>
       <article class="rec">
-        <div class="top"><span class="when">내년 상반기 상품 경쟁 대비</span><ul class="cats" aria-label="카테고리"><li class="cat">AI Agent</li></ul></div>
-        <h3>에이전트, 과금·원가 설계부터 확정</h3>
+        <div class="top"><span class="when">내년 상반기 요금 설계 전</span><ul class="cats" aria-label="카테고리"><li class="cat">AI Agent</li></ul></div>
+        <h3>에이전트 요금, 정액에서 사용량 연동으로</h3>
         <dl>
-          <div><dt>정할 것</dt><dd>작업별 건당 원가 목표, 단순 작업의 경량 모델 처리 구조, 사용량 연동 요금</dd></div>
-          <div><dt class="sig">지켜볼 신호</dt><dd>주요 서비스의 한도 축소·요금 개편, 네이버·카카오 출시 일정</dd></div>
+          <div><dt>정할 것</dt><dd>에이닷 작업별 건당 원가 목표, 단순 작업의 경량 모델 처리 구조, 정액·사용량 혼합 요금</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>주요 서비스의 한도 축소·요금 개편, 네이버 통합 에이전트 출시 조건</dd></div>
         </dl>
       </article>
       <article class="rec">
         <div class="top"><span class="when">내년 상반기 상품 경쟁 대비</span><ul class="cats" aria-label="카테고리"><li class="cat">Enterprise AI</li><li class="cat">AI 보안&amp;정책</li></ul></div>
-        <h3>'통제 가능한 AI'를 B2B 상품의 중심으로</h3>
+        <h3>'통제 가능한 에이전트'를 B2B 상품의 중심으로</h3>
         <dl>
-          <div><dt>정할 것</dt><dd>에이전트 권한 관리, 활동 기록, 즉시 중단, 폐쇄형 구축을 묶은 상품 구성</dd></div>
-          <div><dt class="sig">지켜볼 신호</dt><dd>대기업의 외부 AI 차단 확산, 국방·공공 AX 수주전</dd></div>
+          <div><dt>정할 것</dt><dd>에이전트 권한 관리, 활동 기록, 즉시 중단, 폐쇄형 구축을 묶은 상품 구성과 운영 책임 주체</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>대기업의 외부 AI 차단 확산, 보안 업체의 에이전트 통제 기업 인수, 국방·공공 AX 수주전</dd></div>
         </dl>
       </article>
     </div>
@@ -234,20 +248,21 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius
   <section class="section" aria-labelledby="t5">
     <h2 id="t5">다음 주에 볼 것</h2>
     <ul class="next">
-      <li><b>앤트로픽 상장 (19일 추진)</b><span>공모가 70~78달러 제시, AIDC 약정 이행 능력에 대한 시장의 첫 평가</span></li>
-      <li><b>텍사스의 신규 승인 중단</b><span>예고가 시행으로 이어질 경우 대체 입지 수요 가시화</span></li>
-      <li><b>KT의 임차형 확장</b><span>1GW 중 80%를 임차로 확보할 계획 공개, 자기 자본 부담이 적은 쪽이 속도 우위</span></li>
+      <li><b>앤트로픽 상장 절차</b><span>8954억달러 약정과 영업적자를 시장이 처음 평가하는 자리, 일본 공모 최대 35억달러 흥행 여부</span></li>
+      <li><b>텍사스 신규 인허가 중단</b><span>공약이 실제 시행으로 이어질지, 미국 밖 대체 입지 수요의 가시화 여부</span></li>
+      <li><b>국내 에이전트 접점 경쟁</b><span>모두의 AI를 앞둔 KT 통합 로그인, 네이버 통합 에이전트의 출시 조건</span></li>
     </ul>
   </section>
 
   <footer class="foot">
-    <p class="note">11월 2일~6일 Daily Tech Brief 발송본 86건만을 근거로 한 초안, 숫자는 발송본의 보도 수치이며 제언에는 사내 투자 계획과 계약 현황 미반영</p>
+    <p class="note">11월 2일~6일 Daily Tech Brief 발송본 86건 기반, 배경 맥락은 더밀크 뉴스레터(11/2·11/4·11/6)에서 보충, 숫자는 보도 수치이며 제언에는 사내 투자 계획과 계약 현황 미반영</p>
     <h2>근거 기사</h2>
     <ul>
-      <li><b>AI 인프라 재원</b><a href="https://leprivatebanker.com/2026/11/02/oracle-launches-20-billion-bond-and-stock-sale-using-full-funding-cap-days-after-investor-day/">오라클 조달</a> · <a href="https://www.yna.co.kr/view/AKR20261104028500009">메타 회사채</a> · <a href="https://live.euronext.com/en/financial-news/alphabet-kicks-eu6-billion-bond-sale-tests-appetite-tech-debt">알파벳 유로채</a> · <a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4442291">아마존 담보 대출</a> · <a href="https://www.fnnews.com/news/202611030521460281">앤트로픽 S-1</a> · <a href="https://en.bloomingbit.io/feed/news/123679">Riot 임대</a> · <a href="https://www.tokenpost.kr/news/breaking/432691">구글 신용지원</a> · <a href="https://www.etnews.com/20261106000020">MS 엔스케일</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=216856">오픈AI 조달 축소</a> · <a href="https://www.edaily.co.kr/News/Read?newsId=01157846645641456">S&amp;P 메타 전망</a></li>
-      <li><b>미국 인허가와 아시아</b><a href="https://www.seoulfn.com/news/articleView.html?idxno=641948">중간선거 결과</a> · <a href="https://n.news.naver.com/mnews/article/001/0016425457">오라클 단지 지연</a> · <a href="https://n.news.naver.com/mnews/article/001/0016422552?sid=104">구글 말레이시아</a> · <a href="https://www.fnnews.com/news/202611031820566511">엔비디아 51%</a> · <a href="https://it.chosun.com/news/articleView.html?idxno=3000000000245">오라클·텐센트</a></li>
+      <li><b>AI 인프라 재원</b><a href="https://leprivatebanker.com/2026/11/02/oracle-launches-20-billion-bond-and-stock-sale-using-full-funding-cap-days-after-investor-day/">오라클 조달</a> · <a href="https://www.yna.co.kr/view/AKR20261104028500009">메타 회사채</a> · <a href="https://live.euronext.com/en/financial-news/alphabet-kicks-eu6-billion-bond-sale-tests-appetite-tech-debt">알파벳 유로채</a> · <a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4442291">아마존 담보 대출</a> · <a href="https://www.fnnews.com/news/202611030521460281">앤트로픽 S-1</a> · <a href="https://en.bloomingbit.io/feed/news/123679">Riot 임대</a> · <a href="https://www.tokenpost.kr/news/breaking/432691">구글 신용지원</a> · <a href="https://www.etnews.com/20261106000020">MS 엔스케일</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=216856">오픈AI 조달 축소</a> · <a href="https://www.edaily.co.kr/News/Read?newsId=01157846645641456">S&amp;P 메타 전망</a> · <a href="https://www.newstnt.com/news/articleView.html?idxno=726083">KB국민은행 GPU 파이낸싱</a></li>
+      <li><b>미국 인허가와 전력 비용</b><a href="https://en.sedaily.com/international/2026/11/02/data-center-moratorium-backers-could-win-up-to-15-us-states">21개 주 후보</a> · <a href="https://www.seoulfn.com/news/articleView.html?idxno=641948">중간선거 결과</a> · <a href="https://n.news.naver.com/mnews/article/001/0016425457">오라클 단지 지연</a> · <a href="https://biz.heraldcorp.com/article/10927989">오픈AI 지역사회 협약</a> · <a href="https://www.tokenpost.com/news/technology/46968">오픈AI 조지아</a> · <a href="https://n.news.naver.com/mnews/article/001/0016422552?sid=104">구글 말레이시아</a> · <a href="https://n.news.naver.com/mnews/article/374/0000542048">구글 와이오밍</a> · <a href="https://www.fnnews.com/news/202611010936588588">한투·SBI 일본</a> · <a href="https://www.aitimes.kr/news/articleView.html?idxno=42577">드랙스·브룩필드</a></li>
       <li><b>국내 AIDC</b><a href="https://www.cbci.co.kr/news/articleView.html?idxno=622776">엔비디아·네이버</a> · <a href="https://www.asiae.co.kr/article/2026110415183634872">LGU+ 파주</a> · <a href="https://www.mtnews.net/news/articleView.html?idxno=26391">현대차 새만금</a> · <a href="https://biz.heraldcorp.com/article/10923558">삼성SDS 구미</a></li>
-      <li><b>에이전트</b><a href="https://www.fnnews.com/news/202611030827593211">챗GPT 통합</a> · <a href="https://www.wikitree.co.kr/articles/1171183">그록 서빙 비용</a> · <a href="https://www.ddaily.co.kr/page/view/2026110405435518640">바이낸스 해킹</a> · <a href="https://www.mk.co.kr/news/business/12195136">현대차 AI 차단</a> · <a href="https://www.etnews.com/20261104000273">네이버 통합 에이전트</a> · <a href="https://www.newsis.com/view/NISX20261105_0003855788">카카오</a> · <a href="https://newsway.co.kr/news/view?ud=2026110515485409062">KT 통합 로그인</a></li>
+      <li><b>에이전트 원가와 통제</b><a href="https://www.fnnews.com/news/202611030827593211">챗GPT 통합</a> · <a href="https://www.wikitree.co.kr/articles/1171183">그록 서빙 비용</a> · <a href="https://www.ddaily.co.kr/page/view/2026110405435518640">바이낸스 해킹</a> · <a href="https://www.aitimes.kr/news/articleView.html?idxno=42518">구글 GTIG</a> · <a href="https://www.mk.co.kr/news/business/12195136">현대차 AI 차단</a> · <a href="https://www.mdtoday.co.kr/news/articleView.html?idxno=622825">크라우드스트라이크</a> · <a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=713136">팔로알토</a> · <a href="https://www.etnews.com/20261103000335">센티넬원</a> · <a href="https://www.newsis.com/view/NISX20261105_0003855788">카카오</a> · <a href="https://www.etnews.com/20261104000273">네이버 통합 에이전트</a> · <a href="https://newsway.co.kr/news/view?ud=2026110515485409062">KT 통합 로그인</a></li>
+      <li><b>배경 자료</b><a href="https://themiilk.com/articles/a8a216732">더밀크, 오픈AI 데이터센터 반대 표심 잡을까</a> · 더밀크 뷰스레터 814·815호, 밀키스레터 290호</li>
     </ul>
   </footer>
 </main>
