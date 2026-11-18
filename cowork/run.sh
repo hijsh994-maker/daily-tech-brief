@@ -721,25 +721,6 @@ blind)
   #   기계는 553건을 '뽑는' 역할만 하고, 고/중/저 판정은 점수 없이 한다.
   cd "$W" && python3 cowork/blind_list.py --date "$DATE" ;;
 
-version)
-  # [2026-09-17 신설] 이 꾸러미가 어느 버전인지 + 무결성 자가검사.
-  #   새 계정에서 처음 열었을 때 "제대로 받은 물건인가"를 여기서 본다.
-  cd "$MNT" && python3 cowork/version_check.py "${@:2}" ;;
-
-doctor)
-  # [2026-09-14 신설] 이관 점검. 다른 계정/PC 로 옮긴 뒤 처음 한 번 돌린다.
-  #   시크릿·과거이력·판정문서·MCP 등 '코드 밖'이 빠졌는지 짚는다.
-  #   실패가 있으면 종료코드 1.
-  #   **작업본이 아니라 마운트(연결 폴더)를 본다.** 이관 대상은 실제 폴더다.
-  cd "$MNT" && python3 cowork/doctor.py ;;
-
-export-pack)
-  # [2026-09-14 신설] 이관용 최소 꾸러미. 194MB -> 18MB.
-  #   index/(재생성 sqlite)와 그날치 중간 산출물을 뺀다.
-  #   **secrets.env 는 일부러 넣지 않는다** - 따로 안전하게 옮긴다.
-  #   사용법: bash cowork/run.sh export-pack [대상경로]
-  cd "$MNT" && python3 cowork/export_pack.py ${2:+"$2"} ;;
-
 timeline)
   # [2026-09-14 신설] 이슈 타임라인. **blind 뒤, 판정 앞에 반드시 돌린다.**
   #   사용자 지적: "단발성 규칙으로는 또 중요하지 않은 기사를 중요하게
