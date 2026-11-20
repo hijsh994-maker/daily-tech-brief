@@ -5,7 +5,8 @@
   사용자 지시(10-22): "GitHub Actions 는 이제 필요 없으니까" — 예약 미실행으로 10-22 수집본이 전날 것이었다.
 바뀐 점:
   * 기본 사이트 = msit,iitp,iris,ntis,nipa ([2026-11-11] NTIS·NIPA 추가 — 사용자 지시). 기업마당(bizinfo)은 이 컨테이너의 직접 접속을 끊으므로(ConnectionReset)
-    기본에서 뺐다 — 에이전트가 WebFetch 로 목록 1페이지(selectSIIA200View.do?rbsIdx=128)를 연다. `--sites` 로 바꿀 수 있다.
+    기본에서 뺐다. [2026-11-20 사용자 지시] 기업마당은 앞으로 수집하지 않는다 — 서버가 해외 IP 접속을 끊고(TLS reset)
+    robots.txt 가 자동 수집을 금지해 WebFetch 도 거부된다(robots_disallowed). `--sites bizinfo` 도 쓰지 않는다.
   * 출력 = <저장소>/out/rfp/latest/{meta.json,index.md,items/} + out/rfp/history/<날짜>.md (형식은 종전과 같다).
   * 기본 수집 창 = 3일(--days). 전일·당일 공고를 보는 용도라 7일은 필요 없다.
   * 사이트 단위 재시도 대기 60초 → 20초.
@@ -694,7 +695,7 @@ def main():
     shutil.rmtree(latest, ignore_errors=True)
     os.makedirs(os.path.join(latest, "items"), exist_ok=True)
     if "bizinfo" not in sites:
-        index_note = "- 기업마당(bizinfo)은 이 서버에서 직접 접속이 끊겨 수집하지 않음 — WebFetch 로 목록을 따로 본다"
+        index_note = "- 기업마당(bizinfo)은 수집하지 않음(2026-11-20 사용자 지시 — 해외 IP 차단·robots.txt 수집 금지)"
     else:
         index_note = ""
     index = [f"# 사업공고 수집 결과 — {iso(today)}({meta['weekday']})", "",

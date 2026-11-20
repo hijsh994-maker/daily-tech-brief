@@ -308,11 +308,18 @@ samsung-tme)
   #     bash cowork/run.sh samsung-tme [--date YYYY-MM-DD]
   shift; python3 "$MNT/cowork/samsung_tme.py" --date "$DATE" "$@" ;;
 
+samsung-check)
+  # [2026-11-20 신설] ② 링크 검증 — WebFetch 대신 파이프라인 도구(linkcheck 제목·발행일 + body_rescore 본문)로
+  #   찾은 기사의 게재일·수치·고유명사를 대조한다(사용자 지시: 검증 수단 A안). 머리말: cowork/samsung_check.py
+  #   입력 cowork/raw/samsung-check-<날짜>.tsv (번호<TAB>A|B<TAB>항목 요약<TAB>URL<TAB>매체명)
+  #     bash cowork/run.sh samsung-check        # 종료코드 0 전부 OK / 1 OK 아닌 건 있음 / 2 입력 없음
+  shift; python3 "$MNT/cowork/samsung_check.py" --date "$DATE" "$@" ;;
+
 rfp-fetch)
   # [2026-10-22 신설] 국책과제 ① 수집 — 과기정통부·IITP·IRIS 공고(목록·본문·첨부 텍스트)를 이 서버에서 직접 받는다.
   #   [2026-11-11] NTIS(국가R&D통합공고)·NIPA(사업공고) 추가 — 기본 사이트 = msit,iitp,iris,ntis,nipa.
   #   사용자 지시: GitHub Actions(ai-rfp-fetch) 없이, 다른 작업 결과를 읽지 말고 직접 확인할 것.
-  #   결과: $MNT/out/rfp/latest/{meta.json,index.md,items/*.md}. 기업마당은 접속이 끊겨 WebFetch 로 따로 본다.
+  #   결과: $MNT/out/rfp/latest/{meta.json,index.md,items/*.md}. 기업마당은 수집하지 않는다(11-20 사용자 지시).
   #     bash cowork/run.sh rfp-fetch [--days N] [--sites msit,iitp,iris,ntis,nipa,bizinfo]     # timeout 175000
   shift; python3 "$MNT/cowork/rfp_fetch.py" "$@" ;;
 
