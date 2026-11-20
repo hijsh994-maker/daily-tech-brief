@@ -1587,8 +1587,21 @@ cloud-push)
   if git diff --cached --quiet; then echo "[cloud-push] 바뀐 것 없음"; exit 0; fi
   git commit -q -m "${2:-dtb $DATE}" && echo "[cloud-push] 커밋: $(git log -1 --format=%h) ${2:-dtb $DATE}"
   if git remote get-url origin >/dev/null 2>&1; then
-    git push -q origin HEAD && echo "[cloud-push] push 완료 -> $(git remote get-url origin)" \
-      || { echo "[cloud-push] [실패] push 가 안 됐습니다. 커밋은 남아 있으니 다시 시도하세요"; exit 1; }
+    # [2026-11-20] 클라우드 세션은 claude/<이름> 세션 브랜치나 detached HEAD 로 시작한다.
+    #   예전의 `git push origin HEAD` 는 그 세션 브랜치로 올라가 main 에 반영되지 않았다(매주 PR 이 생김).
+    #   이제 현재 브랜치 이름과 상관없이 항상 main(DTB_PUSH_BRANCH 로 바꿀 수 있음)으로 올린다.
+    #   main 이 그사이 앞서 갔으면 rebase 로 내 커밋을 그 위에 얹고 다시 시도한다(최대 4회).
+    _br="${DTB_PUSH_BRANCH:-main}"; _ok=0
+    for _try in 1 2 3 4; do
+      if git fetch -q origin "$_br" 2>/dev/null && ! git merge-base --is-ancestor FETCH_HEAD HEAD; then
+        git rebase -q FETCH_HEAD || { git rebase --abort 2>/dev/null
+          echo "[cloud-push] [실패] origin/$_br 위로 rebase 충돌. 커밋은 남아 있습니다"; exit 1; }
+      fi
+      if git push -q origin "HEAD:refs/heads/$_br"; then _ok=1; break; fi
+      sleep $((_try * 2))
+    done
+    [ "$_ok" = 1 ] && echo "[cloud-push] push 완료 -> $(git remote get-url origin) ($_br $(git rev-parse --short HEAD))" \
+      || { echo "[cloud-push] [실패] $_br 로 push 가 안 됐습니다. 커밋은 남아 있으니 다시 시도하세요"; exit 1; }
   else
     echo "[cloud-push] origin 이 없어 커밋만 했습니다 (git remote add origin <url> 뒤 push)"
   fi ;;
