@@ -70,12 +70,26 @@ def sent_items(mnt, day, days=30):
 
 def search(items, terms):
     hits = []
-    ts = [t.strip() for t in (terms or "").split("|") if t.strip()]
+    # [2026-11-24 사용자 지시] '|' 뿐 아니라 ' / ' 로 적은 국문·영문 검색어도 낱말별로 나눈다.
+    #   11-24 에 '국문 / 영문' 꼴로 적어 문자열 통째로 검색 → 22건 전부 '없음' → LGU+ AI 토큰(11-16 기발송) 재발송.
+    ts = [t.strip() for t in re.split(r"\||\s/\s", terms or "") if t.strip()]
     # 영문·숫자 검색어는 낱말 경계로(ING 가 'thinking' 에 걸리지 않게), 한글은 부분 일치로
     rx = [re.compile(r"(?<![A-Za-z0-9])%s(?![A-Za-z0-9])" % re.escape(t), re.I) if re.fullmatch(r"[A-Za-z0-9 .+&-]+", t)
           else re.compile(re.escape(t), re.I) for t in ts]
     for it in items:
         if any(x.search(it["text"]) for x in rx):
+            hits.append("%s %s" % (it["date"], it["head"][:40]))
+    return " ; ".join(hits) if hits else "없음"
+
+def bundle_search(items, title, need=2):
+    """[2026-11-24 사용자 지시] 묶음 안의 다른 기사로 '고' 판정한 건 — 그 기사 제목 낱말로 30일 발송본을 대조한다.
+    11-24 LGU+ 'AI 토큰 사업 뛰어든다'(묶음 기사)를 대표 제목 '원더조이' 로만 대조해 11-16 발송분을 놓쳤다."""
+    stop = set("AI 기업 사업 출시 공개 확대 추진 국내 글로벌 위한 통해 대한 등".split())
+    toks = [w for w in re.findall(r"[가-힣A-Za-z0-9+]{2,}", title or "") if w not in stop]
+    hits = []
+    for it in items:
+        n = sum(1 for w in set(toks) if w.lower() in it["text"].lower())
+        if toks and n >= min(need, len(set(toks))):
             hits.append("%s %s" % (it["date"], it["head"][:40]))
     return " ; ".join(hits) if hits else "없음"
 
@@ -219,9 +233,21 @@ def main():
                 errs.append("흐름=%s 인데 판단에 '새사실:' 이 없음: %s" % (flow, tag))
             if flow not in fresh:
                 warns.append("흐름 날짜 %s 가 검색결과에 없음 — 검색어를 넓힐 것: %s" % (flow, tag))
+        # [2026-11-24] 묶음 기사로 판정한 건: 판단에 `묶음기사:<제목>` 필수, 그 제목으로도 30일 발송본 대조
+        if q.startswith("본문없음:") and "묶음" in q and "묶음기사:" not in judge:
+            errs.append("묶음 안의 다른 기사로 판정했는데 판단에 `묶음기사:<그 기사 제목>` 없음: " + tag)
+        m_b = re.search(r"묶음기사:\s*([^/|]+)", judge)
+        if m_b:
+            bh = bundle_search(items, m_b.group(1))
+            if bh != "없음" and "다른 사건:" not in judge and "새사실:" not in judge:
+                errs.append("묶음 기사 제목이 30일 발송본에 걸림(%s) — 같은 사건이면 '고'가 아님, 다르면 '다른 사건:'/'새사실:' 을 적을 것: %s" % (bh[:80], tag))
         fr = facts.get(i)
         if fr is not None and (fr.get("흐름") or "").strip() != flow:
             errs.append("facts '흐름'(%s) 과 확인표 흐름(%s) 불일치: %s" % (fr.get("흐름"), flow, tag))
+    # [2026-11-24] 검색이 전부 '없음' 이면 검색어 형식부터 의심한다(11-24 22건 전부 없음 → 중복 발송).
+    misses = [i for i in gold if rows.get(i) and search(items, rows[i].get("주체검색어", "")) == "없음"]
+    if len(gold) >= 5 and len(misses) == len(gold):
+        errs.append("'고' %d건 전부 30일 발송본 검색 결과 '없음' — 검색어 형식 확인(국문·영문을 '|' 로 나눠 각각 넣을 것) 후 --search 다시" % len(gold))
     print("[gocheck] '고' %d건 / 표 %d행 / 최근 30일 발송 %d건 대조" % (len(gold), len(rows), len(items)))
     for w in warns: print("  [경고] " + w)
     for e in errs: print("  [실패] " + e)
