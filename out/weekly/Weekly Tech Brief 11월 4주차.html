@@ -1,0 +1,280 @@
+<title>Weekly Tech Brief 11월 4주차</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* 레이아웃: 한 단 보고서. 위에서부터 결론 → 세 가지 판단 → 흐름 → 인사이트 → 제언 → 다음 주. 숫자는 고정폭, 강조는 한 색만. */
+:root{
+  --bg:#f5f7f9; --surface:#ffffff; --ink:#18242f; --muted:#5b6b79; --line:#d9e0e6;
+  --accent:#0d5c75; --accent-soft:#e3eff3; --signal:#a8590b; --signal-soft:#fbf0e0;
+  --display:"IBM Plex Sans KR","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --body:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f161c; --surface:#172029; --ink:#e6edf2; --muted:#9aa9b6; --line:#2a3743;
+    --accent:#6cc1d8; --accent-soft:#16303a; --signal:#e6a65a; --signal-soft:#33271a; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0f161c; --surface:#172029; --ink:#e6edf2; --muted:#9aa9b6; --line:#2a3743;
+  --accent:#6cc1d8; --accent-soft:#16303a; --signal:#e6a65a; --signal-soft:#33271a; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.75;word-break:keep-all}
+.page{max-width:920px;margin:0 auto;padding-block:48px 72px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance;line-height:1.35}
+p{margin:0}
+a{color:var(--accent);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.label{font-family:var(--display);font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--accent)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* 머리 */
+.head{display:flex;flex-direction:column;gap:16px;padding-bottom:32px;border-bottom:2px solid var(--ink)}
+.head .meta{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:14px;color:var(--muted)}
+.head h1{font-size:clamp(28px,5vw,42px);font-weight:700;letter-spacing:-.01em}
+.head .thesis{font-size:18px;color:var(--muted);max-width:40em}
+
+/* 세 가지 판단 */
+.section{display:flex;flex-direction:column;gap:20px}
+.section > h2{font-size:22px;font-weight:700}
+.takes{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:0;padding:0;list-style:none}
+.takes li{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:20px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.takes .n{font-family:var(--mono);font-size:13px;color:var(--accent)}
+.takes strong{font-family:var(--display);font-size:17px;line-height:1.45}
+.takes span{font-size:15px;color:var(--muted);line-height:1.65}
+
+/* 흐름 */
+.flows{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.flow{display:grid;grid-template-columns:200px 1fr 1fr;gap:8px 28px;padding:20px 0;border-bottom:1px solid var(--line)}
+.flow > *{min-width:0}
+.flow h3{font-size:16px;font-weight:600}
+.flow p{font-size:15px;line-height:1.7}
+.flow .mean{color:var(--muted)}
+.flow .mean::before{content:"뜻하는 바";display:block;font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.06em;color:var(--accent);margin-bottom:2px}
+
+/* 조달 막대 */
+.raise{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:20px;display:flex;flex-direction:column;gap:12px}
+.raise .cap{font-size:14px;color:var(--muted)}
+.bars{display:grid;grid-template-columns:auto 1fr auto;gap:10px 14px;align-items:center;font-size:14px}
+.bars .track{height:12px;background:var(--accent-soft);border-radius:2px;min-width:0}
+.bars .fill{display:block;height:100%;background:var(--accent);border-radius:2px}
+.bars .v{text-align:right;white-space:nowrap}
+
+/* 인사이트 */
+.insight{display:flex;flex-direction:column;gap:12px;padding-top:24px;border-top:1px solid var(--line)}
+.insight:first-of-type{padding-top:0;border-top:0}
+.insight h3{font-size:19px;font-weight:700}
+.cats{display:flex;flex-wrap:wrap;gap:6px;margin:0;padding:0;list-style:none}
+.cat{font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.02em;line-height:1;padding:5px 9px;border-radius:999px;border:1px solid var(--accent);color:var(--accent);background:var(--accent-soft);white-space:nowrap}
+.insight .body{max-width:42em}
+.evidence{background:var(--accent-soft);border-radius:6px;padding:14px 18px;font-size:14.5px;line-height:1.7;max-width:46em}
+.evidence b{font-family:var(--display);color:var(--accent);margin-right:6px}
+.chain{display:flex;flex-wrap:wrap;gap:8px;align-items:stretch;margin:4px 0;padding:0;list-style:none;font-size:14px}
+.chain li{flex:1 1 150px;min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:12px 14px;display:flex;flex-direction:column;gap:2px}
+.chain b{font-family:var(--display);font-size:14.5px}
+.chain span{color:var(--muted);font-size:13px;line-height:1.5}
+.chain li.weak{border-color:var(--signal);background:var(--signal-soft)}
+.chain li.weak b{color:var(--signal)}
+
+/* 제언 */
+.recs{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.rec{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:22px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.rec .when{font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.06em;color:var(--muted)}
+.rec .top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}
+.rec h3{font-size:17px;font-weight:700}
+.rec dl{margin:0;display:flex;flex-direction:column;gap:12px}
+.rec dt{font-family:var(--display);font-size:12.5px;font-weight:600;letter-spacing:.06em;color:var(--accent)}
+.rec dd{margin:2px 0 0;font-size:15px;line-height:1.65}
+.rec dt.sig{color:var(--signal)}
+
+/* 다음 주 */
+.next{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.next li{display:grid;grid-template-columns:220px 1fr;gap:4px 28px;padding:16px 0;border-bottom:1px solid var(--line)}
+.next li > *{min-width:0}
+.next b{font-family:var(--display);font-weight:600}
+.next span{color:var(--muted);font-size:15px}
+
+/* 꼬리 */
+.foot{display:flex;flex-direction:column;gap:16px;font-size:14px;color:var(--muted);line-height:1.8}
+.foot h2{font-size:15px;font-weight:600;color:var(--ink)}
+.foot ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px}
+.foot li b{color:var(--ink);font-weight:500;margin-right:6px}
+.note{border-left:3px solid var(--line);padding-left:14px}
+
+/* 해설: 머리의 도입 문단, 인사이트의 한 줄 명제 */
+.head .lede{font-size:17px;line-height:1.85;max-width:44em}
+.insight .claim{font-family:var(--display);font-size:16.5px;font-weight:600;line-height:1.6;border-left:3px solid var(--accent);padding-left:14px;max-width:42em}
+
+@media (max-width:720px){
+  .takes,.recs{grid-template-columns:1fr}
+  .flow,.next li{grid-template-columns:1fr}
+  .page{gap:44px;padding-block:32px 56px}
+}
+</style>
+
+<main class="page">
+  <header class="head">
+    <div class="meta"><span class="label">WEEKLY TECH BRIEF</span><span>2026년 11월 4주차 · 11/23(월)~11/27(금)</span><span>일간 브리프 80건 기반</span></div>
+    <h1>AI의 병목, 모델에서 접근권으로</h1>
+    <p class="thesis">플랫폼의 문, 최상위 모델의 문, 전력망의 문이 한 주에 동시에 값과 조건을 내건 한 주</p>
+    <p class="lede">이번 주 구글은 외부 AI 에이전트가 지메일·드라이브·캘린더를 쓰는 횟수에 값을 매기겠다고 밝혔다. 같은 주 AWS는 앤트로픽 상위 모델을 신원 검증을 거친 기업에만 여는 통로를 내놓았다. 국내에서는 GS가 총 2.4GW 규모 동해 AIDC를 28일 착공하기로 했지만, 부천의 99MW AIDC는 154kV 송전선 한 구간의 허가를 받지 못해 지연되고 있다. 세 장면은 같은 변화를 가리킨다. 모델과 칩을 사는 일보다 플랫폼·최상위 모델·전력망에 들어갈 접근권을 얻는 일이 AI 사업의 비용과 속도를 정하기 시작했다.</p>
+  </header>
+
+  <section class="section" aria-labelledby="t1">
+    <h2 id="t1">경영진이 가져갈 세 가지</h2>
+    <ol class="takes">
+      <li><span class="n">01</span><strong>모델값은 하락, 청구서는 문 앞에서 다시 상승</strong><span>구글 에이전트 통행료·네이버웍스 단가 40% 인상·GPT-6.2 한도 축소, 원가의 무게가 접근권으로</span></li>
+      <li><span class="n">02</span><strong>최상위 모델, 신원을 증명한 고객에게만 개방</strong><span>접근 심사와 증류 차단으로 '돈 내면 쓰는 API' 전제 약화, A.X K·독파모가 설 '열린 중간' 자리</span></li>
+      <li><span class="n">03</span><strong>AIDC 병목, 땅에서 송전선으로</strong><span>비수도권 인허가 완화와 GW급 착공 속 99MW 부천은 송전선 한 구간에 지연</span></li>
+    </ol>
+  </section>
+
+  <section class="section" aria-labelledby="t2">
+    <h2 id="t2">한 주의 흐름</h2>
+    <div class="flows">
+      <article class="flow">
+        <h3>엔비디아, 복귀 뒤 정치·신용 변수로</h3>
+        <p>젠슨 황 사임 <span class="num">11</span>일 만에 복귀·美 민주당 불법행위 조사 공언(24일), 트럼프 엔비디아 지분 취득 가능성 언급·S&amp;P 'AA' 부정적 관찰 대상 지정(26일), 말레이·싱가포르·태국·인니 <span class="num">4</span>개국 서버 출하 중단 통보(27일)</p>
+        <p class="mean">리더십 공백은 해소, 리스크의 축은 회사에서 정부와 신용시장으로 이동</p>
+      </article>
+      <article class="flow">
+        <h3>국내 AIDC, 비수도권 대형화와 송전 병목</h3>
+        <p>AIDC 특별법 하위법령 입법예고·SK 울산 AIDC 공정률 <span class="num">71%</span>·부천 <span class="num">99</span>MW 송전선 지연(23일), 한화 창원 국방 AIDC 최종 <span class="num">180</span>MW(25일), kt cloud 안산 <span class="num">110</span>MW 캠퍼스(26일), GS 동해 2.4GW 착공 예정(27일)</p>
+        <p class="mean">부지·인허가 문턱은 낮아지고, 일정의 변수는 송전 인입으로 이동</p>
+      </article>
+      <article class="flow">
+        <h3>모두의 AI, 출시 직전 경쟁사 패 공개</h3>
+        <p>LGU+ 모두의AI 전담 TF·네이버 독립형 AI 비서 앱 연내 출시(23일), 카카오 '톡톡박사'·'닥터 톡톡' 상표 출원(24일), NIPA 12월 챗봇 공개 뒤 KTX 예매 추가 검토(27일) / 메타 뮤즈 영국 출시(25일), 바이트댄스 샤오더우 베타(26일)</p>
+        <p class="mean">3개 컨소시엄의 이름·조직·연동 범위 윤곽, 경쟁은 생활 서비스 연동의 폭으로</p>
+      </article>
+      <article class="flow">
+        <h3>에이전트 보안, 공격은 실전·통제는 권한 단위로</h3>
+        <p>크라우드스트라이크 지스케일러 인수 추진(23일), 中 연계 공격자 자율 에이전트로 제로데이 공격·美 은행 에이전트 권한·근무시간 통제·Claude Ship 코드 승인까지 대행·오픈AI·시스코 Shirudo(24일), 이탈리아·스위스 에이전트 공격 피해 공개(26일)</p>
+        <p class="mean">에이전트가 승인권을 갖는 만큼 방어도 사람 계정처럼 권한·시간·런타임 단위로</p>
+      </article>
+      <article class="flow">
+        <h3>피지컬 AI, 공장 투입과 가격 기준</h3>
+        <p>한림대성심병원 휴머노이드 시험(23일), KG스틸 국산 휴머노이드 공정 투입·넥스트-X 휴머노이드 챌린지 5년 <span class="num">535</span>억원·소프트뱅크 RAI 인수 완료(25일), 샤오펑 아이언 내년 2분기 전기차 수준 가격 판매·볼보 겐트 공장 휴머노이드 배치(27일)</p>
+        <p class="mean">시연에서 공정 실증으로, 휴머노이드 값의 기준선이 전기차 가격대로</p>
+      </article>
+    </div>
+    <div class="raise">
+      <p class="cap">이번 주 발송본에 실린 AI 기업 투자 유치 기업가치 (억달러, 협의·추진 단계 포함)</p>
+      <div class="bars">
+        <span>데이터브릭스 (데이터·기업 AI)</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="v num">2250</span>
+        <span>코그니션 (코딩 에이전트)</span><span class="track"><span class="fill" style="width:33.3%"></span></span><span class="v num">750</span>
+        <span>일레븐랩스 (음성 AI)</span><span class="track"><span class="fill" style="width:14.7%"></span></span><span class="v num">330</span>
+        <span>Exa (에이전트용 검색)</span><span class="track"><span class="fill" style="width:3.1%"></span></span><span class="v num">70</span>
+        <span>프래그마틱 랩스 (모델)</span><span class="track"><span class="fill" style="width:2.2%"></span></span><span class="v num">50</span>
+        <span>심플렉시티 (휴머노이드)</span><span class="track"><span class="fill" style="width:0.7%"></span></span><span class="v num">16</span>
+      </div>
+      <p class="cap">상위 세 곳이 기업 데이터·코딩·음성, 기업 업무에 바로 붙는 쪽에 몸값 집중 (딥시크 6155억위안은 통화 단위가 달라 제외)</p>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="t3">
+    <h2 id="t3">인사이트</h2>
+
+    <article class="insight">
+      <ul class="cats" aria-label="카테고리"><li class="cat">AI Agent</li><li class="cat">Enterprise AI</li></ul>
+      <h3>1. 모델값은 내려가는데, 청구서는 문 앞에서 다시 오른다</h3>
+      <p class="claim">지난주 프런티어 모델 값이 잇달아 내려간 뒤, 이번 주 플랫폼·구독·업무용 AI는 접근 횟수와 사용 한도에 값을 매기기 시작</p>
+      <p class="body">지난주 모델 회사들이 값을 내렸다면, 이번 주는 문을 가진 쪽이 값을 매겼다. 오픈AI는 음성 모델 GPT-라이브-1.1의 무발화 유휴 시간 요금을 60% 내렸다. 반면 구글은 내년 4월부터 외부 에이전트가 지메일·드라이브·캘린더를 쓰는 횟수에 과금하고, 하루 5천회를 넘으면 유료로 돌리거나 제한한다. 네이버클라우드는 12월 10일부터 네이버웍스 AI 스튜디오를 회사 단위 월정액으로 바꾸고 추가 토큰 단가를 40% 올린다. 오픈AI도 GPT-6.2 과금 오류를 고치면서 아스트라는 40%, 솔은 25% 빨리 사용 한도에 닿게 됐다. 모델 단가가 내려가도 고객의 청구서는 다른 칸에서 커지고 있다.</p>
+      <p class="body">무너진 가정은 '모델값이 내리면 에이전트 원가도 내린다'는 것이다. 에이전트의 원가는 모델 호출만이 아니라 남의 플랫폼을 드나드는 횟수와 구독 한도로 이뤄진다. 같은 주 통신3사와 네이버는 피클 같은 에이전트의 고객센터 전화 대리 상담을 막았다. 위임 범위를 확인할 수 없고 오처리 책임이 불분명하다는 이유였다. 구글의 선택은 이 차단의 다음 단계를 보여 준다. 막는 대신 횟수를 세고 값을 받는 것이다. 즉 문은 닫히는 대신 요금소가 되고 있다.</p>
+      <p class="body">우리는 이 요금소의 양쪽에 서 있다. 에이닷과 모두의 AI 서비스 에이닷올은 남의 문을 지나야 하는 쪽이다. 모두의 AI는 내년 예산 2500억원 중 1700억원이 GPU 임차여서 무료 유지 비용이 이미 쟁점이었고(10/1 발송본), 외부 플랫폼의 접근 과금은 여기에 새 항목을 더한다. 동시에 우리는 고객센터와 통화라는 문을 가진 쪽이다. 과기정통부가 AI 기본법 안에서 에이전트의 대리 권한과 사고 책임 기준을 검토하기 시작한 만큼, 외부 에이전트를 막기만 할지 확인된 에이전트에 값을 받고 열지는 이제 상품 설계의 문제다. B2B AI에서도 LGU+가 토큰 사업에 들어와 통신 3사가 맞붙는 사이 네이버는 단가를 올렸다. 고객은 모델 단가가 아니라 접근·한도·월정액을 합한 총액으로 비교하게 된다.</p>
+      <p class="evidence"><b>근거</b>GPT-라이브-1.1 유휴 요금 인하, 구글 에이전트 접근 과금, 네이버웍스 AI 스튜디오 단가 인상, GPT-6.2 과금 오류 수정 / 통신3사·네이버 에이전트 전화 대리 상담 제한, 과기정통부 AI 기본법 에이전트 규율 검토 / LGU+ AI 토큰 사업 / 과거 발송본: 모두의 AI 예산·GPU 임차(10/1), 모델값 인하(11/16~20)</p>
+    </article>
+
+    <article class="insight">
+      <ul class="cats" aria-label="카테고리"><li class="cat">AI Model</li><li class="cat">AI 보안&amp;정책</li></ul>
+      <h3>2. 최상위 모델의 문, 신원을 증명한 고객에게만 열린다</h3>
+      <p class="claim">돈을 내면 누구나 최신 모델을 쓰고 2등은 증류로 따라붙는다는 전제가 위와 옆에서 동시에 좁아진 한 주</p>
+      <p class="body">이번 주 최상위 모델의 정문이 좁아졌다. AWS는 앤트로픽 상위 모델을 신원 검증과 데이터 통제 아래서만 여는 Bedrock Trusted Access API를 내놓았다. 오픈AI·앤트로픽 내부에서는 24명 이상이 미공개 차세대 모델을 외부에 공개하면 안 된다며 학습 중단론까지 제기했고, 오픈AI 수석과학자는 업계 공동의 개발 상한을 제안했다. 성능 쪽 신호도 같은 주에 나왔다. 앤트로픽 연구원은 클로드와 6주 연구로 리만 가설을 증명했다고 주장했고(독립 검증 진행 중), 오픈AI는 GPT-6.2 설계 구조로 만든 단백질 322개 중 35개가 목표와 결합했다고 밝혔다. 모델이 강해질수록 그 모델을 누구에게 열지가 더 까다로운 질문이 되고 있다.</p>
+      <p class="body">옆문인 증류도 막히고 있다. 오픈AI는 적대적 증류 공격의 GPT-6.2 추론 추출 성공률을 54%에서 0.2%로 낮췄다고 공개했다. 지난 10월 문샷AI의 추론 정보 대량 추출 시도를 공개 비난한 데 이은 조치다(10/2 발송본). 그 효과는 이번 주 바로 드러났다. 美 칩 규제와 증류 차단으로 Z.ai의 3조 파라미터 GLM-5.5 출시가 차질을 빚었고, 문샷도 출시 주기가 2배 이상 길어질 것으로 전망됐다. 반면 딥시크와 프래그마틱 랩스에는 자금이 계속 몰렸다. 즉 중국 추격의 병목은 자본이 아니라 베낄 통로다.</p>
+      <p class="body">이 변화는 A.X K와 독파모의 자리를 다시 그린다. 최상위 모델이 닫히고 중국 오픈웨이트의 추격이 느려지면, 그 사이의 '열려 있고 쓸 만한 모델' 칸이 비어 간다. 그 칸은 이미 경쟁 중이다. 크래프톤은 30B급 라온-1 미니를 공개했고, 카카오뱅크는 금융 특화 LLM 파트너로 미스트랄을 골랐다. 복지부는 의료 LLM에 국내 서버를 필수로 했고, 독파모 3차는 기업·모델명을 가린 블라인드 평가로 바뀔 가능성이 거론된다. 그래서 국산 모델은 브랜드가 아니라 성능과 설치 방식으로 비교받게 된다.</p>
+      <p class="evidence"><b>근거</b>Bedrock Trusted Access API, 오픈AI·앤트로픽 직원 공개 반대, 오픈AI 수석과학자 개발 상한 제안, 리만 가설 증명 주장, GPT-6.2 단백질 실험 / 적대적 증류 방어, GLM-5.5 지연·문샷 주기 전망, 딥시크·프래그마틱 랩스 투자 / 크래프톤 라온-1 미니, 카카오뱅크·미스트랄, 의료 LLM 국내 서버 기준, 독파모 3차 블라인드 / 과거 발송본: 오픈AI의 문샷AI 증류 비난(10/2)</p>
+    </article>
+
+    <article class="insight">
+      <ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li></ul>
+      <h3>3. AIDC의 병목, 땅에서 송전선으로</h3>
+      <p class="claim">정부가 인허가 문턱을 낮추고 GW급 착공이 잡힌 주에, 일정을 멈춰 세운 것은 부지가 아니라 송전선 한 구간</p>
+      <p class="body">지난주 수도권 데이터센터의 전력계통영향평가 문턱이 75점으로 올랐다면, 이번 주 정부는 비수도권의 문을 넓혔다. AIDC 특별법 하위법령은 AI 장비전력 5MW 이상을 AIDC로 인정해 인허가를 일괄 처리하고, 비수도권 50MW 이하는 전력계통영향평가를 면제한다. 대형 계획도 잇따랐다. GS그룹은 28일 동해 AIDC를 착공해 2030년 총 2.4GW까지 짓고, 한화에어로는 창원 국방 AIDC 1단계에 10조원을 들인다. 경쟁사 kt cloud도 안산 권역에 총 110MW 캠퍼스를 추진한다.</p>
+      <ol class="chain" aria-label="AIDC 구축 단계">
+        <li><b>인허가</b><span>하위법령, 5MW 이상 일괄 처리·비수도권 50MW 이하 평가 면제</span></li>
+        <li><b>부지·착공</b><span>GS 동해 28일 착공, SK 울산 공정률 71%</span></li>
+        <li class="weak"><b>송전 인입</b><span>부천 99MW, 154kV 송전선 구간 미허가로 지연</span></li>
+        <li><b>장비</b><span>AI 서버 납품가 계약 후 최대 45% 인상 요구</span></li>
+        <li><b>고객</b><span>어플라이드 디지털 150MW·18년 임대</span></li>
+      </ol>
+      <p class="body">문제는 부지가 아니라 선이다. 부천 오정구의 99MW AIDC는 부평구를 지나는 154kV 송전선 구간이 허가를 받지 못해 지연되고 있고, 시민단체 중심의 반대 운동도 퍼지고 있다. 인허가는 정부가 한 창구로 묶을 수 있지만, 송전 경로는 여러 지자체와 주민을 지나간다. 그래서 일본에서는 전력사가 직접 유치에 나섰다. 도쿄전력은 2035회계연도까지 송전망·원전 등에 10.2조엔을 투자해 AWS 등 데이터센터를 유치하려 한다. 지난 10월 JERA·델이 송전망을 거치지 않는 발전소 직결형 400MW 데이터센터를 착공한 것도 같은 해법이다(10/2 발송본).</p>
+      <p class="body">AI Factory 일정에서 따질 순서도 바뀐다. 부지와 인허가는 정부가 빨라지는 쪽으로 움직이니, 남은 변수는 송전 인입 경로와 장비 원가다. 장비 쪽에서는 AI 서버 제조사들이 계약 수개월 뒤 납품가를 최대 45%까지 올려 달라고 요구했다. 수요 쪽에서는 엔비디아의 동남아 4개국 서버 출하 중단과 아시아 데이터센터 대출 보류로 국내가 대체 거점이 될 여지가 생겼다. 다만 美 원격 접근 규정은 데이터센터의 위치뿐 아니라 최종 고객과 그 지배 구조까지 묻는다. 대체 수요와 함께 고객 심사의 부담도 들어온다.</p>
+      <p class="evidence"><b>근거</b>AIDC 특별법 하위법령, SK 울산 AIDC 현장 방문, GS 동해 AIDC 착공, 한화 창원 국방 AIDC, kt cloud 안산2 / 부천 송전선 지연, 도쿄전력 투자 / AI 서버 가격 인상, 어플라이드 디지털 임대, 엔비디아 동남아 출하 중단, 아시아 DC 대출 보류 / 과거 발송본: JERA·델 발전소 직결형(10/2) / 더밀크 뷰스레터 819호(원격 접근 규정)</p>
+    </article>
+  </section>
+
+  <section class="section" aria-labelledby="t4">
+    <h2 id="t4">제언</h2>
+    <div class="recs">
+      <article class="rec">
+        <div class="top"><span class="when">모두의 AI 12월 출시 전</span><ul class="cats" aria-label="카테고리"><li class="cat">AI Agent</li><li class="cat">Enterprise AI</li></ul></div>
+        <h3>에이닷올 원가에 외부 플랫폼 접근 비용 반영</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>연동할 외부 플랫폼별 호출 횟수·과금 가정, 무료 제공 범위와 이용 한도, 모델 호출 밖의 비용 항목(접근·검색·한도)</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>구글 접근 과금의 세부 기준, 카카오·네이버 생활 에이전트의 무료 범위, 모두의 AI KTX 예매 연동 방식</dd></div>
+        </dl>
+      </article>
+      <article class="rec">
+        <div class="top"><span class="when">연내 방향 확정</span><ul class="cats" aria-label="카테고리"><li class="cat">AI Agent</li><li class="cat">AI 보안&amp;정책</li></ul></div>
+        <h3>고객센터의 문, 차단 다음 단계로 '확인된 유료 개방' 검토</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>외부 에이전트의 신원·위임 범위 확인 방식, 차단·횟수 과금·제휴 개방 가운데 선택, 대행 중 오처리의 책임 배분</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>AI 기본법 에이전트 정의 초안, 국내 플랫폼의 접근 과금 도입 여부, 피클 등 외부 에이전트의 대응</dd></div>
+        </dl>
+      </article>
+      <article class="rec">
+        <div class="top"><span class="when">독파모 3차 평가 대비</span><ul class="cats" aria-label="카테고리"><li class="cat">AI Model</li><li class="cat">Enterprise AI</li></ul></div>
+        <h3>A.X K, '열려 있고 쓸 만한 모델' 자리 선점</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>블라인드 평가에 맞춘 성능 검증 항목, 국내 서버 필수 업종(의료·금융)에 내놓을 설치형 제공 범위, 해외 상위 모델 접근 심사를 B2B 고객 대신 갖추는 중개 상품 여부</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>TTA 3차 평가 방식 확정, 금융권 특화 LLM의 파트너 선택, GLM-5.5·문샷 신모델 출시 일정</dd></div>
+        </dl>
+      </article>
+      <article class="rec">
+        <div class="top"><span class="when">AI Factory 부지 결정 전</span><ul class="cats" aria-label="카테고리"><li class="cat">AI DC &amp; Infra</li></ul></div>
+        <h3>AIDC 후보지, 송전 인입 경로를 첫 심사 항목으로</h3>
+        <dl>
+          <div><dt>정할 것</dt><dd>후보지별 송전 경로와 통과 지자체·주민 협의 일정, 50MW 이하 분산형과 GW급 집중형의 비중, 서버 계약의 가격 고정 조항</dd></div>
+          <div><dt class="sig">지켜볼 신호</dt><dd>하위법령 확정 내용, 부천 송전선 허가 결과, 동해·안산의 전력 확보 방식, 동남아 이탈 수요의 국내 유입</dd></div>
+        </dl>
+      </article>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="t5">
+    <h2 id="t5">다음 주에 볼 것</h2>
+    <ul class="next">
+      <li><b>젠슨 황 美 의회 면담·청문회</b><span>12월 1일 하원 비공개 면담, 3일 상원 은행위원회 공개 청문회, 대중 수출 허가와 순환 금융 쟁점</span></li>
+      <li><b>모두의 AI 서비스 공개</b><span>카카오 서비스명 공개, NIPA 12월 챗봇 공개, 네이버 AI 비서 앱 연내 출시 일정</span></li>
+      <li><b>업무용 AI 요금 전환</b><span>네이버웍스 AI 스튜디오 12월 10일 새 과금 시행 전 고객 반응, 통신 3사 토큰 사업의 단가 공개</span></li>
+    </ul>
+  </section>
+
+  <footer class="foot">
+    <p class="note">11월 23일~27일 Daily Tech Brief 발송본 80건 기반, 배경 맥락은 과거 발송본(10/1·10/2·11/16~20)과 더밀크 뉴스레터(11/25)에서 보충, 숫자는 보도 수치이며 협의·추진 단계 포함, 제언에는 사내 투자 계획과 계약 현황 미반영</p>
+    <h2>근거 기사</h2>
+    <ul>
+      <li><b>에이전트 비용과 문</b><a href="https://www.aitimes.com/news/articleView.html?idxno=217655">GPT-라이브-1.1</a> · <a href="https://www.seoul.co.kr/news/economy/industry/2026/11/26/20261126500331">구글 에이전트 통행료</a> · <a href="https://www.startuptoday.co.kr/news/articleView.html?idxno=820115">네이버웍스 단가</a> · <a href="https://www.cnbnews.com/news/articleView.html?idxno=1025555">GPT-6.2 과금 오류</a> · <a href="https://www.hankyung.com/article/2026112349581">통신3사·네이버 전화 빗장</a> · <a href="http://www.widedaily.com/news/articleView.html?idxno=304812">AI 기본법 에이전트 규율</a> · <a href="https://www.hankyung.com/article/2026112333121">LGU+ 토큰 사업</a></li>
+      <li><b>최상위 모델의 문</b><a href="https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/">Bedrock Trusted Access</a> · <a href="https://n.news.naver.com/mnews/article/008/0005445968?sid=105">직원 공개 반대</a> · <a href="https://n.news.naver.com/mnews/article/138/0002249494?sid=105">개발 상한 제안</a> · <a href="https://www.donga.com/news/Economy/article/all/20261122/135068704/2">리만 가설</a> · <a href="https://zdnet.co.kr/view/?no=20261125132424">GPT-6.2 단백질</a> · <a href="https://www.aitimes.kr/news/articleView.html?idxno=42831">증류 방어</a> · <a href="https://www.aitimes.com/news/articleView.html?idxno=217838">GLM-5.5 지연</a> · <a href="https://www.mt.co.kr/world/2026/11/20/2026112009532850752">딥시크</a> · <a href="https://wowtale.net/2026/11/24/268553/">프래그마틱 랩스</a> · <a href="https://www.sedaily.com/article/20118829">라온-1 미니</a> · <a href="https://www.news1.kr/finance/general-finance/6365099">카카오뱅크·미스트랄</a> · <a href="https://www.fnnews.com/news/202611260950241499">의료 LLM 국내 서버</a> · <a href="https://zdnet.co.kr/view/?no=20261124154508">독파모 3차 블라인드</a></li>
+      <li><b>AIDC와 송전</b><a href="https://biz.heraldcorp.com/article/10943625">하위법령 입법예고</a> · <a href="https://www.yna.co.kr/view/AKR20261121033700001">울산 AIDC</a> · <a href="https://www.ajunews.com/view/20261122140039825">부천 송전선</a> · <a href="https://go.seoul.co.kr/news/newsView.php?id=20261127019011">GS 동해</a> · <a href="https://www.seoul.co.kr/news/economy/industry/2026/11/24/20261124500299">한화 창원</a> · <a href="https://n.news.naver.com/mnews/article/119/0003159619?sid=105">kt cloud 안산2</a> · <a href="https://www.hankyung.com/article/202611273932i">도쿄전력</a> · <a href="https://www.chosun.com/economy/tech_it/2026/11/23/QGMK4EIGO5A4XI7MTQV2UVU4QY/">AI 서버 45% 인상</a> · <a href="https://ir.applieddigital.com/news-events/press-releases/detail/165/applied-digital-secures-new-150-mw-18-year-lease-with">어플라이드 디지털</a> · <a href="https://www.khan.co.kr/article/202611261524001">동남아 출하 중단</a> · <a href="https://zdnet.co.kr/view/?no=20261126090344">아시아 DC 대출</a></li>
+      <li><b>엔비디아</b><a href="https://www.news1.kr/world/international-economy/6363502">젠슨 황 복귀</a> · <a href="https://n.news.naver.com/mnews/article/001/0016459340?sid=104">민주당 조사</a> · <a href="https://n.news.naver.com/mnews/article/023/0004011654?sid=105">트럼프 지분 언급</a> · <a href="https://www.khan.co.kr/article/202611260640001/">S&amp;P 관찰</a></li>
+      <li><b>모두의 AI·생활 에이전트</b><a href="https://www.ddaily.co.kr/page/view/2026112209002494618">LGU+ 전담 TF</a> · <a href="https://www.sisajournal-e.com/news/articleView.html?idxno=425190">네이버 AI 비서 앱</a> · <a href="https://zdnet.co.kr/view/?no=20261123150151">카카오 톡톡</a> · <a href="https://www.etnews.com/20261126000509">NIPA·KTX 예매</a> · <a href="https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/">메타 뮤즈 영국</a> · <a href="https://n.news.naver.com/mnews/article/009/0005768563?sid=101">바이트댄스 샤오더우</a></li>
+      <li><b>에이전트 보안</b><a href="https://n.news.naver.com/mnews/article/030/0003488124?sid=105">크라우드스트라이크·지스케일러</a> · <a href="https://www.boannews.com/news/articleView.html?idxno=147430">中 연계 에이전트 공격</a> · <a href="https://zdnet.co.kr/view/?no=20261124090351">美 은행 에이전트 통제</a> · <a href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/">Claude Ship</a> · <a href="https://openai.com/index/introducing-shirudo">Shirudo</a> · <a href="https://www.etnews.com/20261126000049">이탈리아·스위스 피해</a></li>
+      <li><b>피지컬 AI</b><a href="https://www.sedaily.com/article/20116819">한림대성심병원</a> · <a href="https://www.news1.kr/industry/general-industry/6363830">KG스틸</a> · <a href="https://www.etnews.com/20261124000347">넥스트-X 챌린지</a> · <a href="https://www.irobotnews.com/news/articleView.html?idxno=49783">소프트뱅크 RAI</a> · <a href="https://www.news1.kr/world/international-economy/6367215">샤오펑 아이언</a> · <a href="https://www.irobotnews.com/news/articleView.html?idxno=49833">볼보 겐트</a></li>
+      <li><b>자금</b><a href="https://zdnet.co.kr/view/?no=20261121090138">데이터브릭스</a> · <a href="https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/">코그니션</a> · <a href="https://www.musicbusinessworldwide.com/elevenlabs-in-early-talks-to-raise-at-33b-valuation-more-than-six-times-that-of-ai-music-rival-suno-report/">일레븐랩스</a> · <a href="https://www.newcomer.co/p/scoop-ai-search-platform-exa-in-talks">Exa</a> · <a href="https://www.newspim.com/news/view/20261123000469">심플렉시티</a></li>
+      <li><b>배경 자료</b><a href="https://www.thepublic.kr/news/articleView.html?idxno=320696">모두의 AI 예산·GPU 임차 (10/1 발송본)</a> · <a href="https://v.daum.net/v/7dYO81LxCS">오픈AI의 문샷AI 증류 비난 (10/2 발송본)</a> · <a href="https://www.g-enews.com/view.php?ud=2026100200383891610c8c1c064d_1">JERA·델 발전소 직결형 (10/2 발송본)</a> · <a href="https://themiilk.com/articles/ad547e5ec">더밀크, 젠슨 컴백의 의미: AI 주도권, 정부가 쥔다 (뷰스레터 819호)</a></li>
+    </ul>
+  </footer>
+</main>
